@@ -1,0 +1,28 @@
+
+
+
+
+คณะการบัญชีและการจัดการ มหาวิทยาลัยมหาสารคาม Mahasarakham Business School Mahasarakham University.
+
+body {
+	background-color: #000;
+	color: #FFF;
+}
+body,td,th {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+

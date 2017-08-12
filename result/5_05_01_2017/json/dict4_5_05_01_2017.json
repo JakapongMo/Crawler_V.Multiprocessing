@@ -1,0 +1,31 @@
+{
+    "http://all.in.th/index.php": {
+        "Array_Feature": [
+            3, 
+            1, 
+            -1, 
+            731, 
+            18, 
+            15, 
+            0, 
+            7, 
+            19, 
+            5, 
+            25, 
+            2
+        ], 
+        "Number_of_line_in_content": 443, 
+        "Number_of_outgoing": 25, 
+        "Number_of_picture": 18, 
+        "Number_of_slash_in_URL_path": 0, 
+        "Number_of_table": 15, 
+        "Number_of_word": 731, 
+        "Number_of_word_in_URL": 5, 
+        "Numer_of_webpage_in_the_same_site": 2, 
+        "URL_Length": 19, 
+        "binary_vector": 7, 
+        "content_length": -1, 
+        "content_type": 1, 
+        "word_in_title": 3
+    }
+}

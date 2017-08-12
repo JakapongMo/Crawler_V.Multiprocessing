@@ -1,0 +1,60 @@
+{
+    "http://alumni.payap.ac.th/": {
+        "Array_Feature": [
+            3, 
+            1, 
+            395, 
+            0, 
+            0, 
+            0, 
+            0, 
+            8, 
+            19, 
+            4, 
+            0, 
+            1
+        ], 
+        "Number_of_line_in_content": 0, 
+        "Number_of_outgoing": 0, 
+        "Number_of_picture": 0, 
+        "Number_of_slash_in_URL_path": 0, 
+        "Number_of_table": 0, 
+        "Number_of_word": 0, 
+        "Number_of_word_in_URL": 4, 
+        "Numer_of_webpage_in_the_same_site": 1, 
+        "URL_Length": 19, 
+        "binary_vector": 8, 
+        "content_length": 395, 
+        "content_type": 1, 
+        "word_in_title": 3
+    }, 
+    "http://amazingchiangmai.com/": {
+        "Array_Feature": [
+            0, 
+            1, 
+            303, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            21, 
+            2, 
+            0, 
+            1
+        ], 
+        "Number_of_line_in_content": 0, 
+        "Number_of_outgoing": 0, 
+        "Number_of_picture": 0, 
+        "Number_of_slash_in_URL_path": 0, 
+        "Number_of_table": 0, 
+        "Number_of_word": 0, 
+        "Number_of_word_in_URL": 2, 
+        "Numer_of_webpage_in_the_same_site": 1, 
+        "URL_Length": 21, 
+        "binary_vector": 0, 
+        "content_length": 303, 
+        "content_type": 1, 
+        "word_in_title": 0
+    }
+}

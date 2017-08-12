@@ -1,0 +1,31 @@
+//source1
+https://www.gotoknow.org/posts/422134
+
+noun+number+classifier
+noun+number+classifier+นิยมสรรพนาม
+noun+ปริมาณวิเศษณ์(บอกความทั้งหมดหรือบางส่วน)+classifier
+noun+classifier+ปริมาณวิเศษณ์(บอกลำดับ)
+noun+classifier+นิยมสรรพนาม
+
+noun+adjective
+noun+adjective+classifier+นิยมสรรพนาม
+noun+adjective+ปริมาณวิเศษณ์(ตัวเลข)+classifier+นิยมสรรพนาม
+noun+adjective+classifier+ปริมาณวิเศษณ์(บอกลำดับ)
+noun+classifier+adjective
+noun+noun
+noun+preposition+noun
+noun+preposition+pronoun
+
+
+//source 2
+http://rms.rdi.tsu.ac.th/datafolder/parichartjournal/article/A2558100000241.pdf
+
+noun+ที่+sentence
+noun+number+classifier
+noun+preposition+nounphrase
+noun+noun
+noun+นี้ นั้น
+
+นิยมสรรพนาม -นี่ นี้ นั่น นั้น โน่น  โน้น  นู่น  นู้น demonstrative pronoun
+ปริมาณวิเศษณ์ (บอกความทั้งหมดหรือบางส่วน) = (ทุก, แต่ละ, บาง, หลาย, ไม่กี่, น้อย, มาก) = quantitative adjective
+ปริมาณวิเศษณ์ (บอกลำดับ) คำวิเศษณ์ที่บอกจำนวน เช่น แรก สอง สาม มาก น้อย ทั้งหมด บ้าง ทั้งปวง เป็นต้น

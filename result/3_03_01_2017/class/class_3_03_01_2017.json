@@ -1,0 +1,100 @@
+{
+    "0": [
+        [
+            "http://101servers.com/", 
+            1.0
+        ]
+    ], 
+    "1": [
+        [
+            "http://100watts.com/", 
+            1.0
+        ]
+    ], 
+    "2": [
+        [
+            "http://105printing.com/register.php", 
+            0.9999999999999999
+        ]
+    ], 
+    "3": [
+        [
+            "http://105printing.com/forgetPassword.php", 
+            1.0
+        ]
+    ], 
+    "4": [
+        [
+            "http://105printing.com/layout.php", 
+            0.9989036220915117
+        ], 
+        [
+            "http://105printing.com/showProductDetail.php", 
+            0.9976825188697457
+        ], 
+        [
+            "http://105printing.com/map.php", 
+            0.9974189051308162
+        ], 
+        [
+            "http://105printing.com/gallery.php", 
+            0.9889860778459428
+        ]
+    ], 
+    "5": [
+        [
+            "http://105printing.com/privacy.php", 
+            0.9999019856620145
+        ], 
+        [
+            "http://105printing.com/knowledge.php", 
+            0.9998165325054224
+        ], 
+        [
+            "http://105printing.com/login.php", 
+            0.9997144756860825
+        ]
+    ], 
+    "6": [
+        [
+            "http://105printing.com/aboutus.php", 
+            0.9999999999999999
+        ]
+    ], 
+    "7": [
+        [
+            "http://105printing.com/why.php", 
+            1.0000000000000002
+        ]
+    ], 
+    "8": [
+        [
+            "http://105printing.com/wow.php", 
+            1.0000000000000002
+        ]
+    ], 
+    "9": [
+        [
+            "http://105printing.com/disputeResolution.php", 
+            1.0000000000000002
+        ]
+    ], 
+    "10": [
+        [
+            "http://105printing.com/index.php", 
+            0.9999999999999999
+        ]
+    ], 
+    "11": [
+        [
+            "http://105printing.com/", 
+            1.0
+        ]
+    ], 
+    "12": [
+        [
+            "http://105printing.com/home.php", 
+            1.0
+        ]
+    ]
+}
