@@ -1,0 +1,828 @@
+http://animal.agri.cmu.ac.th/ 127.0.0.1 20170104083053 text/html 6112
+HTTP/1.1 200 OK
+Date: Wed, 04 Jan 2017 08:28:53 GMT
+Server: Microsoft-IIS/8.0
+Content-Type: text/html Last-modified: Last-Modified: Thu, 21 Jul 2011 09:56:23 GMT
+Content-length: 5928
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=tis-620">
+<title>ҤԪѵʵѵ ɵʵ Է§</title>
+</head>
+
+<body background="images/bg/bg-line.jpg" link="#000080" vlink="#000080" alink="#008080">
+
+<div align="center">
+	<table border="0" id="table1" cellspacing="0" cellpadding="0" width="1018">
+		<tr>
+			<td colspan="2">
+			<p align="center">
+			<font face="Tahoma">
+			<img border="0" src="images/bg/bg-top.jpg" width="1018" height="189"></font></td>
+		</tr>
+		<tr>
+			<td height="299" valign="top" width="400">
+			<div align="right">
+				<table border="0" id="table2" align="right" cellspacing="0" cellpadding="0" height="507">
+					<tr>
+						<td valign="top" height="256">
+						<p align="right">
+						<font face="Tahoma">
+						<map name="FPMap0">
+						<area href="index.html" shape="rect" coords="225, 72, 292, 106">
+						<area href="greet.htm" shape="rect" coords="289, 104, 372, 124">
+						<area shape="rect" coords="229, 125, 288, 145" href="http://mis.agri.cmu.ac.th/person/view_person_photographs.asp?dep_id=0805&topic=ҤԪѵʵѵ" target="_blank">
+						<area href="curriculum.htm" shape="rect" coords="289, 159, 352, 183">
+						<area href="textbook.htm" shape="rect" coords="245, 175, 290, 200">
+						<area href="student_fund.htm" shape="rect" coords="294, 193, 361, 229">
+						<area target="_blank" href="http://www.agri.cmu.ac.th/qa/" shape="rect" coords="291, 247, 390, 280">
+						<area href="research.htm" shape="rect" coords="206, 219, 295, 254">
+						<area href="farm.htm" shape="rect" coords="247, 288, 293, 309">
+						<area href="lab-feed.htm" shape="rect" coords="296, 296, 385, 333">
+						<area href="lab-comp.htm" shape="rect" coords="212, 318, 295, 355">
+						<area href="schedule.htm" shape="rect" coords="297, 348, 373, 371">
+						<area href="student.htm" shape="rect" coords="168, 364, 296, 391">
+						<area coords="204, 416, 294, 438" shape="rect" href="links.htm">
+						<area href="download.htm" shape="rect" coords="291, 385, 390, 420">
+						</map>
+						<img border="0" src="images/bg/bg-leftmid-forhome.jpg" width="400" height="442" usemap="#FPMap0"></font></td>
+					</tr>
+					<tr>
+						<td background="images/bg/bg-leftbottcounter.jpg" style="border-bottom: 3px outset #663300" valign="bottom">
+						<p align="right">
+					<span style="background-color: #000000" lang="th"><b>
+					<font face="Tahoma" color="#FFFFFF">
+		<a href="http://www.siammix.net/freecounter/" target="_blank" >
+		<!-- Histats.com START (standard)--> <script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script> <a href="http://www.histats.com" target="_blank" title="web site hit counter" ><script type="text/javascript" > try {Histats.start(1,1538160,4,297,112,35,"00000011"); Histats.track_hits();} catch(err){}; </script></a> <noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?1538160&101" alt="web site hit counter" border="0"></a></noscript> <!-- Histats.com END -->  </a></font></b></span></td>
+					</tr>
+				</table>
+			</div>
+			<p align="right"></td>
+			<td height="299" background="images/bg/bg-main.jpg" width="618" valign="top">
+			<p align="right"><font face="Tahoma"><br>
+			<br>
+			<a href="greet.htm">
+			<img border="0" src="images/decor/enterwebsite.jpg" width="160" height="44"></a></font><font size="2" color="#663300" face="Tahoma"><br>
+			</font><a href="greet.htm">
+			<img border="0" src="images/decor/dec01.gif" width="500" height="363"></a></td>
+		</tr>
+	</table>
+	<table border="0" width="100%" id="table3" cellspacing="0" cellpadding="0">
+		<tr>
+			<td valign="middle">
+		<p align="right">
+		<font class="title" face="Tahoma" style="font-size: 9pt">
+		<font color="#009999">All rights reserved Terms of used @ 2011&nbsp;<b>::</b> 
+		Best view in 1440*900 pixel </font><b><font color="#009999">::<br>
+		</font> </b></font><b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&nbsp; - 
+		- - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		ҤԪѵʵѵ ɵʵ Է§ 239 . .෾ .ͧ .§ 50200<br>
+		</font><b><font color="#663300">Department of Animal and Aquatic Science , Faculty of Agriculture, Chiang Mai University  239 Huay Kaew Rd., Suthep, Muang, Chiang Mai 50200<br>
+		</font></font><font color="#834D16" face="Tahoma"><b><span lang="th">
+		˹ҤԪ: ͧʵҨ .ت 駷ԾѲ  ԴҤԪ: سʧ ẹ  <br>
+		</font><font color="#808000" face="Tahoma">Ѿ: 0-5322-1667, 0-5394-4069-73  ::   :  0-5335-7601, 0-5394-4666<br>
+		</font></font>Webmaster:: س觡ҹ  ѹ˧   ::  Ѿ: 0-5394-4104  E-mail: deerkp@hotmail.com
+<br>
+		<b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - 
+		- - - - - - - - - - -&nbsp; - - - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		</b> 
+		</font></font></font>
+		<font color="#CC9900" face="Tahoma" style="font-size: 9pt"><b>
+		<span lang="th">ɵʵ Է§</span>::</b><span lang="th">&nbsp;
+		<a target="_blank" href="http://www.agri.cmu.ac.th/">
+		<font color="#CC9900">www.agri.cmu.ac.th</font></a></span></font></p></td>
+			<td width="200" valign="top">
+			<p align="right">
+			<font face="Tahoma">
+			<img border="0" src="images/decor/pegion2.jpg" width="200" height="153"></font></td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
+
+http://animal.agri.cmu.ac.th/greet.htm 127.0.0.1 20170104083053 text/html 19824
+HTTP/1.1 200 OK
+Date: Wed, 04 Jan 2017 08:28:53 GMT
+Server: Microsoft-IIS/8.0
+Content-Type: text/html Last-modified: Last-Modified: Wed, 20 May 2015 03:37:14 GMT
+Content-length: 19639
+
+﻿<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3649;&#3621;&#3632;&#3626;&#3633;&#3605;&#3623;&#3660;&#3609;&#3657;&#3635; &#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; &#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</title>
+</head>
+
+<body background="images/bg/bg-line.jpg" link="#000080" vlink="#000080" alink="#008080">
+
+<div align="center">
+	<table border="0" id="table1" cellspacing="0" cellpadding="0" width="1018">
+		<tr>
+			<td colspan="2">
+			<p align="center">
+			<font face="Tahoma">
+			<img border="0" src="images/bg/bg-top.jpg" width="1018" height="189"></font></td>
+		</tr>
+		<tr>
+			<td height="299" valign="top" width="400">
+			<div align="right">
+				<table border="0" id="table2" align="right" cellspacing="0" cellpadding="0" height="507">
+					<tr>
+						<td valign="top" height="256">
+						<p align="right">
+						<font face="Tahoma">
+						<map name="FPMap0">
+						<area href="index.html" shape="rect" coords="225, 72, 292, 106">
+						<area href="greet.htm" shape="rect" coords="289, 104, 372, 124">
+						<area href="officer.htm" shape="rect" coords="229, 125, 288, 145">
+						<area href="curriculum.htm" shape="rect" coords="289, 159, 352, 183">
+						<area href="textbook.htm" shape="rect" coords="245, 175, 290, 200">
+						<area href="student_fund.htm" shape="rect" coords="294, 193, 361, 229">
+						<area target="_blank" href="http://www.agri.cmu.ac.th/qa/" shape="rect" coords="291, 247, 390, 280">
+						<area href="research.htm" shape="rect" coords="206, 219, 295, 254">
+						<area href="farm.htm" shape="rect" coords="247, 288, 293, 309">
+						<area href="lab-feed.htm" shape="rect" coords="296, 296, 385, 333">
+						<area href="lab-comp.htm" shape="rect" coords="212, 318, 295, 355">
+						<area href="schedule.htm" shape="rect" coords="297, 348, 373, 371">
+						<area href="student.htm" shape="rect" coords="168, 364, 296, 391">
+						<area coords="204, 416, 294, 438" shape="rect" href="links.htm">
+						<area href="download.htm" shape="rect" coords="291, 385, 390, 420">
+						</map>
+						<img border="0" src="images/bg/bg-leftmid.jpg" width="400" height="442" usemap="#FPMap0"></font></td>
+					</tr>
+					<tr>
+						<td background="images/bg/bg-leftbott.jpg" style="border-bottom: 3px outset #663300">&nbsp;<p align="center">&nbsp;</td>
+					</tr>
+				</table>
+			</div>
+			<p align="right">&nbsp;</td>
+			<td height="299" background="images/bg/bg-main.jpg" width="618" valign="top">
+			<p align="right"><font face="Tahoma"><br>
+			<span style="font-size: 11pt">
+			<img border="0" src="images/decor/greet.jpg" width="260" height="44"></span></font><div align="right">
+				<table border="0" width="100%" id="table4" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="77%" valign="middle">
+					<p align="right">
+					<font face="Tahoma" size="2"><span class="tx-blue">
+					<font color="#008080">&#3619;<span lang="th">&#3629;&#3591;&#3624;&#3634;&#3626;&#3605;&#3619;&#3634;&#3592;&#3634;&#3619;&#3618;&#3660; </span>
+					&#3604;&#3619;.ศุภมิตร เมฆฉาย<br>
+					</font>
+					<font color="#663300"><br>
+					&#3627;&#3633;&#3623;&#3627;&#3609;&#3657;&#3634;&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;<span lang="th">&#3649;&#3621;&#3632;&#3626;&#3633;&#3605;&#3623;&#3660;&#3609;&#3657;&#3635;
+					<br>
+					&#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; &#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</span></font></span></font></td>
+						<td width="23%">
+						<p align="right">
+					<img border="0" src="http://mis.agri.cmu.ac.th/images/person2/0233.jpg" height="240" style="margin-left:10px"></td>
+					</tr>
+					<tr>
+						<td colspan="2">
+					<p align="right"><font face="Tahoma">
+					<font size="2">
+					<span class="tx1">
+					<br>
+					</span>
+					<br>
+					</font></font><font face="Tahoma" size="2">
+					&#3648;&#3611;&#3655;&#3609;&#3626;&#3634;&#3586;&#3634;&#3623;&#3636;&#3594;&#3634;&#3607;&#3637;&#3656;&#3619;&#3633;&#3610;&#3612;&#3636;&#3604;&#3594;&#3629;&#3610;&#3651;&#3609;&#3585;&#3634;&#3619;&#3648;&#3619;&#3637;&#3618;&#3609;&#3585;&#3634;&#3619;&#3626;&#3629;&#3609; &#3585;&#3634;&#3619;&#3623;&#3636;&#3592;&#3633;&#3618; 
+					&#3649;&#3621;&#3632;&#3626;&#3656;&#3591;&#3648;&#3626;&#3619;&#3636;&#3617;&#3648;&#3612;&#3618;&#3649;&#3614;&#3619;&#3656;&#3623;&#3636;&#3594;&#3634;&#3585;&#3634;&#3619;&#3626;&#3634;&#3586;&#3634;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; (Animal Science) 
+					&#3650;&#3604;&#3618;&#3617;&#3637;&#3627;&#3621;&#3633;&#3585;&#3626;&#3641;&#3605;&#3619;&#3607;&#3637;&#3656;&#3611;&#3619;&#3632;&#3585;&#3629;&#3610;&#3604;&#3657;&#3623;&#3618;&#3585;&#3619;&#3632;&#3610;&#3623;&#3609;&#3623;&#3636;&#3594;&#3634;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3609;&#3629;&#3585;&#3648;&#3627;&#3609;&#3639;&#3629;&#3652;&#3611;&#3592;&#3634;&#3585;&#3585;&#3619;&#3632;&#3610;&#3623;&#3609;&#3623;&#3636;&#3594;&#3634;&#3605;&#3656;&#3634;&#3591;&#3654; &#3651;&#3609;&#3604;&#3657;&#3634;&#3609;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3607;&#3637;&#3656;&#3649;&#3610;&#3656;&#3591;&#3629;&#3629;&#3585;&#3652;&#3604;&#3657;&#3648;&#3611;&#3655;&#3609;&#3626;&#3634;&#3586;&#3634;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3652;&#3604;&#3657;&#3649;&#3585;&#3656; &#3650;&#3616;&#3594;&#3609;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; &#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3648;&#3624;&#3619;&#3625;&#3600;&#3585;&#3636;&#3592;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3585;&#3634;&#3619;&#3611;&#3619;&#3633;&#3610;&#3611;&#3619;&#3640;&#3591;&#3614;&#3633;&#3609;&#3608;&#3640;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; &#3626;&#3619;&#3637;&#3619;&#3623;&#3636;&#3607;&#3618;&#3634; &#3623;&#3636;&#3607;&#3618;&#3634;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3648;&#3609;&#3639;&#3657;&#3629;&#3626;&#3633;&#3605;&#3623;&#3660; 
+					&#3649;&#3621;&#3632;&#3626;&#3640;&#3586;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; 
+					&#3609;&#3629;&#3585;&#3592;&#3634;&#3585;&#3609;&#3637;&#3657;&#3609;&#3633;&#3585;&#3624;&#3638;&#3585;&#3625;&#3634;&#3618;&#3633;&#3591;&#3605;&#3657;&#3629;&#3591;&#3607;&#3635;&#3585;&#3634;&#3619;&#3613;&#3638;&#3585;&#3591;&#3634;&#3609;&#3648;&#3614;&#3639;&#3656;&#3629;&#3651;&#3627;&#3657;&#3648;&#3585;&#3636;&#3604;&#3607;&#3633;&#3585;&#3625;&#3632;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3585;&#3633;&#3610;&#3585;&#3634;&#3619;&#3648;&#3585;&#3625;&#3605;&#3619;&#3607;&#3633;&#3656;&#3623;&#3652;&#3611; 
+					&#3649;&#3621;&#3632;&#3607;&#3634;&#3591;&#3604;&#3657;&#3634;&#3609;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3648;&#3611;&#3655;&#3609;&#3619;&#3632;&#3618;&#3632;&#3648;&#3623;&#3621;&#3634;&#3652;&#3617;&#3656;&#3605;&#3656;&#3635;&#3585;&#3623;&#3656;&#3634; 300 &#3594;&#3633;&#3656;&#3623;&#3650;&#3617;&#3591; 
+					&#3651;&#3609;&#3615;&#3634;&#3619;&#3660;&#3617;&#3586;&#3629;&#3591;&#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618; &#3649;&#3621;&#3632;&#3648;&#3629;&#3585;&#3594;&#3609; 
+					&#3650;&#3604;&#3618;&#3651;&#3594;&#3657;&#3619;&#3632;&#3618;&#3632;&#3648;&#3623;&#3621;&#3634;&#3651;&#3609;&#3585;&#3634;&#3619;&#3624;&#3638;&#3585;&#3625;&#3634;&#3627;&#3621;&#3633;&#3585;&#3626;&#3641;&#3605;&#3619;&#3611;&#3619;&#3636;&#3597;&#3597;&#3634;&#3605;&#3619;&#3637;&#3648;&#3611;&#3655;&#3609;&#3648;&#3623;&#3621;&#3634; 4 &#3611;&#3637; 
+					&#3627;&#3621;&#3633;&#3585;&#3626;&#3641;&#3605;&#3619;&#3610;&#3633;&#3603;&#3601;&#3636;&#3605;&#3624;&#3638;&#3585;&#3625;&#3634;&#3619;&#3632;&#3604;&#3633;&#3610;&#3611;&#3619;&#3636;&#3597;&#3597;&#3634;&#3650;&#3607; &#3648;&#3611;&#3655;&#3609;&#3648;&#3623;&#3621;&#3634; 2 &#3611;&#3637; &#3649;&#3621;&#3632;&#3611;&#3619;&#3636;&#3597;&#3597;&#3634;&#3648;&#3629;&#3585; 
+					3 &#3611;&#3637;</font></p>
+					<p align="right"><font face="Tahoma" size="2">
+					&#3612;&#3641;&#3657;&#3626;&#3635;&#3648;&#3619;&#3655;&#3592;&#3585;&#3634;&#3619;&#3624;&#3638;&#3585;&#3625;&#3634;&#3609;&#3637;&#3657;&nbsp;&#3626;&#3634;&#3617;&#3634;&#3619;&#3606;&#3611;&#3619;&#3632;&#3585;&#3629;&#3610;&#3629;&#3634;&#3594;&#3637;&#3614;&#3626;&#3656;&#3623;&#3609;&#3605;&#3633;&#3623;&#3607;&#3637;&#3656;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3586;&#3657;&#3629;&#3591;&#3585;&#3633;&#3610;&#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3607;&#3640;&#3585;&#3594;&#3609;&#3636;&#3604;&#3651;&#3609;&#3586;&#3633;&#3657;&#3609;&#3605;&#3629;&#3609;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3585;&#3633;&#3609;&#3605;&#3634;&#3617;&#3588;&#3623;&#3634;&#3617;&#3648;&#3627;&#3617;&#3634;&#3632;&#3626;&#3617; &#3648;&#3594;&#3656;&#3609; &#3612;&#3621;&#3636;&#3605;&#3649;&#3621;&#3632;&#3592;&#3635;&#3627;&#3609;&#3656;&#3634;&#3618;&#3629;&#3634;&#3627;&#3634;&#3619;&#3626;&#3633;&#3605;&#3623;&#3660; &#3614;&#3633;&#3609;&#3608;&#3640;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; 
+					&#3649;&#3621;&#3632;&#3623;&#3633;&#3626;&#3604;&#3640;&#3629;&#3640;&#3611;&#3585;&#3619;&#3603;&#3660;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3627;&#3619;&#3639;&#3629;&#3607;&#3635;&#3591;&#3634;&#3609;&#3651;&#3609;&#3610;&#3619;&#3636;&#3625;&#3633;&#3607;&#3648;&#3629;&#3585;&#3594;&#3609;&#3604;&#3657;&#3634;&#3609;&#3608;&#3640;&#3619;&#3585;&#3636;&#3592;&#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3607;&#3633;&#3657;&#3591;&#3651;&#3609;&#3649;&#3621;&#3632;&#3605;&#3656;&#3634;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624; 
+					&#3650;&#3604;&#3618;&#3648;&#3593;&#3614;&#3634;&#3632;&#3629;&#3618;&#3656;&#3634;&#3591;&#3618;&#3636;&#3656;&#3591;&#3651;&#3609;&#3611;&#3633;&#3592;&#3592;&#3640;&#3610;&#3633;&#3609;&#3607;&#3637;&#3656;&#3608;&#3640;&#3619;&#3585;&#3636;&#3592;&#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3616;&#3634;&#3588;&#3648;&#3629;&#3585;&#3594;&#3609;&#3586;&#3629;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3652;&#3607;&#3618;</font></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+	</table>
+	<table border="0" width="73%" id="table5" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+			<p align="right"><font face="Tahoma" size="2">
+					<br>
+&nbsp;&#3617;&#3637;&#3585;&#3634;&#3619;&#3604;&#3635;&#3648;&#3609;&#3636;&#3609;&#3608;&#3640;&#3619;&#3585;&#3636;&#3592;&#3651;&#3609;&#3605;&#3656;&#3634;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3648;&#3614;&#3636;&#3656;&#3617;&#3586;&#3638;&#3657;&#3609; &#3607;&#3633;&#3657;&#3591;&#3651;&#3609;&#3616;&#3641;&#3617;&#3636;&#3616;&#3634;&#3588;&#3629;&#3634;&#3648;&#3595;&#3637;&#3618;&#3609;&#3649;&#3621;&#3632;&#3616;&#3641;&#3617;&#3636;&#3616;&#3634;&#3588;&#3629;&#3639;&#3656;&#3609;&#3654; 
+			&#3607;&#3633;&#3656;&#3623;&#3650;&#3621;&#3585;&#3607;&#3637;&#3656;&#3585;&#3635;&#3621;&#3633;&#3591;&#3586;&#3618;&#3634;&#3618;&#3605;&#3633;&#3623;&#3648;&#3614;&#3636;&#3656;&#3617;&#3586;&#3638;&#3657;&#3609;&#3629;&#3618;&#3656;&#3634;&#3591;&#3605;&#3656;&#3629;&#3648;&#3609;&#3639;&#3656;&#3629;&#3591; <br>
+			&#3607;&#3635;&#3651;&#3627;&#3657;&#3588;&#3623;&#3634;&#3617;&#3605;&#3657;&#3629;&#3591;&#3585;&#3634;&#3619;&#3609;&#3633;&#3585;&#3623;&#3636;&#3594;&#3634;&#3585;&#3634;&#3619;&#3594;&#3634;&#3623;&#3652;&#3607;&#3618;&#3607;&#3637;&#3656;&#3592;&#3632;&#3652;&#3611;&#3604;&#3635;&#3648;&#3609;&#3636;&#3609;&#3585;&#3634;&#3619;&#3651;&#3609;&#3605;&#3656;&#3634;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3648;&#3614;&#3636;&#3656;&#3617;&#3586;&#3638;&#3657;&#3609;&#3605;&#3634;&#3617;&#3652;&#3611;&#3604;&#3657;&#3623;&#3618; 
+			&#3609;&#3629;&#3585;&#3592;&#3634;&#3585;&#3609;&#3637;&#3657;&#3618;&#3633;&#3591;&#3648;&#3611;&#3655;&#3609;&#3607;&#3637;&#3656;&#3605;&#3657;&#3629;&#3591;&#3585;&#3634;&#3619;&#3629;&#3618;&#3656;&#3634;&#3591;&#3618;&#3636;&#3656;&#3591;&#3651;&#3609;&#3627;&#3609;&#3656;&#3623;&#3618;&#3591;&#3634;&#3609;&#3619;&#3634;&#3594;&#3585;&#3634;&#3619;&#3605;&#3656;&#3634;&#3591;&#3654; <br>
+			&#3629;&#3634;&#3607;&#3636; &#3585;&#3619;&#3617;&#3611;&#3624;&#3640;&#3626;&#3633;&#3605;&#3623;&#3660; &#3585;&#3619;&#3617;&#3626;&#3656;&#3591;&#3648;&#3626;&#3619;&#3636;&#3617;&#3585;&#3634;&#3619;&#3648;&#3585;&#3625;&#3605;&#3619;&#3649;&#3621;&#3632;&#3585;&#3619;&#3617;&#3629;&#3639;&#3656;&#3609;&#3654; 
+			&#3651;&#3609;&#3585;&#3619;&#3632;&#3607;&#3619;&#3623;&#3591;&#3648;&#3585;&#3625;&#3605;&#3619;&#3649;&#3621;&#3632;&#3626;&#3627;&#3585;&#3619;&#3603;&#3660; &#3627;&#3619;&#3639;&#3629;&#3627;&#3609;&#3656;&#3623;&#3618;&#3591;&#3634;&#3609;&#3629;&#3639;&#3656;&#3609;&#3654; &#3648;&#3594;&#3656;&#3609; &#3585;&#3619;&#3617;&#3629;&#3634;&#3594;&#3637;&#3623;&#3624;&#3638;&#3585;&#3625;&#3634; 
+			&#3626;&#3606;&#3634;&#3610;&#3633;&#3609;&#3619;&#3634;&#3594;&#3616;&#3633;&#3598; <br>
+			&#3585;&#3619;&#3617;&#3611;&#3619;&#3632;&#3594;&#3634;&#3626;&#3591;&#3648;&#3588;&#3619;&#3634;&#3632;&#3627;&#3660;&#3649;&#3621;&#3632;&#3627;&#3609;&#3656;&#3623;&#3618;&#3591;&#3634;&#3609;&#3605;&#3656;&#3634;&#3591;&#3654; &#3586;&#3629;&#3591;&#3607;&#3627;&#3634;&#3619; &#3648;&#3594;&#3656;&#3609; &#3585;&#3619;&#3617;&#3585;&#3634;&#3619;&#3626;&#3633;&#3605;&#3623;&#3660;&#3607;&#3627;&#3634;&#3619;&#3610;&#3585; &#3585;&#3619;&#3611;.&#3585;&#3621;&#3634;&#3591; 
+			&#3649;&#3621;&#3632;&#3608;&#3609;&#3634;&#3588;&#3634;&#3619;&#3605;&#3656;&#3634;&#3591;&#3654; &#3651;&#3609;&#3626;&#3656;&#3623;&#3609;&#3607;&#3637;&#3656;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3585;&#3633;&#3610;&#3626;&#3636;&#3609;&#3648;&#3594;&#3639;&#3656;&#3629;&#3585;&#3634;&#3619;&#3648;&#3585;&#3625;&#3605;&#3619; <br>
+			&#3605;&#3621;&#3629;&#3604;&#3592;&#3609;&#3629;&#3591;&#3588;&#3660;&#3585;&#3634;&#3619;&#3614;&#3633;&#3602;&#3609;&#3634;&#3648;&#3629;&#3585;&#3594;&#3609;&#3605;&#3656;&#3634;&#3591;&#3654; &#3648;&#3611;&#3655;&#3609;&#3605;&#3657;&#3609;</font></p>
+			<p align="center">&nbsp;</td>
+		</tr>
+	</table>
+	<table border="0" width="100%" id="table3" cellspacing="0" cellpadding="0">
+		<tr>
+			<td valign="middle">
+		<p align="right">
+		<font class="title" face="Tahoma" style="font-size: 9pt">
+		<font color="#009999">All rights reserved Terms of used @ 2011&nbsp;<b>::</b> 
+		Best view in 1440*900 pixel </font><b><font color="#009999">::<br>
+		</font> </b></font><b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&nbsp; - 
+		- - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;<span lang="th">&#3649;&#3621;&#3632;&#3626;&#3633;&#3605;&#3623;&#3660;&#3609;&#3657;&#3635;</span></b></font><font face="Tahoma"><font color="#663300"><b> &#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; 
+		&#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</b> 239 &#3606;<span lang="th">.</span>&#3627;&#3657;&#3623;&#3618;&#3649;&#3585;&#3657;&#3623; 
+		&#3605;<span lang="th">.</span>&#3626;&#3640;&#3648;&#3607;&#3614; &#3629;<span lang="th">.</span>&#3648;&#3617;&#3639;&#3629;&#3591; &#3592;<span lang="th">.</span>&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656; 50200<br>
+		</font><b><font color="#663300">Department of Animal and Aquatic Science , Faculty of 
+		Agriculture, Chiang Mai University<span lang="th">&nbsp; </span></font>
+		</b><font color="#663300"> 239 Huay Kaew Rd., Suthep, Muang, Chiang Mai 
+		50200</font><font color="#808000"><br>
+		</font></font><font color="#834D16" face="Tahoma"><b><span lang="th">
+		&#3627;&#3633;&#3623;&#3627;&#3609;&#3657;&#3634;&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;</span>:</b></font></font><font face="Tahoma"><font class="title"><font color="#834D16"> 
+		&#3619;&#3629;&#3591;&#3624;&#3634;&#3626;&#3605;&#3619;&#3634;&#3592;&#3634;&#3619;&#3618;&#3660; &#3604;&#3619;.&#3626;&#3640;&#3594;&#3609; &#3605;&#3633;&#3657;&#3591;&#3607;&#3623;&#3637;&#3623;&#3636;&#3614;&#3633;&#3602;&#3609;&#3660;<span lang="th">&nbsp; <b>
+		&#3605;&#3636;&#3604;&#3605;&#3656;&#3629;&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;</b></span><b>:</b> <span lang="th">&#3588;&#3640;&#3603;&#3649;&#3626;&#3591;&#3604;&#3634;&#3623;</span>
+		<span lang="th">&#3649;&#3610;&#3609;&#3595;&#3636;&#3648;&#3585;&#3629;&#3619;&#3660;&nbsp; </span></font></font></font>
+		<font class="title">
+		<font color="#834D16" face="Tahoma"><br>
+		</font><font color="#808000" face="Tahoma">&#3650;&#3607;&#3619;&#3624;&#3633;&#3614;&#3607;&#3660;: 0-5322-1667,<span lang="th">
+		</span>0-5394-4069-73&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;&#3650;&#3607;&#3619;&#3626;&#3634;&#3619;: &nbsp;0-5335-7601,<span lang="th">
+		</span>0-5394-4666<br>
+		</font></font></font><font class="title" face="Tahoma">
+		<font style="font-size: 9pt"><b>
+		<font color="#808080">Webmaster<span lang="en-us">::</span></font></b><font color="#808080"> 
+		&#3588;&#3640;&#3603;&#3619;&#3640;&#3656;&#3591;&#3585;&#3634;&#3609;&#3605;&#3660;&nbsp; &#3585;&#3633;&#3609;&#3607;&#3632;&#3627;&#3591;&#3625;&#3660;<span lang="en-us">&nbsp;&nbsp; ::</span>
+		<span lang="en-us">&nbsp;</span><span lang="th">&#3650;&#3607;&#3619;&#3624;&#3633;&#3614;&#3607;&#3660;</span>: 0-5394-410<span lang="th">4</span>
+		<span lang="en-us">&nbsp;E-mail: </span></font></font><font color="#808080">
+		<a href="mailto:deerkp@hotmail.com">
+		<font color="#808080" style="font-size: 9pt">deerkp@hotmail.com</font></a></font></font><br>
+		<b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&nbsp; - 
+		- - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		</b> 
+		</font></font></font>
+		<font color="#CC9900" face="Tahoma" style="font-size: 9pt"><b>
+		<span lang="th">&#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; &#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</span>::</b><span lang="th">&nbsp;
+		<a target="_blank" href="http://www.agri.cmu.ac.th/">
+		<font color="#CC9900">www.agri.cmu.ac.th</font></a></span></font></p></td>
+			<td width="200" valign="top">
+			<p align="right">
+			<font face="Tahoma">
+			<img border="0" src="images/decor/pegion2.jpg" width="200" height="153"></font></td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
+
+http://aee.co.th/ 127.0.0.1 20170104083054 text/html 6209
+HTTP/1.1 200 OK
+Date: Wed, 04 Jan 2017 08:30:52 GMT
+Server: nginx
+Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
+Content-length: 6037
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Asia Energy Engineering -Special Steel Solutions-</title>
+<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id='wrapper'><!--WRAPPER-->
+<header><!--HEADER-->
+  <div id='headerContainer'><!--HEADER--CONTAINER-->
+<script type="text/javascript" src="js/jquery_min.js"></script> 
+<script type="text/javascript" src="js/core.js"></script> 
+<script type="text/javascript" src="js/utils.js"></script> 
+<script type="text/javascript" src="js/slider.js"></script> 
+<script>
+        var _SlideshowTransitions = [
+        //Fade
+        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
+        ];
+    </script> 
+<script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
+                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
+                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
+                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+                }
+            };
+
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        });
+    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
+<div id="content"><!-- This is the actual menu -->
+  <ul id="darkmenu">
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="profile.html">COMPANY</a></li>
+        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
+        <li><a href="download.html">DOWNLOAD</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
+      </ul>
+</div><!--END--HEADER--CONTAINER--> 
+</header><!--END--HEADER-->
+    </div><!-- content -->
+      <div class="container"><!--CONTAINER-->
+  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
+  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
+      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
+    </div><!--END--CONTAINER-->
+        <a style="display: none" href="home.html">Home</a> </div>
+  
+  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
+  <!--    <div class="textrounded1">Subject</div> -->
+  <div class="contentpage">
+    <article class="content_column1"> 
+      <!--<h1>Group of article</h1>-->
+      <section>
+           <h2>Asia Energy Engineering - Special Steel Solutions</h2>
+            <p>Welcome to <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> company limited (<span class="text_redb">AEE</span>), your reliable supplier for special steel products and services. The product is delivered from either our in-house stock or from our international network stock, and also directly from both domestic and foreign mills.<br>
+        <p>It doesn’t matter how many pieces of product are required, big or small volume, long delivery or top urgent delivery requirement, short length, short piece, we always prepare to serve your demand.<br>
+        <p><strong>Materials :</strong><br>
+          <span class="text_redb">•	Carbon Steel<br>
+          •	Alloy Steel<br>
+          •	Stainless, Duplex and Super Duplex Steel<br>
+          •	Nickel Alloy<br>
+          •	Copper Alloy</span></p>
+            <p><strong>Standards :</strong><br>
+          <span class="text_redb">•	ASTM - ASME - DIN - JIS - EN</span></p>
+            <p><strong>Segments :</strong><br>
+          <span class="text_redb">•	Energy - Oil&Gas – Chemical</span></p>
+          </section>
+      <!-- end article --></article>
+        </div><!-- end--contentPage -->
+  <footer>
+        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
+      </footer>
+  <!-- end .container -->
+  </div>
+<!--END--WRAPPER-->
+</body>
+</html>
+
+http://aee.co.th/home.html 127.0.0.1 20170104083054 text/html 6209
+HTTP/1.1 200 OK
+Date: Wed, 04 Jan 2017 08:30:53 GMT
+Server: nginx
+Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
+Content-length: 6037
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Asia Energy Engineering -Special Steel Solutions-</title>
+<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id='wrapper'><!--WRAPPER-->
+<header><!--HEADER-->
+  <div id='headerContainer'><!--HEADER--CONTAINER-->
+<script type="text/javascript" src="js/jquery_min.js"></script> 
+<script type="text/javascript" src="js/core.js"></script> 
+<script type="text/javascript" src="js/utils.js"></script> 
+<script type="text/javascript" src="js/slider.js"></script> 
+<script>
+        var _SlideshowTransitions = [
+        //Fade
+        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
+        ];
+    </script> 
+<script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
+                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
+                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
+                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+                }
+            };
+
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        });
+    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
+<div id="content"><!-- This is the actual menu -->
+  <ul id="darkmenu">
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="profile.html">COMPANY</a></li>
+        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
+        <li><a href="download.html">DOWNLOAD</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
+      </ul>
+</div><!--END--HEADER--CONTAINER--> 
+</header><!--END--HEADER-->
+    </div><!-- content -->
+      <div class="container"><!--CONTAINER-->
+  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
+  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
+      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
+    </div><!--END--CONTAINER-->
+        <a style="display: none" href="home.html">Home</a> </div>
+  
+  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
+  <!--    <div class="textrounded1">Subject</div> -->
+  <div class="contentpage">
+    <article class="content_column1"> 
+      <!--<h1>Group of article</h1>-->
+      <section>
+           <h2>Asia Energy Engineering - Special Steel Solutions</h2>
+            <p>Welcome to <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> company limited (<span class="text_redb">AEE</span>), your reliable supplier for special steel products and services. The product is delivered from either our in-house stock or from our international network stock, and also directly from both domestic and foreign mills.<br>
+        <p>It doesn’t matter how many pieces of product are required, big or small volume, long delivery or top urgent delivery requirement, short length, short piece, we always prepare to serve your demand.<br>
+        <p><strong>Materials :</strong><br>
+          <span class="text_redb">•	Carbon Steel<br>
+          •	Alloy Steel<br>
+          •	Stainless, Duplex and Super Duplex Steel<br>
+          •	Nickel Alloy<br>
+          •	Copper Alloy</span></p>
+            <p><strong>Standards :</strong><br>
+          <span class="text_redb">•	ASTM - ASME - DIN - JIS - EN</span></p>
+            <p><strong>Segments :</strong><br>
+          <span class="text_redb">•	Energy - Oil&Gas – Chemical</span></p>
+          </section>
+      <!-- end article --></article>
+        </div><!-- end--contentPage -->
+  <footer>
+        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
+      </footer>
+  <!-- end .container -->
+  </div>
+<!--END--WRAPPER-->
+</body>
+</html>
+
+http://aee.co.th/co-partner.html 127.0.0.1 20170104083054 text/html 5595
+HTTP/1.1 200 OK
+Date: Wed, 04 Jan 2017 08:30:53 GMT
+Server: nginx
+Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:49 GMT
+Content-length: 5423
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Asia Energy Engineering -Special Steel Solutions-</title>
+<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id='wrapper'><!--WRAPPER-->
+<header><!--HEADER-->
+  <div id='headerContainer'><!--HEADER--CONTAINER-->
+<script type="text/javascript" src="js/jquery_min.js"></script> 
+<script type="text/javascript" src="js/core.js"></script> 
+<script type="text/javascript" src="js/utils.js"></script> 
+<script type="text/javascript" src="js/slider.js"></script> 
+<script>
+        var _SlideshowTransitions = [
+        //Fade
+        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
+        ];
+    </script> 
+<script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
+                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
+                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
+                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+                }
+            };
+
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        });
+    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
+<div id="content"><!-- This is the actual menu -->
+  <ul id="darkmenu">
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="profile.html">COMPANY</a></li>
+        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
+        <li><a href="download.html">DOWNLOAD</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
+      </ul>
+</div><!--END--HEADER--CONTAINER--> 
+</header><!--END--HEADER-->
+    </div><!-- content -->
+    </div><!--END--CONTAINER-->
+        <a style="display: none" href="home.html">Home</a> </div>
+  
+  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
+  <!--    <div class="textrounded1">Subject</div> -->
+  <div class="container"><!--CONTAINER-->
+  <div class="contentpage">
+    <article class="content_column1"> 
+      <!--<h1>Group of article</h1>-->
+  <div class="contentpage">
+        <div>
+      <aside>
+            <img src="images/co-partner/Aiden Group.jpg" alt="" width="380" height="114">
+            <img src="images/co-partner/NE.jpg" alt="" width="380" height="114">
+            <img src="images/co-partner/TAS.jpg" alt="" width="220" height="114">           
+            <!-- <h3>brief details here</h3> --> 
+          </aside>
+      <!-- end .sidebar1--> </div>
+        <article class="content_column1"> 
+      <!--    <h1>Group of article</h1> -->
+      <section>
+           <p>Since 2014 <span class="text_redb">AEE</span> has been working with AIDEN group who represents Nooter Eriksen, a HRSG for power stations and TAS Energy, Inc., a turbine air chilling system. More details of the product, see <a href="http://www.ne.com" target="_blank"><span class="text_redb">www.ne.com</span></a> and <a href="http://www.tas.com" target="_blank"><span class="text_redb">www.tas.com</span></a> respectively.</p>
+            <img class="centerimg" src="images/co-partner/pp0.jpg" alt="">
+            <p></p>
+            <img class="centerimg" src="images/co-partner/pp1.jpg" alt="">
+            <p></p>
+            <img class="centerimg" src="images/co-partner/pp2.jpg" alt="">
+            <p></p>
+            <img class="centerimg" src="images/co-partner/pp3.jpg" alt="">
+            <p></p>
+            <img class="centerimg" src="images/co-partner/pp4.jpg" alt="">
+            <p></p>
+            <img class="centerimg" src="images/co-partner/pp5.jpg" alt="">
+            <p></p>
+          </section>
+      <!-- end article --></article>
+        <!-- end .contentPage --></div>
+  <footer>
+        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
+      </footer>
+  <!-- end .container --></div>
+  <!--END--WRAPPER-->
+</body>
+</html>
+
+http://aee.co.th/contact.html 127.0.0.1 20170104083054 text/html 5738
+HTTP/1.1 200 OK
+Date: Wed, 04 Jan 2017 08:30:53 GMT
+Server: nginx
+Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:49 GMT
+Content-length: 5566
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Asia Energy Engineering -Special Steel Solutions-</title>
+<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id='wrapper'><!--WRAPPER-->
+<header><!--HEADER-->
+  <div id='headerContainer'><!--HEADER--CONTAINER-->
+<script type="text/javascript" src="js/jquery_min.js"></script> 
+<script type="text/javascript" src="js/core.js"></script> 
+<script type="text/javascript" src="js/utils.js"></script> 
+<script type="text/javascript" src="js/slider.js"></script> 
+<script>
+        var _SlideshowTransitions = [
+        //Fade
+        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
+        ];
+    </script> 
+<script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
+                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
+                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
+                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+                }
+            };
+
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        });
+    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
+<div id="content"><!-- This is the actual menu -->
+  <ul id="darkmenu">
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="profile.html">COMPANY</a></li>
+        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
+        <li><a href="download.html">DOWNLOAD</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
+      </ul>
+</div><!--END--HEADER--CONTAINER--> 
+</header><!--END--HEADER-->
+    </div><!-- content -->
+     <div class="container"><!--CONTAINER-->
+  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
+  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
+      <div><a u=image href="#"><img src="images/contact1.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/contact2.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/contact3.JPG" /></a></div>
+    </div><!--END--CONTAINER-->
+        <a style="display: none" href="home.html">Home</a> </div>
+  
+  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
+  <!--    <div class="textrounded1">Subject</div> -->
+  <div class="contentpage">
+    <article class="content_column1"> 
+      <!--<h1>Group of article</h1>-->
+      <section>
+        <h2>CONTACT</h2>
+        <p> <strong> <span class="text_blueb">Asia</span> <span class="text_blueb">Energy</span> <span class="text_blueb">Engineering Co., Ltd.</span> </strong> <br>
+          281/119 Vibhavadi-Rangsit Rd. <br>
+          Sanambin, Donmueang, <br>
+          Bangkok 10210 <br>
+          THAILAND <br>
+          Phone: +662 156 9701-3<br>
+          Fax: +662 156 9704<br>
+          <m> <strong>Email:</strong></m>
+          <a href="mailto:info@aee.co.th"> <span class="BoldRed">info@aee.co.th</span></a> </p>
+        <p> <a href="map/AEE-Map.pdf" target="_blank"> <span class="BoldRed">download map</span></a> </p>
+      </section>
+      <!-- end article --></article>
+    
+    <!-- Map from Googlemap
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.th/maps?q=13.925039,100.534633&amp;num=1&amp;hl=th&amp;ie=UTF8&amp;ll=13.925122,100.534478&amp;spn=0.014933,0.026157&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.th/maps?q=13.925039,100.534633&amp;num=1&amp;hl=th&amp;ie=UTF8&amp;ll=13.925122,100.534478&amp;spn=0.014933,0.026157&amp;t=m&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Enlarge the map</a></small>
+--> 
+    
+    <!-- end .contentPage --></div>
+  <footer>
+    <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy</span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
+  </footer>
+  <!-- end .container --> 
+</div>
+<!--END--WRAPPER-->
+</body>
+</html>
+
+http://aee.co.th/download.html 127.0.0.1 20170104083054 text/html 7460
+HTTP/1.1 200 OK
+Date: Wed, 04 Jan 2017 08:30:53 GMT
+Server: nginx
+Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
+Content-length: 7288
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Asia Energy Engineering -Special Steel Solutions-</title>
+<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id='wrapper'><!--WRAPPER-->
+<header><!--HEADER-->
+  <div id='headerContainer'><!--HEADER--CONTAINER-->
+<script type="text/javascript" src="js/jquery_min.js"></script> 
+<script type="text/javascript" src="js/core.js"></script> 
+<script type="text/javascript" src="js/utils.js"></script> 
+<script type="text/javascript" src="js/slider.js"></script> 
+<script>
+        var _SlideshowTransitions = [
+        //Fade
+        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
+        ];
+    </script> 
+<script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
+                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
+                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
+                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+                }
+            };
+
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        });
+    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
+<div id="content"><!-- This is the actual menu -->
+  <ul id="darkmenu">
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="profile.html">COMPANY</a></li>
+        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
+        <li><a href="download.html">DOWNLOAD</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
+      </ul>
+</div><!--END--HEADER--CONTAINER--> 
+</header><!--END--HEADER-->
+    </div><!-- content -->
+      <div class="container"><!--CONTAINER-->
+  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
+  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
+      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
+    </div><!--END--CONTAINER-->
+        <a style="display: none" href="home.html">Home</a> </div>
+  
+  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
+  <!--    <div class="textrounded1">Subject</div> -->
+    <article class="content_column1"> 
+      <!--<h1>Group of article</h1>-->
+  <div class="contentpage">
+        <div class="sidebar3">
+      <aside>
+            <h4>Documents for download</h4>
+            <span class="text_red">Various useful industrial standards and specifications in special steel and alloy industries are ready for download</span> 
+            <!-- <h3>brief details here</h3> --> 
+          </aside>
+      <!-- end .sidebar1--> </div>
+        <article class="content_column1"> 
+      <!--    <h1>Group of article</h1> -->
+      <section>
+            <h2>Steel/Alloy Standard and Specifications</h2>
+            <p class="text_blueb">- <a href="ref/1) Tube & Pipe Comparison Table.pdf" target="_blank"><span class="text_redb">Tube & Pipe Comparison Table(1)</span></a></p>
+            <p class="text_blueb">- <a href="ref/TUBES AND PIPES(2).pdf" target="_blank"><span class="text_redb">Tube & Pipe Comparison Table(2)</span></a></p>
+            <p class="text_blueb">- <a href="ref/2) Material Comparison Table.pdf" target="_blank"><span class="text_redb">Material Comparison Table</span></a></p>
+            <p class="text_blueb">- <a href="ref/3) Material Specification Chart.pdf" target="_blank"><span class="text_redb">Material Specification Chart</span></a></p>
+            <p class="text_blueb">- <a href="ref/4) Metal & Alloy Density.pdf" target="_blank"><span class="text_redb">Metal & Alloy Density</span></a></p>
+            <p class="text_blueb">- <a href="ref/5) Pipe Table.pdf" target="_blank"><span class="text_redb">Pipe Table</span></a></p>
+            <p class="text_blueb">- <a href="ref/6) Table of Gauges.pdf" target="_blank"><span class="text_redb">Table of Gauges</span></a></p>
+            <p class="text_blueb">- <a href="ref/7) U Tube - SA688 Tolerance.pdf" target="_blank"><span class="text_redb">U Tube – ASME SA688 Tolerance</span></a></p>
+            <p class="text_blueb">- <a href="ref/8) Copper & Copper Alloy Specifications.pdf" target="_blank"><span class="text_redb">Copper & Copper Alloy Specifications</span></a></p>
+            <p class="text_blueb">- <a href="ref/9) comparison table.pdf" target="_blank"><span class="text_redb">Comparison Table - Service Temperatures for Boiler and Heatexchanger Tubes</span></a></p>
+            <p class="text_blueb">- <a href="ref/10) Ferrous&Non-ferrous.pdf" target="_blank"><span class="text_redb">Ferrous & Non - Ferrous Metals Service Temperature</span></a></p>
+            <p class="text_blueb">- <a href="ref/11) Recommended Maximum Temperature.pdf" target="_blank"><span class="text_redb">Recommended Maximum Temperature of Tube Materials</span></a></p>
+            <p></p>
+          </section>
+      <!-- end article --></article>
+        <!-- end .contentPage --></div>
+  <footer>
+        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
+      </footer>
+  <!-- end .container --></div>
+  <!--END--WRAPPER-->
+</body>
+</html>
+

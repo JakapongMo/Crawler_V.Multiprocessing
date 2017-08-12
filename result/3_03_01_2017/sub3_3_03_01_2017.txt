@@ -1,0 +1,1311 @@
+http://105printing.com/login.php 127.0.0.1 20170102170006 text/html 17468
+HTTP/1.1 200 OK
+Date: Mon, 02 Jan 2017 17:00:06 GMT
+Server: Apache/2.2.3 (CentOS)
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/105printing_new.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META Name="Description" Content="Expert in document services and printing">
+<meta name="keywords" content="plot,Graphic design,blueprint,black - white copy services,color copy services,digital copy services,copyprint,digital copyprint,color laser print ,  black - white laser print ,color inkjet  print, wide format inkjet ,leaflet ,postcard ,invitation card, wedding card,poster,offset printing ,namecard,business card,brochure,catalog,  voucher,sticker,invoice,receipt,envelope,postcard,scan,rubber stamp,ถ่ายเอกสาร,ถ่ายเอกสารขาวดำ,ถ่ายเอกสารสี,ถ่ายเอกสารดิจิตอล,โรเนียว,โรเนียวดิจิตอล, พิมพ์เลเซอร์สี,พิมพ์เลเซอร์ขาวดำ,เลเซอร์,พิมพ์อิงค์เจทสี,พิมพ์อิงค์เจทขาวดำ,พิมพ์อิงค์เจทหน้ากว้าง, นามบัตร ,ใบปลิว,แผ่นพับ,โปสการ์ด,กฐิน,ผ้าป่า,การ์ด,บัตรเชิญ,การ์ดแต่งงาน,การ์ดงานบวช, โปสเตอร์,สติกเกอร์,งานพิมพ์ระบบออฟเซ็ต,โบชัวร์,แคตตาล็อค,บิล,ใบเสร็จ,สแกน,ตรายาง,ถ่ายพิมพ์เขียว,บลูพริ้น,พิมพ์เขียว,Graphic design, กราฟฟิคดีไซน์, โรงพิมพ์,blueprint ,พิมพ์เขียว, blue print ">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>.:: 105 Printing Online Service ::.</title>
+<!-- InstanceEndEditable -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39290994-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
+<!-- InstanceEndEditable -->
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wraper">
+  <div id="header">
+    <div class="head">
+      <div class="logo"><a href="index.php"><img src="images/logo.gif" width="406" height="113" /></a></div>
+      <div class="txttop">
+        <div>
+          <h1>HOTLINE 081-351-8125 / 095-253-8050<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;086-335-9135
+ / 095-553-2233
+          </h1>
+        </div>
+        <div class="teltime">
+          <p class="tel">Tel.<span style="padding-left:8px">02-753-5560 </span><br />
+            Fax.<span style="padding-left:4px">02-753-5560</span> Ext.15</p>
+          <p class="time">105printing@gmail.com<br />
+                    		วันทำการ : จันทร์ -  เสาร์  เวลา : 08.00 - 17.00 น.
+                      </p>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="lang"><a href="login.php?&L=TH">TH</a> :: <a href="login.php?&L=EN">EN</a></div>
+      <div id="nav">
+        <ul>
+        
+          <li><a href="home.php" >
+                    		หน้าหลัก
+                    </a></li>
+          <li><a href="gallery.php" >
+                    		ตัวอย่างผลงาน
+                    </a></li>
+          <li><a href="aboutus.php" >
+		            		เกี่ยวกับเรา
+                    </a></li>
+                     <li><a href="knowledge.php" >
+                    		ความรู้สิ่งพิมพ์
+                    </a></li>
+          <li><a href="map.php" >
+                    		แผนที่
+                    </a></li>
+                            </ul>
+      </div>
+      <div class="line1">&nbsp;</div>
+    </div>  </div>
+  <div id="container">
+    <div class="search">
+      <div class="p1">Search</div>
+      <div class="p3">
+        <input type="text" name="textfield" id="textfield" />
+      </div>
+      <div class="p4"><a href="#"><img src="images/ico_search.png" width="15" height="16" /></a></div>
+            <div class="p2"><a href="login.php">
+      	        	สมาชิกเข้าสู่ระบบ
+               </a></div>
+          </div>
+    <div id="navleft">
+      
+<h2>
+	บริการงานสิ่งพิมพ์
+</h2>
+      <div>
+        <ul>
+          <li><a href="showProductDetail.php?ProductID=1211177909">
+          				นามบัตร
+  		  			</a></li>
+          <li> <a href="showProductDetail.php?ProductID=1211183076">
+          				แผ่นพับ ใบปลิว โบรชัวร์
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183103">
+          				แคตตาล็อค เมนู 
+  		           </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135943">
+          				หนังสือ
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901780">
+          				หัวจดหมาย ซองจดหมาย
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211184961">
+          				โปสเตอร์
+  		             </a></li>
+          <li>
+                    <a href="http://www.105printing.org" target="_blank">
+          				ปฏิทิน
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901439">
+          				รายงานประจำปี/CD
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901651">
+          				แบบฟอร์ม บิล ใบเสร็จ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211184836">
+          				โปสการ์ดและการ์ดเชิญ
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135944">
+          				สติ๊กเกอร์ 
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135945">
+          				แฟ้ม
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901516">
+          				ปกซีดี ซองซีดี
+  		           </a></li>
+          <li><a href="showProductDetail.php?ProductID=1349537961">
+          				กล่อง/บรรจุภัณฑ์
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1340635700">
+          				 ประกาศนียบัตร ใบรับประกัน ใบหุ้น
+  		           </a></li>
+        </ul>
+</div>
+      <h2>
+	บริการงานเอกสาร
+      
+</h2>
+      <div>
+        <ul>
+          <li><a href="showProductDetail.php?ProductID=1235135946">
+          				เอกสารประชุมสัมมนา
+  		            </a></li>
+          <li> <a href="showProductDetail.php?ProductID=16">
+          				ถ่ายเอกสารสี ขาวดำ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=20">
+          				ปริ้นท์ดิจิตอลสี ขาวดำ
+  		            </a></li>
+                    <li><a href="showProductDetail.php?ProductID=1">
+          				โรเนียว
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183983">
+          				เคลือบ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183983">
+          				เข้าเล่ม
+  		            </a></li>
+                  </ul>
+      </div>
+
+ <h2>
+	การเตรียมไฟล์พร้อมพิมพ์
+ 
+</h2>
+      <div>
+        <ul>
+          <li><a href="pdf/Condition.pdf" target="_blank">
+          				การเตรียมไฟล์งาน
+  		            </a></li>
+          <li> <a href="pdf/How_to_convert_file_to_PDF.pdf" target="_blank">
+          				การแปลงไฟล์เป็น PDF
+  		            </a></li>
+          <li> <a href="pdf/Cover_thickness.pdf" target="_blank">
+          				การกำหนดขนาดสันปกหนังสือ
+  		            </a></li>
+        </ul>
+      </div>
+<h2>Download Template/ Layout</h2>
+      <div>
+        <ul>
+          <li><a href="layout.php">Layout</a></li>
+          <li> <a href="#">Template</a></li>
+        </ul>
+      </div>
+            <h3>
+	เครื่องจักรของเรา
+</h3>
+      <div>
+        <p><img src="images/logo_fuji.gif" width="134" height="37" /></p>
+        <p><img src="images/ico_riso.gif" width="83" height="33" /></p>
+        <p><img src="images/logo_duplo.gif" width="132" height="48" /></p>
+        <p><img src="images/ico_oce.gif" width="51" height="52" /></p>
+        <p style="width:260px">&nbsp;</p>
+<p><img src="images/Heidelberg.jpg" width="240"  /></p>
+<p style="width:260px">&nbsp;</p>
+<p><img src="images/nagano.gif" width="240"  /></p>
+      </div>
+    </div>
+    <div id="content"><!-- InstanceBeginEditable name="Content" -->
+      <center>
+        <form action="/login.php" method="post" name="form1" id="form1">
+          <br />
+          <table width="50%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><table cellspacing="1" cellpadding="0" width="100%" bgcolor="#345487"         border="0">
+                <tbody>
+                  <tr>
+                    <td><table cellspacing="0" cellpadding="8" width="100%"   bgcolor="#eef2f7" border="0">
+                      <tbody>
+                        <tr>
+                          <td width="19%" bgcolor="#d1dceb" height="70" style="vertical-align:middle"><img src="images/login.png" width="64" height="64"/></td>
+                          <td width="81%" bgcolor="#d1dceb" class="style4" style="vertical-align:middle">เข้าสู่ระบบ</td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  </tr>
+                </tbody>
+              </table></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><table cellspacing="1" cellpadding="0" width="100%" bgcolor="#345487" 
+        border="0">
+                <tbody>
+                  <tr>
+                    <td><table cellspacing="1" cellpadding="8" width="100%"                   bgcolor="#eef2f7" border="0">
+                      <tbody>
+                        <tr>
+                          <td align="left"><table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">
+                            <tr>
+                              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="right" class="style4">&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td align="right" class="style4">ชื่อผู้ใช้งาน : </td>
+                                  <td><div align="left"><span id="sprytextfield1">
+                                    <input name="Username" type="text" id="Username" size="15" />
+                                    <span class="textfieldRequiredMsg">กรุณากรอกข้อมูล</span></span></div></td>
+                                </tr>
+                                <tr>
+                                  <td align="right" class="style4">รหัสผ่าน : </td>
+                                  <td><div align="left"><span id="sprytextfield2">
+                                    <input name="Password" type="password" id="Password" size="15" />
+                                    <span class="textfieldRequiredMsg">กรุณากรอกข้อมูล</span></span></div></td>
+                                </tr>
+                                <tr>
+                                  <td height="40" colspan="2" align="center"><input type="submit" name="Submit" value="ตกลง" />
+                                    <input type="reset" name="Submit2" value="ยกเลิก" /></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                            <tr>
+                              <td colspan="2" align="center" class="style6">ลืมรหัสผ่าน <a href="forgetPassword.php">คลิ๊กที่นี่</a></td>
+                            </tr>
+                            <tr>
+                              <td colspan="2" align="center" class="style6"><a href="register.php">สมัครสมาชิก</a></td>
+                            </tr>
+                            <tr>
+                              <td colspan="2" align="center" class="style6">&nbsp;</td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  </tr>
+                </tbody>
+              </table></td>
+            </tr>
+          </table>
+          <br />
+        </form>
+      </center>
+      <script type="text/javascript">
+var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1", "none", {validateOn:["blur", "change"]});
+var sprytextfield2 = new Spry.Widget.ValidationTextField("sprytextfield2", "none", {validateOn:["blur", "change"]});
+      </script>
+    <!-- InstanceEndEditable -->
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div id="footer">
+    <div>
+      <ul>
+        <li>
+          <p class="fb"><img src="images/ico_fb.gif" width="28" height="29" /> <a href="mailto:info@105printing.com"><img src="images/ico_mail.gif" width="29" height="29" /></a> 105printing.com</p>
+          <p class="top"><a href="#"><img src="images/top.gif" width="31" height="9" /></a></p>
+        </li>
+        <li>
+          <p>บริษัท วัน โอ ไฟว์ ดิจิตอลพริ้นติ้ง จำกัด : 36 ซ.ลาซาล 29 แขวงบางนา เขตบางนา กรุงเทพมหานคร 10260</p>
+          <p>&copy; สงวนลิขสิทธิ์ 2555 บริษัท วัน โอ ไฟว์ ดิจิตอลพริ้นติ้ง จำกัด</p>
+          <p class="dot"></p>
+          <p style="font-size:20px;">
+          <a href="privacy.php" style="text-decoration:none;color:#09347a;">
+	นโยบายความเป็นส่วนตัว
+           
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="disputeResolution.php" style="text-decoration:none;color:#09347a;">
+	การระงับข้อพิพาท
+           
+</a>
+          </p>
+           <!--BEGIN WEB STAT CODE---->
+             <script type="text/javascript"
+src="http://hits.truehits.in.th/data/f0010827.js"></script>
+        <!-- END WEBSTAT CODE -->
+        <script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('7qz6bi0tzj3w')</script>
+        
+<!-- Google Code for 105printing Conversion Page -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1034456472;
+var google_conversion_language = "th";
+var google_conversion_format = "1";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "Jm3GCPKQlQEQmJui7QM";
+var google_conversion_value = 0;
+if (1000.0) {
+  google_conversion_value = 1000.0;
+}
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1034456472/?value=1000.0&amp;label=Jm3GCPKQlQEQmJui7QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+        </li>
+        <li><a href="http://track.thailandpost.co.th/trackinternet/Default.aspx?lang=th" target="_blank"><img src="images/track.gif" alt="" width="125" height="77" border="0"></a>
+        </li>
+      
+  
+      </ul>
+      <p class="clear"></p>
+    </div>  </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>
+
+http://105printing.com/register.php 127.0.0.1 20170102170006 text/html 17236
+HTTP/1.1 200 OK
+Date: Mon, 02 Jan 2017 17:00:06 GMT
+Server: Apache/2.2.3 (CentOS)
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+
+<html><!-- InstanceBegin template="/Templates/105printing.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874" />
+<title>105 Printing Online Service</title>
+<META Name="Description" Content="Expert in document services and printing">
+<meta name="keywords" content="plot,Graphic design,blueprint,black - white copy services,color copy services,digital copy services,copyprint,digital copyprint,color laser print ,  black - white laser print ,color inkjet  print, wide format inkjet ,leaflet ,postcard ,invitation card, wedding card,poster,offset printing ,namecard,business card,brochure,catalog,  voucher,sticker,invoice,receipt,envelope,postcard,scan,rubber stamp,͡,͡âǴ,͡,͡ôԨԵ,,ǴԨԵ, ,Ǵ,,ԧ਷,ԧ਷Ǵ,ԧ਷˹ҡҧ, ѵ ,㺻,蹾Ѻ,ʡ,Թ,һ,,ѵԭ,觧ҹ,촧ҹǪ, ,ʵԡ,ҹкͿ,⺪,ᤵͤ,,,᡹,ҧ,¾,پ,,Graphic design, ҿԤ䫹, ç,blueprint ,, blue print ">
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script type="text/javascript" src="Scripts/tabber.js"></script>
+<link href="Css/mainstyle.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="Css/example.css" TYPE="text/css" MEDIA="screen">
+<link href="Css/style.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="" --><!-- InstanceEndEditable -->
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+
+<!-- ImageReady Slices (layout.psd) -->
+<table id="Table_01" width="1001" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td valign="top">
+<div class="head">
+      <div class="logo"><a href="index.php"><img src="images/logo.gif" width="406" height="113" /></a></div>
+      <div class="txttop">
+        <div>
+          <h1>HOTLINE 081-351-8125 / 095-253-8050<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;086-335-9135
+ / 095-553-2233
+          </h1>
+        </div>
+        <div class="teltime">
+          <p class="tel">Tel.<span style="padding-left:8px">02-753-5560 </span><br />
+            Fax.<span style="padding-left:4px">02-753-5560</span> Ext.15</p>
+          <p class="time">105printing@gmail.com<br />
+                    		วันทำการ : จันทร์ -  เสาร์  เวลา : 08.00 - 17.00 น.
+                      </p>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="lang"><a href="register.php?&L=TH">TH</a> :: <a href="register.php?&L=EN">EN</a></div>
+      <div id="nav">
+        <ul>
+        
+          <li><a href="home.php" >
+                    		หน้าหลัก
+                    </a></li>
+          <li><a href="gallery.php" >
+                    		ตัวอย่างผลงาน
+                    </a></li>
+          <li><a href="aboutus.php" >
+		            		เกี่ยวกับเรา
+                    </a></li>
+                     <li><a href="knowledge.php" >
+                    		ความรู้สิ่งพิมพ์
+                    </a></li>
+          <li><a href="map.php" >
+                    		แผนที่
+                    </a></li>
+                            </ul>
+      </div>
+      <div class="line1">&nbsp;</div>
+    </div></td>
+</tr>	
+	<tr> 
+		<td valign="top" align="center">
+		<!-- InstanceBeginEditable name="Content" -->
+				<center>
+                  <form name="form1" method="POST" action="/register.php?" onSubmit="return validation(Name.value,Surname.value,Username.value,Password.value,RePassword.value,Email.value,Tel.value);">
+                    <br>
+                    <table width="80%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#345487         border=0>
+                            <TBODY>
+                              <TR>
+                                <TD><TABLE cellSpacing=0 cellPadding=8 width="100%"   bgColor=#eef2f7 border=0>
+                                    <TBODY>
+                                      <TR>
+                                        <TD width="10%" bgcolor="#d1dceb"><img src="Images/menu.gif" width="48" height="48"> </TD>
+                                        <TD width="45%" bgcolor="#d1dceb" class="style4">ѤҪԡ</TD>
+                                        <TD width="45%" bgcolor="#d1dceb" class="style4"><div align="right"><a href="index.php"><img src="Images/Home.png" alt="˹á" width="100" height="50" border="0"></a></div></TD>
+                                      </TR>
+                                    </TBODY>
+                                </TABLE></TD>
+                              </TR>
+                            </TBODY>
+                        </TABLE></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td><TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#345487 
+        border=0>
+                            <TBODY>
+                              <TR>
+                                <TD><table cellspacing=1 cellpadding=8 width="100%"                   bgcolor=#eef2f7 border=0>
+                                    <TBODY>
+                                      <tr>
+                                        <td align="left">
+										
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">
+                                          
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right">ӹ˹Ҫ : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                              <select name="GenderID" id="GenderID">
+                                                                                                <option value="2">นาง</option>
+                                                                                                <option value="3">นางสาว</option>
+                                                                                                <option value="1">นาย</option>
+                                                                                              </select>
+                                            </div></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right"> : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                              <input name="Name" type="text" id="Name">
+                                              <span class="style11">*</span></div></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right">ʡ : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                              <input name="Surname" type="text" id="Surname">
+                                              <span class="style11">*</span></div></td>
+                                          </tr>
+                                          
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right">ͼҹ : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                                <input name="Username" type="text" id="Username" size="10">
+                                                <span class="style11">*</span></div></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right">ʼҹ : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                                <input name="Password" type="password" id="Password" size="10">
+                                                <span class="style11">*</span></div></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right">׹ѹʼҹ : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                                <input name="RePassword" type="password" id="RePassword" size="10">
+                                                <span class="style11">*</span></div></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right"> : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                                <input name="Email" type="text" id="Email" size="30">
+                                                <span class="style11">*</span></div></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="style6"><div align="right"> : </div></td>
+                                            <td align="center" class="style6"><div align="left">
+                                              <input name="Tel" type="text" id="Tel">
+                                              <span class="style11">*</span></div></td>
+                                          </tr>
+                                        </table>
+									
+										
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">
+                                          
+                                          <tr>
+                                            <td colspan="2" align="center" class="style6">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                            <td colspan="2" align="center" class="style6"><input name="UserTypeID" type="hidden" id="UserTypeID" value="2">
+                                              <input name="RegisDate" type="hidden" id="RegisDate">
+                                                  <input name="isActive" type="hidden" id="isActive" value="Y">
+<input type="submit" name="Submit" value="ѤҪԡ">
+                                                <input type="reset" name="Submit2" value="¡ԡ"></td>
+                                          </tr>
+                                        </table>
+										</TD>
+                                      </TR>
+                                    </TBODY>
+                                </TABLE></TD>
+                              </TR>
+                            </TBODY>
+                        </TABLE></td>
+                      </tr>
+                    </table>
+                    <br>
+                    <input type="hidden" name="MM_insert" value="form1">
+                  </form>
+<SCRIPT script="javascript"> 
+	  function validation(Name,Surname,Username,Password,RePassword,Email,Tel){	   	 
+	  	err = ""; 
+		errs = 0;
+	  		
+		if(Name=="" || Surname=="" || Username=="" || Password=="" || RePassword=="" || Email=="" || Tel==""){				 	
+			err += "سҡ͡:\n";	
+			errs = errs+1;
+
+			if(Name=="" && errs!=0) {
+				err+= "     - \n"; 
+				errs=errs+1;
+			}	 	
+			if(Surname=="" && errs!=0){
+				err+= "     - ʡ\n"; 
+				errs=errs+1;
+			}
+			if(Username=="" && errs!=0){
+				err+= "     - ͼҹ\n";	
+				errs=errs+1;
+			}			
+			if(Password=="" && errs!=0){
+				err+="     - ʼҹ\n";		   
+				errs=errs+1;
+			}
+			if(RePassword=="" && errs!=0){
+				err+="     - ׹ѹʼҹ\n";		   
+				errs=errs+1;
+			}
+			if(Email=="" && errs!=0){
+				err+="     - \n";		   
+				errs=errs+1;
+			}
+			if(Tel=="" && errs!=0){
+				err+="     - \n";		   
+				errs=errs+1;
+			}
+		}		
+		if(Password != "" || RePassword != ""){		
+			if(Password != RePassword) {
+				err += "\nسҵǨͺ:\n";	
+				err+= "     - ʼҹçѹ\n"; 
+				errs=errs+1;
+			}	 	
+		}		
+		if(errs!=0){	
+			alert(err);
+			err="";
+			errs=0;
+	  		return false;
+		}else{
+			return true;
+		}
+	  }	  
+</SCRIPT>
+	    </center><br>
+
+                <!-- InstanceEndEditable -->
+		</td>	
+		</tr>
+	<tr>
+<td valign="top">
+<table width="900"  border="0" cellpadding="0" cellspacing="0" align="center">
+
+	<tr>
+		<td colspan="16">
+			<img src="Images/index_43.jpg" width="1000" height="41" alt=""></td>
+  <td>
+			<img src="Images/spacer.gif" width="1" height="40" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="Images/spacer.gif" width="250" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="10" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="25" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="299" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="16" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="10" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="9" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="12" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="65" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="17" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="83" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="16" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="72" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="12" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="92" height="1" alt=""></td>
+		<td>
+			<img src="Images/spacer.gif" width="12" height="1" alt=""></td>
+		<td></td>
+	</tr>
+    <tr>
+		<td colspan="17" align="center">
+			 <!--BEGIN WEB STAT CODE---->
+             <script type="text/javascript"
+src="http://hits.truehits.in.th/data/f0010827.js"></script>
+        <!-- END WEBSTAT CODE -->
+        <script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('7qz6bi0tzj3w')</script>
+        
+<!-- Google Code for 105printing Conversion Page -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1034456472;
+var google_conversion_language = "th";
+var google_conversion_format = "1";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "Jm3GCPKQlQEQmJui7QM";
+var google_conversion_value = 0;
+if (1000.0) {
+  google_conversion_value = 1000.0;
+}
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1034456472/?value=1000.0&amp;label=Jm3GCPKQlQEQmJui7QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+        </td>
+ 
+  </tr>
+	</table>
+</td>
+</tr>	
+</table>
+<!-- End ImageReady Slices -->
+</body>
+<!-- InstanceEnd --></html>
+
+http://105printing.com/map.php 127.0.0.1 20170102170006 text/html 13032
+HTTP/1.1 200 OK
+Date: Mon, 02 Jan 2017 17:00:06 GMT
+Server: Apache/2.2.3 (CentOS)
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/105printing_new.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META Name="Description" Content="Expert in document services and printing">
+<meta name="keywords" content="plot,Graphic design,blueprint,black - white copy services,color copy services,digital copy services,copyprint,digital copyprint,color laser print ,  black - white laser print ,color inkjet  print, wide format inkjet ,leaflet ,postcard ,invitation card, wedding card,poster,offset printing ,namecard,business card,brochure,catalog,  voucher,sticker,invoice,receipt,envelope,postcard,scan,rubber stamp,ถ่ายเอกสาร,ถ่ายเอกสารขาวดำ,ถ่ายเอกสารสี,ถ่ายเอกสารดิจิตอล,โรเนียว,โรเนียวดิจิตอล, พิมพ์เลเซอร์สี,พิมพ์เลเซอร์ขาวดำ,เลเซอร์,พิมพ์อิงค์เจทสี,พิมพ์อิงค์เจทขาวดำ,พิมพ์อิงค์เจทหน้ากว้าง, นามบัตร ,ใบปลิว,แผ่นพับ,โปสการ์ด,กฐิน,ผ้าป่า,การ์ด,บัตรเชิญ,การ์ดแต่งงาน,การ์ดงานบวช, โปสเตอร์,สติกเกอร์,งานพิมพ์ระบบออฟเซ็ต,โบชัวร์,แคตตาล็อค,บิล,ใบเสร็จ,สแกน,ตรายาง,ถ่ายพิมพ์เขียว,บลูพริ้น,พิมพ์เขียว,Graphic design, กราฟฟิคดีไซน์, โรงพิมพ์,blueprint ,พิมพ์เขียว, blue print ">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>.:: 105 Printing Online Service ::.</title>
+<!-- InstanceEndEditable -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39290994-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wraper">
+  <div id="header">
+    <div class="head">
+      <div class="logo"><a href="index.php"><img src="images/logo.gif" width="406" height="113" /></a></div>
+      <div class="txttop">
+        <div>
+          <h1>HOTLINE 081-351-8125 / 095-253-8050<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;086-335-9135
+ / 095-553-2233
+          </h1>
+        </div>
+        <div class="teltime">
+          <p class="tel">Tel.<span style="padding-left:8px">02-753-5560 </span><br />
+            Fax.<span style="padding-left:4px">02-753-5560</span> Ext.15</p>
+          <p class="time">105printing@gmail.com<br />
+                    		วันทำการ : จันทร์ -  เสาร์  เวลา : 08.00 - 17.00 น.
+                      </p>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="lang"><a href="map.php?&L=TH">TH</a> :: <a href="map.php?&L=EN">EN</a></div>
+      <div id="nav">
+        <ul>
+        
+          <li><a href="home.php" >
+                    		หน้าหลัก
+                    </a></li>
+          <li><a href="gallery.php" >
+                    		ตัวอย่างผลงาน
+                    </a></li>
+          <li><a href="aboutus.php" >
+		            		เกี่ยวกับเรา
+                    </a></li>
+                     <li><a href="knowledge.php" >
+                    		ความรู้สิ่งพิมพ์
+                    </a></li>
+          <li><a href="map.php" >
+                    		แผนที่
+                    </a></li>
+                            </ul>
+      </div>
+      <div class="line1">&nbsp;</div>
+    </div>  </div>
+  <div id="container">
+    <div class="search">
+      <div class="p1">Search</div>
+      <div class="p3">
+        <input type="text" name="textfield" id="textfield" />
+      </div>
+      <div class="p4"><a href="#"><img src="images/ico_search.png" width="15" height="16" /></a></div>
+            <div class="p2"><a href="login.php">
+      	        	สมาชิกเข้าสู่ระบบ
+               </a></div>
+          </div>
+    <div id="navleft">
+      
+<h2>
+	บริการงานสิ่งพิมพ์
+</h2>
+      <div>
+        <ul>
+          <li><a href="showProductDetail.php?ProductID=1211177909">
+          				นามบัตร
+  		  			</a></li>
+          <li> <a href="showProductDetail.php?ProductID=1211183076">
+          				แผ่นพับ ใบปลิว โบรชัวร์
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183103">
+          				แคตตาล็อค เมนู 
+  		           </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135943">
+          				หนังสือ
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901780">
+          				หัวจดหมาย ซองจดหมาย
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211184961">
+          				โปสเตอร์
+  		             </a></li>
+          <li>
+                    <a href="http://www.105printing.org" target="_blank">
+          				ปฏิทิน
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901439">
+          				รายงานประจำปี/CD
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901651">
+          				แบบฟอร์ม บิล ใบเสร็จ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211184836">
+          				โปสการ์ดและการ์ดเชิญ
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135944">
+          				สติ๊กเกอร์ 
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135945">
+          				แฟ้ม
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901516">
+          				ปกซีดี ซองซีดี
+  		           </a></li>
+          <li><a href="showProductDetail.php?ProductID=1349537961">
+          				กล่อง/บรรจุภัณฑ์
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1340635700">
+          				 ประกาศนียบัตร ใบรับประกัน ใบหุ้น
+  		           </a></li>
+        </ul>
+</div>
+      <h2>
+	บริการงานเอกสาร
+      
+</h2>
+      <div>
+        <ul>
+          <li><a href="showProductDetail.php?ProductID=1235135946">
+          				เอกสารประชุมสัมมนา
+  		            </a></li>
+          <li> <a href="showProductDetail.php?ProductID=16">
+          				ถ่ายเอกสารสี ขาวดำ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=20">
+          				ปริ้นท์ดิจิตอลสี ขาวดำ
+  		            </a></li>
+                    <li><a href="showProductDetail.php?ProductID=1">
+          				โรเนียว
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183983">
+          				เคลือบ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183983">
+          				เข้าเล่ม
+  		            </a></li>
+                  </ul>
+      </div>
+
+ <h2>
+	การเตรียมไฟล์พร้อมพิมพ์
+ 
+</h2>
+      <div>
+        <ul>
+          <li><a href="pdf/Condition.pdf" target="_blank">
+          				การเตรียมไฟล์งาน
+  		            </a></li>
+          <li> <a href="pdf/How_to_convert_file_to_PDF.pdf" target="_blank">
+          				การแปลงไฟล์เป็น PDF
+  		            </a></li>
+          <li> <a href="pdf/Cover_thickness.pdf" target="_blank">
+          				การกำหนดขนาดสันปกหนังสือ
+  		            </a></li>
+        </ul>
+      </div>
+<h2>Download Template/ Layout</h2>
+      <div>
+        <ul>
+          <li><a href="layout.php">Layout</a></li>
+          <li> <a href="#">Template</a></li>
+        </ul>
+      </div>
+            <h3>
+	เครื่องจักรของเรา
+</h3>
+      <div>
+        <p><img src="images/logo_fuji.gif" width="134" height="37" /></p>
+        <p><img src="images/ico_riso.gif" width="83" height="33" /></p>
+        <p><img src="images/logo_duplo.gif" width="132" height="48" /></p>
+        <p><img src="images/ico_oce.gif" width="51" height="52" /></p>
+        <p style="width:260px">&nbsp;</p>
+<p><img src="images/Heidelberg.jpg" width="240"  /></p>
+<p style="width:260px">&nbsp;</p>
+<p><img src="images/nagano.gif" width="240"  /></p>
+      </div>
+    </div>
+    <div id="content"><!-- InstanceBeginEditable name="Content" -->
+    <div style="padding-top:20px;">
+        <h4>แผนที่</h4>
+        <div class="bor_h4"></div>
+      </div><br />
+      <div align="center">
+    <a href="images/map.jpg" target="_blank"><img src="images/map.jpg" width="703" /></a>
+	</div><!-- InstanceEndEditable -->
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div id="footer">
+    <div>
+      <ul>
+        <li>
+          <p class="fb"><img src="images/ico_fb.gif" width="28" height="29" /> <a href="mailto:info@105printing.com"><img src="images/ico_mail.gif" width="29" height="29" /></a> 105printing.com</p>
+          <p class="top"><a href="#"><img src="images/top.gif" width="31" height="9" /></a></p>
+        </li>
+        <li>
+          <p>บริษัท วัน โอ ไฟว์ ดิจิตอลพริ้นติ้ง จำกัด : 36 ซ.ลาซาล 29 แขวงบางนา เขตบางนา กรุงเทพมหานคร 10260</p>
+          <p>&copy; สงวนลิขสิทธิ์ 2555 บริษัท วัน โอ ไฟว์ ดิจิตอลพริ้นติ้ง จำกัด</p>
+          <p class="dot"></p>
+          <p style="font-size:20px;">
+          <a href="privacy.php" style="text-decoration:none;color:#09347a;">
+	นโยบายความเป็นส่วนตัว
+           
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="disputeResolution.php" style="text-decoration:none;color:#09347a;">
+	การระงับข้อพิพาท
+           
+</a>
+          </p>
+           <!--BEGIN WEB STAT CODE---->
+             <script type="text/javascript"
+src="http://hits.truehits.in.th/data/f0010827.js"></script>
+        <!-- END WEBSTAT CODE -->
+        <script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('7qz6bi0tzj3w')</script>
+        
+<!-- Google Code for 105printing Conversion Page -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1034456472;
+var google_conversion_language = "th";
+var google_conversion_format = "1";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "Jm3GCPKQlQEQmJui7QM";
+var google_conversion_value = 0;
+if (1000.0) {
+  google_conversion_value = 1000.0;
+}
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1034456472/?value=1000.0&amp;label=Jm3GCPKQlQEQmJui7QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+        </li>
+        <li><a href="http://track.thailandpost.co.th/trackinternet/Default.aspx?lang=th" target="_blank"><img src="images/track.gif" alt="" width="125" height="77" border="0"></a>
+        </li>
+      
+  
+      </ul>
+      <p class="clear"></p>
+    </div>  </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>
+
+http://105printing.com/knowledge.php 127.0.0.1 20170102170006 text/html 14877
+HTTP/1.1 200 OK
+Date: Mon, 02 Jan 2017 17:00:06 GMT
+Server: Apache/2.2.3 (CentOS)
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/105printing_new.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META Name="Description" Content="Expert in document services and printing">
+<meta name="keywords" content="plot,Graphic design,blueprint,black - white copy services,color copy services,digital copy services,copyprint,digital copyprint,color laser print ,  black - white laser print ,color inkjet  print, wide format inkjet ,leaflet ,postcard ,invitation card, wedding card,poster,offset printing ,namecard,business card,brochure,catalog,  voucher,sticker,invoice,receipt,envelope,postcard,scan,rubber stamp,ถ่ายเอกสาร,ถ่ายเอกสารขาวดำ,ถ่ายเอกสารสี,ถ่ายเอกสารดิจิตอล,โรเนียว,โรเนียวดิจิตอล, พิมพ์เลเซอร์สี,พิมพ์เลเซอร์ขาวดำ,เลเซอร์,พิมพ์อิงค์เจทสี,พิมพ์อิงค์เจทขาวดำ,พิมพ์อิงค์เจทหน้ากว้าง, นามบัตร ,ใบปลิว,แผ่นพับ,โปสการ์ด,กฐิน,ผ้าป่า,การ์ด,บัตรเชิญ,การ์ดแต่งงาน,การ์ดงานบวช, โปสเตอร์,สติกเกอร์,งานพิมพ์ระบบออฟเซ็ต,โบชัวร์,แคตตาล็อค,บิล,ใบเสร็จ,สแกน,ตรายาง,ถ่ายพิมพ์เขียว,บลูพริ้น,พิมพ์เขียว,Graphic design, กราฟฟิคดีไซน์, โรงพิมพ์,blueprint ,พิมพ์เขียว, blue print ">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>.:: 105 Printing Online Service ::.</title>
+ <script type="text/javascript" src="nivo-slider/scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript">
+    $(function (){  
+        $("#jumpMenu").change(function(e) {
+            window.location.href = $(this).val();
+        });
+    });
+</script>
+<!-- InstanceEndEditable -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39290994-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wraper">
+  <div id="header">
+    <div class="head">
+      <div class="logo"><a href="index.php"><img src="images/logo.gif" width="406" height="113" /></a></div>
+      <div class="txttop">
+        <div>
+          <h1>HOTLINE 081-351-8125 / 095-253-8050<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;086-335-9135
+ / 095-553-2233
+          </h1>
+        </div>
+        <div class="teltime">
+          <p class="tel">Tel.<span style="padding-left:8px">02-753-5560 </span><br />
+            Fax.<span style="padding-left:4px">02-753-5560</span> Ext.15</p>
+          <p class="time">105printing@gmail.com<br />
+                    		วันทำการ : จันทร์ -  เสาร์  เวลา : 08.00 - 17.00 น.
+                      </p>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="lang"><a href="knowledge.php?&L=TH">TH</a> :: <a href="knowledge.php?&L=EN">EN</a></div>
+      <div id="nav">
+        <ul>
+        
+          <li><a href="home.php" >
+                    		หน้าหลัก
+                    </a></li>
+          <li><a href="gallery.php" >
+                    		ตัวอย่างผลงาน
+                    </a></li>
+          <li><a href="aboutus.php" >
+		            		เกี่ยวกับเรา
+                    </a></li>
+                     <li><a href="knowledge.php" >
+                    		ความรู้สิ่งพิมพ์
+                    </a></li>
+          <li><a href="map.php" >
+                    		แผนที่
+                    </a></li>
+                            </ul>
+      </div>
+      <div class="line1">&nbsp;</div>
+    </div>  </div>
+  <div id="container">
+    <div class="search">
+      <div class="p1">Search</div>
+      <div class="p3">
+        <input type="text" name="textfield" id="textfield" />
+      </div>
+      <div class="p4"><a href="#"><img src="images/ico_search.png" width="15" height="16" /></a></div>
+            <div class="p2"><a href="login.php">
+      	        	สมาชิกเข้าสู่ระบบ
+               </a></div>
+          </div>
+    <div id="navleft">
+      
+<h2>
+	บริการงานสิ่งพิมพ์
+</h2>
+      <div>
+        <ul>
+          <li><a href="showProductDetail.php?ProductID=1211177909">
+          				นามบัตร
+  		  			</a></li>
+          <li> <a href="showProductDetail.php?ProductID=1211183076">
+          				แผ่นพับ ใบปลิว โบรชัวร์
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183103">
+          				แคตตาล็อค เมนู 
+  		           </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135943">
+          				หนังสือ
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901780">
+          				หัวจดหมาย ซองจดหมาย
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211184961">
+          				โปสเตอร์
+  		             </a></li>
+          <li>
+                    <a href="http://www.105printing.org" target="_blank">
+          				ปฏิทิน
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901439">
+          				รายงานประจำปี/CD
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901651">
+          				แบบฟอร์ม บิล ใบเสร็จ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211184836">
+          				โปสการ์ดและการ์ดเชิญ
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135944">
+          				สติ๊กเกอร์ 
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1235135945">
+          				แฟ้ม
+  		             </a></li>
+          <li><a href="showProductDetail.php?ProductID=1223901516">
+          				ปกซีดี ซองซีดี
+  		           </a></li>
+          <li><a href="showProductDetail.php?ProductID=1349537961">
+          				กล่อง/บรรจุภัณฑ์
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1340635700">
+          				 ประกาศนียบัตร ใบรับประกัน ใบหุ้น
+  		           </a></li>
+        </ul>
+</div>
+      <h2>
+	บริการงานเอกสาร
+      
+</h2>
+      <div>
+        <ul>
+          <li><a href="showProductDetail.php?ProductID=1235135946">
+          				เอกสารประชุมสัมมนา
+  		            </a></li>
+          <li> <a href="showProductDetail.php?ProductID=16">
+          				ถ่ายเอกสารสี ขาวดำ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=20">
+          				ปริ้นท์ดิจิตอลสี ขาวดำ
+  		            </a></li>
+                    <li><a href="showProductDetail.php?ProductID=1">
+          				โรเนียว
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183983">
+          				เคลือบ
+  		            </a></li>
+          <li><a href="showProductDetail.php?ProductID=1211183983">
+          				เข้าเล่ม
+  		            </a></li>
+                  </ul>
+      </div>
+
+ <h2>
+	การเตรียมไฟล์พร้อมพิมพ์
+ 
+</h2>
+      <div>
+        <ul>
+          <li><a href="pdf/Condition.pdf" target="_blank">
+          				การเตรียมไฟล์งาน
+  		            </a></li>
+          <li> <a href="pdf/How_to_convert_file_to_PDF.pdf" target="_blank">
+          				การแปลงไฟล์เป็น PDF
+  		            </a></li>
+          <li> <a href="pdf/Cover_thickness.pdf" target="_blank">
+          				การกำหนดขนาดสันปกหนังสือ
+  		            </a></li>
+        </ul>
+      </div>
+<h2>Download Template/ Layout</h2>
+      <div>
+        <ul>
+          <li><a href="layout.php">Layout</a></li>
+          <li> <a href="#">Template</a></li>
+        </ul>
+      </div>
+            <h3>
+	เครื่องจักรของเรา
+</h3>
+      <div>
+        <p><img src="images/logo_fuji.gif" width="134" height="37" /></p>
+        <p><img src="images/ico_riso.gif" width="83" height="33" /></p>
+        <p><img src="images/logo_duplo.gif" width="132" height="48" /></p>
+        <p><img src="images/ico_oce.gif" width="51" height="52" /></p>
+        <p style="width:260px">&nbsp;</p>
+<p><img src="images/Heidelberg.jpg" width="240"  /></p>
+<p style="width:260px">&nbsp;</p>
+<p><img src="images/nagano.gif" width="240"  /></p>
+      </div>
+    </div>
+    <div id="content"><!-- InstanceBeginEditable name="Content" -->
+    <div style="padding-top:20px;">
+        <h4>ความรู้สิ่งพิมพ์</h4>
+        <div class="bor_h4"></div>
+      </div>
+    <br />
+   <span class="style7" style="font-weight:bold;color:#000"> หัวข้อ : </span>
+    <select name="jumpMenu" id="jumpMenu">
+       <option value="knowledge.php">The A Series</option>
+       <option value="knowledge1.php">การเลือกใช้กระดาษ</option>
+       <option value="knowledge2.php">The B Series</option>
+       <option value="knowledge3.php">การพับเก็บเล่ม</option>
+          <option value="knowledge4.php">รูปแบบการพับกระดาษ</option>
+          <option value="knowledge5.php">ซองจดหมาย (รูปแบบและขนาด) </option>
+          <option value="knowledge6.php">รูปแบบการเข้าเล่ม/เย็บเล่ม </option>
+          <option value="knowledge7.php">เย็บเล่มแบบใดจึงจะเหมาะสม</option>
+          <option value="knowledge8.php">ตารางเปรียบเทียบน้ำหนักและ
+ขนาดของกระดาษ</option>
+          <option value="knowledge9.php">กระดาษขนาดต่างๆที่นิยมใช้</option>
+</select>
+    <br /><br />
+<span class="style7" style="font-weight:bold;color:#000">ข้อมูลโดย ดร. อรัญ หาญสืบสาย ( Thai Printing Directory )</span><br /><br />
+	<div align="center">
+    <div align="left" style="font-weight:bold;color:#039"> The A Series</div>
+    <img src="images/k1.gif" width="682" height="200" /> 
+    <img src="images/k2.gif" width="536" height="700" /> 
+    
+    </div>
+	<!-- InstanceEndEditable -->
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div id="footer">
+    <div>
+      <ul>
+        <li>
+          <p class="fb"><img src="images/ico_fb.gif" width="28" height="29" /> <a href="mailto:info@105printing.com"><img src="images/ico_mail.gif" width="29" height="29" /></a> 105printing.com</p>
+          <p class="top"><a href="#"><img src="images/top.gif" width="31" height="9" /></a></p>
+        </li>
+        <li>
+          <p>บริษัท วัน โอ ไฟว์ ดิจิตอลพริ้นติ้ง จำกัด : 36 ซ.ลาซาล 29 แขวงบางนา เขตบางนา กรุงเทพมหานคร 10260</p>
+          <p>&copy; สงวนลิขสิทธิ์ 2555 บริษัท วัน โอ ไฟว์ ดิจิตอลพริ้นติ้ง จำกัด</p>
+          <p class="dot"></p>
+          <p style="font-size:20px;">
+          <a href="privacy.php" style="text-decoration:none;color:#09347a;">
+	นโยบายความเป็นส่วนตัว
+           
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="disputeResolution.php" style="text-decoration:none;color:#09347a;">
+	การระงับข้อพิพาท
+           
+</a>
+          </p>
+           <!--BEGIN WEB STAT CODE---->
+             <script type="text/javascript"
+src="http://hits.truehits.in.th/data/f0010827.js"></script>
+        <!-- END WEBSTAT CODE -->
+        <script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('7qz6bi0tzj3w')</script>
+        
+<!-- Google Code for 105printing Conversion Page -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1034456472;
+var google_conversion_language = "th";
+var google_conversion_format = "1";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "Jm3GCPKQlQEQmJui7QM";
+var google_conversion_value = 0;
+if (1000.0) {
+  google_conversion_value = 1000.0;
+}
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1034456472/?value=1000.0&amp;label=Jm3GCPKQlQEQmJui7QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+        </li>
+        <li><a href="http://track.thailandpost.co.th/trackinternet/Default.aspx?lang=th" target="_blank"><img src="images/track.gif" alt="" width="125" height="77" border="0"></a>
+        </li>
+      
+  
+      </ul>
+      <p class="clear"></p>
+    </div>  </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>
+

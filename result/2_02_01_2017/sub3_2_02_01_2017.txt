@@ -1,0 +1,1169 @@
+http://all.in.th/index.php 127.0.0.1 20170102054249 text/html 30641
+HTTP/1.1 200 OK
+Date: Mon, 02 Jan 2017 05:43:51 GMT
+Server: Apache/2.4.18 (FreeBSD) PHP/5.6.18
+Content-Type: text/html; charset=UTF-8 Last-modified: null
+Content-length: -1
+
+ 
+<!-- v2.1.10 -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>ALL Statistic Domain .TH</title>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<!--
+	CSS Style Sheet Link
+						-->
+<link rel="stylesheet" type="text/css" href="./stylesheet/main_style.css">
+<!-- style sheet main page -->
+<link rel="stylesheet" type="text/css" href="./stylesheet/stylesheet.css">
+<!-- style sheet tab script -->
+<link rel="stylesheet" type="text/css" href="./stylesheet/tabcontent.css">
+<!--
+	JavaScript Link
+					-->
+<!-- script tab -->
+<script type="text/javascript" src="domain_stat/script/tabcontent.js"></script>
+<!-- Rollorver Menu -->
+<script type="text/javascript" src="domain_stat/script/rollorver.js"></script>
+</head>
+<body>
+<div align="center">
+	<div id="wrapper_header">
+		<!-- Header -->
+		<div id="header"></div>
+	</div>
+	<!--<hr width="1024">-->
+	<div id="wrapper_menu"><style type="text/css">
+#menucontainer { 
+	position: relative;
+	height: 40px;
+	color: #E0E0E0;
+	background: #143D55;
+	width: 100%;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+#menunav{
+	position: relative;
+	height: 33px;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background:#fff url(./stylesheet/dolphin_bg.gif) repeat-x bottom left;
+	padding:0 0 0 20px;
+}
+#menunav ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: auto;
+	float: left;
+}
+#menunav ul li{
+	display: block;
+	float: left;
+	margin:0 1px;
+}
+#menunav ul li a{
+	display: block;
+	float: left;
+	color: #EAF3F8;
+	text-decoration: none;
+	padding: 0 0 0 20px;
+	height: 33px;
+	font-weight: bold;
+}
+#menunav ul li a span{
+	padding: 12px 20px 0 0;
+	height: 21px;
+	float: left;
+}
+#menunav ul li a:hover{
+	color: #143D55;
+	background: transparent url(./stylesheet/dolphin_bg-OVER.gif) repeat-x bottom left;
+}
+#menunav ul li a:hover span{
+	display:block;
+	width:auto;
+	cursor:pointer;
+}
+#menunav ul li a.current, #menunav ul li a.current:hover{
+	color:#fff;
+	background:#1D6893 url(./stylesheet/dolphin_left-ON.gif) no-repeat bottom left;
+	line-height:275%;
+}
+#menunav ul li a.current span{
+	display: block;
+	padding:0 20px 0 0;
+	width:auto;
+	background:#1D6893 url(./stylesheet/dolphin_right-ON.gif) no-repeat bottom right;
+	height: 33px;
+}
+</style>
+<div id="menucontainer">
+	<div id="menunav">
+	<ul>
+		<li><a href="http://www.all.in.th/index.php" title="Home" class="current"><span>Home</span></a></li>
+		<li><a href="http://www.all.in.th/index.php?page=domain_stat&graph=pie" title="Domain Statistic" class=""><span>Domain Statistics</span></a></li>
+		<!-- change v2.2.0
+	 		remove string &type=0 -->
+		<li><a href="http://www.all.in.th/index.php?page=web_dir&module=list" title="Web Directory" class=""><span>Web directory</span></a></li>
+		<li><a href="http://www.all.in.th/index.php?page=activities" title="Activities" class=""><span>Activities</span></a></li>
+		<li><a href="http://www.all.in.th/index.php?page=about" title="About Us" class=""><span>About Us</span></a></li>
+	</ul>
+	</div>
+</div>
+</div>
+	<div id="wrapper">
+		<!-- Content -->
+		<table width="100%" border="0" style="margin: 0;" align="center" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+		<tr>
+			<td width="24%" valign="top">
+			 
+<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
+<tr><th align="center" colspan="2">.th ปรับปรุงข้อมูล : 11/2559</th></tr>
+<tr valign="top">
+	<td width="30%">.ac.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="18" /><br />6,592 (10.04%)</td>
+</tr>
+<tr valign="top">
+	<td>.co.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="103" /><br />37,708 (57.45%)</td>
+</tr>
+<tr valign="top">
+	<td>.go.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="22" /><br />7,875 (12%)</td>
+</tr>
+<tr valign="top">
+	<td>.in.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="34" /><br />12,234 (18.64%)</td>
+</tr>
+<tr valign="top">
+	<td>.mi.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />33 (0.05%)</td>
+</tr>
+<tr valign="top">
+	<td>.net.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />25 (0.04%)</td>
+</tr>
+<tr valign="top">
+	<td>.or.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />1,173 (1.79%)</td>
+</tr>
+<tr valign="top">
+	<td class="t">Total </td>
+	<td class="t l">&nbsp;65,640</td> 
+</tr>
+<tr>
+	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
+</tr>
+</table>
+<br> 
+<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
+<tr><th align="center" colspan="2">.ไทย ปรับปรุงข้อมูล : 11/2559</th></tr>
+<tr valign="top">
+	<td width="30%">.ศึกษา.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="32" /><div>3,140 (17.72%)</div></td>
+</tr>
+<tr valign="top">
+	<td>.ธุรกิจ.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="72" /><br />7,057 (39.82%)</td>
+</tr>
+<tr valign="top">
+	<td>.รัฐบาล.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="33" /><br />3,261 (18.4%)</td>
+</tr>
+<tr valign="top">
+	<td>.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="40" /><br />3,972 (22.41%)</td>
+</tr>
+<tr valign="top">
+	<td>.ทหาร.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />12 (0.07%)</td>
+</tr>
+<tr valign="top">
+	<td>.เน็ต.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />8 (0.05%)</td>
+</tr>
+<tr valign="top">
+	<td>.องค์กร.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />272 (1.53%)</td>
+</tr>
+<tr valign="top">
+	<td class="t">Total </td>
+	<td class="t l">&nbsp;17,722</td> 
+</tr>
+<tr>
+	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
+</tr>
+</table><br><table width="298" height="100%" style='border-collapse: separate; border-left: 0px; border-right: 0px;' border="1" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<td class="td_head" style='border: 0;'><b>มีชื่อโดเมนด้วยขั้นตอนง่ายๆ :-</b></td>
+</tr>
+<tr> 
+	<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'></td></tr>
+<tr height="10px" style='border: 0;'>
+	<td style="border: 0;">
+	<ol>
+		<li>ตรวจสอบชื่อโดเมนที่ต้องการ</li><br>
+		<li>เลือกผู้ให้บริการจดชื่อโดเมน</li><br>
+		<li>แจ้งชื่อโดเมนที่ต้องการกับผู้ให้บริการ</li><br>
+		<li>ส่งสำเนาบัตรประชาชน พร้อมเซ็นรับรองสำเนาถูกต้อง และหลักฐานการชำระเงิน หรือหลักฐานอื่นๆ ที่จำเป็น</li>
+	</ol>
+	</td>
+</tr>
+<tr>
+	<td style='border: 0;'>
+		&nbsp;&nbsp;&nbsp;&nbsp;เพียงเท่านี้ คุณก็สามารถแสดงตัวตนบนโลกออนไลน์ได้ <br><br>
+		<div style="font-size: 14px; font-weight: bold;">
+			<div style="color: #1E90FF;">"เปิดโลกใหม่ เปิดสังคมใหม่</div><div align="right" style="color: #DC143C;">กับ Cyber Identity"</div>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='border: 0;'><!-- v2.1.2 -->
+<br>
+<!--
+Example Form for input data and send post form for check aviable domain
+-->
+<br>
+<form name="checkform" action="#" method="POST">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
+	<tr>
+		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
+		www.<input name="domain" type="text" size="12" value="" />
+		<select name="domain_ext">
+			<option value=".ac.th">ac.th</option>
+			<option value=".co.th">co.th</option>
+			<option value=".go.th">go.th</option>
+			<option value=".or.th">or.th</option>
+			<option value=".in.th" selected>in.th</option>
+			<option value=".mi.th">mi.th</option>
+			<option value=".net.th">net.th</option>
+		</select>
+		</td>
+	</tr>
+	<tr>
+		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
+			<center><input type="submit" value="check" /></center>
+		</td>
+	</tr>
+</table>
+</form></td>
+</tr>
+<tr>
+	<td align="left" style='border: 0;'>
+		รายชื่อผู้ให้บริการจดโดเมน คลิ๊กที่นี่
+		<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
+		<tr><td	align="center" style='border: 0; padding-left: 3em;'>
+			<a href="http://reseller.thnic.co.th/checklists.html" target="_blank"><img src="activities/001/icon_banner.gif" alt="View" width="110" height="17" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td></tr>
+		</table>
+</td></tr>
+<tr height="10px">
+	<td></td>
+</tr>
+</table><br><table width="95%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<!--<td class="td_head" colspan="2"><strong>ALL.IN.TH News</strong></td>-->
+</tr>
+<tr>
+	<td width="50%" valign="top"> 
+		<table width="95%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+		<tr>
+			<td class="td_head"><b>Abouts ALL.IN.TH</b></td>
+		</tr>
+		<tr>
+			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
+				<table width="95%" border="0" align="center">
+				<tr>
+					<td>THNIC พร้อมเปิดให้บริการเว็บไซต์ all.in.th แหล่งรวมทุกเรื่องราวของโดเมนภายใต้ .th ไม่ว่าจะเป็นการค้นหาชื่อโดเมน (web directory) การตรวจสอบสถิติการจดชื่อโดเมนในแต่ละประเภท (Statistic Domain) รวมถึงข้อมูลข่าวสาร ความเคลื่อนไหวต่างๆ ในแวดวงอินเทอร์เน็ต และเป็นสื่อกลางในการแลกเปลี่ยนความรู้ระหว่างคนไทยด้วยกัน 
+          
+          เพียงคลิกเข้าไปที่ <br><br><a href="http://www.all.in.th/index.php">http://www.all.in.th/index.php</a>
+          <img src="images/thnic_logo2.jpg" width="120" height="89" align="right" />
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		</table>
+		<br>
+	</td>
+</tr>
+<!--<tr>
+	<td width="50%" valign="top">
+		<table width="100%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+		<tr>
+			<td class="td_head"><p><b>โครงการ Blog ไทยโดเมน.in.th</b></p></td>
+		</tr>
+		<tr>
+			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
+				<table width="95%" border="0" align="center">
+				<tr>
+					<td>
+					<p>
+					โครงการนี้อยากนำเสนอ Blog ไทยโดเมน.in.th
+					</p>
+				<p>ทีเอชนิคขอขอบพระคุณทุกท่านที่ให้ความสนใจเข้าร่วมโครงการ “Blog ไทยโดเมน .in.th” 
+				และทีเอชนิคมุ่งหวังที่จะนำเสนอสิ่งที่ดีและมีประโยชน์มอบให้แก่ทุกท่านในอนาคตอันใกล้นี้
+				เตรียมพบกับโครงการดีดีได้เร็วนี้
+				<br>
+				<span class="style1">
+					<strong><a href="http://www.thnic.co.th" target="_blank">
+						<img src="images/thnic_logo.jpg" width="120" height="120" border="0" align="right">
+					</a></strong>
+				</span>
+				</p>
+				<p><a href="index.php?page=071120_blogdetail"> >> อ่านรายละเอียดโครงการ << </a></a></p>
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>-->
+</table>			<!-- change v2.1.5 -->
+			<!-- add speedtest.or.th ads -->
+			<center><a href="http://www.speedtest.or.th" target="_blank">
+				<img alt="http://www.speedtest.or.th" src="images/ads/speedtest.or.th/250x250v5v6-e.gif" border="0" />
+			</a>
+			</center>
+			<!-- end add speedtest ads -->
+			</td>
+			<td width="1%"></td>
+			<td width="75%" valign="top">
+			<!-- v2.1.10 -->
+<link rel="stylesheet" type="text/css" href="../stylesheet/activities.css" />
+<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<td class="td_head">ร่วมกิจกรรมกับ ALL.IN.TH</td>
+</tr>
+<tr>
+	<td style='font-size: 13px'>
+	<!-- 	change v2.1.6 : add dns 
+			change v2.7.7 : add domain organization	
+	-->
+			<font size='3'><strong>&nbsp;&nbsp;&nbsp;&nbsp;กิจกรรมใหม่ !!</strong></font><br />
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=bd">Brand Domain</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dhj">Domain Hijack</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=do">Domain Organization</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dns">Domain Name System</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=cyberidentity">Cyber Identity</a></strong></font>
+	<div class='blur'><div class='shadow'><div class='content'><table border='0' bordercolordark='white' bordercolor='#AACCEE' cellpadding='0' cellspacing='0'><tr height='10'><td></td></tr><tr height='80' valign='top' class='clip_bg'><td align='center' width='500'><br><object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
+		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
+		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
+	</object></td></tr><tr><td><div><font size='4'><b>Brand Domain : การสร้างแบรนด์โดเมน</b></font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#000000'>การสร้างแบรนด์โดเมน</font><form id="myform" name="myform"><br><br>Embed Code: <br><input readonly='true' type='text' size='50'  onclick="javascript:document.myform.embed_code.focus();document.myform.embed_code.select();"value="<object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
+		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
+		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
+	</object>" /></form></td></tr></table><br /><br /></div></div></div><a href='index.php?page=activities' style='font-size:10pt; font-weight: bold; text-align: right;'>ดูทั้งหมด ...</a>	</td>
+</tr>
+</table><br /> 
+<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr><td class="td_head">กราฟสถิติโดเมน .th และ .ไทย</td></tr>
+<tr>
+	<td>
+		<!-- start tab script -->
+		<ul id="maintab" class="shadetabs">
+			<li><a href="index.php?page=domain_stat&graph=line">.th Line</a></li>
+			<li><a href="index.php?page=domain_stat&graph=pie">.th Pie</a></li>
+			<li><a href="index.php?page=domain_stat&graph=col">.th Column</a></li>
+			<li><a href="index.php?page=domain_stat&graph=bline">.ไทย Line</a></li>
+			<li><a href="index.php?page=domain_stat&graph=bpie">.ไทย Pie</a></li>
+			<li><a href="index.php?page=domain_stat&graph=bcol">.ไทย Column</a></li>
+			<!--<li><a href="index.php?page=domain_stat&graph=area">Area</a></li>-->
+		</ul>
+		<!-- load graph -->
+		<div class="tabcontentstyle">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Graph Pie</title>
+<script language="JavaScript" src="./domain_stat/script/FusionCharts.js"></script>
+<script language="JavaScript"> 
+function openDir(form) {
+	var newIndex = form.fieldname.selectedIndex; 
+	if(newIndex == 0) { 
+		alert("Please select Year!");
+	} else {
+		cururl = form.fieldname.options[newIndex].value; 
+		window.location.assign(cururl);
+	}
+}
+</script>
+</head>
+<body>
+<table width="100%" border="0" style='border-collapse: separate;' bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<td>
+		<div id="SalesDiv" align="center">
+		Chart.
+	</div>
+	<script type="text/javascript">	
+		var chart_Sales = new FusionCharts("./domain_stat/Charts/Pie2D.swf", "Sales", "600", "400", "0", "0");
+		//Provide entire XML data using dataXML method
+		chart_Sales.setDataXML("<chart caption='November  2559' palette='4' showZeroPies='0'  showPercentValues='0' bgColor='FFFFFF'  defaultAnimation='1' showBorder='0' borderThickness='10' showShadow='1'  use3DLighting='1' enableSmartLabels='1' formatNumberScale='0' baseFont='Helvatiga, Arial' baseFontColor='000000' baseFontSize='12' showNames='1' showValues='1' decimalPrecision='0' pieYScale='75' pieBorderAlpha='40' pieFillAlpha='80' pieSliceDepth='20' pieRadius='160' animation='1'><set label='AC.TH :' value ='6592' /><set label='CO.TH :' value ='37708' isSliced='1'/><set label='GO.TH :' value ='7875'/><set label='IN.TH :' value ='12234'/><set label='MI.TH :' value ='33'/><set label='NET.TH :' value ='25'/><set label='OR.TH :' value ='1173'/></chart>")
+		chart_Sales.render("SalesDiv");
+	</script>		</td>
+</tr>
+</table>
+</body>
+</html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title> :::::: Active Domain ::::: </title>
+<meta http-equiv="content-type" Content="text/html; charset=UTF-8">
+<script language="JavaScript"> 
+function openDir(form) { 
+	var newIndex = form.fieldname.selectedIndex; 
+	if(newIndex == 0) { 
+		alert("Please select a location!"); 
+	} else { 
+		cururl = form.fieldname.options[newIndex].value; 
+		window.location.assign(cururl); 
+	}
+}
+</script>
+</head>
+<body>
+<div align=left>	<a href="index.php?page=domain_stat&&p=2&#stat">แยกจำนวน</A> | 
+<a href="index.php?page=domain_stat&&#stat">รวมยอด</A></div><div align=left><form name=form> 
+	<select name="fieldname" size="1" onChange="openDir(this.form)"> 
+		<option>เลือกปี</option>
+		<option value="index.php?page=domain_stat&&year=all#stat">รวมทั้งหมด</option>
+				<option value="index.php?page=domain_stat&&year=2559#stat" >2559</option>
+				<option value="index.php?page=domain_stat&&year=2558#stat" >2558</option>
+				<option value="index.php?page=domain_stat&&year=2557#stat" >2557</option>
+				<option value="index.php?page=domain_stat&&year=2556#stat" >2556</option>
+				<option value="index.php?page=domain_stat&&year=2555#stat" >2555</option>
+				<option value="index.php?page=domain_stat&&year=2554#stat" >2554</option>
+				<option value="index.php?page=domain_stat&&year=2553#stat" >2553</option>
+				<option value="index.php?page=domain_stat&&year=2552#stat" >2552</option>
+				<option value="index.php?page=domain_stat&&year=2551#stat" >2551</option>
+				<option value="index.php?page=domain_stat&&year=2550#stat" >2550</option>
+				<option value="index.php?page=domain_stat&&year=2549#stat" >2549</option>
+				<option value="index.php?page=domain_stat&&year=2548#stat" >2548</option>
+				<option value="index.php?page=domain_stat&&year=2547#stat" >2547</option>
+				<option value="index.php?page=domain_stat&&year=2546#stat" >2546</option>
+				<option value="index.php?page=domain_stat&&year=2545#stat" >2545</option>
+				<option value="index.php?page=domain_stat&&year=2544#stat" >2544</option>
+				<option value="index.php?page=domain_stat&&year=2543#stat" >2543</option>
+				<option value="index.php?page=domain_stat&&year=2542#stat" >2542</option>
+				<option value="index.php?page=domain_stat&&year=2541#stat" >2541</option>
+				<option value="index.php?page=domain_stat&&year=2540#stat" >2540</option>
+			</select> 
+</form>
+</div><a href="#" id="stat"></a>
+<!-- Show Table and Edit -->
+<table class="dstat" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<th width="7%" rowspan="2">ปี</td>
+	<th width="12%" rowspan="2">เดือน</td>
+	<th width="10%">.ac.th</td>
+	<th width="10%">.co.th</td>
+	<th width="10%">.go.th</td>
+	<th width="10%">.in.th</td>
+	<th width="10%">.mi.th</td>
+	<th width="10%">.net.th</td>
+	<th width="10%">.or.th</td>
+	<th width="10%" style="border: 0;">total</td>
+</tr>
+<tr>
+	<th width="10%">.ศึกษา.ไทย</td>
+	<th width="10%">.ธุรกิจ.ไทย</td>
+	<th width="10%">.รัฐบาล.ไทย</td>
+	<th width="10%">.ไทย</td>
+	<th width="10%">.ทหาร.ไทย</td>
+	<th width="10%">.เน็ต.ไทย</td>
+	<th width="10%">.องค์กร.ไทย</td>
+	<th width="10%" style="border: 0;">รวม</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	พฤศจิกายน	</td>
+	<td>
+		6,592<br />
+		3,140	</td>
+	<td>
+		37,708<br />
+		7,057	</td>
+	<td>
+		7,875<br />
+		3,261	</td>
+	<td>
+		12,234<br />
+		3,972	</td>
+	<td>
+		33<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,173<br />
+		272	</td>
+	<td bgcolor="#FFFF66">
+		65,640<br />
+		17,722	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	ตุลาคม	</td>
+	<td>
+		6,697<br />
+		3,169	</td>
+	<td>
+		37,591<br />
+		6,874	</td>
+	<td>
+		7,872<br />
+		3,245	</td>
+	<td>
+		12,284<br />
+		4,007	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,171<br />
+		271	</td>
+	<td bgcolor="#FFFFFF">
+		65,674<br />
+		17,586	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	กันยายน	</td>
+	<td>
+		6,782<br />
+		3,050	</td>
+	<td>
+		37,499<br />
+		6,822	</td>
+	<td>
+		7,867<br />
+		3,219	</td>
+	<td>
+		12,360<br />
+		4,030	</td>
+	<td>
+		35<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,170<br />
+		273	</td>
+	<td bgcolor="#FFFF66">
+		65,738<br />
+		17,414	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	สิงหาคม	</td>
+	<td>
+		6,836<br />
+		2,984	</td>
+	<td>
+		37,317<br />
+		6,757	</td>
+	<td>
+		7,805<br />
+		3,173	</td>
+	<td>
+		12,467<br />
+		4,055	</td>
+	<td>
+		35<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,170<br />
+		271	</td>
+	<td bgcolor="#FFFFFF">
+		65,655<br />
+		17,260	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	กรกฎาคม	</td>
+	<td>
+		6,875<br />
+		2,829	</td>
+	<td>
+		37,161<br />
+		6,727	</td>
+	<td>
+		7,795<br />
+		3,150	</td>
+	<td>
+		12,483<br />
+		4,057	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,166<br />
+		269	</td>
+	<td bgcolor="#FFFF66">
+		65,539<br />
+		17,052	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	มิถุนายน	</td>
+	<td>
+		6,857<br />
+		2,798	</td>
+	<td>
+		37,064<br />
+		6,729	</td>
+	<td>
+		7,780<br />
+		3,126	</td>
+	<td>
+		12,510<br />
+		4,065	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		9	</td>
+	<td>
+		1,163<br />
+		268	</td>
+	<td bgcolor="#FFFFFF">
+		65,433<br />
+		17,007	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	พฤษภาคม	</td>
+	<td>
+		6,771<br />
+		2,749	</td>
+	<td>
+		36,810<br />
+		6,685	</td>
+	<td>
+		7,704<br />
+		3,082	</td>
+	<td>
+		12,514<br />
+		4,061	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		9	</td>
+	<td>
+		1,168<br />
+		268	</td>
+	<td bgcolor="#FFFF66">
+		65,026<br />
+		16,866	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	เมษายน	</td>
+	<td>
+		6,773<br />
+		2,728	</td>
+	<td>
+		36,603<br />
+		6,656	</td>
+	<td>
+		7,613<br />
+		3,063	</td>
+	<td>
+		12,539<br />
+		4,054	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,165<br />
+		269	</td>
+	<td bgcolor="#FFFFFF">
+		64,751<br />
+		16,790	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	มีนาคม	</td>
+	<td>
+		6,830<br />
+		2,750	</td>
+	<td>
+		36,545<br />
+		6,646	</td>
+	<td>
+		7,587<br />
+		3,045	</td>
+	<td>
+		12,528<br />
+		4,068	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,158<br />
+		268	</td>
+	<td bgcolor="#FFFF66">
+		64,706<br />
+		16,797	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	กุมภาพันธ์	</td>
+	<td>
+		6,886<br />
+		2,762	</td>
+	<td>
+		36,306<br />
+		6,585	</td>
+	<td>
+		7,548<br />
+		3,022	</td>
+	<td>
+		12,759<br />
+		4,205	</td>
+	<td>
+		35<br />
+		12	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,160<br />
+		269	</td>
+	<td bgcolor="#FFFFFF">
+		64,718<br />
+		16,863	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	มกราคม	</td>
+	<td>
+		6,913<br />
+		2,767	</td>
+	<td>
+		36,028<br />
+		6,551	</td>
+	<td>
+		7,494<br />
+		2,992	</td>
+	<td>
+		13,082<br />
+		4,430	</td>
+	<td>
+		34<br />
+		11	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,157<br />
+		268	</td>
+	<td bgcolor="#FFFF66">
+		64,732<br />
+		17,027	</td>
+</tr>
+	
+</table>
+</body>
+</html>		</div>
+	</td>
+</tr>
+</table><br />			</td>
+		</tr>
+		</table>
+		<!-- End Content -->
+	</div>
+	<!-- End Wrapper -->
+	<hr width="1024">
+	<div id="wrapper_footer">
+		<table width="1024" border="0" align="center" style="margin: 0;" cellpadding="0" cellspacing="0">
+		<tr>
+			<td width="50%" align="right">
+				<img src="images/footer.gif" width="120" height="90">
+			</td>
+			<td width="50%" align="left" style="color: #2e2e2e;">
+				All Statistics of Domain .th<br>
+				Powered by ALL.IN.TH Team<br>
+				@2009 Update: 04/04/2555
+			</td>
+		</tr>
+		</table>
+	</div>
+</div>
+</body>
+<!-- change v2.1.5 -->
+<!-- google analytics -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+	var pageTracker = _gat._getTracker("UA-9610320-1");
+	pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- end change -->
+</html>
+
+http://animal.agri.cmu.ac.th/ 127.0.0.1 20170102054249 text/html 6112
+HTTP/1.1 200 OK
+Date: Mon, 02 Jan 2017 05:40:52 GMT
+Server: Microsoft-IIS/8.0
+Content-Type: text/html Last-modified: Last-Modified: Thu, 21 Jul 2011 09:56:23 GMT
+Content-length: 5928
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=tis-620">
+<title>ҤԪѵʵѵ ɵʵ Է§</title>
+</head>
+
+<body background="images/bg/bg-line.jpg" link="#000080" vlink="#000080" alink="#008080">
+
+<div align="center">
+	<table border="0" id="table1" cellspacing="0" cellpadding="0" width="1018">
+		<tr>
+			<td colspan="2">
+			<p align="center">
+			<font face="Tahoma">
+			<img border="0" src="images/bg/bg-top.jpg" width="1018" height="189"></font></td>
+		</tr>
+		<tr>
+			<td height="299" valign="top" width="400">
+			<div align="right">
+				<table border="0" id="table2" align="right" cellspacing="0" cellpadding="0" height="507">
+					<tr>
+						<td valign="top" height="256">
+						<p align="right">
+						<font face="Tahoma">
+						<map name="FPMap0">
+						<area href="index.html" shape="rect" coords="225, 72, 292, 106">
+						<area href="greet.htm" shape="rect" coords="289, 104, 372, 124">
+						<area shape="rect" coords="229, 125, 288, 145" href="http://mis.agri.cmu.ac.th/person/view_person_photographs.asp?dep_id=0805&topic=ҤԪѵʵѵ" target="_blank">
+						<area href="curriculum.htm" shape="rect" coords="289, 159, 352, 183">
+						<area href="textbook.htm" shape="rect" coords="245, 175, 290, 200">
+						<area href="student_fund.htm" shape="rect" coords="294, 193, 361, 229">
+						<area target="_blank" href="http://www.agri.cmu.ac.th/qa/" shape="rect" coords="291, 247, 390, 280">
+						<area href="research.htm" shape="rect" coords="206, 219, 295, 254">
+						<area href="farm.htm" shape="rect" coords="247, 288, 293, 309">
+						<area href="lab-feed.htm" shape="rect" coords="296, 296, 385, 333">
+						<area href="lab-comp.htm" shape="rect" coords="212, 318, 295, 355">
+						<area href="schedule.htm" shape="rect" coords="297, 348, 373, 371">
+						<area href="student.htm" shape="rect" coords="168, 364, 296, 391">
+						<area coords="204, 416, 294, 438" shape="rect" href="links.htm">
+						<area href="download.htm" shape="rect" coords="291, 385, 390, 420">
+						</map>
+						<img border="0" src="images/bg/bg-leftmid-forhome.jpg" width="400" height="442" usemap="#FPMap0"></font></td>
+					</tr>
+					<tr>
+						<td background="images/bg/bg-leftbottcounter.jpg" style="border-bottom: 3px outset #663300" valign="bottom">
+						<p align="right">
+					<span style="background-color: #000000" lang="th"><b>
+					<font face="Tahoma" color="#FFFFFF">
+		<a href="http://www.siammix.net/freecounter/" target="_blank" >
+		<!-- Histats.com START (standard)--> <script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script> <a href="http://www.histats.com" target="_blank" title="web site hit counter" ><script type="text/javascript" > try {Histats.start(1,1538160,4,297,112,35,"00000011"); Histats.track_hits();} catch(err){}; </script></a> <noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?1538160&101" alt="web site hit counter" border="0"></a></noscript> <!-- Histats.com END -->  </a></font></b></span></td>
+					</tr>
+				</table>
+			</div>
+			<p align="right"></td>
+			<td height="299" background="images/bg/bg-main.jpg" width="618" valign="top">
+			<p align="right"><font face="Tahoma"><br>
+			<br>
+			<a href="greet.htm">
+			<img border="0" src="images/decor/enterwebsite.jpg" width="160" height="44"></a></font><font size="2" color="#663300" face="Tahoma"><br>
+			</font><a href="greet.htm">
+			<img border="0" src="images/decor/dec01.gif" width="500" height="363"></a></td>
+		</tr>
+	</table>
+	<table border="0" width="100%" id="table3" cellspacing="0" cellpadding="0">
+		<tr>
+			<td valign="middle">
+		<p align="right">
+		<font class="title" face="Tahoma" style="font-size: 9pt">
+		<font color="#009999">All rights reserved Terms of used @ 2011&nbsp;<b>::</b> 
+		Best view in 1440*900 pixel </font><b><font color="#009999">::<br>
+		</font> </b></font><b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&nbsp; - 
+		- - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		ҤԪѵʵѵ ɵʵ Է§ 239 . .෾ .ͧ .§ 50200<br>
+		</font><b><font color="#663300">Department of Animal and Aquatic Science , Faculty of Agriculture, Chiang Mai University  239 Huay Kaew Rd., Suthep, Muang, Chiang Mai 50200<br>
+		</font></font><font color="#834D16" face="Tahoma"><b><span lang="th">
+		˹ҤԪ: ͧʵҨ .ت 駷ԾѲ  ԴҤԪ: سʧ ẹ  <br>
+		</font><font color="#808000" face="Tahoma">Ѿ: 0-5322-1667, 0-5394-4069-73  ::   :  0-5335-7601, 0-5394-4666<br>
+		</font></font>Webmaster:: س觡ҹ  ѹ˧   ::  Ѿ: 0-5394-4104  E-mail: deerkp@hotmail.com
+<br>
+		<b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - 
+		- - - - - - - - - - -&nbsp; - - - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		</b> 
+		</font></font></font>
+		<font color="#CC9900" face="Tahoma" style="font-size: 9pt"><b>
+		<span lang="th">ɵʵ Է§</span>::</b><span lang="th">&nbsp;
+		<a target="_blank" href="http://www.agri.cmu.ac.th/">
+		<font color="#CC9900">www.agri.cmu.ac.th</font></a></span></font></p></td>
+			<td width="200" valign="top">
+			<p align="right">
+			<font face="Tahoma">
+			<img border="0" src="images/decor/pegion2.jpg" width="200" height="153"></font></td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
+
+http://animal.agri.cmu.ac.th/greet.htm 127.0.0.1 20170102054249 text/html 19824
+HTTP/1.1 200 OK
+Date: Mon, 02 Jan 2017 05:40:52 GMT
+Server: Microsoft-IIS/8.0
+Content-Type: text/html Last-modified: Last-Modified: Wed, 20 May 2015 03:37:14 GMT
+Content-length: 19639
+
+﻿<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3649;&#3621;&#3632;&#3626;&#3633;&#3605;&#3623;&#3660;&#3609;&#3657;&#3635; &#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; &#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</title>
+</head>
+
+<body background="images/bg/bg-line.jpg" link="#000080" vlink="#000080" alink="#008080">
+
+<div align="center">
+	<table border="0" id="table1" cellspacing="0" cellpadding="0" width="1018">
+		<tr>
+			<td colspan="2">
+			<p align="center">
+			<font face="Tahoma">
+			<img border="0" src="images/bg/bg-top.jpg" width="1018" height="189"></font></td>
+		</tr>
+		<tr>
+			<td height="299" valign="top" width="400">
+			<div align="right">
+				<table border="0" id="table2" align="right" cellspacing="0" cellpadding="0" height="507">
+					<tr>
+						<td valign="top" height="256">
+						<p align="right">
+						<font face="Tahoma">
+						<map name="FPMap0">
+						<area href="index.html" shape="rect" coords="225, 72, 292, 106">
+						<area href="greet.htm" shape="rect" coords="289, 104, 372, 124">
+						<area href="officer.htm" shape="rect" coords="229, 125, 288, 145">
+						<area href="curriculum.htm" shape="rect" coords="289, 159, 352, 183">
+						<area href="textbook.htm" shape="rect" coords="245, 175, 290, 200">
+						<area href="student_fund.htm" shape="rect" coords="294, 193, 361, 229">
+						<area target="_blank" href="http://www.agri.cmu.ac.th/qa/" shape="rect" coords="291, 247, 390, 280">
+						<area href="research.htm" shape="rect" coords="206, 219, 295, 254">
+						<area href="farm.htm" shape="rect" coords="247, 288, 293, 309">
+						<area href="lab-feed.htm" shape="rect" coords="296, 296, 385, 333">
+						<area href="lab-comp.htm" shape="rect" coords="212, 318, 295, 355">
+						<area href="schedule.htm" shape="rect" coords="297, 348, 373, 371">
+						<area href="student.htm" shape="rect" coords="168, 364, 296, 391">
+						<area coords="204, 416, 294, 438" shape="rect" href="links.htm">
+						<area href="download.htm" shape="rect" coords="291, 385, 390, 420">
+						</map>
+						<img border="0" src="images/bg/bg-leftmid.jpg" width="400" height="442" usemap="#FPMap0"></font></td>
+					</tr>
+					<tr>
+						<td background="images/bg/bg-leftbott.jpg" style="border-bottom: 3px outset #663300">&nbsp;<p align="center">&nbsp;</td>
+					</tr>
+				</table>
+			</div>
+			<p align="right">&nbsp;</td>
+			<td height="299" background="images/bg/bg-main.jpg" width="618" valign="top">
+			<p align="right"><font face="Tahoma"><br>
+			<span style="font-size: 11pt">
+			<img border="0" src="images/decor/greet.jpg" width="260" height="44"></span></font><div align="right">
+				<table border="0" width="100%" id="table4" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="77%" valign="middle">
+					<p align="right">
+					<font face="Tahoma" size="2"><span class="tx-blue">
+					<font color="#008080">&#3619;<span lang="th">&#3629;&#3591;&#3624;&#3634;&#3626;&#3605;&#3619;&#3634;&#3592;&#3634;&#3619;&#3618;&#3660; </span>
+					&#3604;&#3619;.ศุภมิตร เมฆฉาย<br>
+					</font>
+					<font color="#663300"><br>
+					&#3627;&#3633;&#3623;&#3627;&#3609;&#3657;&#3634;&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;<span lang="th">&#3649;&#3621;&#3632;&#3626;&#3633;&#3605;&#3623;&#3660;&#3609;&#3657;&#3635;
+					<br>
+					&#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; &#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</span></font></span></font></td>
+						<td width="23%">
+						<p align="right">
+					<img border="0" src="http://mis.agri.cmu.ac.th/images/person2/0233.jpg" height="240" style="margin-left:10px"></td>
+					</tr>
+					<tr>
+						<td colspan="2">
+					<p align="right"><font face="Tahoma">
+					<font size="2">
+					<span class="tx1">
+					<br>
+					</span>
+					<br>
+					</font></font><font face="Tahoma" size="2">
+					&#3648;&#3611;&#3655;&#3609;&#3626;&#3634;&#3586;&#3634;&#3623;&#3636;&#3594;&#3634;&#3607;&#3637;&#3656;&#3619;&#3633;&#3610;&#3612;&#3636;&#3604;&#3594;&#3629;&#3610;&#3651;&#3609;&#3585;&#3634;&#3619;&#3648;&#3619;&#3637;&#3618;&#3609;&#3585;&#3634;&#3619;&#3626;&#3629;&#3609; &#3585;&#3634;&#3619;&#3623;&#3636;&#3592;&#3633;&#3618; 
+					&#3649;&#3621;&#3632;&#3626;&#3656;&#3591;&#3648;&#3626;&#3619;&#3636;&#3617;&#3648;&#3612;&#3618;&#3649;&#3614;&#3619;&#3656;&#3623;&#3636;&#3594;&#3634;&#3585;&#3634;&#3619;&#3626;&#3634;&#3586;&#3634;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; (Animal Science) 
+					&#3650;&#3604;&#3618;&#3617;&#3637;&#3627;&#3621;&#3633;&#3585;&#3626;&#3641;&#3605;&#3619;&#3607;&#3637;&#3656;&#3611;&#3619;&#3632;&#3585;&#3629;&#3610;&#3604;&#3657;&#3623;&#3618;&#3585;&#3619;&#3632;&#3610;&#3623;&#3609;&#3623;&#3636;&#3594;&#3634;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3609;&#3629;&#3585;&#3648;&#3627;&#3609;&#3639;&#3629;&#3652;&#3611;&#3592;&#3634;&#3585;&#3585;&#3619;&#3632;&#3610;&#3623;&#3609;&#3623;&#3636;&#3594;&#3634;&#3605;&#3656;&#3634;&#3591;&#3654; &#3651;&#3609;&#3604;&#3657;&#3634;&#3609;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3607;&#3637;&#3656;&#3649;&#3610;&#3656;&#3591;&#3629;&#3629;&#3585;&#3652;&#3604;&#3657;&#3648;&#3611;&#3655;&#3609;&#3626;&#3634;&#3586;&#3634;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3652;&#3604;&#3657;&#3649;&#3585;&#3656; &#3650;&#3616;&#3594;&#3609;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; &#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3648;&#3624;&#3619;&#3625;&#3600;&#3585;&#3636;&#3592;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3585;&#3634;&#3619;&#3611;&#3619;&#3633;&#3610;&#3611;&#3619;&#3640;&#3591;&#3614;&#3633;&#3609;&#3608;&#3640;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; &#3626;&#3619;&#3637;&#3619;&#3623;&#3636;&#3607;&#3618;&#3634; &#3623;&#3636;&#3607;&#3618;&#3634;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3648;&#3609;&#3639;&#3657;&#3629;&#3626;&#3633;&#3605;&#3623;&#3660; 
+					&#3649;&#3621;&#3632;&#3626;&#3640;&#3586;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; 
+					&#3609;&#3629;&#3585;&#3592;&#3634;&#3585;&#3609;&#3637;&#3657;&#3609;&#3633;&#3585;&#3624;&#3638;&#3585;&#3625;&#3634;&#3618;&#3633;&#3591;&#3605;&#3657;&#3629;&#3591;&#3607;&#3635;&#3585;&#3634;&#3619;&#3613;&#3638;&#3585;&#3591;&#3634;&#3609;&#3648;&#3614;&#3639;&#3656;&#3629;&#3651;&#3627;&#3657;&#3648;&#3585;&#3636;&#3604;&#3607;&#3633;&#3585;&#3625;&#3632;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3585;&#3633;&#3610;&#3585;&#3634;&#3619;&#3648;&#3585;&#3625;&#3605;&#3619;&#3607;&#3633;&#3656;&#3623;&#3652;&#3611; 
+					&#3649;&#3621;&#3632;&#3607;&#3634;&#3591;&#3604;&#3657;&#3634;&#3609;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;&#3648;&#3611;&#3655;&#3609;&#3619;&#3632;&#3618;&#3632;&#3648;&#3623;&#3621;&#3634;&#3652;&#3617;&#3656;&#3605;&#3656;&#3635;&#3585;&#3623;&#3656;&#3634; 300 &#3594;&#3633;&#3656;&#3623;&#3650;&#3617;&#3591; 
+					&#3651;&#3609;&#3615;&#3634;&#3619;&#3660;&#3617;&#3586;&#3629;&#3591;&#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618; &#3649;&#3621;&#3632;&#3648;&#3629;&#3585;&#3594;&#3609; 
+					&#3650;&#3604;&#3618;&#3651;&#3594;&#3657;&#3619;&#3632;&#3618;&#3632;&#3648;&#3623;&#3621;&#3634;&#3651;&#3609;&#3585;&#3634;&#3619;&#3624;&#3638;&#3585;&#3625;&#3634;&#3627;&#3621;&#3633;&#3585;&#3626;&#3641;&#3605;&#3619;&#3611;&#3619;&#3636;&#3597;&#3597;&#3634;&#3605;&#3619;&#3637;&#3648;&#3611;&#3655;&#3609;&#3648;&#3623;&#3621;&#3634; 4 &#3611;&#3637; 
+					&#3627;&#3621;&#3633;&#3585;&#3626;&#3641;&#3605;&#3619;&#3610;&#3633;&#3603;&#3601;&#3636;&#3605;&#3624;&#3638;&#3585;&#3625;&#3634;&#3619;&#3632;&#3604;&#3633;&#3610;&#3611;&#3619;&#3636;&#3597;&#3597;&#3634;&#3650;&#3607; &#3648;&#3611;&#3655;&#3609;&#3648;&#3623;&#3621;&#3634; 2 &#3611;&#3637; &#3649;&#3621;&#3632;&#3611;&#3619;&#3636;&#3597;&#3597;&#3634;&#3648;&#3629;&#3585; 
+					3 &#3611;&#3637;</font></p>
+					<p align="right"><font face="Tahoma" size="2">
+					&#3612;&#3641;&#3657;&#3626;&#3635;&#3648;&#3619;&#3655;&#3592;&#3585;&#3634;&#3619;&#3624;&#3638;&#3585;&#3625;&#3634;&#3609;&#3637;&#3657;&nbsp;&#3626;&#3634;&#3617;&#3634;&#3619;&#3606;&#3611;&#3619;&#3632;&#3585;&#3629;&#3610;&#3629;&#3634;&#3594;&#3637;&#3614;&#3626;&#3656;&#3623;&#3609;&#3605;&#3633;&#3623;&#3607;&#3637;&#3656;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3586;&#3657;&#3629;&#3591;&#3585;&#3633;&#3610;&#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3607;&#3640;&#3585;&#3594;&#3609;&#3636;&#3604;&#3651;&#3609;&#3586;&#3633;&#3657;&#3609;&#3605;&#3629;&#3609;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3585;&#3633;&#3609;&#3605;&#3634;&#3617;&#3588;&#3623;&#3634;&#3617;&#3648;&#3627;&#3617;&#3634;&#3632;&#3626;&#3617; &#3648;&#3594;&#3656;&#3609; &#3612;&#3621;&#3636;&#3605;&#3649;&#3621;&#3632;&#3592;&#3635;&#3627;&#3609;&#3656;&#3634;&#3618;&#3629;&#3634;&#3627;&#3634;&#3619;&#3626;&#3633;&#3605;&#3623;&#3660; &#3614;&#3633;&#3609;&#3608;&#3640;&#3660;&#3626;&#3633;&#3605;&#3623;&#3660; 
+					&#3649;&#3621;&#3632;&#3623;&#3633;&#3626;&#3604;&#3640;&#3629;&#3640;&#3611;&#3585;&#3619;&#3603;&#3660;&#3605;&#3656;&#3634;&#3591;&#3654; 
+					&#3627;&#3619;&#3639;&#3629;&#3607;&#3635;&#3591;&#3634;&#3609;&#3651;&#3609;&#3610;&#3619;&#3636;&#3625;&#3633;&#3607;&#3648;&#3629;&#3585;&#3594;&#3609;&#3604;&#3657;&#3634;&#3609;&#3608;&#3640;&#3619;&#3585;&#3636;&#3592;&#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3607;&#3633;&#3657;&#3591;&#3651;&#3609;&#3649;&#3621;&#3632;&#3605;&#3656;&#3634;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624; 
+					&#3650;&#3604;&#3618;&#3648;&#3593;&#3614;&#3634;&#3632;&#3629;&#3618;&#3656;&#3634;&#3591;&#3618;&#3636;&#3656;&#3591;&#3651;&#3609;&#3611;&#3633;&#3592;&#3592;&#3640;&#3610;&#3633;&#3609;&#3607;&#3637;&#3656;&#3608;&#3640;&#3619;&#3585;&#3636;&#3592;&#3585;&#3634;&#3619;&#3612;&#3621;&#3636;&#3605;&#3626;&#3633;&#3605;&#3623;&#3660;&#3616;&#3634;&#3588;&#3648;&#3629;&#3585;&#3594;&#3609;&#3586;&#3629;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3652;&#3607;&#3618;</font></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+	</table>
+	<table border="0" width="73%" id="table5" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+			<p align="right"><font face="Tahoma" size="2">
+					<br>
+&nbsp;&#3617;&#3637;&#3585;&#3634;&#3619;&#3604;&#3635;&#3648;&#3609;&#3636;&#3609;&#3608;&#3640;&#3619;&#3585;&#3636;&#3592;&#3651;&#3609;&#3605;&#3656;&#3634;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3648;&#3614;&#3636;&#3656;&#3617;&#3586;&#3638;&#3657;&#3609; &#3607;&#3633;&#3657;&#3591;&#3651;&#3609;&#3616;&#3641;&#3617;&#3636;&#3616;&#3634;&#3588;&#3629;&#3634;&#3648;&#3595;&#3637;&#3618;&#3609;&#3649;&#3621;&#3632;&#3616;&#3641;&#3617;&#3636;&#3616;&#3634;&#3588;&#3629;&#3639;&#3656;&#3609;&#3654; 
+			&#3607;&#3633;&#3656;&#3623;&#3650;&#3621;&#3585;&#3607;&#3637;&#3656;&#3585;&#3635;&#3621;&#3633;&#3591;&#3586;&#3618;&#3634;&#3618;&#3605;&#3633;&#3623;&#3648;&#3614;&#3636;&#3656;&#3617;&#3586;&#3638;&#3657;&#3609;&#3629;&#3618;&#3656;&#3634;&#3591;&#3605;&#3656;&#3629;&#3648;&#3609;&#3639;&#3656;&#3629;&#3591; <br>
+			&#3607;&#3635;&#3651;&#3627;&#3657;&#3588;&#3623;&#3634;&#3617;&#3605;&#3657;&#3629;&#3591;&#3585;&#3634;&#3619;&#3609;&#3633;&#3585;&#3623;&#3636;&#3594;&#3634;&#3585;&#3634;&#3619;&#3594;&#3634;&#3623;&#3652;&#3607;&#3618;&#3607;&#3637;&#3656;&#3592;&#3632;&#3652;&#3611;&#3604;&#3635;&#3648;&#3609;&#3636;&#3609;&#3585;&#3634;&#3619;&#3651;&#3609;&#3605;&#3656;&#3634;&#3591;&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3648;&#3614;&#3636;&#3656;&#3617;&#3586;&#3638;&#3657;&#3609;&#3605;&#3634;&#3617;&#3652;&#3611;&#3604;&#3657;&#3623;&#3618; 
+			&#3609;&#3629;&#3585;&#3592;&#3634;&#3585;&#3609;&#3637;&#3657;&#3618;&#3633;&#3591;&#3648;&#3611;&#3655;&#3609;&#3607;&#3637;&#3656;&#3605;&#3657;&#3629;&#3591;&#3585;&#3634;&#3619;&#3629;&#3618;&#3656;&#3634;&#3591;&#3618;&#3636;&#3656;&#3591;&#3651;&#3609;&#3627;&#3609;&#3656;&#3623;&#3618;&#3591;&#3634;&#3609;&#3619;&#3634;&#3594;&#3585;&#3634;&#3619;&#3605;&#3656;&#3634;&#3591;&#3654; <br>
+			&#3629;&#3634;&#3607;&#3636; &#3585;&#3619;&#3617;&#3611;&#3624;&#3640;&#3626;&#3633;&#3605;&#3623;&#3660; &#3585;&#3619;&#3617;&#3626;&#3656;&#3591;&#3648;&#3626;&#3619;&#3636;&#3617;&#3585;&#3634;&#3619;&#3648;&#3585;&#3625;&#3605;&#3619;&#3649;&#3621;&#3632;&#3585;&#3619;&#3617;&#3629;&#3639;&#3656;&#3609;&#3654; 
+			&#3651;&#3609;&#3585;&#3619;&#3632;&#3607;&#3619;&#3623;&#3591;&#3648;&#3585;&#3625;&#3605;&#3619;&#3649;&#3621;&#3632;&#3626;&#3627;&#3585;&#3619;&#3603;&#3660; &#3627;&#3619;&#3639;&#3629;&#3627;&#3609;&#3656;&#3623;&#3618;&#3591;&#3634;&#3609;&#3629;&#3639;&#3656;&#3609;&#3654; &#3648;&#3594;&#3656;&#3609; &#3585;&#3619;&#3617;&#3629;&#3634;&#3594;&#3637;&#3623;&#3624;&#3638;&#3585;&#3625;&#3634; 
+			&#3626;&#3606;&#3634;&#3610;&#3633;&#3609;&#3619;&#3634;&#3594;&#3616;&#3633;&#3598; <br>
+			&#3585;&#3619;&#3617;&#3611;&#3619;&#3632;&#3594;&#3634;&#3626;&#3591;&#3648;&#3588;&#3619;&#3634;&#3632;&#3627;&#3660;&#3649;&#3621;&#3632;&#3627;&#3609;&#3656;&#3623;&#3618;&#3591;&#3634;&#3609;&#3605;&#3656;&#3634;&#3591;&#3654; &#3586;&#3629;&#3591;&#3607;&#3627;&#3634;&#3619; &#3648;&#3594;&#3656;&#3609; &#3585;&#3619;&#3617;&#3585;&#3634;&#3619;&#3626;&#3633;&#3605;&#3623;&#3660;&#3607;&#3627;&#3634;&#3619;&#3610;&#3585; &#3585;&#3619;&#3611;.&#3585;&#3621;&#3634;&#3591; 
+			&#3649;&#3621;&#3632;&#3608;&#3609;&#3634;&#3588;&#3634;&#3619;&#3605;&#3656;&#3634;&#3591;&#3654; &#3651;&#3609;&#3626;&#3656;&#3623;&#3609;&#3607;&#3637;&#3656;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3585;&#3633;&#3610;&#3626;&#3636;&#3609;&#3648;&#3594;&#3639;&#3656;&#3629;&#3585;&#3634;&#3619;&#3648;&#3585;&#3625;&#3605;&#3619; <br>
+			&#3605;&#3621;&#3629;&#3604;&#3592;&#3609;&#3629;&#3591;&#3588;&#3660;&#3585;&#3634;&#3619;&#3614;&#3633;&#3602;&#3609;&#3634;&#3648;&#3629;&#3585;&#3594;&#3609;&#3605;&#3656;&#3634;&#3591;&#3654; &#3648;&#3611;&#3655;&#3609;&#3605;&#3657;&#3609;</font></p>
+			<p align="center">&nbsp;</td>
+		</tr>
+	</table>
+	<table border="0" width="100%" id="table3" cellspacing="0" cellpadding="0">
+		<tr>
+			<td valign="middle">
+		<p align="right">
+		<font class="title" face="Tahoma" style="font-size: 9pt">
+		<font color="#009999">All rights reserved Terms of used @ 2011&nbsp;<b>::</b> 
+		Best view in 1440*900 pixel </font><b><font color="#009999">::<br>
+		</font> </b></font><b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&nbsp; - 
+		- - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;&#3626;&#3633;&#3605;&#3623;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;<span lang="th">&#3649;&#3621;&#3632;&#3626;&#3633;&#3605;&#3623;&#3660;&#3609;&#3657;&#3635;</span></b></font><font face="Tahoma"><font color="#663300"><b> &#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; 
+		&#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</b> 239 &#3606;<span lang="th">.</span>&#3627;&#3657;&#3623;&#3618;&#3649;&#3585;&#3657;&#3623; 
+		&#3605;<span lang="th">.</span>&#3626;&#3640;&#3648;&#3607;&#3614; &#3629;<span lang="th">.</span>&#3648;&#3617;&#3639;&#3629;&#3591; &#3592;<span lang="th">.</span>&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656; 50200<br>
+		</font><b><font color="#663300">Department of Animal and Aquatic Science , Faculty of 
+		Agriculture, Chiang Mai University<span lang="th">&nbsp; </span></font>
+		</b><font color="#663300"> 239 Huay Kaew Rd., Suthep, Muang, Chiang Mai 
+		50200</font><font color="#808000"><br>
+		</font></font><font color="#834D16" face="Tahoma"><b><span lang="th">
+		&#3627;&#3633;&#3623;&#3627;&#3609;&#3657;&#3634;&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;</span>:</b></font></font><font face="Tahoma"><font class="title"><font color="#834D16"> 
+		&#3619;&#3629;&#3591;&#3624;&#3634;&#3626;&#3605;&#3619;&#3634;&#3592;&#3634;&#3619;&#3618;&#3660; &#3604;&#3619;.&#3626;&#3640;&#3594;&#3609; &#3605;&#3633;&#3657;&#3591;&#3607;&#3623;&#3637;&#3623;&#3636;&#3614;&#3633;&#3602;&#3609;&#3660;<span lang="th">&nbsp; <b>
+		&#3605;&#3636;&#3604;&#3605;&#3656;&#3629;&#3616;&#3634;&#3588;&#3623;&#3636;&#3594;&#3634;</b></span><b>:</b> <span lang="th">&#3588;&#3640;&#3603;&#3649;&#3626;&#3591;&#3604;&#3634;&#3623;</span>
+		<span lang="th">&#3649;&#3610;&#3609;&#3595;&#3636;&#3648;&#3585;&#3629;&#3619;&#3660;&nbsp; </span></font></font></font>
+		<font class="title">
+		<font color="#834D16" face="Tahoma"><br>
+		</font><font color="#808000" face="Tahoma">&#3650;&#3607;&#3619;&#3624;&#3633;&#3614;&#3607;&#3660;: 0-5322-1667,<span lang="th">
+		</span>0-5394-4069-73&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;&#3650;&#3607;&#3619;&#3626;&#3634;&#3619;: &nbsp;0-5335-7601,<span lang="th">
+		</span>0-5394-4666<br>
+		</font></font></font><font class="title" face="Tahoma">
+		<font style="font-size: 9pt"><b>
+		<font color="#808080">Webmaster<span lang="en-us">::</span></font></b><font color="#808080"> 
+		&#3588;&#3640;&#3603;&#3619;&#3640;&#3656;&#3591;&#3585;&#3634;&#3609;&#3605;&#3660;&nbsp; &#3585;&#3633;&#3609;&#3607;&#3632;&#3627;&#3591;&#3625;&#3660;<span lang="en-us">&nbsp;&nbsp; ::</span>
+		<span lang="en-us">&nbsp;</span><span lang="th">&#3650;&#3607;&#3619;&#3624;&#3633;&#3614;&#3607;&#3660;</span>: 0-5394-410<span lang="th">4</span>
+		<span lang="en-us">&nbsp;E-mail: </span></font></font><font color="#808080">
+		<a href="mailto:deerkp@hotmail.com">
+		<font color="#808080" style="font-size: 9pt">deerkp@hotmail.com</font></a></font></font><br>
+		<b><font class="title" face="Tahoma">
+		<font style="font-size: 9pt">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&nbsp; - 
+		- - - - - - - - - - - </font></font> </b><font style="font-size: 9pt">
+		<font class="title">
+		<font color="#663300" face="Tahoma"><b><br>
+		</b> 
+		</font></font></font>
+		<font color="#CC9900" face="Tahoma" style="font-size: 9pt"><b>
+		<span lang="th">&#3588;&#3603;&#3632;&#3648;&#3585;&#3625;&#3605;&#3619;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660; &#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;</span>::</b><span lang="th">&nbsp;
+		<a target="_blank" href="http://www.agri.cmu.ac.th/">
+		<font color="#CC9900">www.agri.cmu.ac.th</font></a></span></font></p></td>
+			<td width="200" valign="top">
+			<p align="right">
+			<font face="Tahoma">
+			<img border="0" src="images/decor/pegion2.jpg" width="200" height="153"></font></td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
+

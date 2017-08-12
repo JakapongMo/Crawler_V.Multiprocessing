@@ -1,0 +1,1440 @@
+http://aee.co.th/products.html 127.0.0.1 20170105060014 text/html 17552
+HTTP/1.1 200 OK
+Date: Thu, 05 Jan 2017 06:00:13 GMT
+Server: nginx
+Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
+Content-length: 17379
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Asia Energy Engineering -Special Steel Solutions-</title>
+<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
+<style>
+#customers {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 90%;
+	margin: 0px auto;
+	border-collapse: collapse;
+}
+#customers td, #customers th {
+	font-size: 16px;
+	border: 1px solid #98bf21;
+	padding: 3px 7px 2px 7px;
+	color: #000000;
+}
+#customers th {
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 4px;
+	background-color: #b0b8fc;
+	color: #800000;
+}
+#customers tr.alt td {
+	color: #000000;
+	background-color: #AAF2D3;
+}
+</style>
+</head>
+
+<body>
+<div id='wrapper'><!--WRAPPER-->
+<header><!--HEADER-->
+  <div id='headerContainer'><!--HEADER--CONTAINER-->
+<script type="text/javascript" src="js/jquery_min.js"></script> 
+<script type="text/javascript" src="js/core.js"></script> 
+<script type="text/javascript" src="js/utils.js"></script> 
+<script type="text/javascript" src="js/slider.js"></script> 
+<script>
+        var _SlideshowTransitions = [
+        //Fade
+        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
+        ];
+    </script> 
+<script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
+                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
+                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
+                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+                }
+            };
+
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        });
+    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
+<div id="content"><!-- This is the actual menu -->
+  <ul id="darkmenu">
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="profile.html">COMPANY</a></li>
+        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
+        <li><a href="download.html">DOWNLOAD</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
+      </ul>
+</div><!--END--HEADER--CONTAINER--> 
+</header><!--END--HEADER-->
+    </div><!-- content -->
+     <div class="container"><!--CONTAINER-->
+  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
+  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
+      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
+    </div><!--END--CONTAINER-->
+        <a style="display: none" href="home.html">Home</a> </div>
+  
+  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
+  <!--    <div class="textrounded1">Subject</div> -->
+  <div class="contentpage">
+        <div class="sidebar4">
+      <aside>
+            <h4>PRODUCTS & SERVICES</h4>
+            <a href="#tube"><span class="text_redb">Seamless & Welded Tube and Pipe</span></a><br>
+            <a href="#plate"><span class="text_redb">Plate and Sheet</span></a><br>
+            <a href="#fitting"><span class="text_redb">Flange and Fitting</span></a><br>
+            <a href="#bar"><span class="text_redb">Rolled and Forged Bar</span></a><br>
+            <a href="#HE"><span class="text_redb">Heat Exchanger Components</span></a><br>
+             <a href="#HE"><span class="text_redb">Rails and Accessories for Train & Crane</span></a><br>
+            <a href="#refp"><span class="text_redb">Represented Product</span></a><br>
+            <p></p>
+            <!-- <h3>brief details here</h3> --> 
+          </aside>
+      <!-- end .sidebar1--> </div>
+        <article class="content_column2"> 
+      <!--    <h1>Group of article</h1> -->
+      <section>
+            <h2>Various Items of Products</h2>
+            <h5 id="tube">Seamless & Welded Tube and Pipe</h5>
+            <table id="customers">
+          <tr>
+                <th width="30%"><span class="text_redb">Standard</span></th>
+                <th width="70%"><span class="text_redb">Carbon Steel</span></th>
+              </tr>
+          <tr>
+                <td>ASME/ASTM</td>
+                <td>SA/A178, SA/A179, SA/A210 Gr. A1/C<br>
+              SA/A53 Gr. A/B, SA/A106 Gr. B</td>
+              </tr>
+          <tr>
+                <td>DIN 17175</td>
+                <td>St35.8, St45.8, 15Mo3</td>
+              </tr>
+          <tr>
+                <td>EN 10216-2</td>
+                <td>P235GH, P265GH, 16Mo3</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Alloy Steel</span></th>
+              </tr>
+          <tr class="alt">
+                <td>ASME/ASTM</td>
+                <td>SA/A209 T1, SA/A213 T5,T11,T12,T22,T23,T91<br>
+              SA/A335 P1, P11, P12, P22, P23, P91</td>
+              </tr>
+          <tr class="alt">
+                <td>DIN 17175</td>
+                <td>16Mo5, 13CrMo4 4, 10CrMo9-10</td>
+              </tr>
+          <tr class="alt">
+                <td>EN 10216-2</td>
+                <td>8MoB5-4, 10CrMo5-5, 13CrMo4-5, 10CrMo9-10</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Stainless Steel</span></th>
+              </tr>
+          <tr>
+                <td>ASME/ASTM</td>
+                <td>SA/A213, SA/A268, SA/A269<br>
+              SA/A312<br>
+              (TP304, TP304H, TP310, TP316, TP316L, TP316N, TP321, TP347, TP347H, TP904L)
+              1.4418 (X4CrNiMo 16-5-1)</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Duplex and Super Duplex Steel</span></th>
+              </tr>
+          <tr class="alt">
+                <td>ASME/ASTM</td>
+                <td>SA/A789 S31803, S32205, S32760<br>
+              SA/A790 S31803, S32205, S32760</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Material</span></th>
+                <th><span class="text_redb">Copper and Copper Alloy</span></th>
+              </tr>
+          <tr>
+                <td>Aluminum Brass</td>
+                <td>ASME/ASTM SB/B111 C68700<br>
+              JIS H3300 C6872T<br>
+              DIN 1785 CuZn20Al2</td>
+              </tr>
+          <tr>
+                <td>Admiralty Brass</td>
+                <td>ASME/ASTM SB/B111 C44300<br>
+              JIS H3300 C4430T<br>
+              DIN 1785 CuZn28Sn1</td>
+              </tr>
+          <tr>
+                <td> Copper-Nickel</td>
+                <td>ASME/ASTM SB/B111 C70600 (90/10), C71500(70/30)<br>
+              JIS H3300 C7060T, C7150T<br>
+              DIN 1785 CuNi10Fe1Mn, CuNi30Mn1Fe</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Nickel Alloy</span></th>
+              </tr>
+          <tr class="alt">
+                <td>UNS</td>
+                <td>N04400, N06600, N06625, N10276</td>
+              </tr>
+        </table>
+            </p>
+            <p></p>
+            <h5 id="plate">Plate and Sheet</h5>
+            <table id="customers">
+          <tr>
+                <th width="30%"><span class="text_redb">Standard</span></th>
+                <th width="70%"><span class="text_redb">Carbon Structural Steel</span></th>
+              </tr>
+          <tr>
+                <td>ASME/ASTM<br>
+              JIS </td>
+                <td>SA/A36, SA/A1008<br>
+              G3101 SS400, G3141 SPCC</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Decarburized Carbon Steel (Enamelling Steel)</span></th>
+              </tr>
+          <tr class="alt">
+                <td>ASME/ASTM<br>
+              JIS</td>
+                <td>SA/A424 Type II<br>
+              G3133 SPP</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Atmospheric Corrosion Resistant Steel</span></th>
+              </tr>
+          <tr>
+                <td>&nbsp;</td>
+                <td>CORTEN-A, CORTEN-B, CORTEN-O</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Sulfur Dew-Point Corrosion Resistant Steel</span></th>
+              </tr>
+          <tr class="alt">
+                <td>&nbsp;</td>
+                <td>S-TEN1, S-TEN2, SCR-TEN2</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Pressure Vessel Steel</span></th>
+              </tr>
+          <tr>
+                <td>ASME/ASTM<br>
+              DIN 10028-2 </td>
+                <td>SA/A387 Grade 5, 11, 12, 22, SA/A516 Grade 60, 70<br>
+              16Mo3, 13CrMo4-5, 10CrMo9-10</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Wear Resistant Steel</span></th>
+              </tr>
+          <tr class="alt">
+                <td>&nbsp;</td>
+                <td>400HB, 500HB</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Stainless Steel</span></th>
+              </tr>
+          <tr>
+                <td>ASME/ASTM</td>
+                <td>SA/A240 Type 304, 310, 316, 321, 347, 405, 409, 410, 420, 422, 430, 431, 630, 660, 904L, 253MA</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Duplex and Super Duplex Steel</span></th>
+              </tr>
+          <tr class="alt">
+                <td>ASME/ASTM</td>
+                <td>SA/A240 Type S31803, S32205, S32750</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Nickel Alloy</span></th>
+              </tr>
+          <tr>
+                <td>&nbsp;</td>
+                <td>Alloy 20, Alloy 230, Hastelloy X, Hastelloy C-276, Monel 400, Inconel X-750, Inconel 600, Inconel 601, Inconel 625, Inconel 718, Incoloy 800, Nimonic 80, Nimonic 90</td>
+              </tr>
+        </table>
+            </p>
+            <p></p>
+            <h5 id="fitting">Flange and Fitting</h5>
+            <table id="customers">
+          <tr>
+                <th width="30%"><span class="text_redb">Standard</span></th>
+                <th width="70%"><span class="text_redb">Carbon Steel</span></th>
+              </tr>
+          <tr>
+                <td>ASME/ASTM</td>
+                <td>SA/A 105, SA/A234 WPB</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Stainless Steel</span></th>
+              </tr>
+          <tr class="alt">
+                <td>ASME/ASTM</td>
+                <td>SA/A 182, SA/A403 all grades</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Alloy Steel</span></th>
+              </tr>
+          <tr>
+                <td>ASME/ASTM</td>
+                <td>SA/A 182, SA/A234 all grades</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Type of Fitting</span></th>
+              </tr>
+          <tr class="alt">
+                <td>&nbsp;</td>
+                <td>Elbow, Tee, Reducer, etc.</td>
+              </tr>
+        </table>
+            </p>
+            <p></p>
+            <h5 id="bar">Rolled and Forged Bar</h5>
+            <table id="customers">
+          <tr>
+                <th width="30%"><span class="text_redb">Standard</span></th>
+                <th width="70%"><span class="text_redb">Alloy and Stainless Steel</span></th>
+              </tr>
+          <tr>
+                <td> ASTM</td>
+                <td>A182 all grades, A276 all grades</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Nickel Alloy</span></th>
+              </tr>
+          <tr class="alt">
+                <td>&nbsp;</td>
+                <td>Alloy 20, Alloy 230, Hastelloy X, Hastelloy C-276, Monel 400, Inconel X-750, Inconel 600, Inconel 601, Inconel 625, Inconel 718, Incoloy 800, Nimonic 80, Nimonic 90</td>
+              </tr>
+          <tr>
+                <th><span class="text_redb">Standard</span></th>
+                <th><span class="text_redb">Bolting Material for GT</span></th>
+              </tr>
+          <tr>
+                <td>ASTM<br>
+              JIS<br>
+              WESTINGHOUSE</td>
+                <td>ASTM A193 Grade B5 or JIS SNB5 or WESTINGHOUSE 10705AD<br>
+              ASTM A193 Grade B16 or JIS SNB16 or WESTINGHOUSE 10305DU<br>
+              ASTM A286 Grade 660<br>
+              ASTM A565 Grade 616 or AISI422 or WESTINGHOUSE 10705BU or GE B50A951A1</td>
+              </tr>
+        </table>
+            </p>
+            <p></p>
+            <h5 id="HE">Heat Exchanger Components</h5>
+            <table id="customers">
+          <tr>
+                <th width="40%"><span class="text_redb">Type of Material</span></th>
+                <th width="60%"><span class="text_redb">Application for</span></th>
+              </tr>
+          <tr>
+                <td>Bended and U Tube</td>
+                <td>boiler, cooler and heat exchanger</td>
+              </tr>
+          <tr>
+                <td>Tube Sheet and Baffle Plate</td>
+                <td>cooler and heat exchanger</td>
+              </tr>
+          <tr>
+                <td> Dished Head</td>
+                <td>column</td>
+              </tr>
+        </table>
+            </p>
+            <p></p>
+            <h5 id="refp">Represented Product</h5>
+            <p><span class="text_redb">A</span>sia <span class="text_redb">E</span>nergy <span class="text_redb">E</span>ngineering is the exclusive distributor of The Hilliard Corporate who is the US manufacturer of the oil filtration equipment and cartridge. The main end use of these filtering equipment and cartridges are lube oil systems of gas turbine, steam turbine, petrochemical and food industries. The filtration equipment and cartridge are supplied under the trade-name “HILCO”. The major products include the following :<br>
+          - Reclaimers / Reclamation Systems<br>
+          - Vent Mist Eliminators<br>
+          - Fluid Filtration / Conditioning Systems<br>
+          - Replacement Filter Elements<br>
+          - “Star” Filter Press</span><br>
+          More details of the product, see <a href="http://www.hilliardcorp.com/" target="_blank">www.hilliardcorp.com</a></p>
+          </section>
+      <!-- end article --></article>
+        <!-- end .contentPage --></div>
+  <footer>
+        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
+      </footer>
+  <!-- end .container --></div>
+  <!--END--WRAPPER-->
+</body>
+</html>
+
+http://aee.co.th/profile.html 127.0.0.1 20170105060014 text/html 7183
+HTTP/1.1 200 OK
+Date: Thu, 05 Jan 2017 06:00:14 GMT
+Server: nginx
+Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
+Content-length: 7011
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Asia Energy Engineering -Special Steel Solutions-</title>
+<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id='wrapper'><!--WRAPPER-->
+<header><!--HEADER-->
+  <div id='headerContainer'><!--HEADER--CONTAINER-->
+<script type="text/javascript" src="js/jquery_min.js"></script> 
+<script type="text/javascript" src="js/core.js"></script> 
+<script type="text/javascript" src="js/utils.js"></script> 
+<script type="text/javascript" src="js/slider.js"></script> 
+<script>
+        var _SlideshowTransitions = [
+        //Fade
+        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
+        ];
+    </script> 
+<script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
+                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
+                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
+                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+                }
+            };
+
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        });
+    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
+<div id="content"><!-- This is the actual menu -->
+  <ul id="darkmenu">
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="profile.html">COMPANY</a></li>
+        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
+        <li><a href="download.html">DOWNLOAD</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
+      </ul>
+</div><!--END--HEADER--CONTAINER--> 
+</header><!--END--HEADER-->
+    </div><!-- content -->
+      <div class="container"><!--CONTAINER-->
+  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
+  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
+      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
+      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
+    </div><!--END--CONTAINER-->
+        <a style="display: none" href="home.html">Home</a> </div>
+  
+  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
+  <!--    <div class="textrounded1">Subject</div> -->
+  <div class="contentpage">
+        <div>
+      <aside></aside>
+      <!-- end .sidebar1--> </div>
+        <article class="content_column1"> 
+      <!--    <h1>Group of article</h1> -->
+      <section>
+            <h2>COMPANY PROFILE</h2>
+            <div id="list4">
+          <ul>
+                <li>1999</li>
+              </ul>
+        </div>
+            <p>The year of company establishment, originally served only power generation and pulp & paper industries. Various kinds of spare parts for these two industries for plant maintenance purpose were supplied during the first 3-4 years our operation.</p>
+            <p></p>
+            <div id="list4">
+          <ul>
+                <li>2003</li>
+              </ul>
+        </div>
+            <p>Supplied products were mainly focused on steel in form of tube, pipe, plate, sheet and bar for power plants.</p>
+            <p></p>
+            <div id="list4">
+          <ul>
+                <li>2005</li>
+              </ul>
+        </div>
+            <p>Finned tubes for HRSG were the major supplied product, including H-finned tube fabricated boiler panels for pulp & paper plant. Cold rolled sheet for enamelling plant processing as well as atmospheric and sulfur dew-point corrosion resistant steel plate and enamel powder were another major supplied products.</p>
+            <p></p>
+            <div id="list4">
+          <ul>
+                <li>2010</li>
+              </ul>
+        </div>
+            <p>U tubes for feed water heaters were supplied to both industry and utility power plants.</p>
+            <p></p>
+            <div id="list4">
+          <ul>
+                <li>2013</li>
+              </ul>
+        </div>
+            <p>The business has been expanded to oil & gas industry, mainly through heat exchanger fabricators. Major supplied product were straight and u-tubes for heat exchanger including pipe, plate, bar and various forging parts for high temperature and corrosion resistance application. Special stainless steel, duplex steel, copper alloy and nickel alloy were the materials supplied to this industry</p>
+            <p></p>
+            <div id="list4">
+          <ul>
+                <li>2014</li>
+              </ul>
+        </div>
+            <p><span class="text_redb">AEE</span> has associated with AIDEN Group for sales and marketing of HRSG and Turbine Air Chilling system.</p>
+            <p></p>
+          </section>
+      <!-- end article --></article>
+        <!-- end .contentPage --></div>
+  <footer>
+        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
+      </footer>
+  <!-- end .container -->
+  </div>
+  <!--END--WRAPPER-->
+</body>
+</html>
+
+http://all.in.th/ 127.0.0.1 20170105060014 text/html 31234
+HTTP/1.1 200 OK
+Date: Thu, 05 Jan 2017 06:01:19 GMT
+Server: Apache/2.4.18 (FreeBSD) PHP/5.6.18
+Content-Type: text/html; charset=UTF-8 Last-modified: null
+Content-length: -1
+
+ 
+<!-- v2.1.10 -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>ALL Statistic Domain .TH</title>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<!--
+	CSS Style Sheet Link
+						-->
+<link rel="stylesheet" type="text/css" href="./stylesheet/main_style.css">
+<!-- style sheet main page -->
+<link rel="stylesheet" type="text/css" href="./stylesheet/stylesheet.css">
+<!-- style sheet tab script -->
+<link rel="stylesheet" type="text/css" href="./stylesheet/tabcontent.css">
+<!--
+	JavaScript Link
+					-->
+<!-- script tab -->
+<script type="text/javascript" src="domain_stat/script/tabcontent.js"></script>
+<!-- Rollorver Menu -->
+<script type="text/javascript" src="domain_stat/script/rollorver.js"></script>
+</head>
+<body>
+<div align="center">
+	<div id="wrapper_header">
+		<!-- Header -->
+		<div id="header"></div>
+	</div>
+	<!--<hr width="1024">-->
+	<div id="wrapper_menu"><style type="text/css">
+#menucontainer { 
+	position: relative;
+	height: 40px;
+	color: #E0E0E0;
+	background: #143D55;
+	width: 100%;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+#menunav{
+	position: relative;
+	height: 33px;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background:#fff url(./stylesheet/dolphin_bg.gif) repeat-x bottom left;
+	padding:0 0 0 20px;
+}
+#menunav ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: auto;
+	float: left;
+}
+#menunav ul li{
+	display: block;
+	float: left;
+	margin:0 1px;
+}
+#menunav ul li a{
+	display: block;
+	float: left;
+	color: #EAF3F8;
+	text-decoration: none;
+	padding: 0 0 0 20px;
+	height: 33px;
+	font-weight: bold;
+}
+#menunav ul li a span{
+	padding: 12px 20px 0 0;
+	height: 21px;
+	float: left;
+}
+#menunav ul li a:hover{
+	color: #143D55;
+	background: transparent url(./stylesheet/dolphin_bg-OVER.gif) repeat-x bottom left;
+}
+#menunav ul li a:hover span{
+	display:block;
+	width:auto;
+	cursor:pointer;
+}
+#menunav ul li a.current, #menunav ul li a.current:hover{
+	color:#fff;
+	background:#1D6893 url(./stylesheet/dolphin_left-ON.gif) no-repeat bottom left;
+	line-height:275%;
+}
+#menunav ul li a.current span{
+	display: block;
+	padding:0 20px 0 0;
+	width:auto;
+	background:#1D6893 url(./stylesheet/dolphin_right-ON.gif) no-repeat bottom right;
+	height: 33px;
+}
+</style>
+<div id="menucontainer">
+	<div id="menunav">
+	<ul>
+		<li><a href="http://www.all.in.th/index.php" title="Home" class="current"><span>Home</span></a></li>
+		<li><a href="http://www.all.in.th/index.php?page=domain_stat&graph=pie" title="Domain Statistic" class=""><span>Domain Statistics</span></a></li>
+		<!-- change v2.2.0
+	 		remove string &type=0 -->
+		<li><a href="http://www.all.in.th/index.php?page=web_dir&module=list" title="Web Directory" class=""><span>Web directory</span></a></li>
+		<li><a href="http://www.all.in.th/index.php?page=activities" title="Activities" class=""><span>Activities</span></a></li>
+		<li><a href="http://www.all.in.th/index.php?page=about" title="About Us" class=""><span>About Us</span></a></li>
+	</ul>
+	</div>
+</div>
+</div>
+	<div id="wrapper">
+		<!-- Content -->
+		<table width="100%" border="0" style="margin: 0;" align="center" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+		<tr>
+			<td width="24%" valign="top">
+			 
+<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
+<tr><th align="center" colspan="2">.th ปรับปรุงข้อมูล : 12/2559</th></tr>
+<tr valign="top">
+	<td width="30%">.ac.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="18" /><br />6,570 (9.99%)</td>
+</tr>
+<tr valign="top">
+	<td>.co.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="103" /><br />37,751 (57.41%)</td>
+</tr>
+<tr valign="top">
+	<td>.go.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="22" /><br />7,896 (12.01%)</td>
+</tr>
+<tr valign="top">
+	<td>.in.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="34" /><br />12,309 (18.72%)</td>
+</tr>
+<tr valign="top">
+	<td>.mi.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />32 (0.05%)</td>
+</tr>
+<tr valign="top">
+	<td>.net.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />25 (0.04%)</td>
+</tr>
+<tr valign="top">
+	<td>.or.th</td>
+	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />1,175 (1.79%)</td>
+</tr>
+<tr valign="top">
+	<td class="t">Total </td>
+	<td class="t l">&nbsp;65,758</td> 
+</tr>
+<tr>
+	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
+</tr>
+</table>
+<br> 
+<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
+<tr><th align="center" colspan="2">.ไทย ปรับปรุงข้อมูล : 12/2559</th></tr>
+<tr valign="top">
+	<td width="30%">.ศึกษา.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="31" /><div>3,199 (17.3%)</div></td>
+</tr>
+<tr valign="top">
+	<td>.ธุรกิจ.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="71" /><br />7,300 (39.48%)</td>
+</tr>
+<tr valign="top">
+	<td>.รัฐบาล.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="33" /><br />3,354 (18.14%)</td>
+</tr>
+<tr valign="top">
+	<td>.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="42" /><br />4,337 (23.46%)</td>
+</tr>
+<tr valign="top">
+	<td>.ทหาร.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />12 (0.06%)</td>
+</tr>
+<tr valign="top">
+	<td>.เน็ต.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />8 (0.04%)</td>
+</tr>
+<tr valign="top">
+	<td>.องค์กร.ไทย</td>
+	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />279 (1.51%)</td>
+</tr>
+<tr valign="top">
+	<td class="t">Total </td>
+	<td class="t l">&nbsp;18,489</td> 
+</tr>
+<tr>
+	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
+</tr>
+</table><br><table width="298" height="100%" style='border-collapse: separate; border-left: 0px; border-right: 0px;' border="1" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<td class="td_head" style='border: 0;'><b>มีชื่อโดเมนด้วยขั้นตอนง่ายๆ :-</b></td>
+</tr>
+<tr> 
+	<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'></td></tr>
+<tr height="10px" style='border: 0;'>
+	<td style="border: 0;">
+	<ol>
+		<li>ตรวจสอบชื่อโดเมนที่ต้องการ</li><br>
+		<li>เลือกผู้ให้บริการจดชื่อโดเมน</li><br>
+		<li>แจ้งชื่อโดเมนที่ต้องการกับผู้ให้บริการ</li><br>
+		<li>ส่งสำเนาบัตรประชาชน พร้อมเซ็นรับรองสำเนาถูกต้อง และหลักฐานการชำระเงิน หรือหลักฐานอื่นๆ ที่จำเป็น</li>
+	</ol>
+	</td>
+</tr>
+<tr>
+	<td style='border: 0;'>
+		&nbsp;&nbsp;&nbsp;&nbsp;เพียงเท่านี้ คุณก็สามารถแสดงตัวตนบนโลกออนไลน์ได้ <br><br>
+		<div style="font-size: 14px; font-weight: bold;">
+			<div style="color: #1E90FF;">"เปิดโลกใหม่ เปิดสังคมใหม่</div><div align="right" style="color: #DC143C;">กับ Cyber Identity"</div>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='border: 0;'><!-- v2.1.2 -->
+<br>
+<!--
+Example Form for input data and send post form for check aviable domain
+-->
+<br>
+<form name="checkform" action="#" method="POST">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
+	<tr>
+		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
+		www.<input name="domain" type="text" size="12" value="" />
+		<select name="domain_ext">
+			<option value=".ac.th">ac.th</option>
+			<option value=".co.th">co.th</option>
+			<option value=".go.th">go.th</option>
+			<option value=".or.th">or.th</option>
+			<option value=".in.th" selected>in.th</option>
+			<option value=".mi.th">mi.th</option>
+			<option value=".net.th">net.th</option>
+		</select>
+		</td>
+	</tr>
+	<tr>
+		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
+			<center><input type="submit" value="check" /></center>
+		</td>
+	</tr>
+</table>
+</form></td>
+</tr>
+<tr>
+	<td align="left" style='border: 0;'>
+		รายชื่อผู้ให้บริการจดโดเมน คลิ๊กที่นี่
+		<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
+		<tr><td	align="center" style='border: 0; padding-left: 3em;'>
+			<a href="http://reseller.thnic.co.th/checklists.html" target="_blank"><img src="activities/001/icon_banner.gif" alt="View" width="110" height="17" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td></tr>
+		</table>
+</td></tr>
+<tr height="10px">
+	<td></td>
+</tr>
+</table><br><table width="95%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<!--<td class="td_head" colspan="2"><strong>ALL.IN.TH News</strong></td>-->
+</tr>
+<tr>
+	<td width="50%" valign="top"> 
+		<table width="95%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+		<tr>
+			<td class="td_head"><b>Abouts ALL.IN.TH</b></td>
+		</tr>
+		<tr>
+			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
+				<table width="95%" border="0" align="center">
+				<tr>
+					<td>THNIC พร้อมเปิดให้บริการเว็บไซต์ all.in.th แหล่งรวมทุกเรื่องราวของโดเมนภายใต้ .th ไม่ว่าจะเป็นการค้นหาชื่อโดเมน (web directory) การตรวจสอบสถิติการจดชื่อโดเมนในแต่ละประเภท (Statistic Domain) รวมถึงข้อมูลข่าวสาร ความเคลื่อนไหวต่างๆ ในแวดวงอินเทอร์เน็ต และเป็นสื่อกลางในการแลกเปลี่ยนความรู้ระหว่างคนไทยด้วยกัน 
+          
+          เพียงคลิกเข้าไปที่ <br><br><a href="http://www.all.in.th/index.php">http://www.all.in.th/index.php</a>
+          <img src="images/thnic_logo2.jpg" width="120" height="89" align="right" />
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		</table>
+		<br>
+	</td>
+</tr>
+<!--<tr>
+	<td width="50%" valign="top">
+		<table width="100%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+		<tr>
+			<td class="td_head"><p><b>โครงการ Blog ไทยโดเมน.in.th</b></p></td>
+		</tr>
+		<tr>
+			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
+				<table width="95%" border="0" align="center">
+				<tr>
+					<td>
+					<p>
+					โครงการนี้อยากนำเสนอ Blog ไทยโดเมน.in.th
+					</p>
+				<p>ทีเอชนิคขอขอบพระคุณทุกท่านที่ให้ความสนใจเข้าร่วมโครงการ “Blog ไทยโดเมน .in.th” 
+				และทีเอชนิคมุ่งหวังที่จะนำเสนอสิ่งที่ดีและมีประโยชน์มอบให้แก่ทุกท่านในอนาคตอันใกล้นี้
+				เตรียมพบกับโครงการดีดีได้เร็วนี้
+				<br>
+				<span class="style1">
+					<strong><a href="http://www.thnic.co.th" target="_blank">
+						<img src="images/thnic_logo.jpg" width="120" height="120" border="0" align="right">
+					</a></strong>
+				</span>
+				</p>
+				<p><a href="index.php?page=071120_blogdetail"> >> อ่านรายละเอียดโครงการ << </a></a></p>
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>-->
+</table>			<!-- change v2.1.5 -->
+			<!-- add speedtest.or.th ads -->
+			<center><a href="http://www.speedtest.or.th" target="_blank">
+				<img alt="http://www.speedtest.or.th" src="images/ads/speedtest.or.th/250x250v5v6-e.gif" border="0" />
+			</a>
+			</center>
+			<!-- end add speedtest ads -->
+			</td>
+			<td width="1%"></td>
+			<td width="75%" valign="top">
+			<!-- v2.1.10 -->
+<link rel="stylesheet" type="text/css" href="../stylesheet/activities.css" />
+<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<td class="td_head">ร่วมกิจกรรมกับ ALL.IN.TH</td>
+</tr>
+<tr>
+	<td style='font-size: 13px'>
+	<!-- 	change v2.1.6 : add dns 
+			change v2.7.7 : add domain organization	
+	-->
+			<font size='3'><strong>&nbsp;&nbsp;&nbsp;&nbsp;กิจกรรมใหม่ !!</strong></font><br />
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=bd">Brand Domain</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dhj">Domain Hijack</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=do">Domain Organization</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dns">Domain Name System</a></strong></font>
+		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=cyberidentity">Cyber Identity</a></strong></font>
+	<div class='blur'><div class='shadow'><div class='content'><table border='0' bordercolordark='white' bordercolor='#AACCEE' cellpadding='0' cellspacing='0'><tr height='10'><td></td></tr><tr height='80' valign='top' class='clip_bg'><td align='center' width='500'><br><object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
+		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
+		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
+	</object></td></tr><tr><td><div><font size='4'><b>Brand Domain : การสร้างแบรนด์โดเมน</b></font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#000000'>การสร้างแบรนด์โดเมน</font><form id="myform" name="myform"><br><br>Embed Code: <br><input readonly='true' type='text' size='50'  onclick="javascript:document.myform.embed_code.focus();document.myform.embed_code.select();"value="<object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
+		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
+		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
+	</object>" /></form></td></tr></table><br /><br /></div></div></div><a href='index.php?page=activities' style='font-size:10pt; font-weight: bold; text-align: right;'>ดูทั้งหมด ...</a>	</td>
+</tr>
+</table><br /> 
+<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr><td class="td_head">กราฟสถิติโดเมน .th และ .ไทย</td></tr>
+<tr>
+	<td>
+		<!-- start tab script -->
+		<ul id="maintab" class="shadetabs">
+			<li><a href="index.php?page=domain_stat&graph=line">.th Line</a></li>
+			<li><a href="index.php?page=domain_stat&graph=pie">.th Pie</a></li>
+			<li><a href="index.php?page=domain_stat&graph=col">.th Column</a></li>
+			<li><a href="index.php?page=domain_stat&graph=bline">.ไทย Line</a></li>
+			<li><a href="index.php?page=domain_stat&graph=bpie">.ไทย Pie</a></li>
+			<li><a href="index.php?page=domain_stat&graph=bcol">.ไทย Column</a></li>
+			<!--<li><a href="index.php?page=domain_stat&graph=area">Area</a></li>-->
+		</ul>
+		<!-- load graph -->
+		<div class="tabcontentstyle">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Graph Pie</title>
+<script language="JavaScript" src="./domain_stat/script/FusionCharts.js"></script>
+<script language="JavaScript"> 
+function openDir(form) {
+	var newIndex = form.fieldname.selectedIndex; 
+	if(newIndex == 0) { 
+		alert("Please select Year!");
+	} else {
+		cururl = form.fieldname.options[newIndex].value; 
+		window.location.assign(cururl);
+	}
+}
+</script>
+</head>
+<body>
+<table width="100%" border="0" style='border-collapse: separate;' bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<td>
+		<div id="SalesDiv" align="center">
+		Chart.
+	</div>
+	<script type="text/javascript">	
+		var chart_Sales = new FusionCharts("./domain_stat/Charts/Pie2D.swf", "Sales", "600", "400", "0", "0");
+		//Provide entire XML data using dataXML method
+		chart_Sales.setDataXML("<chart caption='December  2559' palette='4' showZeroPies='0'  showPercentValues='0' bgColor='FFFFFF'  defaultAnimation='1' showBorder='0' borderThickness='10' showShadow='1'  use3DLighting='1' enableSmartLabels='1' formatNumberScale='0' baseFont='Helvatiga, Arial' baseFontColor='000000' baseFontSize='12' showNames='1' showValues='1' decimalPrecision='0' pieYScale='75' pieBorderAlpha='40' pieFillAlpha='80' pieSliceDepth='20' pieRadius='160' animation='1'><set label='AC.TH :' value ='6570' /><set label='CO.TH :' value ='37751' isSliced='1'/><set label='GO.TH :' value ='7896'/><set label='IN.TH :' value ='12309'/><set label='MI.TH :' value ='32'/><set label='NET.TH :' value ='25'/><set label='OR.TH :' value ='1175'/></chart>")
+		chart_Sales.render("SalesDiv");
+	</script>		</td>
+</tr>
+</table>
+</body>
+</html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title> :::::: Active Domain ::::: </title>
+<meta http-equiv="content-type" Content="text/html; charset=UTF-8">
+<script language="JavaScript"> 
+function openDir(form) { 
+	var newIndex = form.fieldname.selectedIndex; 
+	if(newIndex == 0) { 
+		alert("Please select a location!"); 
+	} else { 
+		cururl = form.fieldname.options[newIndex].value; 
+		window.location.assign(cururl); 
+	}
+}
+</script>
+</head>
+<body>
+<div align=left>	<a href="index.php?page=domain_stat&&p=2&#stat">แยกจำนวน</A> | 
+<a href="index.php?page=domain_stat&&#stat">รวมยอด</A></div><div align=left><form name=form> 
+	<select name="fieldname" size="1" onChange="openDir(this.form)"> 
+		<option>เลือกปี</option>
+		<option value="index.php?page=domain_stat&&year=all#stat">รวมทั้งหมด</option>
+				<option value="index.php?page=domain_stat&&year=2559#stat" >2559</option>
+				<option value="index.php?page=domain_stat&&year=2558#stat" >2558</option>
+				<option value="index.php?page=domain_stat&&year=2557#stat" >2557</option>
+				<option value="index.php?page=domain_stat&&year=2556#stat" >2556</option>
+				<option value="index.php?page=domain_stat&&year=2555#stat" >2555</option>
+				<option value="index.php?page=domain_stat&&year=2554#stat" >2554</option>
+				<option value="index.php?page=domain_stat&&year=2553#stat" >2553</option>
+				<option value="index.php?page=domain_stat&&year=2552#stat" >2552</option>
+				<option value="index.php?page=domain_stat&&year=2551#stat" >2551</option>
+				<option value="index.php?page=domain_stat&&year=2550#stat" >2550</option>
+				<option value="index.php?page=domain_stat&&year=2549#stat" >2549</option>
+				<option value="index.php?page=domain_stat&&year=2548#stat" >2548</option>
+				<option value="index.php?page=domain_stat&&year=2547#stat" >2547</option>
+				<option value="index.php?page=domain_stat&&year=2546#stat" >2546</option>
+				<option value="index.php?page=domain_stat&&year=2545#stat" >2545</option>
+				<option value="index.php?page=domain_stat&&year=2544#stat" >2544</option>
+				<option value="index.php?page=domain_stat&&year=2543#stat" >2543</option>
+				<option value="index.php?page=domain_stat&&year=2542#stat" >2542</option>
+				<option value="index.php?page=domain_stat&&year=2541#stat" >2541</option>
+				<option value="index.php?page=domain_stat&&year=2540#stat" >2540</option>
+			</select> 
+</form>
+</div><a href="#" id="stat"></a>
+<!-- Show Table and Edit -->
+<table class="dstat" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
+<tr>
+	<th width="7%" rowspan="2">ปี</td>
+	<th width="12%" rowspan="2">เดือน</td>
+	<th width="10%">.ac.th</td>
+	<th width="10%">.co.th</td>
+	<th width="10%">.go.th</td>
+	<th width="10%">.in.th</td>
+	<th width="10%">.mi.th</td>
+	<th width="10%">.net.th</td>
+	<th width="10%">.or.th</td>
+	<th width="10%" style="border: 0;">total</td>
+</tr>
+<tr>
+	<th width="10%">.ศึกษา.ไทย</td>
+	<th width="10%">.ธุรกิจ.ไทย</td>
+	<th width="10%">.รัฐบาล.ไทย</td>
+	<th width="10%">.ไทย</td>
+	<th width="10%">.ทหาร.ไทย</td>
+	<th width="10%">.เน็ต.ไทย</td>
+	<th width="10%">.องค์กร.ไทย</td>
+	<th width="10%" style="border: 0;">รวม</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	ธันวาคม	</td>
+	<td>
+		6,570<br />
+		3,199	</td>
+	<td>
+		37,751<br />
+		7,300	</td>
+	<td>
+		7,896<br />
+		3,354	</td>
+	<td>
+		12,309<br />
+		4,337	</td>
+	<td>
+		32<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,175<br />
+		279	</td>
+	<td bgcolor="#FFFF66">
+		65,758<br />
+		18,489	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	พฤศจิกายน	</td>
+	<td>
+		6,592<br />
+		3,140	</td>
+	<td>
+		37,708<br />
+		7,057	</td>
+	<td>
+		7,875<br />
+		3,261	</td>
+	<td>
+		12,234<br />
+		3,972	</td>
+	<td>
+		33<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,173<br />
+		272	</td>
+	<td bgcolor="#FFFFFF">
+		65,640<br />
+		17,722	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	ตุลาคม	</td>
+	<td>
+		6,697<br />
+		3,169	</td>
+	<td>
+		37,591<br />
+		6,874	</td>
+	<td>
+		7,872<br />
+		3,245	</td>
+	<td>
+		12,284<br />
+		4,007	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,171<br />
+		271	</td>
+	<td bgcolor="#FFFF66">
+		65,674<br />
+		17,586	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	กันยายน	</td>
+	<td>
+		6,782<br />
+		3,050	</td>
+	<td>
+		37,499<br />
+		6,822	</td>
+	<td>
+		7,867<br />
+		3,219	</td>
+	<td>
+		12,360<br />
+		4,030	</td>
+	<td>
+		35<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,170<br />
+		273	</td>
+	<td bgcolor="#FFFFFF">
+		65,738<br />
+		17,414	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	สิงหาคม	</td>
+	<td>
+		6,836<br />
+		2,984	</td>
+	<td>
+		37,317<br />
+		6,757	</td>
+	<td>
+		7,805<br />
+		3,173	</td>
+	<td>
+		12,467<br />
+		4,055	</td>
+	<td>
+		35<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,170<br />
+		271	</td>
+	<td bgcolor="#FFFF66">
+		65,655<br />
+		17,260	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	กรกฎาคม	</td>
+	<td>
+		6,875<br />
+		2,829	</td>
+	<td>
+		37,161<br />
+		6,727	</td>
+	<td>
+		7,795<br />
+		3,150	</td>
+	<td>
+		12,483<br />
+		4,057	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		8	</td>
+	<td>
+		1,166<br />
+		269	</td>
+	<td bgcolor="#FFFFFF">
+		65,539<br />
+		17,052	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	มิถุนายน	</td>
+	<td>
+		6,857<br />
+		2,798	</td>
+	<td>
+		37,064<br />
+		6,729	</td>
+	<td>
+		7,780<br />
+		3,126	</td>
+	<td>
+		12,510<br />
+		4,065	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		9	</td>
+	<td>
+		1,163<br />
+		268	</td>
+	<td bgcolor="#FFFF66">
+		65,433<br />
+		17,007	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	พฤษภาคม	</td>
+	<td>
+		6,771<br />
+		2,749	</td>
+	<td>
+		36,810<br />
+		6,685	</td>
+	<td>
+		7,704<br />
+		3,082	</td>
+	<td>
+		12,514<br />
+		4,061	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		25<br />
+		9	</td>
+	<td>
+		1,168<br />
+		268	</td>
+	<td bgcolor="#FFFFFF">
+		65,026<br />
+		16,866	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	เมษายน	</td>
+	<td>
+		6,773<br />
+		2,728	</td>
+	<td>
+		36,603<br />
+		6,656	</td>
+	<td>
+		7,613<br />
+		3,063	</td>
+	<td>
+		12,539<br />
+		4,054	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,165<br />
+		269	</td>
+	<td bgcolor="#FFFF66">
+		64,751<br />
+		16,790	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	มีนาคม	</td>
+	<td>
+		6,830<br />
+		2,750	</td>
+	<td>
+		36,545<br />
+		6,646	</td>
+	<td>
+		7,587<br />
+		3,045	</td>
+	<td>
+		12,528<br />
+		4,068	</td>
+	<td>
+		34<br />
+		12	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,158<br />
+		268	</td>
+	<td bgcolor="#FFFFFF">
+		64,706<br />
+		16,797	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
+	<td>2559</td>
+	<td>
+	กุมภาพันธ์	</td>
+	<td>
+		6,886<br />
+		2,762	</td>
+	<td>
+		36,306<br />
+		6,585	</td>
+	<td>
+		7,548<br />
+		3,022	</td>
+	<td>
+		12,759<br />
+		4,205	</td>
+	<td>
+		35<br />
+		12	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,160<br />
+		269	</td>
+	<td bgcolor="#FFFF66">
+		64,718<br />
+		16,863	</td>
+</tr>
+<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
+	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
+	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
+	<td>2559</td>
+	<td>
+	มกราคม	</td>
+	<td>
+		6,913<br />
+		2,767	</td>
+	<td>
+		36,028<br />
+		6,551	</td>
+	<td>
+		7,494<br />
+		2,992	</td>
+	<td>
+		13,082<br />
+		4,430	</td>
+	<td>
+		34<br />
+		11	</td>
+	<td>
+		24<br />
+		8	</td>
+	<td>
+		1,157<br />
+		268	</td>
+	<td bgcolor="#FFFFFF">
+		64,732<br />
+		17,027	</td>
+</tr>
+	
+</table>
+</body>
+</html>		</div>
+	</td>
+</tr>
+</table><br />			</td>
+		</tr>
+		</table>
+		<!-- End Content -->
+	</div>
+	<!-- End Wrapper -->
+	<hr width="1024">
+	<div id="wrapper_footer">
+		<table width="1024" border="0" align="center" style="margin: 0;" cellpadding="0" cellspacing="0">
+		<tr>
+			<td width="50%" align="right">
+				<img src="images/footer.gif" width="120" height="90">
+			</td>
+			<td width="50%" align="left" style="color: #2e2e2e;">
+				All Statistics of Domain .th<br>
+				Powered by ALL.IN.TH Team<br>
+				@2009 Update: 04/04/2555
+			</td>
+		</tr>
+		</table>
+	</div>
+</div>
+</body>
+<!-- change v2.1.5 -->
+<!-- google analytics -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+	var pageTracker = _gat._getTracker("UA-9610320-1");
+	pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- end change -->
+</html>
+
