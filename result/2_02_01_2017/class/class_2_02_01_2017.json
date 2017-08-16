@@ -2,152 +2,140 @@
     "0": [
         [
             "http://anchan.lib.ku.ac.th/", 
-            0.8879046862424181
+            0.8898614811237314
         ], 
         [
             "http://admissions.payap.ac.th/", 
-            0.8734584851649406
-        ], 
-        [
-            "http://application2.au.edu/", 
-            0.8643712871856345
-        ], 
-        [
-            "http://amarin.co.th/", 
-            0.8642324778319908
+            0.8739612169620511
         ], 
         [
             "http://agri.kps.ku.ac.th/", 
-            0.8629899909896365
+            0.8611587106147618
         ], 
         [
-            "http://apl1.sci.kmitl.ac.th/", 
-            0.8628073859796674
-        ], 
-        [
-            "http://3d.co.th/2012/king9/index.html", 
-            0.8620527459606527
-        ], 
-        [
-            "http://anreg.cpe.ku.ac.th/", 
-            0.8565799284253841
-        ], 
-        [
-            "http://3d.co.th/", 
-            0.8560962338440798
-        ], 
-        [
-            "http://amed.go.th/", 
-            0.855871312903827
-        ], 
-        [
-            "http://100watts.com/", 
-            0.8550055437648962
-        ], 
-        [
-            "http://9airmobile.thaigov.net/", 
-            0.854320594663851
+            "http://asiasoft.co.th/", 
+            0.859784782359103
         ], 
         [
             "http://adb.envi.psu.ac.th/", 
-            0.8497081995391973
+            0.8597543447341529
         ], 
         [
-            "http://2handshop.com/", 
-            0.8101816135795201
+            "http://9airmobile.thaigov.net/", 
+            0.8591487343338426
+        ], 
+        [
+            "http://100watts.com/", 
+            0.8573537386178977
+        ], 
+        [
+            "http://3d.co.th/", 
+            0.8553405927447743
+        ], 
+        [
+            "http://anreg.cpe.ku.ac.th/", 
+            0.8551899241511873
         ], 
         [
             "http://101servers.com/", 
-            0.8031291842765569
+            0.8353753803077352
         ], 
         [
-            "http://all.in.th/index.php", 
-            0.515126489406738
-        ], 
-        [
-            "http://adslthailand.com/", 
-            0.5151152084392003
-        ], 
-        [
-            "http://animal.in.th/", 
-            0.5146081705824154
-        ], 
-        [
-            "http://all.in.th/", 
-            0.5145472526584948
+            "http://anatomy.md.kku.ac.th/", 
+            0.6329992564951403
         ], 
         [
             "http://9korn.reddiary.com/", 
-            0.5080745853150213
+            0.5173513994800701
+        ], 
+        [
+            "http://area-family.com/", 
+            0.5153473802314165
+        ], 
+        [
+            "http://animal.in.th/", 
+            0.5128426555138951
         ], 
         [
             "http://4x4.in.th/", 
-            0.49656160022413415
+            0.5043357765847097
+        ], 
+        [
+            "http://atjapan.pantipmember.com/", 
+            0.12504192781425952
         ]
     ], 
     "1": [
         [
-            "http://ads.thaiware.com/www/admin/password-recovery.php", 
-            1.0
+            "http://adslthailand.com/", 
+            0.9999999999999998
         ]
     ], 
     "2": [
         [
-            "http://ads.thaiware.com/", 
+            "http://atimemedia.com/", 
             0.9999999999999999
         ]
     ], 
     "3": [
         [
-            "http://ads.thaiware.com/www/admin/index.php", 
-            1.0000000000000002
+            "http://amarin.co.th/", 
+            0.9999999999999999
         ]
     ], 
     "4": [
         [
-            "http://aee.co.th/co-partner.html", 
-            1.0
+            "http://3d.co.th/2012/king9/index.html", 
+            1.0000000000000002
         ]
     ], 
     "5": [
         [
-            "http://aee.co.th/contact.html", 
-            0.9999999999999999
+            "http://amed.go.th/", 
+            0.9999999999999998
         ]
     ], 
     "6": [
         [
-            "http://animal.agri.cmu.ac.th/", 
-            1.0
+            "http://apl1.sci.kmitl.ac.th/", 
+            0.999992501621155
+        ], 
+        [
+            "http://acc.msu.ac.th/index2016.php", 
+            0.9999774951717112
+        ], 
+        [
+            "http://acc.msu.ac.th/", 
+            0.999974053851101
         ]
     ], 
     "7": [
         [
-            "http://aee.co.th/", 
+            "http://agro.psu.ac.th/", 
             1.0000000000000002
         ]
     ], 
     "8": [
         [
-            "http://aee.co.th/home.html", 
+            "http://ads.thaiware.com/www/admin/password-recovery.php", 
             1.0
         ]
     ], 
     "9": [
         [
-            "http://aee.co.th/profile.html", 
-            1.0
+            "http://ads.thaiware.com/", 
+            0.9999999999999999
         ]
     ], 
     "10": [
         [
-            "http://aee.co.th/download.html", 
-            1.0
+            "http://ads.thaiware.com/www/admin/index.php", 
+            1.0000000000000002
         ]
     ], 
     "11": [
         [
-            "http://aee.co.th/products.html", 
+            "http://animal.agri.cmu.ac.th/", 
             1.0
         ]
     ], 
@@ -160,7 +148,7 @@
     "13": [
         [
             "http://adex.shinbroadband.com/", 
-            1.0000000000000002
+            1.0
         ]
     ]
 }

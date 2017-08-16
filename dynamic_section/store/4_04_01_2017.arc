@@ -1,10 +1,18 @@
-filedesc://crawl-20170104083052-00000.arc 0.0.0.0 20170104083052 text/plain 77
+filedesc://crawl-20170101054747-00000.arc 0.0.0.0 20170101054747 text/plain 77
 1 0 InternetArchive
 URL IP-address Archive-date Content-type Archive-length
 
-http://agri.kps.ku.ac.th/ 127.0.0.1 20170104083052 text/html 434
+http://anatomy.md.kku.ac.th/ 127.0.0.1 20170101054747 text/html 179
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 22:22:55 GMT
+Date: Sun, 01 Jan 2017 05:44:23 GMT
+Server: Apache/2.2.14 (Ubuntu)
+Content-Type: text/html; charset=tis-620 Last-modified: null
+Content-length: 15
+
+Something Wrong
+http://agri.kps.ku.ac.th/ 127.0.0.1 20170101054747 text/html 434
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 19:39:40 GMT
 Server: Apache/2.2.8 (Win32) PHP/5.2.6
 Content-Type: text/html Last-modified: Last-Modified: Fri, 14 Oct 2016 15:42:05 GMT
 Content-length: 238
@@ -13,21 +21,36 @@ Content-length: 238
 
 <script language='JavaScript'>window.location = '2011/accagri.php';</script> -->
 <script language='JavaScript'>window.location = '2011/intro.php';</script>
-http://100watts.com/ 127.0.0.1 20170104083052 text/html 303
+http://anchan.lib.ku.ac.th/ 127.0.0.1 20170101054747 text/html 365
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
-Server: Apache/2.2.22 (EL)
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 15 Oct 2014 16:09:31 GMT
-Content-length: 104
+Date: Sun, 01 Jan 2017 03:59:08 GMT
+Server: Apache/2.2.12 (Ubuntu)
+Content-Type: text/html Last-modified: Last-Modified: Thu, 11 Feb 2010 04:19:04 GMT
+Content-length: 177
+
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+
+http://9airmobile.thaigov.net/ 127.0.0.1 20170101054747 text/html 339
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:46:20 GMT
+null
+Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 30 Sep 2015 17:39:37 GMT
+Content-length: 162
 
 <html>
-<head>
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www.100watts.com/wp">
-</head>
+<head><title>Systems under maintenance</title></head>
+<body>
+<center><img src=/maintain.jpg></center>
+<!--::CLOUDFLARE_ERROR_500S_BOX::-->
+</body>
 </html>
-http://anreg.cpe.ku.ac.th/ 127.0.0.1 20170104083052 text/html 446
+
+http://anreg.cpe.ku.ac.th/ 127.0.0.1 20170101054747 text/html 446
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:43 GMT
+Date: Sun, 01 Jan 2017 05:47:37 GMT
 Server: Apache/2.2.3 (CentOS)
 Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Thu, 17 Feb 2011 06:32:12 GMT
 Content-length: 244
@@ -42,29 +65,40 @@ Content-length: 244
 </HTML>
 
 
-http://anatomy.md.kku.ac.th/ 127.0.0.1 20170104083052 text/html 179
+http://amed.go.th/ 127.0.0.1 20170101054747 text/html 935
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:26:50 GMT
-Server: Apache/2.2.14 (Ubuntu)
-Content-Type: text/html; charset=tis-620 Last-modified: null
-Content-length: 15
+Date: Sun, 01 Jan 2017 05:47:47 GMT
+Server: Apache/2
+Content-Type: text/html Last-modified: Last-Modified: Wed, 19 Oct 2016 05:29:39 GMT
+Content-length: 761
 
-Something Wrong
-http://anchan.lib.ku.ac.th/ 127.0.0.1 20170104083052 text/html 365
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>กรมแพทย์ทหารบก</title>
+</head>
+
+<body>
+<center>
+  <p><a href="http://www.amed.go.th/index.php"><img src="AmedK9.jpg" width="1280" height="800" /></a>
+  </p>
+  <table width="200" border="0">
+    <tr>
+      <td>&nbsp;</td>
+      <td><a href="http://www.amed.go.th/index.php/2013-04-01-03-14-47/2-uncategorised/282-kingrama9th" target="_new"><img src="B9th1.png" width="350" height="114" /></a></td>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</center>
+
+</body>
+</html>
+
+http://3d.co.th/ 127.0.0.1 20170101054747 text/html 283
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 06:42:27 GMT
-Server: Apache/2.2.12 (Ubuntu)
-Content-Type: text/html Last-modified: Last-Modified: Thu, 11 Feb 2010 04:19:04 GMT
-Content-length: 177
-
-<html><body><h1>It works!</h1>
-<p>This is the default web page for this server.</p>
-<p>The web server software is running but no content has been added, yet.</p>
-</body></html>
-
-http://3d.co.th/ 127.0.0.1 20170104083052 text/html 283
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:57 GMT
+Date: Sun, 01 Jan 2017 05:47:51 GMT
 Server: Apache/2.2.22 (@RELEASE@)
 Content-Type: text/html; charset=TIS-620 Last-modified: null
 Content-length: 115
@@ -74,9 +108,9 @@ Content-length: 115
 <META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://3d.co.th/2012/king9/index.html">
 </head>
 </html>
-http://3d.co.th/2012/king9/index.html 127.0.0.1 20170104083052 text/html 875
+http://3d.co.th/2012/king9/index.html 127.0.0.1 20170101054747 text/html 875
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:57 GMT
+Date: Sun, 01 Jan 2017 05:47:51 GMT
 Server: Apache/2.2.22 (@RELEASE@)
 Content-Type: text/html; charset=TIS-620 Last-modified: Last-Modified: Fri, 14 Oct 2016 14:24:12 GMT
 Content-length: 667
@@ -101,9 +135,55 @@ body {
 </body>
 </html>
 
-http://agro.psu.ac.th/ 127.0.0.1 20170104083052 text/html 1761
+http://amarin.co.th/ 127.0.0.1 20170101054747 text/html 635
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
+Date: Sun, 01 Jan 2017 05:54:50 GMT
+Server: Microsoft-IIS/8.0
+Content-Type: text/html Last-modified: Last-Modified: Fri, 14 Oct 2016 03:23:11 GMT
+Content-length: 452
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ธ สถิตในดวงใจ ไทยนิรันดร์</title>
+	<meta charset="utf-8" />
+    <meta http-equiv="refresh" content="9; url=http://www.amarin.co.th/corp/home.aspx" />
+    <style>
+        body{background-color:#131313; text-align:center;}
+    </style>
+</head>
+<body>
+    <a href="home.aspx"><img src="images/Banner/amarin-rip-rama9.jpg" /></a>
+    
+</body>
+</html>
+
+http://100watts.com/ 127.0.0.1 20170101054747 text/html 303
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:47 GMT
+Server: Apache/2.2.22 (EL)
+Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 15 Oct 2014 16:09:31 GMT
+Content-length: 104
+
+<html>
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www.100watts.com/wp">
+</head>
+</html>
+http://admissions.payap.ac.th/ 127.0.0.1 20170101054747 text/html 400
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:47 GMT
+Server: Apache
+Content-Type: text/html Last-modified: Last-Modified: Fri, 24 Oct 2014 04:02:08 GMT
+Content-length: 228
+
+<html><body><!--- <center><h1>Merry Christmas and Happy New Years 2013</h1>  ---> 
+  <h1>Site Maintenance</h1> 
+  <p>We sincerely apologize for the inconvenience, Our website is currently down for maintenance.</p></body></html>
+
+http://agro.psu.ac.th/ 127.0.0.1 20170101054748 text/html 1761
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:45 GMT
 Server: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.21
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 1572
@@ -139,63 +219,9 @@ body {
 </map></body></html>
 
 
-http://amarin.co.th/ 127.0.0.1 20170104083052 text/html 635
+http://adb.envi.psu.ac.th/ 127.0.0.1 20170101054748 text/html 294
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:37:56 GMT
-Server: Microsoft-IIS/8.0
-Content-Type: text/html Last-modified: Last-Modified: Fri, 14 Oct 2016 03:23:11 GMT
-Content-length: 452
-
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <title>ธ สถิตในดวงใจ ไทยนิรันดร์</title>
-	<meta charset="utf-8" />
-    <meta http-equiv="refresh" content="9; url=http://www.amarin.co.th/corp/home.aspx" />
-    <style>
-        body{background-color:#131313; text-align:center;}
-    </style>
-</head>
-<body>
-    <a href="home.aspx"><img src="images/Banner/amarin-rip-rama9.jpg" /></a>
-    
-</body>
-</html>
-
-http://amed.go.th/ 127.0.0.1 20170104083052 text/html 935
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
-Server: Apache/2
-Content-Type: text/html Last-modified: Last-Modified: Wed, 19 Oct 2016 05:29:39 GMT
-Content-length: 761
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>กรมแพทย์ทหารบก</title>
-</head>
-
-<body>
-<center>
-  <p><a href="http://www.amed.go.th/index.php"><img src="AmedK9.jpg" width="1280" height="800" /></a>
-  </p>
-  <table width="200" border="0">
-    <tr>
-      <td>&nbsp;</td>
-      <td><a href="http://www.amed.go.th/index.php/2013-04-01-03-14-47/2-uncategorised/282-kingrama9th" target="_new"><img src="B9th1.png" width="350" height="114" /></a></td>
-      <td>&nbsp;</td>
-    </tr>
-  </table>
-  <p>&nbsp;</p>
-</center>
-
-</body>
-</html>
-
-http://adb.envi.psu.ac.th/ 127.0.0.1 20170104083052 text/html 294
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:29:42 GMT
+Date: Sun, 01 Jan 2017 05:46:38 GMT
 Server: Apache/2.4.7 (Ubuntu)
 Content-Type: text/html Last-modified: Last-Modified: Thu, 07 Apr 2016 09:24:42 GMT
 Content-length: 107
@@ -206,35 +232,9 @@ Content-length: 107
 </head>
 </html>
 
-http://admissions.payap.ac.th/ 127.0.0.1 20170104083052 text/html 400
+http://acc.msu.ac.th/ 127.0.0.1 20170101054748 text/html 1114
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:51 GMT
-Server: Apache
-Content-Type: text/html Last-modified: Last-Modified: Fri, 24 Oct 2014 04:02:08 GMT
-Content-length: 228
-
-<html><body><!--- <center><h1>Merry Christmas and Happy New Years 2013</h1>  ---> 
-  <h1>Site Maintenance</h1> 
-  <p>We sincerely apologize for the inconvenience, Our website is currently down for maintenance.</p></body></html>
-
-http://9airmobile.thaigov.net/ 127.0.0.1 20170104083052 text/html 339
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:19:19 GMT
-null
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 30 Sep 2015 17:39:37 GMT
-Content-length: 162
-
-<html>
-<head><title>Systems under maintenance</title></head>
-<body>
-<center><img src=/maintain.jpg></center>
-<!--::CLOUDFLARE_ERROR_500S_BOX::-->
-</body>
-</html>
-
-http://acc.msu.ac.th/ 127.0.0.1 20170104083053 text/html 1114
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:20:03 GMT
+Date: Sun, 01 Jan 2017 05:36:18 GMT
 Server: Apache
 Content-Type: text/html Last-modified: null
 Content-length: 982
@@ -270,9 +270,9 @@ body,td,th {
 </body>
 </html>
 
-http://acc.msu.ac.th/index2016.php 127.0.0.1 20170104083053 text/html 1114
+http://acc.msu.ac.th/index2016.php 127.0.0.1 20170101054748 text/html 1114
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:20:03 GMT
+Date: Sun, 01 Jan 2017 05:36:19 GMT
 Server: Apache
 Content-Type: text/html Last-modified: null
 Content-length: 982
@@ -308,33 +308,39 @@ body,td,th {
 </body>
 </html>
 
-http://2handshop.com/ 127.0.0.1 20170104083053 text/html 231
+http://apl1.sci.kmitl.ac.th/ 127.0.0.1 20170101054748 text/html 1176
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: Microsoft-IIS/7.5
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Fri, 11 Mar 2016 17:57:20 GMT
-Content-length: 34
+Date: Sun, 01 Jan 2017 06:34:20 GMT
+Server: Apache/2.2.4 (Ubuntu) PHP/5.2.3-1ubuntu6
+Content-Type: text/html Last-modified: Last-Modified: Mon, 14 Dec 2015 09:32:58 GMT
+Content-length: 970
 
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Wichit Sirichote">
+   <meta name="GENERATOR" content="Mozilla/4.77 [en] (Win98; U) [Netscape]">
+   <title>APL1 server for Microcontroller Lab Experiments</title>
+</head>
 <body>
+<div align="left">
+  <blockquote>
+    <p><font face="Tahoma"><font color="#CC0000"><font color="#000000" size="+3" face="Times New Roman, Times, serif">	Ubuntu 7.10 Server @APL1</font></font></font></p>
+    <p><font color="#000000" size="+3" face="Times New Roman, Times, serif">Applied Physics Dept. Faculty of Science, KMITL </font><br>
+    </p>
+  </blockquote>
+</div>
+<blockquote><hr WIDTH="100%">
+  <p><em><font size="+3" face="Times New Roman, Times, serif"><a href="http://www.kswichit.com">Build Your Own Microcontroller Projects</a> </font></em></p>
+  <hr WIDTH="100%">
+</blockquote>
 </body>
 </html>
 
-http://101servers.com/ 127.0.0.1 20170104083053 text/html 231
+http://4x4.in.th/ 127.0.0.1 20170101054748 text/html 20198
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: Microsoft-IIS/7.5
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Fri, 11 Mar 2016 17:57:14 GMT
-Content-length: 34
-
-<html>
-<body>
-</body>
-</html>
-
-http://4x4.in.th/ 127.0.0.1 20170104083053 text/html 20198
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
+Date: Sun, 01 Jan 2017 05:47:47 GMT
 Server: Apache/2
 Content-Type: text/html Last-modified: null
 Content-length: -1
@@ -371,7 +377,7 @@ Content-length: -1
 </div>
  <table cellpadding="0" cellspacing="0" border="10" width="100%" align="center" background="daytop/logo1.gif"><tr>
 <td align="center" valign="center">
-<IMG SRC='daytop/3.jpg' width=100% border=0></td>
+<IMG SRC='daytop/1.jpg' width=100% border=0></td>
 </tr></table>
  <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
 <tr height="22"><td bgcolor="#999999" align="center" class="clsDarkRaised" width="10%">
@@ -426,7 +432,7 @@ Content-length: -1
  </tr></table></td></tr><tr height="1"><td bgcolor="#ffffff"></td></tr></table>
 <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="6">
  <tr><td bgcolor="#eeeeee" width="163" valign="top" nowrap>
-<IMG SRC='daypic/pic4.gif' border=0></td>
+<IMG SRC='daypic/pic1.gif' border=0></td>
 
 <td bgcolor="#eeeeee" valign="top"><TABLE cellpadding="0" cellspacing="2" border="0">
 <TR><TD colspan="2">มีข่าวฝากประชาสัมพันธ์ให้เพื่อนสมาชิกได้รับทราบกันดังต่อไปนี้ครับ...<br><br></TD>
@@ -603,93 +609,21 @@ www.suzuki4x4.com / www.suzuki4x4.org / www.suzuki4x4.net
 </script>
 <br>
 ﻿﻿﻿<center><br><font color=red size=+1>กรุณาระบุ category ให้ตรงกับที่ web เปิดใช้ด้วยครับ. </font><br></center>
-http://apl1.sci.kmitl.ac.th/ 127.0.0.1 20170104083053 text/html 1176
+http://101servers.com/ 127.0.0.1 20170101054748 text/html 231
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 09:16:56 GMT
-Server: Apache/2.2.4 (Ubuntu) PHP/5.2.3-1ubuntu6
-Content-Type: text/html Last-modified: Last-Modified: Mon, 14 Dec 2015 09:32:58 GMT
-Content-length: 970
+Date: Sun, 01 Jan 2017 05:47:48 GMT
+Server: Microsoft-IIS/7.5
+Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Fri, 11 Mar 2016 17:57:31 GMT
+Content-length: 34
 
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <html>
-<head>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="Author" content="Wichit Sirichote">
-   <meta name="GENERATOR" content="Mozilla/4.77 [en] (Win98; U) [Netscape]">
-   <title>APL1 server for Microcontroller Lab Experiments</title>
-</head>
 <body>
-<div align="left">
-  <blockquote>
-    <p><font face="Tahoma"><font color="#CC0000"><font color="#000000" size="+3" face="Times New Roman, Times, serif">	Ubuntu 7.10 Server @APL1</font></font></font></p>
-    <p><font color="#000000" size="+3" face="Times New Roman, Times, serif">Applied Physics Dept. Faculty of Science, KMITL </font><br>
-    </p>
-  </blockquote>
-</div>
-<blockquote><hr WIDTH="100%">
-  <p><em><font size="+3" face="Times New Roman, Times, serif"><a href="http://www.kswichit.com">Build Your Own Microcontroller Projects</a> </font></em></p>
-  <hr WIDTH="100%">
-</blockquote>
 </body>
 </html>
 
-http://9korn.reddiary.com/ 127.0.0.1 20170104083053 text/html 1691
+http://ads.thaiware.com/ 127.0.0.1 20170101054748 text/html 4201
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: DOSarrest
-Content-Type: text/html Last-modified: null
-Content-length: -1
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<script type="text/javascript">
-function getCookie(c_name) { // Local function for getting a cookie value
-    if (document.cookie.length > 0) {
-        c_start = document.cookie.indexOf(c_name + "=");
-        if (c_start!=-1) {
-        c_start=c_start + c_name.length + 1;
-        c_end=document.cookie.indexOf(";", c_start);
-
-        if (c_end==-1) 
-            c_end = document.cookie.length;
-
-        return unescape(document.cookie.substring(c_start,c_end));
-        }
-    }
-    return "";
-}
-function setCookie(c_name, value, expiredays) { // Local function for setting a value of a cookie
-    var exdate = new Date();
-    exdate.setDate(exdate.getDate()+expiredays);
-    document.cookie = c_name + "=" + escape(value) + ((expiredays==null) ? "" : ";expires=" + exdate.toGMTString()) + ";path=/";
-}
-function getHostUri() {
-    var loc = document.location;
-    return loc.toString();
-}
-setCookie('YPF8827340282Jdskjhfiw_928937459182JAX666', '158.108.32.60', 10);
-try {  
-    location.reload(true);  
-} catch (err1) {  
-    try {  
-        location.reload();  
-    } catch (err2) {  
-    	location.href = getHostUri();  
-    }  
-}
-</script>
-</head>
-<body>
-<noscript>This site requires JavaScript and Cookies to be enabled. Please change your browser settings or upgrade your browser.</noscript>
-</body>
-</html>
-
-http://ads.thaiware.com/ 127.0.0.1 20170104083053 text/html 4201
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
+Date: Sun, 01 Jan 2017 05:47:47 GMT
 Server: Apache/2.4.23 (Unix) PHP/5.6.29 OpenSSL/1.0.2j
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 4013
@@ -777,7 +711,7 @@ Content-length: 4013
 
 <br />
 <form class="login" name="login" method="post" action="">
-    <input type="hidden" name="oa_cookiecheck" value="ce4faf6ca27dce319386bf4140aa173b" />
+    <input type="hidden" name="oa_cookiecheck" value="d7f576a2053bf8a984a7680d7663c942" />
     <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
             <td width="80"><img src="http://ads.thaiware.com/www/admin/assets/images/login-welcome.gif">&nbsp;&nbsp;</td>
@@ -829,9 +763,9 @@ Content-length: 4013
 </body>
 </html>
 
-http://ads.thaiware.com/www/admin/index.php 127.0.0.1 20170104083053 text/html 4201
+http://ads.thaiware.com/www/admin/index.php 127.0.0.1 20170101054748 text/html 4201
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
 Server: Apache/2.4.23 (Unix) PHP/5.6.29 OpenSSL/1.0.2j
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 4013
@@ -919,7 +853,7 @@ Content-length: 4013
 
 <br />
 <form class="login" name="login" method="post" action="">
-    <input type="hidden" name="oa_cookiecheck" value="04d0d5fc5f65ad8b22fd1e5e5bba8ce6" />
+    <input type="hidden" name="oa_cookiecheck" value="f3ca94c27801201e688d0b13312b6202" />
     <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
             <td width="80"><img src="http://ads.thaiware.com/www/admin/assets/images/login-welcome.gif">&nbsp;&nbsp;</td>
@@ -971,9 +905,9 @@ Content-length: 4013
 </body>
 </html>
 
-http://ads.thaiware.com/www/admin/password-recovery.php 127.0.0.1 20170104083053 text/html 2997
+http://ads.thaiware.com/www/admin/password-recovery.php 127.0.0.1 20170101054748 text/html 2997
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
 Server: Apache/2.4.23 (Unix) PHP/5.6.29 OpenSSL/1.0.2j
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 2809
@@ -1059,7 +993,7 @@ Content-length: 2809
 
 
 <br><br><form method='post' action='password-recovery.php'>
-<input type='hidden' name='token' value='8eedd0f9ab029b8f22d82d428f84381b'/>
+<input type='hidden' name='token' value='358d423a7d213cee2b05d88e230c6a6a'/>
 <div class='install'>Enter your email address below</div><table cellpadding='0' cellspacing='0' border='0'><tr><td colspan='2'><img src='http://ads.thaiware.com/www/admin/assets/images/break-el.gif' width='400' height='1' vspace='8'></td></tr><tr height='24'><td>Email:&nbsp;</td><td><input type='text' name='email' /></td></tr><tr height='24'><td>&nbsp;</td><td><input type='submit' value='Proceed >' /></td></tr><tr><td colspan='2'><img src='http://ads.thaiware.com/www/admin/assets/images/break-el.gif' width='400' height='1' vspace='8'></td></tr></table></form>
 
 
@@ -1074,132 +1008,9 @@ Content-length: 2809
 </body>
 </html>
 
-http://application2.au.edu/ 127.0.0.1 20170104083053 text/html 1414
+http://animal.in.th/ 127.0.0.1 20170101054748 text/html 40301
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: Microsoft-IIS/5.0
-Content-Type: text/html Last-modified: null
-Content-length: 1270
-
-
-<!--
-	  WARNING!
-	  Please do not alter this file. It may be replaced if you upgrade your web server 
-     If you want to use it as a template, we recommend renaming it, and modifying the new file.
-	  Thanks.
--->
-
-
-<HTML>
-
-<HEAD>
-<META HTTP-EQUIV="Content-Type" Content="text-html; charset=Windows-1252">
-
-	
-
-<title id=titletext>Under Construction</title>
-</HEAD>
-	<body bgcolor=white>
-	<TABLE>
-	<TR>
-	<td id="tableProps" width=70 valign=top align=center>
-	<IMG id="pagerrorImg" SRC="pagerror.gif" width=36 height=48>  
-	<TD id="tablePropsWidth" width=400>
-	
-	<h1 id=errortype style="font:14pt/16pt verdana; color:#4e4e4e">
-	<id id="Comment1"><!--Problem--></id><id id="errorText">Under Construction</id></h1>
-	<id id="Comment2"><!--Probable causes:<--></id><id id="errordesc"><font style="font:9pt/12pt verdana; color:black">
-	The site you were trying to reach does not currently have a default page. It may be in the process of being upgraded.
-	</id>
-	<br><br>
-	
-	<hr size=1 color="blue">
-	
-	<br>
-	<ID  id=term1>
-	Please try this site again later. If you still experience the problem, try contacting the Web site administrator.
-	</ID>
-	<P>
-	
-	</ul>
-	<BR>
-	</TD>
-	</TR>
-	</TABLE>
-	</BODY>
-
-
-</HTML>
-
-
-
-
-
-
-
-
-
-
-
-http://adex.shinbroadband.com/ 127.0.0.1 20170104083053 text/html 20696
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: nginx/1.10.2
-Content-Type: text/html; charset=utf-8 Last-modified: null
-Content-length: 20541
-
-<html>
-<head><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYFUFVWGwcDUVBWDwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-<script type="text/javascript">
-    !function(e,t){typeof module!="undefined"&&module.exports?module.exports=t():typeof define=="function"&&define.amd?define(t):this[e]=t()}("bowser",function(){function t(t){function n(e){var n=t.match(e);return n&&n.length>1&&n[1]||""}function r(e){var n=t.match(e);return n&&n.length>1&&n[2]||""}var i=n(/(ipod|iphone|ipad)/i).toLowerCase(),s=/like android/i.test(t),o=!s&&/android/i.test(t),u=/CrOS/.test(t),a=n(/edge\/(\d+(\.\d+)?)/i),f=n(/version\/(\d+(\.\d+)?)/i),l=/tablet/i.test(t),c=!l&&/[^-]mobi/i.test(t),h;/opera|opr/i.test(t)?h={name:"Opera",opera:e,version:f||n(/(?:opera|opr)[\s\/](\d+(\.\d+)?)/i)}:/yabrowser/i.test(t)?h={name:"Yandex Browser",yandexbrowser:e,version:f||n(/(?:yabrowser)[\s\/](\d+(\.\d+)?)/i)}:/windows phone/i.test(t)?(h={name:"Windows Phone",windowsphone:e},a?(h.msedge=e,h.version=a):(h.msie=e,h.version=n(/iemobile\/(\d+(\.\d+)?)/i))):/msie|trident/i.test(t)?h={name:"Internet Explorer",msie:e,version:n(/(?:msie |rv:)(\d+(\.\d+)?)/i)}:u?h={name:"Chrome",chromeBook:e,chrome:e,version:n(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}:/chrome.+? edge/i.test(t)?h={name:"Microsoft Edge",msedge:e,version:a}:/chrome|crios|crmo/i.test(t)?h={name:"Chrome",chrome:e,version:n(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}:i?(h={name:i=="iphone"?"iPhone":i=="ipad"?"iPad":"iPod"},f&&(h.version=f)):/sailfish/i.test(t)?h={name:"Sailfish",sailfish:e,version:n(/sailfish\s?browser\/(\d+(\.\d+)?)/i)}:/seamonkey\//i.test(t)?h={name:"SeaMonkey",seamonkey:e,version:n(/seamonkey\/(\d+(\.\d+)?)/i)}:/firefox|iceweasel/i.test(t)?(h={name:"Firefox",firefox:e,version:n(/(?:firefox|iceweasel)[ \/](\d+(\.\d+)?)/i)},/\((mobile|tablet);[^\)]*rv:[\d\.]+\)/i.test(t)&&(h.firefoxos=e)):/silk/i.test(t)?h={name:"Amazon Silk",silk:e,version:n(/silk\/(\d+(\.\d+)?)/i)}:o?h={name:"Android",version:f}:/phantom/i.test(t)?h={name:"PhantomJS",phantom:e,version:n(/phantomjs\/(\d+(\.\d+)?)/i)}:/blackberry|\bbb\d+/i.test(t)||/rim\stablet/i.test(t)?h={name:"BlackBerry",blackberry:e,version:f||n(/blackberry[\d]+\/(\d+(\.\d+)?)/i)}:/(web|hpw)os/i.test(t)?(h={name:"WebOS",webos:e,version:f||n(/w(?:eb)?osbrowser\/(\d+(\.\d+)?)/i)},/touchpad\//i.test(t)&&(h.touchpad=e)):/bada/i.test(t)?h={name:"Bada",bada:e,version:n(/dolfin\/(\d+(\.\d+)?)/i)}:/tizen/i.test(t)?h={name:"Tizen",tizen:e,version:n(/(?:tizen\s?)?browser\/(\d+(\.\d+)?)/i)||f}:/safari/i.test(t)?h={name:"Safari",safari:e,version:f}:h={name:n(/^(.*)\/(.*) /),version:r(/^(.*)\/(.*) /)},!h.msedge&&/(apple)?webkit/i.test(t)?(h.name=h.name||"Webkit",h.webkit=e,!h.version&&f&&(h.version=f)):!h.opera&&/gecko\//i.test(t)&&(h.name=h.name||"Gecko",h.gecko=e,h.version=h.version||n(/gecko\/(\d+(\.\d+)?)/i)),!h.msedge&&(o||h.silk)?h.android=e:i&&(h[i]=e,h.ios=e);var p="";h.windowsphone?p=n(/windows phone (?:os)?\s?(\d+(\.\d+)*)/i):i?(p=n(/os (\d+([_\s]\d+)*) like mac os x/i),p=p.replace(/[_\s]/g,".")):o?p=n(/android[ \/-](\d+(\.\d+)*)/i):h.webos?p=n(/(?:web|hpw)os\/(\d+(\.\d+)*)/i):h.blackberry?p=n(/rim\stablet\sos\s(\d+(\.\d+)*)/i):h.bada?p=n(/bada\/(\d+(\.\d+)*)/i):h.tizen&&(p=n(/tizen[\/\s](\d+(\.\d+)*)/i)),p&&(h.osversion=p);var d=p.split(".")[0];if(l||i=="ipad"||o&&(d==3||d==4&&!c)||h.silk)h.tablet=e;else if(c||i=="iphone"||i=="ipod"||o||h.blackberry||h.webos||h.bada)h.mobile=e;return h.msedge||h.msie&&h.version>=10||h.yandexbrowser&&h.version>=15||h.chrome&&h.version>=20||h.firefox&&h.version>=20||h.safari&&h.version>=6||h.opera&&h.version>=10||h.ios&&h.osversion&&h.osversion.split(".")[0]>=6||h.blackberry&&h.version>=10.1?h.a=e:h.msie&&h.version<10||h.chrome&&h.version<20||h.firefox&&h.version<20||h.safari&&h.version<6||h.opera&&h.version<10||h.ios&&h.osversion&&h.osversion.split(".")[0]<6?h.c=e:h.x=e,h}var e=!0,n=t(typeof navigator!="undefined"?navigator.userAgent:"");return n.test=function(e){for(var t=0;t<e.length;++t){var r=e[t];if(typeof r=="string"&&r in n)return!0}return!1},n._detect=t,n})
-
-    var bl = '0';
-    function load() {
-        var url = "http://shinbroadband.com/process/route/2993858518.html";
-        if (bowser.msie || bowser.msedge) {
-            try {
-                window.open(url + "?refresh=ie&bl=" + bl, "_top", "");
-            }catch(err) {
-                window.location.href=url + "?refresh=ie&bl=" + bl;
-            }
-        } else {
-            location = 'data:text/html,<html><meta http-equiv="refresh" content="0; url='+url+'?refresh=non-ie&bl='+bl+'"></html>';
-        }
-    }
-    function getStyle(el,styleProp) {
-        try {
-            var x = document.getElementById(el);
-            if (x == undefined || x == null) {
-                return 'none';
-            }
-            var y = false;
-            if (x.currentStyle) {
-                y = x.currentStyle[styleProp];
-            } else if (window.getComputedStyle) {
-                y = document.defaultView.getComputedStyle(x, null).getPropertyValue(styleProp);
-            }
-            return y;
-        } catch(err) {
-            return 'none';
-        }
-    }
-    function checkad() {
-        var s = getStyle('adBox', 'display');
-        if (s=='none' || s=="None") {
-            bl = '1';
-        }
-        load();
-    }
-    setTimeout(function () {
-        checkad();
-    }, 500);
-</script>
-<noscript><meta http-equiv="refresh" content="1; url=http://shinbroadband.com/process/route/2993858518.html?refresh=noscript"></noscript>
-<meta http-equiv="refresh" content="2; url=http://shinbroadband.com/process/route/2993858518.html?refresh=meta">
-</head><body><span id="adBox"></span><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"0d385ba8a0","agent":"","transactionName":"NlVXNhBWW0IEAEENXQ8fcxcMVEFYCg0aEEAAVlMLAVpaRQoRGwVCEUMbFAtEXEU6EVoRRgRCGxQLUkJCXwpbEFMKVQ==","applicationID":"4351484","errorBeacon":"bam.nr-data.net","applicationTime":16}</script></body></html>
-http://animal.in.th/ 127.0.0.1 20170104083053 text/html 40737
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
 Server: nginx
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: -1
@@ -1280,89 +1091,155 @@ Content-length: -1
 		<div class="main-over2">
 								<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7362" rel="nofollow" title="ขายด่วน เรือนเสน่หาอัมพวา โรงแรมแบบบูทีคสี่ดาว แห่งใหม่ล่าสุด ย่านตลาดน้ำอัมพวา ติดคลองดาวดึงษ์"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1476419276.jpg,80,70" alt="ขายด่วน เรือนเสน่หาอัมพวา โรงแรมแบบบูทีคสี่ดาว แห่งใหม่ล่าสุด ย่านตลาดน้ำอัมพวา ติดคลองดาวดึงษ์" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7766" rel="nofollow" title="ขายโฮมออฟฟิตใหม่สวยหรู  3 ชั้น ขนาด 22.5 ตร.ว. เขตสายไหม กรุงเทพ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1481534273.jpg,80,70" alt="ขายโฮมออฟฟิตใหม่สวยหรู  3 ชั้น ขนาด 22.5 ตร.ว. เขตสายไหม กรุงเทพ" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7362" target="_blank"><strong>โรงแรม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 1200 ตรม.</div>
-							<div class="mt2 fs11">อัมพวา สมุทรสงคราม</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">120,000,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7766" target="_blank"><strong>ทาวน์โฮม</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 22.5 ตร.ว.</div>
+							<div class="mt2 fs11">เขตสายไหม กรุงเทพมหานคร</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">3,290,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7725" rel="nofollow" title="ขายที่ดินพร้อมสิ่งปลูกสร้าง PakKret Village ขนาด 303 ตรว. ใกล้ ถ.ติวานนท์ 300 ม. ใกล้ รร.สวนกุหลาบ น"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1480922818.jpg,80,70" alt="ขายที่ดินพร้อมสิ่งปลูกสร้าง PakKret Village ขนาด 303 ตรว. ใกล้ ถ.ติวานนท์ 300 ม. ใกล้ รร.สวนกุหลาบ น" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6526" rel="nofollow" title="ขายที่สวนยาง 10ไร่ ที่สวยราคาถูก น้ำไฟพร้อม อ.ท่าใหม่ จ.จันทบุรี"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1467769235.jpg,80,70" alt="ขายที่สวนยาง 10ไร่ ที่สวยราคาถูก น้ำไฟพร้อม อ.ท่าใหม่ จ.จันทบุรี" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7725" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 303 ตรว.</div>
-							<div class="mt2 fs11">ปากเกร็ด นนทบุรี</div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6526" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 10ไร่</div>
+							<div class="mt2 fs11">ท่าใหม่ จันทบุรี</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">4,800,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7300" rel="nofollow" title="ขายทาวน์โฮม 5ชั้น 46.7 ตร.ว. ตบแต่งสวยงาม ถ.นางลิ้นจี่ ยานนาวา กรุงเทพ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1476002982.jpg,80,70" alt="ขายทาวน์โฮม 5ชั้น 46.7 ตร.ว. ตบแต่งสวยงาม ถ.นางลิ้นจี่ ยานนาวา กรุงเทพ" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7300" target="_blank"><strong>ทาวน์โฮม</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 46.7 ตร.ว.</div>
+							<div class="mt2 fs11">เขตยานนาวา กรุงเทพมหานคร</div>
 							<div class="mt4 fs13 b">ราคา <span class="fc-red">25,000,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7732" rel="nofollow" title="ขายที่ดินเพชรบูรณ์ 16.3 ไร่ พร้อมโฉนด ติดถนนทางหลวงแผ่นดินสาย2196 แยกไปเขาค้อ ห่างตัวเมืองเพียง 13 ก"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1481013809.jpg,80,70" alt="ขายที่ดินเพชรบูรณ์ 16.3 ไร่ พร้อมโฉนด ติดถนนทางหลวงแผ่นดินสาย2196 แยกไปเขาค้อ ห่างตัวเมืองเพียง 13 ก" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6935" rel="nofollow" title="ขายบ้านเดี่ยวชั้นเดียว 64 ตร.ว. ใหม่สวยราคาพิเศษ บ.ศิลาพรเฟส2 อ.เมือง จันทบุรี"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1471932222.jpg,80,70" alt="ขายบ้านเดี่ยวชั้นเดียว 64 ตร.ว. ใหม่สวยราคาพิเศษ บ.ศิลาพรเฟส2 อ.เมือง จันทบุรี" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7732" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 16.3 ไร่</div>
-							<div class="mt2 fs11">เมืองเพชรบูรณ์ เพชรบูรณ์</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">14,000,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6935" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 64 ตร.ว.</div>
+							<div class="mt2 fs11">เมืองจันทบุรี จันทบุรี</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6902" rel="nofollow" title="ขายที่ดิน อ.เมือง ขอนแก่น 5 ไร่ 2 งาน 55 ตรว. ทำเลสวย ห่างถนนเลี่ยงเมืองเพียง 900 ม."><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1471505403.jpg,80,70" alt="ขายที่ดิน อ.เมือง ขอนแก่น 5 ไร่ 2 งาน 55 ตรว. ทำเลสวย ห่างถนนเลี่ยงเมืองเพียง 900 ม." /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6876" rel="nofollow" title="ขายที่ดินสีเหลี่ยมแปลงสวย 14ไร่ เหมาะสำหรับทำรีสอร์ท ต.บ้านดง อ.อุบลรัตน์ ขอนแก่น"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1471244432.jpg,80,70" alt="ขายที่ดินสีเหลี่ยมแปลงสวย 14ไร่ เหมาะสำหรับทำรีสอร์ท ต.บ้านดง อ.อุบลรัตน์ ขอนแก่น" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6902" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 5 ไร่ 2 งาน 55 ตรว.</div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6876" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 14ไร่ 20ตร.ว.</div>
+							<div class="mt2 fs11">อุบลรัตน์ ขอนแก่น</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">8,000,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6106" rel="nofollow" title="ลัค พร็อพเพอร์ตี้ ขายอาคารพาณิชย์ใหม่ 2ชั้น 27 ตร.ว.ริมถนนใหญ่เหมาะค้าขาย อ.หาดใหญ่ จ.สงขลา"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1462804088.jpg,80,70" alt="ลัค พร็อพเพอร์ตี้ ขายอาคารพาณิชย์ใหม่ 2ชั้น 27 ตร.ว.ริมถนนใหญ่เหมาะค้าขาย อ.หาดใหญ่ จ.สงขลา" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6106" target="_blank"><strong>อาคารพาณิชย์</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 27</div>
+							<div class="mt2 fs11">หาดใหญ่ สงขลา</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,600,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6107" rel="nofollow" title="ลัค พร็อพเพอร์ตี้  เปิดขายทาวน์โฮมใหม่ ชั้นเดียว ราคาถูก  29ตร.ว. อ.นาหม่อม จ.สงขลา"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1462804377.jpg,80,70" alt="ลัค พร็อพเพอร์ตี้  เปิดขายทาวน์โฮมใหม่ ชั้นเดียว ราคาถูก  29ตร.ว. อ.นาหม่อม จ.สงขลา" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6107" target="_blank"><strong>ทาวน์เฮ้าส์</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 29 ตร.ว.</div>
+							<div class="mt2 fs11">นาหม่อม สงขลา</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">1,390,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3806" rel="nofollow" title="ขายบ้านเดี่ยว  56 ตร.ว. ตบแต่งสวยหรูเฟอร์นิเจอร์พร้อมอยู่ อ.เมือง จ.ภูเก็ต"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1415151902.jpg,80,70" alt="ขายบ้านเดี่ยว  56 ตร.ว. ตบแต่งสวยหรูเฟอร์นิเจอร์พร้อมอยู่ อ.เมือง จ.ภูเก็ต" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3806" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 56 ตารางวา</div>
+							<div class="mt2 fs11">ถลาง ภูเก็ต</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">3,500,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3153" rel="nofollow" title="ขายบ้านหรู พร้อมต้นสัก และเฟอร์นิเจอร์ครบ ในเนื้อที่ 19ไร่ 3งาน จ.กาฬสินธุ์"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1404369765.jpg,80,70" alt="ขายบ้านหรู พร้อมต้นสัก และเฟอร์นิเจอร์ครบ ในเนื้อที่ 19ไร่ 3งาน จ.กาฬสินธุ์" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3153" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 19ไร่ 3งาน</div>
+							<div class="mt2 fs11">คำม่วง กาฬสินธุ์</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">19,000,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5219" rel="nofollow" title="ขายบ้านพร้อมที่ดิน 106 ตร.ว. ราคาถูก ใกล้ ม.ขอนแก่น และแหล่งชุมชน"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1444526506.jpg,80,70" alt="ขายบ้านพร้อมที่ดิน 106 ตร.ว. ราคาถูก ใกล้ ม.ขอนแก่น และแหล่งชุมชน" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5219" target="_blank"><strong>บ้านเรือนไทย</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 106ตร.ว.</div>
 							<div class="mt2 fs11">เมืองขอนแก่น ขอนแก่น</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">17,000,000</span></div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">6,500,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5786" rel="nofollow" title="ให้เช่า Rhythm Ratchada Condo ตึก B ชั้น 15 ขนาด 47 ตรม. ติด MRT Ratchada ไม่มีตึกบังวิว 1 นอน 1 น้ำ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1456150716.jpg,80,70" alt="ให้เช่า Rhythm Ratchada Condo ตึก B ชั้น 15 ขนาด 47 ตรม. ติด MRT Ratchada ไม่มีตึกบังวิว 1 นอน 1 น้ำ" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7325" rel="nofollow" title="ขายคอนโดมิเนียม โนวาน่า เรสซิเดนซ์  ถนนพัทยาสาย 3 "><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1476199722.jpg,80,70" alt="ขายคอนโดมิเนียม โนวาน่า เรสซิเดนซ์  ถนนพัทยาสาย 3 " /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5786" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 47 ตรม.</div>
-							<div class="mt2 fs11">เขตห้วยขวาง กรุงเทพมหานคร</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">19,500</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7325" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 36 ตร.ม.</div>
+							<div class="mt2 fs11">บางละมุง ชลบุรี</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,450,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7585" rel="nofollow" title="ขายมินิแฟคตอรี่ Mini factory โรงงานพร้อมสำนักงาน บางบอน เอกชัย สร้างใหม่ 360 ตรม. ใกล้ถนนเอกชัยใหญ่เ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1478926820.jpg,80,70" alt="ขายมินิแฟคตอรี่ Mini factory โรงงานพร้อมสำนักงาน บางบอน เอกชัย สร้างใหม่ 360 ตรม. ใกล้ถนนเอกชัยใหญ่เ" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6957" rel="nofollow" title="ขายที่ดินสีเหลี่ยนผืนสวย 3ไร่ 2งาน 89 ตร.ว. ต.ศาลาด่าน อ.เกาะลันตา กระบี่"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1472276905.jpg,80,70" alt="ขายที่ดินสีเหลี่ยนผืนสวย 3ไร่ 2งาน 89 ตร.ว. ต.ศาลาด่าน อ.เกาะลันตา กระบี่" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7585" target="_blank"><strong>โรงงาน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 100 ตรว.</div>
-							<div class="mt2 fs11">เมืองสมุทรสาคร สมุทรสาคร</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">6,990,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6957" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 3ไร่ 2งาน 89 ตร.ว.</div>
+							<div class="mt2 fs11">เกาะลันตา กระบี่</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">8,500,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7442" rel="nofollow" title="For Rent Condo Ivy Thonglor 43 sq.m/18th floor 1bed Luxury fully furnished, Ready to move in."><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1477231691.jpg,80,70" alt="For Rent Condo Ivy Thonglor 43 sq.m/18th floor 1bed Luxury fully furnished, Ready to move in." /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7862" rel="nofollow" title="ขายที่ดินเปล่าผืนสวย 18ไร่  เหมาะทำรีสอร์ท อ.เกาะลันตา จ.กระบี่"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1482722746.jpg,80,70" alt="ขายที่ดินเปล่าผืนสวย 18ไร่  เหมาะทำรีสอร์ท อ.เกาะลันตา จ.กระบี่" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7442" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 43 ตรม.</div>
-							<div class="mt2 fs11">เขตวัฒนา กรุงเทพมหานคร</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">42,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7862" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 18ไร่</div>
+							<div class="mt2 fs11">เกาะลันตา กระบี่</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">3,000,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6969" rel="nofollow" title="[โครงการ บ้านมณฑาทิพย์ 4 ฉลองเปิดโครงการใหม่จากราคาเริ่มต้น 3.8 ล้านบาท เหลือ 2.99 ล้านบาท]"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1476154781.jpg,80,70" alt="[โครงการ บ้านมณฑาทิพย์ 4 ฉลองเปิดโครงการใหม่จากราคาเริ่มต้น 3.8 ล้านบาท เหลือ 2.99 ล้านบาท]" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7068" rel="nofollow" title="ขายบ้านเดียวชั้นเดียว 56 ตร.ว.  3นอน 2น้ำ บ.The house residence  อ.เมือง โคราช"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1473734600.jpg,80,70" alt="ขายบ้านเดียวชั้นเดียว 56 ตร.ว.  3นอน 2น้ำ บ.The house residence  อ.เมือง โคราช" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6969" target="_blank"><strong>อาคารพาณิชย์</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 200 ตรม.</div>
-							<div class="mt2 fs11">นครชัยศรี นครปฐม</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,990,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7068" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 56 ตร.ว.</div>
+							<div class="mt2 fs11">เมืองนครราชสีมา นครราชสีมา</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,500,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
@@ -1407,72 +1284,6 @@ Content-length: -1
 							<div class="mt2 fs11">เนื้อที่: 2 ไร่</div>
 							<div class="mt2 fs11">คลองหลวง ปทุมธานี</div>
 							<div class="mt4 fs13 b">ราคา <span class="fc-red">15,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-4173" rel="nofollow" title="ขายที่ดิน ขายที่ 528.5 ต.ร.ว ซอยกรุงเทพ-นนท์2  ติดรถไฟฟ้า สวยถมแล้ว "><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1426418293.jpg,80,70" alt="ขายที่ดิน ขายที่ 528.5 ต.ร.ว ซอยกรุงเทพ-นนท์2  ติดรถไฟฟ้า สวยถมแล้ว " /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-4173" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 528.5 ต.ร.ว</div>
-							<div class="mt2 fs11">เมืองนนทบุรี นนทบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">42,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6863" rel="nofollow" title="ขายคอนโดมิเนียม สเปนนิซเพลส พัทยากลาง  ติดถนนสุขุมวิท "><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1471000545.jpg,80,70" alt="ขายคอนโดมิเนียม สเปนนิซเพลส พัทยากลาง  ติดถนนสุขุมวิท " /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6863" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 32ตรม.</div>
-							<div class="mt2 fs11">บางละมุง ชลบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">890,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-2297" rel="nofollow" title="ขายที่ดิน 9-1-22 ไร่ ติดถนนพระประโทน-บ้านแพ้ว ใกล้ ม.คริสเตียน"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1396513602.jpg,80,70" alt="ขายที่ดิน 9-1-22 ไร่ ติดถนนพระประโทน-บ้านแพ้ว ใกล้ ม.คริสเตียน" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-2297" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 9-1-22 ไร่ (3,722 ตารางวา)</div>
-							<div class="mt2 fs11">เมืองนครปฐม นครปฐม</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">42,803,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5191" rel="nofollow" title="ขายหรือให้เช่าคอนโดใหม่ห้องมุม ติดม.ข.ยูเซ็นเตอร์ แอร์เฟอร์ครบ พร้อมอยู่"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1444126724.jpg,80,70" alt="ขายหรือให้เช่าคอนโดใหม่ห้องมุม ติดม.ข.ยูเซ็นเตอร์ แอร์เฟอร์ครบ พร้อมอยู่" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5191" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 25 ตรม</div>
-							<div class="mt2 fs11">เมืองขอนแก่น ขอนแก่น</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">1,400,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5192" rel="nofollow" title="ขายคอนโดมิเนียม ริเวนเดลล์ พาร์ควิว "><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1444126880.jpg,80,70" alt="ขายคอนโดมิเนียม ริเวนเดลล์ พาร์ควิว " /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5192" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 25 ตรม</div>
-							<div class="mt2 fs11">เมืองขอนแก่น ขอนแก่น</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">1,400,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5995" rel="nofollow" title="ขายถูกเมโทรคอนโด 1ห้องนอน 32 ตรม ตรงข้ามเซ็นทรัลขอนแก่น พร้อมเฟอร์นิเจอร์ครบชุด ทีวี น้ำอุ่นและแอร์ "><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1460624605.jpg,80,70" alt="ขายถูกเมโทรคอนโด 1ห้องนอน 32 ตรม ตรงข้ามเซ็นทรัลขอนแก่น พร้อมเฟอร์นิเจอร์ครบชุด ทีวี น้ำอุ่นและแอร์ " /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5995" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 32 ตรม</div>
-							<div class="mt2 fs11">เมืองขอนแก่น ขอนแก่น</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">1,790,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
@@ -1628,9 +1439,9 @@ Content-length: -1
 <a href="https://plus.google.com/108966050212122340244" rel="publisher">Google+</a>  <a href="http://www.xn--l3c1b4a.xn--o3cw4h/" title="วัด" target="_blank">วัด</a>	</div>
 </div></body>
 </html>
-http://animal.agri.cmu.ac.th/ 127.0.0.1 20170104083053 text/html 6112
+http://animal.agri.cmu.ac.th/ 127.0.0.1 20170101054748 text/html 6112
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:28:53 GMT
+Date: Sun, 01 Jan 2017 05:45:51 GMT
 Server: Microsoft-IIS/8.0
 Content-Type: text/html Last-modified: Last-Modified: Thu, 21 Jul 2011 09:56:23 GMT
 Content-length: 5928
@@ -1740,9 +1551,9 @@ Content-length: 5928
 
 </html>
 
-http://animal.agri.cmu.ac.th/greet.htm 127.0.0.1 20170104083053 text/html 19824
+http://animal.agri.cmu.ac.th/greet.htm 127.0.0.1 20170101054748 text/html 19824
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:28:53 GMT
+Date: Sun, 01 Jan 2017 05:45:51 GMT
 Server: Microsoft-IIS/8.0
 Content-Type: text/html Last-modified: Last-Modified: Wed, 20 May 2015 03:37:14 GMT
 Content-length: 19639
@@ -1929,1077 +1740,83 @@ Content-length: 19639
 
 </html>
 
-http://aee.co.th/ 127.0.0.1 20170104083054 text/html 6209
+http://asiasoft.co.th/ 127.0.0.1 20170101054748 text/html 248
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 6037
+Date: Sun, 01 Jan 2017 05:49:42 GMT
+Server: Microsoft-IIS/7.5
+Content-Type: text/html; charset=utf-8 Last-modified: null
+Content-length: 91
 
-<!doctype html>
+
+<meta http-equiv="refresh" content="0;URL=http://www.asiasoft.co.th/king/index.html" />
+
+http://atjapan.pantipmember.com/ 127.0.0.1 20170101054748 text/html 317
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:48 GMT
+Server: Apache/1.3.42 (Unix) PHP/4.4.9
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<link type="text/css" rel="stylesheet" href="/css/style.css">
+<META HTTP-EQUIV="REFRESH" CONTENT="0;URL=http://pantip.com/club/90">
+<body class="samgee"></body>
+http://9korn.reddiary.com/ 127.0.0.1 20170101054748 text/html 1691
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:48 GMT
+Server: DOSarrest
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script type="text/javascript">
+function getCookie(c_name) { // Local function for getting a cookie value
+    if (document.cookie.length > 0) {
+        c_start = document.cookie.indexOf(c_name + "=");
+        if (c_start!=-1) {
+        c_start=c_start + c_name.length + 1;
+        c_end=document.cookie.indexOf(";", c_start);
 
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
+        if (c_end==-1) 
+            c_end = document.cookie.length;
 
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-      <section>
-           <h2>Asia Energy Engineering - Special Steel Solutions</h2>
-            <p>Welcome to <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> company limited (<span class="text_redb">AEE</span>), your reliable supplier for special steel products and services. The product is delivered from either our in-house stock or from our international network stock, and also directly from both domestic and foreign mills.<br>
-        <p>It doesn’t matter how many pieces of product are required, big or small volume, long delivery or top urgent delivery requirement, short length, short piece, we always prepare to serve your demand.<br>
-        <p><strong>Materials :</strong><br>
-          <span class="text_redb">•	Carbon Steel<br>
-          •	Alloy Steel<br>
-          •	Stainless, Duplex and Super Duplex Steel<br>
-          •	Nickel Alloy<br>
-          •	Copper Alloy</span></p>
-            <p><strong>Standards :</strong><br>
-          <span class="text_redb">•	ASTM - ASME - DIN - JIS - EN</span></p>
-            <p><strong>Segments :</strong><br>
-          <span class="text_redb">•	Energy - Oil&Gas – Chemical</span></p>
-          </section>
-      <!-- end article --></article>
-        </div><!-- end--contentPage -->
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container -->
-  </div>
-<!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/home.html 127.0.0.1 20170104083054 text/html 6209
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 6037
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-      <section>
-           <h2>Asia Energy Engineering - Special Steel Solutions</h2>
-            <p>Welcome to <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> company limited (<span class="text_redb">AEE</span>), your reliable supplier for special steel products and services. The product is delivered from either our in-house stock or from our international network stock, and also directly from both domestic and foreign mills.<br>
-        <p>It doesn’t matter how many pieces of product are required, big or small volume, long delivery or top urgent delivery requirement, short length, short piece, we always prepare to serve your demand.<br>
-        <p><strong>Materials :</strong><br>
-          <span class="text_redb">•	Carbon Steel<br>
-          •	Alloy Steel<br>
-          •	Stainless, Duplex and Super Duplex Steel<br>
-          •	Nickel Alloy<br>
-          •	Copper Alloy</span></p>
-            <p><strong>Standards :</strong><br>
-          <span class="text_redb">•	ASTM - ASME - DIN - JIS - EN</span></p>
-            <p><strong>Segments :</strong><br>
-          <span class="text_redb">•	Energy - Oil&Gas – Chemical</span></p>
-          </section>
-      <!-- end article --></article>
-        </div><!-- end--contentPage -->
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container -->
-  </div>
-<!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/co-partner.html 127.0.0.1 20170104083054 text/html 5595
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:49 GMT
-Content-length: 5423
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="container"><!--CONTAINER-->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-  <div class="contentpage">
-        <div>
-      <aside>
-            <img src="images/co-partner/Aiden Group.jpg" alt="" width="380" height="114">
-            <img src="images/co-partner/NE.jpg" alt="" width="380" height="114">
-            <img src="images/co-partner/TAS.jpg" alt="" width="220" height="114">           
-            <!-- <h3>brief details here</h3> --> 
-          </aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column1"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-           <p>Since 2014 <span class="text_redb">AEE</span> has been working with AIDEN group who represents Nooter Eriksen, a HRSG for power stations and TAS Energy, Inc., a turbine air chilling system. More details of the product, see <a href="http://www.ne.com" target="_blank"><span class="text_redb">www.ne.com</span></a> and <a href="http://www.tas.com" target="_blank"><span class="text_redb">www.tas.com</span></a> respectively.</p>
-            <img class="centerimg" src="images/co-partner/pp0.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp1.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp2.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp3.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp4.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp5.jpg" alt="">
-            <p></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container --></div>
-  <!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/contact.html 127.0.0.1 20170104083054 text/html 5738
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:49 GMT
-Content-length: 5566
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-     <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/contact1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/contact2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/contact3.JPG" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-      <section>
-        <h2>CONTACT</h2>
-        <p> <strong> <span class="text_blueb">Asia</span> <span class="text_blueb">Energy</span> <span class="text_blueb">Engineering Co., Ltd.</span> </strong> <br>
-          281/119 Vibhavadi-Rangsit Rd. <br>
-          Sanambin, Donmueang, <br>
-          Bangkok 10210 <br>
-          THAILAND <br>
-          Phone: +662 156 9701-3<br>
-          Fax: +662 156 9704<br>
-          <m> <strong>Email:</strong></m>
-          <a href="mailto:info@aee.co.th"> <span class="BoldRed">info@aee.co.th</span></a> </p>
-        <p> <a href="map/AEE-Map.pdf" target="_blank"> <span class="BoldRed">download map</span></a> </p>
-      </section>
-      <!-- end article --></article>
-    
-    <!-- Map from Googlemap
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.th/maps?q=13.925039,100.534633&amp;num=1&amp;hl=th&amp;ie=UTF8&amp;ll=13.925122,100.534478&amp;spn=0.014933,0.026157&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.th/maps?q=13.925039,100.534633&amp;num=1&amp;hl=th&amp;ie=UTF8&amp;ll=13.925122,100.534478&amp;spn=0.014933,0.026157&amp;t=m&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Enlarge the map</a></small>
---> 
-    
-    <!-- end .contentPage --></div>
-  <footer>
-    <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy</span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-  </footer>
-  <!-- end .container --> 
-</div>
-<!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/download.html 127.0.0.1 20170104083054 text/html 7460
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 7288
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-  <div class="contentpage">
-        <div class="sidebar3">
-      <aside>
-            <h4>Documents for download</h4>
-            <span class="text_red">Various useful industrial standards and specifications in special steel and alloy industries are ready for download</span> 
-            <!-- <h3>brief details here</h3> --> 
-          </aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column1"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-            <h2>Steel/Alloy Standard and Specifications</h2>
-            <p class="text_blueb">- <a href="ref/1) Tube & Pipe Comparison Table.pdf" target="_blank"><span class="text_redb">Tube & Pipe Comparison Table(1)</span></a></p>
-            <p class="text_blueb">- <a href="ref/TUBES AND PIPES(2).pdf" target="_blank"><span class="text_redb">Tube & Pipe Comparison Table(2)</span></a></p>
-            <p class="text_blueb">- <a href="ref/2) Material Comparison Table.pdf" target="_blank"><span class="text_redb">Material Comparison Table</span></a></p>
-            <p class="text_blueb">- <a href="ref/3) Material Specification Chart.pdf" target="_blank"><span class="text_redb">Material Specification Chart</span></a></p>
-            <p class="text_blueb">- <a href="ref/4) Metal & Alloy Density.pdf" target="_blank"><span class="text_redb">Metal & Alloy Density</span></a></p>
-            <p class="text_blueb">- <a href="ref/5) Pipe Table.pdf" target="_blank"><span class="text_redb">Pipe Table</span></a></p>
-            <p class="text_blueb">- <a href="ref/6) Table of Gauges.pdf" target="_blank"><span class="text_redb">Table of Gauges</span></a></p>
-            <p class="text_blueb">- <a href="ref/7) U Tube - SA688 Tolerance.pdf" target="_blank"><span class="text_redb">U Tube – ASME SA688 Tolerance</span></a></p>
-            <p class="text_blueb">- <a href="ref/8) Copper & Copper Alloy Specifications.pdf" target="_blank"><span class="text_redb">Copper & Copper Alloy Specifications</span></a></p>
-            <p class="text_blueb">- <a href="ref/9) comparison table.pdf" target="_blank"><span class="text_redb">Comparison Table - Service Temperatures for Boiler and Heatexchanger Tubes</span></a></p>
-            <p class="text_blueb">- <a href="ref/10) Ferrous&Non-ferrous.pdf" target="_blank"><span class="text_redb">Ferrous & Non - Ferrous Metals Service Temperature</span></a></p>
-            <p class="text_blueb">- <a href="ref/11) Recommended Maximum Temperature.pdf" target="_blank"><span class="text_redb">Recommended Maximum Temperature of Tube Materials</span></a></p>
-            <p></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container --></div>
-  <!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/products.html 127.0.0.1 20170104083054 text/html 17552
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 17379
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-<style>
-#customers {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	width: 90%;
-	margin: 0px auto;
-	border-collapse: collapse;
+        return unescape(document.cookie.substring(c_start,c_end));
+        }
+    }
+    return "";
 }
-#customers td, #customers th {
-	font-size: 16px;
-	border: 1px solid #98bf21;
-	padding: 3px 7px 2px 7px;
-	color: #000000;
+function setCookie(c_name, value, expiredays) { // Local function for setting a value of a cookie
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate()+expiredays);
+    document.cookie = c_name + "=" + escape(value) + ((expiredays==null) ? "" : ";expires=" + exdate.toGMTString()) + ";path=/";
 }
-#customers th {
-	font-size: 16px;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 5px;
-	padding-bottom: 4px;
-	background-color: #b0b8fc;
-	color: #800000;
+function getHostUri() {
+    var loc = document.location;
+    return loc.toString();
 }
-#customers tr.alt td {
-	color: #000000;
-	background-color: #AAF2D3;
+setCookie('YPF8827340282Jdskjhfiw_928937459182JAX666', '158.108.32.60', 10);
+try {  
+    location.reload(true);  
+} catch (err1) {  
+    try {  
+        location.reload();  
+    } catch (err2) {  
+    	location.href = getHostUri();  
+    }  
 }
-</style>
+</script>
 </head>
-
 <body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-     <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-        <div class="sidebar4">
-      <aside>
-            <h4>PRODUCTS & SERVICES</h4>
-            <a href="#tube"><span class="text_redb">Seamless & Welded Tube and Pipe</span></a><br>
-            <a href="#plate"><span class="text_redb">Plate and Sheet</span></a><br>
-            <a href="#fitting"><span class="text_redb">Flange and Fitting</span></a><br>
-            <a href="#bar"><span class="text_redb">Rolled and Forged Bar</span></a><br>
-            <a href="#HE"><span class="text_redb">Heat Exchanger Components</span></a><br>
-             <a href="#HE"><span class="text_redb">Rails and Accessories for Train & Crane</span></a><br>
-            <a href="#refp"><span class="text_redb">Represented Product</span></a><br>
-            <p></p>
-            <!-- <h3>brief details here</h3> --> 
-          </aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column2"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-            <h2>Various Items of Products</h2>
-            <h5 id="tube">Seamless & Welded Tube and Pipe</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Carbon Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A178, SA/A179, SA/A210 Gr. A1/C<br>
-              SA/A53 Gr. A/B, SA/A106 Gr. B</td>
-              </tr>
-          <tr>
-                <td>DIN 17175</td>
-                <td>St35.8, St45.8, 15Mo3</td>
-              </tr>
-          <tr>
-                <td>EN 10216-2</td>
-                <td>P235GH, P265GH, 16Mo3</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Alloy Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A209 T1, SA/A213 T5,T11,T12,T22,T23,T91<br>
-              SA/A335 P1, P11, P12, P22, P23, P91</td>
-              </tr>
-          <tr class="alt">
-                <td>DIN 17175</td>
-                <td>16Mo5, 13CrMo4 4, 10CrMo9-10</td>
-              </tr>
-          <tr class="alt">
-                <td>EN 10216-2</td>
-                <td>8MoB5-4, 10CrMo5-5, 13CrMo4-5, 10CrMo9-10</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Stainless Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A213, SA/A268, SA/A269<br>
-              SA/A312<br>
-              (TP304, TP304H, TP310, TP316, TP316L, TP316N, TP321, TP347, TP347H, TP904L)
-              1.4418 (X4CrNiMo 16-5-1)</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Duplex and Super Duplex Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A789 S31803, S32205, S32760<br>
-              SA/A790 S31803, S32205, S32760</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Material</span></th>
-                <th><span class="text_redb">Copper and Copper Alloy</span></th>
-              </tr>
-          <tr>
-                <td>Aluminum Brass</td>
-                <td>ASME/ASTM SB/B111 C68700<br>
-              JIS H3300 C6872T<br>
-              DIN 1785 CuZn20Al2</td>
-              </tr>
-          <tr>
-                <td>Admiralty Brass</td>
-                <td>ASME/ASTM SB/B111 C44300<br>
-              JIS H3300 C4430T<br>
-              DIN 1785 CuZn28Sn1</td>
-              </tr>
-          <tr>
-                <td> Copper-Nickel</td>
-                <td>ASME/ASTM SB/B111 C70600 (90/10), C71500(70/30)<br>
-              JIS H3300 C7060T, C7150T<br>
-              DIN 1785 CuNi10Fe1Mn, CuNi30Mn1Fe</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Nickel Alloy</span></th>
-              </tr>
-          <tr class="alt">
-                <td>UNS</td>
-                <td>N04400, N06600, N06625, N10276</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="plate">Plate and Sheet</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Carbon Structural Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM<br>
-              JIS </td>
-                <td>SA/A36, SA/A1008<br>
-              G3101 SS400, G3141 SPCC</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Decarburized Carbon Steel (Enamelling Steel)</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM<br>
-              JIS</td>
-                <td>SA/A424 Type II<br>
-              G3133 SPP</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Atmospheric Corrosion Resistant Steel</span></th>
-              </tr>
-          <tr>
-                <td>&nbsp;</td>
-                <td>CORTEN-A, CORTEN-B, CORTEN-O</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Sulfur Dew-Point Corrosion Resistant Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>S-TEN1, S-TEN2, SCR-TEN2</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Pressure Vessel Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM<br>
-              DIN 10028-2 </td>
-                <td>SA/A387 Grade 5, 11, 12, 22, SA/A516 Grade 60, 70<br>
-              16Mo3, 13CrMo4-5, 10CrMo9-10</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Wear Resistant Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>400HB, 500HB</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Stainless Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A240 Type 304, 310, 316, 321, 347, 405, 409, 410, 420, 422, 430, 431, 630, 660, 904L, 253MA</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Duplex and Super Duplex Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A240 Type S31803, S32205, S32750</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Nickel Alloy</span></th>
-              </tr>
-          <tr>
-                <td>&nbsp;</td>
-                <td>Alloy 20, Alloy 230, Hastelloy X, Hastelloy C-276, Monel 400, Inconel X-750, Inconel 600, Inconel 601, Inconel 625, Inconel 718, Incoloy 800, Nimonic 80, Nimonic 90</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="fitting">Flange and Fitting</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Carbon Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A 105, SA/A234 WPB</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Stainless Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A 182, SA/A403 all grades</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Alloy Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A 182, SA/A234 all grades</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Type of Fitting</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>Elbow, Tee, Reducer, etc.</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="bar">Rolled and Forged Bar</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Alloy and Stainless Steel</span></th>
-              </tr>
-          <tr>
-                <td> ASTM</td>
-                <td>A182 all grades, A276 all grades</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Nickel Alloy</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>Alloy 20, Alloy 230, Hastelloy X, Hastelloy C-276, Monel 400, Inconel X-750, Inconel 600, Inconel 601, Inconel 625, Inconel 718, Incoloy 800, Nimonic 80, Nimonic 90</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Bolting Material for GT</span></th>
-              </tr>
-          <tr>
-                <td>ASTM<br>
-              JIS<br>
-              WESTINGHOUSE</td>
-                <td>ASTM A193 Grade B5 or JIS SNB5 or WESTINGHOUSE 10705AD<br>
-              ASTM A193 Grade B16 or JIS SNB16 or WESTINGHOUSE 10305DU<br>
-              ASTM A286 Grade 660<br>
-              ASTM A565 Grade 616 or AISI422 or WESTINGHOUSE 10705BU or GE B50A951A1</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="HE">Heat Exchanger Components</h5>
-            <table id="customers">
-          <tr>
-                <th width="40%"><span class="text_redb">Type of Material</span></th>
-                <th width="60%"><span class="text_redb">Application for</span></th>
-              </tr>
-          <tr>
-                <td>Bended and U Tube</td>
-                <td>boiler, cooler and heat exchanger</td>
-              </tr>
-          <tr>
-                <td>Tube Sheet and Baffle Plate</td>
-                <td>cooler and heat exchanger</td>
-              </tr>
-          <tr>
-                <td> Dished Head</td>
-                <td>column</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="refp">Represented Product</h5>
-            <p><span class="text_redb">A</span>sia <span class="text_redb">E</span>nergy <span class="text_redb">E</span>ngineering is the exclusive distributor of The Hilliard Corporate who is the US manufacturer of the oil filtration equipment and cartridge. The main end use of these filtering equipment and cartridges are lube oil systems of gas turbine, steam turbine, petrochemical and food industries. The filtration equipment and cartridge are supplied under the trade-name “HILCO”. The major products include the following :<br>
-          - Reclaimers / Reclamation Systems<br>
-          - Vent Mist Eliminators<br>
-          - Fluid Filtration / Conditioning Systems<br>
-          - Replacement Filter Elements<br>
-          - “Star” Filter Press</span><br>
-          More details of the product, see <a href="http://www.hilliardcorp.com/" target="_blank">www.hilliardcorp.com</a></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container --></div>
-  <!--END--WRAPPER-->
+<noscript>This site requires JavaScript and Cookies to be enabled. Please change your browser settings or upgrade your browser.</noscript>
 </body>
 </html>
 
-http://aee.co.th/profile.html 127.0.0.1 20170104083054 text/html 7183
+http://adslthailand.com/ 127.0.0.1 20170101054749 text/html 92548
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:53 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 7011
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-        <div>
-      <aside></aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column1"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-            <h2>COMPANY PROFILE</h2>
-            <div id="list4">
-          <ul>
-                <li>1999</li>
-              </ul>
-        </div>
-            <p>The year of company establishment, originally served only power generation and pulp & paper industries. Various kinds of spare parts for these two industries for plant maintenance purpose were supplied during the first 3-4 years our operation.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2003</li>
-              </ul>
-        </div>
-            <p>Supplied products were mainly focused on steel in form of tube, pipe, plate, sheet and bar for power plants.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2005</li>
-              </ul>
-        </div>
-            <p>Finned tubes for HRSG were the major supplied product, including H-finned tube fabricated boiler panels for pulp & paper plant. Cold rolled sheet for enamelling plant processing as well as atmospheric and sulfur dew-point corrosion resistant steel plate and enamel powder were another major supplied products.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2010</li>
-              </ul>
-        </div>
-            <p>U tubes for feed water heaters were supplied to both industry and utility power plants.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2013</li>
-              </ul>
-        </div>
-            <p>The business has been expanded to oil & gas industry, mainly through heat exchanger fabricators. Major supplied product were straight and u-tubes for heat exchanger including pipe, plate, bar and various forging parts for high temperature and corrosion resistance application. Special stainless steel, duplex steel, copper alloy and nickel alloy were the materials supplied to this industry</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2014</li>
-              </ul>
-        </div>
-            <p><span class="text_redb">AEE</span> has associated with AIDEN Group for sales and marketing of HRSG and Turbine Air Chilling system.</p>
-            <p></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container -->
-  </div>
-  <!--END--WRAPPER-->
-</body>
-</html>
-
-http://adslthailand.com/ 127.0.0.1 20170104083054 text/html 128718
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
+Date: Sun, 01 Jan 2017 05:47:47 GMT
 Server: Apache/2.2.15 (CentOS)
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: -1
@@ -3065,22 +1882,7 @@ Content-length: -1
                 <div class="container">
 
                     <div class="body-container">
-                        
-<link rel="stylesheet" type="text/css" href="/assets/css/flexslider.css">
-<script type="text/javascript" src="./assets/js/jquery.flexslider-min.js"></script>
-<div id="slider">
-    <div class="flexslider">
-        <ul class="slides">
-<li><a href="http://www.adslthailand.com/linkout/banner/30?link=http%3A%2F%2Fwww.nvk.co.th%2Fblog%2Fview%2F%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B9%84%E0%B8%A7%E0%B9%84%E0%B8%9F%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81" target="_blank"><img src="uploads/moxie/banners/campaign_20/header/14758313522300.jpg" style="max-width:1080px;max-height:350px;"/></a></li><li><a href="http://www.adslthailand.com/linkout/banner/22?link=http%3A%2F%2Fwww.3bb.co.th%2Fnewpromotion%2F" target="_blank"><img src="uploads/moxie/banners/campaign_15/header/14810954292356.jpg" style="max-width:1080px;max-height:350px;"/></a></li>        </ul>
-    </div>
-</div>
-<script>
-    $('.flexslider').flexslider({
-        animation: "slide",
-        directionNav: false,
-        pauseOnHover: true
-    });
-</script>                        <div class="body-content-container">
+                                                <div class="body-content-container">
                             <div class="category-list">
     
                 <div class="category-list-block">
@@ -3112,7 +1914,7 @@ Content-length: -1
                 <i class="glyphicons clock"></i> 16 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  15,784 Views
+                <i class="glyphicons eye_open"></i>  13,202 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -3163,7 +1965,7 @@ Content-length: -1
                 <i class="glyphicons clock"></i> 13 Oct 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  34,253 Views
+                <i class="glyphicons eye_open"></i>  31,686 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -3203,772 +2005,6 @@ Content-length: -1
 
     
     <div class="entry">
-        <h1 ><a href="http://www.adslthailand.com/post/iot-in-review-2016">2016 in Review IoT - ย้อนรอยวงการ IoT ในปี 2016</a></h1>
-        <div class="entry-info">
-            <!--
-            <div class="entry-info-box">
-                <i class="glyphicons user"></i> 
-                                <a href="http://www.adslthailand.com/profile/3036">iyo</a>            </div>
-            -->
-            <div class="entry-info-box">
-                <i class="glyphicons clock"></i> 02 Jan 2017 
-            </div>
-            <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  1,644 Views
-            </div>
-            <div class="entry-info-box">
-                <i class="glyphicons chat"></i> 
-                0 Comments
-            </div>
-			<div class="entry-info-box">
-                <i class="glyphicons globe"></i> 
-                1 Shares
-            </div>
-            <hr>
-            <div class="entry-info-box small category-info">
-                <i class="glyphicons inbox"></i> 
-                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/internet-of-things">Internet of Things</a>            </div>
-			<!--
-                                        <div class="entry-info-box small">
-                    <i class="glyphicons tag"></i> 
-                                            <a href="" class="pills"></a> 
-                                    </div>
-            			-->
-        </div>
-
-        
-        <div class="entry-teaser" >
-                            <div class="entry-img">
-                    <a href="http://www.adslthailand.com/post/iot-in-review-2016"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3343/thumb/14833486731863.jpg"/></a>
-                </div>     
-                            <div class="teaser-header" ><p><!-- [if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>JA</w:LidThemeAsian>
-  <w:LidThemeComplexScript>TH</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:ApplyBreakingRules/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!-- [if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="382">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Level 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
- </w:LatentStyles>
-</xml><![endif]--><!-- [if gte mso 10]>
-<style>
- /* Style Definitions */
-table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	mso-bidi-font-size:14.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;}
-</style>
-<![endif]--> <!--StartFragment--> <!--EndFragment--></p>
-<p class="MsoNormal"><span lang="TH">สวัสดีปีใหม่ท่านผู้อ่านที่น่ารักทุกท่านค่ะ </span>( <span lang="TH">แผล็บๆๆ </span>:p )<span lang="TH"> ในบทความนี้เราได้รวบรวมเหตุการณ์สำคัญต่างๆ ในวงการ </span>Internet of Things<span lang="TH"> ที่เกิดขึ้นในรอบปี </span>2016&nbsp; <span lang="TH">มาให้ทุกท่านได้ย้อนระลึกความหลังกัน เหตุการณ์ที่ว่ามานั้นจะมีอะไรบ้างไปดูกันเลยค่ะ!</span></p></div>
-            <div class="entry-body">
-                    </div>
-        </div>
-        
-        <div class="entry-controls rFloat">
-            <a class="read-more" href="http://www.adslthailand.com/post/iot-in-review-2016">READ MORE</a>
-        </div>
-        <div style="clear:both"></div>
-    </div>
-
-    
-    <div class="entry">
-        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2017-%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%87-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%93%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99">ปีใหม่ 2017 ออนไลน์ยังมาแรง เผยยอดปริมาณใช้งานดาต้าที่เพิ่มสูงขึ้น</a></h1>
-        <div class="entry-info">
-            <!--
-            <div class="entry-info-box">
-                <i class="glyphicons user"></i> 
-                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
-            -->
-            <div class="entry-info-box">
-                <i class="glyphicons clock"></i> 01 Jan 2017 
-            </div>
-            <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  2,435 Views
-            </div>
-            <div class="entry-info-box">
-                <i class="glyphicons chat"></i> 
-                0 Comments
-            </div>
-			<div class="entry-info-box">
-                <i class="glyphicons globe"></i> 
-                19 Shares
-            </div>
-            <hr>
-            <div class="entry-info-box small category-info">
-                <i class="glyphicons inbox"></i> 
-                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Broadband-Internet">Broadband Internet</a>            </div>
-			<!--
-                                        <div class="entry-info-box small">
-                    <i class="glyphicons tag"></i> 
-                                            <a href="" class="pills"></a> 
-                                    </div>
-            			-->
-        </div>
-
-        
-        <div class="entry-teaser" >
-                            <div class="entry-img">
-                    <a href="http://www.adslthailand.com/post/%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2017-%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%87-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%93%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3342/thumb/14832709154824.JPG"/></a>
-                </div>     
-                            <div class="teaser-header" ><p>รายงานจาก 3 ค่ายมือถือ เอไอเอส ดีแทค และทรูมูฟเอช ในช่วงเคาน์ดาวน์ไปจนกระทั่งเริ่มต้นปีใหม่ 2017 เผยยอดปริมาณการใช้ข้อมูลผ่านมือถือและออนไลน์ต่างๆ ตลอดจนเฟสบุ๊ค ไปจนถึงยูทูป ส่งผลให้การใช้งาน wifi และ 4G มีอัตราที่เพิ่มสูงขึ้นมาก&nbsp;</p></div>
-            <div class="entry-body">
-                    </div>
-        </div>
-        
-        <div class="entry-controls rFloat">
-            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2017-%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%87-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%93%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99">READ MORE</a>
-        </div>
-        <div style="clear:both"></div>
-    </div>
-
-    
-                <div class="body-ads">
-                    <div class="ads-container">
-                        <h5>ADVERTISMENT</h5><a href="http://www.adslthailand.com/linkout/banner/29?link=http%3A%2F%2Fwww.3bb.co.th%2F"><img src="uploads/moxie/banners/campaign_15/advertise/14762665444198.jpg"></a>
-                    </div>
-                    <div class="clear"></div>
-                </div>
-            
-    <div class="entry">
         <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%81%E0%B8%AA%E0%B8%97-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87-7-%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1">บอร์ดกสท. อนุมัติแผนเยียวยาทรูวิชั่นส์ ออกไลเซ่นส์รับรอง 7 ช่องใหม่แทนของเดิม </a></h1>
         <div class="entry-info">
             <!--
@@ -3980,7 +2016,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 29 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  4,589 Views
+                <i class="glyphicons eye_open"></i>  2,127 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4031,7 +2067,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 28 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  5,799 Views
+                <i class="glyphicons eye_open"></i>  3,350 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4039,7 +2075,7 @@ table.MsoNormalTable
             </div>
 			<div class="entry-info-box">
                 <i class="glyphicons globe"></i> 
-                108 Shares
+                103 Shares
             </div>
             <hr>
             <div class="entry-info-box small category-info">
@@ -4082,7 +2118,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 26 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  7,064 Views
+                <i class="glyphicons eye_open"></i>  4,737 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4133,7 +2169,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 24 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  3,217 Views
+                <i class="glyphicons eye_open"></i>  3,188 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4184,7 +2220,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 23 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  5,926 Views
+                <i class="glyphicons eye_open"></i>  5,854 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4235,7 +2271,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 21 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  5,373 Views
+                <i class="glyphicons eye_open"></i>  5,367 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4286,7 +2322,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 21 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  5,584 Views
+                <i class="glyphicons eye_open"></i>  5,558 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4337,7 +2373,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 16 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  4,773 Views
+                <i class="glyphicons eye_open"></i>  4,720 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4388,7 +2424,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 14 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  4,989 Views
+                <i class="glyphicons eye_open"></i>  4,966 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4439,7 +2475,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 14 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  4,581 Views
+                <i class="glyphicons eye_open"></i>  4,574 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4490,7 +2526,7 @@ table.MsoNormalTable
                 <i class="glyphicons clock"></i> 13 Dec 2016 
             </div>
             <div class="entry-info-box">
-                <i class="glyphicons eye_open"></i>  5,181 Views
+                <i class="glyphicons eye_open"></i>  5,173 Views
             </div>
             <div class="entry-info-box">
                 <i class="glyphicons chat"></i> 
@@ -4524,6 +2560,108 @@ table.MsoNormalTable
         
         <div class="entry-controls rFloat">
             <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%AA%E0%B9%88%E0%B8%87-sms-%E0%B8%82%E0%B8%AD%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%84%E0%B8%97-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%AE%E0%B8%B1%E0%B8%9A">CAT เปิดใช้เคเบิลใต้น้ำ APG เร่งสร้างฐานธุรกิจเอเชียแปซิฟิก อินเทอร์เน็ตฮับ</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 07 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,839 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                140 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Telecom">Telecom</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%84%E0%B8%97-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%AE%E0%B8%B1%E0%B8%9A"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3291/thumb/14811090213112.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>CAT เปิดใช้เคเบิลใต้น้ำ APG (เอพีจี) เร่งสร้างฐานธุรกิจเอเชียแปซิฟิก อินเทอร์เน็ตฮับ หนุนนโยบายไทยแลนด์ 4.0&nbsp;</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%84%E0%B8%97-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%AE%E0%B8%B1%E0%B8%9A">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%95%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-mobile-application-%3A-1212-occ-%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5">เอ็ตด้า กระทรวงดีอี เปิดตัวบริการใหม่ Mobile Application : 1212 OCC  ตอบโจทย์ไลฟ์สไตล์ยุคดิจิทัล</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 07 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,218 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                20 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/ict-news">ICT News</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%95%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-mobile-application-%3A-1212-occ-%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3290/thumb/14811064292677.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>เอ็ตด้า กระทรวงดีอี เปิดตัวบริการใหม่ Mobile Application : 1212 OCC &nbsp;รับเรื่องร้องเรียนปัญหาออนไลน์ ง่าย &ndash; สะดวก &ndash; รวดเร็ว ตอบโจทย์ไลฟ์สไตล์ยุคดิจิทัล</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%95%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-mobile-application-%3A-1212-occ-%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5">READ MORE</a>
         </div>
         <div style="clear:both"></div>
     </div>
@@ -4859,30 +2997,801 @@ table.MsoNormalTable
 
     </body>
 </html>
-http://amazingchiangmai.com/ 127.0.0.1 20170104083054 text/html 461
+http://atimemedia.com/ 127.0.0.1 20170101054749 text/html 38471
 HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:28:19 GMT
-Server: Microsoft-IIS/7.5
-Content-Type: text/html; charset=utf-8 Last-modified: null
-Content-length: 303
-
-<!DOCTYPE html><body style="padding:0; margin:0;"><html><body><iframe src="http://mcc.godaddy.com/park/oachoKMuqUO1qz5uqUchqv5jLab=" style="visibility: visible;height: 100%; position:absolute" allowtransparency="true" marginheight="0" marginwidth="0" frameborder="0" width="100%"></iframe></body></html>
-http://alumni.payap.ac.th/ 127.0.0.1 20170104083054 text/html 567
-HTTP/1.1 200 OK
-Date: Wed, 04 Jan 2017 08:30:52 GMT
+Date: Sun, 01 Jan 2017 05:21:57 GMT
 Server: Apache
-Content-Type: text/html Last-modified: Last-Modified: Mon, 01 Aug 2011 09:46:44 GMT
-Content-length: 395
+Content-Type: text/html; charset=UTF-8 Last-modified: null
+Content-length: -1
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Alumni Payap University</title>
-<meta http-equiv="refresh" content="0; url=http://alumni.payap.ac.th/newsite/"/>
-</head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-<body>
+    <!-- Site Properities -->
+    <title>Atime Media</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Kanit:200,400&subset=latin,thai' rel='stylesheet'
+          type='text/css'/>
+
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Bold.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Thin.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Medium.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Text.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/DB_Helvethaica_X_55_Reg.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/DB_Helvethaica_X_75_Bd.css"/>
+    <link rel="stylesheet" href="http://atimemedia.com/css/2016/style.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="http://embed.atimemedia.com/libs/flowplayer-6.0.5a/skin/minimalist.css"/>
+    <script src="http://embed.atimemedia.com/libs/flowplayer-6.0.5a/flowplayer.min.js"></script>
+	<script src="http://embed.atimemedia.com/libs/flowplayer-6.0.5a/flowplayer.hlsjs.min.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/semantic.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/semantic.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"/>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+
+    <script type="text/javascript">
+        var main_page = 0;
+        var www_root = 'http://atimemedia.com/';
+        var new_atime_root = 'http://new.atimemedia.com/';
+
+        if (window.location) {
+            //var count = window.location.pathname.split('/').length;
+            //var page_station = window.location.pathname.split('/')[count-1];3
+            var page_station = '';
+
+                                page_station = 'chillfm';
+
+                    if (page_station == 'greenwave') {
+                        page_station = 'green';
+                    }
+            
+            if (page_station != 'atimemedia' && page_station != '') {
+                $.ajax({
+                    url: new_atime_root + 'json/api_getSite/radio',
+                    type: 'GET',
+                    dataType: 'jsonp',
+                    success: function (data) {
+                        var len = data.length;
+                        for (var i = 0; i < len; i++) {
+                            if (page_station == data[i]['name'].toLowerCase().replace(/\s/g, '')) {
+                                main_page = 0;
+
+                                playingUrl = data[i]['api_link'];
+                                playing(data[i]['name'], data[i]['api_link']);
+
+                                if (data[i]['api_link'].indexOf('chill89') > -1) {
+                                    bg = www_root + 'images/2016/live-chill.png';
+                                    liveIcon = www_root + 'images/2016/chill89.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                } else if (data[i]['api_link'].indexOf('chillfm') > -1) {
+                                    bg = www_root + 'images/2016/live-chill1045.png';
+                                    liveIcon = www_root + 'images/2016/chill1045.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                } else if (data[i]['api_link'].indexOf('efm') > -1) {
+                                    bg = www_root + 'images/2016/live-efm.png';
+                                    liveIcon = www_root + 'images/2016/efm.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                } else if (data[i]['api_link'].indexOf('greenwave') > -1) {
+                                    bg = www_root + 'images/2016/live-greenwave.png';
+                                    liveIcon = www_root + 'images/2016/GW.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                }
+                            }
+                        }
+                    }
+                });
+            } else {
+                main_page = 1;
+
+                var playingUrl = 'http://api.chill89.fm/nowplaying?jsoncallback=?';
+                var station = {
+                    label: "Chill89",
+                    stream: {
+                    type: "application/x-mpegurl",
+                    url: "http://real3.atimemedia.com:1935/live",
+                    audio: "http://real3.atimemedia.com:1935/live/chill.sdp/playlist.m3u8",
+                    video: "http://real3.atimemedia.com:1935/live/chilllive.sdp/playlist.m3u8",
+                    songrequest: "http://api.chill89.fm/sreq/chill"
+                   }
+                };
+            }
+        }
+
+        var radio = '';
+        $(document).ready(function () {
+            $('.column.holder').click(function () {
+                radio = $(this).attr('rel');
+                $('.column.holder').removeClass('active');
+
+		        if(radio != undefined) {
+		            if (radio.indexOf('89') > -1) {
+                        $.ajax({
+                            url: www_root + 'live/chill', success: function (data) {
+                                //$('#content').html(data);
+                            }
+                        });
+
+                        if (www_root + 'live/chill' != window.location) {
+                            window.history.pushState({path: www_root + 'live/chill'}, '', www_root + 'live/chill');
+                        }
+                    } else {
+                        $.ajax({
+                            url: www_root + 'live/' + radio.replace(/\s/g, ''), success: function (data) {
+                                //$('#content').html(data);
+                            }
+                        });
+
+                        if (www_root + 'live/' + radio.replace(/\s/g, '') != window.location) {
+                            window.history.pushState({path: www_root + 'live/' + radio.replace(/\s/g, '')}, '', www_root + 'live/' + radio.replace(/\s/g, ''));
+                        }
+                    }
+
+                    $('#radioLoading').show();
+                    $('.ui.image[rel="' + radio + '"]').addClass('active');
+
+                    $.ajax({
+                        url: new_atime_root + 'json/api_getSite/radio',
+                        type: 'GET',
+                        dataType: 'jsonp',
+                        success: function (data) {
+                            var len = data.length;
+                            for (var i = 0; i < len; i++) {
+                                if (radio == data[i]['name'].toLowerCase()) {
+                                    playingUrl = data[i]['api_link'];
+                                    playing(data[i]['name'], data[i]['api_link']);
+
+                                    toggleObject('ChangeStation');
+
+                                    if (data[i]['api_link'].indexOf('chill89') > -1) {
+                                        bg = www_root + 'images/2016/live-chill.png';
+                                        liveIcon = www_root + 'images/2016/chill89.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    } else if (data[i]['api_link'].indexOf('chillfm') > -1) {
+                                        bg = www_root + 'images/2016/live-chill1045.png';
+                                        liveIcon = www_root + 'images/2016/chill1045.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    } else if (data[i]['api_link'].indexOf('efm') > -1) {
+                                        bg = www_root + 'images/2016/live-efm.png';
+                                        liveIcon = www_root + 'images/2016/efm.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    } else if (data[i]['api_link'].indexOf('greenwave') > -1) {
+                                        bg = www_root + 'images/2016/live-greenwave.png';
+                                        liveIcon = www_root + 'images/2016/GW.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    }
+
+                                    $("#facebook").attr("href", data[i]['facebook_link']);
+                                    $("#twitter").attr("href", data[i]['twitter_link']);
+                                    $("#instagram").attr("href", data[i]['instagram_link']);
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+        });
+
+        function playing(name, api) {
+            if (api.indexOf('chill') > -1) {
+                $request = api.split('nowplaying')[0] + 'sreq/chill';
+            } else if (api.indexOf('efm') > -1) {
+                $request = api.split('nowplaying')[0] + 'sreq/efm';
+            } else if (api.indexOf('greenwave') > -1) {
+                $request = api.split('nowplaying')[0] + 'sreq/green';
+            }
+
+            $.ajax({
+                url: api,
+                type: 'GET',
+                dataType: 'jsonp',
+                success: function (data) {
+
+                    // console.log('data', data);
+					data.stream.audio = data.stream.audio.replace("rtmp://","http://");
+					data.stream.audio = data.stream.audio.replace(":1935","");
+					data.stream.audio = data.stream.audio.replace(".sdp",".sdp/playlist.m3u8");
+
+					data.stream.video = data.stream.video.replace("rtmp://","http://");
+					data.stream.video = data.stream.video.replace(":1935","");
+					data.stream.video = data.stream.video.replace(".sdp",".sdp/playlist.m3u8");
+
+					// console.log('data', data.stream);
+                    station = {
+                        label: name,
+                        stream: {
+                            type: "application/x-mpegurl",
+                            url: data.stream.audio.split('live/')[0] + "live",
+                            audio: data.stream.audio,
+                            video: data.stream.video,
+                            songrequest: $request
+                        }
+                    };
+
+                    player(station);
+                    getNowPlay();
+                    flowplayer_api.load(clip_radio);
+                },
+                async: false
+            });
+        }
+    </script>
+</head>
+<body> //onLoad="scrlsts()"
+
+<!-- Grayscale & Ribbon -->
+<link rel="stylesheet" type="text/css" href="http://embed.atimemedia.com/css/black_ribbons/style.css" />
+<img src="http://embed.atimemedia.com/css/black_ribbons/black_ribbon_top_left.png" class="black-ribbon stick-top stick-left"/>
+<!-- /Grayscale & Ribbon -->
+
+<!---------- FB Login ---------->
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '162264707118967',
+            xfbml      : true,
+            version    : 'v2.1'
+        });
+
+        $('*[data-rel="fbConnect"]').removeAttr('disabled');
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="header-player" id="MasterPlayer">
+    <div class="flowplayerN aside-time fixed-controls no-volume" id="player"></div>
+</div>
+
+<div class="ui large top fixed menu" id="header-menu">
+    <div class="ui container" id="wrapper">
+        <a class="item bold" style="padding-top: 18px;">MENU</a>
+        <span id="nav-lable">
+                <i class="video play icon" id="icon-play" onclick="stopme(this)">
+                    <div class="uil-ring-css" style="transform:scale(0.69)">
+						<div></div>
+					</div>
+                </i>
+            </span>
+        <span id="nav-lable">
+                <span id="th-nowplaying"> </span>
+            </span>
+
+        <div class="exclusive-logo">
+            <a href="http://www.atimemedia.com/">
+                <img src="http://embed.atimemedia.com/img/2012/mainLogo.png" width="100px">
+            </a>
+        </div>
+
+        <div class="right menu">
+            <!--<a id="nav-lable">Register</a>
+            <span id="nav-lable"> | </span>
+            <a id="nav-lable">Login</a>-->
+
+            <div id="aol_auth" class="fitted item" data-rel="aol_auth_placeholder"></div>
+        </div>
+    </div>
+</div>
+
+<div class="ui centered grid content" id="wrapper">
+    <div class="body">
+    <div class="section-highlight">
+        <div class="side-ads-left">
+            <ins data-revive-zoneid="5" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+            <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+        </div>
+
+        <div class="highlight">
+            <div class="highlight-slider">
+                <div>
+                    <ins data-revive-zoneid="2" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+                    <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+                </div>
+
+                            </div>
+        </div>
+
+        <div class="side-ads-right">
+            <ins data-revive-zoneid="6" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+            <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+
+    <div class="section-content">
+        <div class="content-left">
+            <div class="th-nowplaying2">
+                <div id="player2"></div>
+
+                <!--<div class="ui active dimmer" id="radioLoading" style="display: none">
+                    <div class="ui text loader">Loading</div>
+                </div>-->
+
+                <!----- Now Playing ----->
+                <div class="ui two column custom grid" id="NowPlaying">
+                    <div class="column" id="album-art">
+                        <div class="ui card">
+                            <div class="image">
+                                <img style="background-size:cover" src="http://embed.atimemedia.com/img/sp.gif" alt="Album Art" data-rel="song_art"/>
+                                <div id="live-icon"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column" id="desc">
+                        <div class="ui items" style="margin: 0em" id="now-song">
+                            <div class="header nowplaying" style="margin-top: 20px">
+                                <img src="http://atimemedia.com/images/2016/h1_NowPlaying.png" alt="Now Playing" />
+                            </div>
+
+                            <div class="item" rel="now" style="margin-top: 0">
+                                <div class="content" style="text-align: left; padding-top: 0 !important;">
+                                    <a class="header">Header</a>
+                                    <div class="description">Descripion</div>
+                                    <div class="extra" style="display: none;">
+                                        <i class="green check icon"></i>
+                                        0 Votes Now
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="player2_info">
+                            <h2 class="ui dividing small header">
+                                <img src="http://embed.atimemedia.com/img/sp.gif" class="ui avatar image"
+                                     data-rel="djs_image" style="background-color: #e6e9ea"/>
+                                <span data-rel="djs_title">D J</span>
+                                <div data-rel="djs_sub" class="sub header">T I M E</div>
+                            </h2>
+
+                            <div class="ui horizontal list">
+                                <div class="item">Follow us</div>
+
+                                <a class="item sns" id="facebook" href="http://facebook.com/chillfmfanpage"
+                                   target="_blank">
+                                    <img class="ui image"
+                                         src="http://embed.atimemedia.com/img/atimeonline/button/FB.png"
+                                         alt="Facebook"/>
+                                </a>
+
+                                <a class="item sns" id="twitter" href="http://twitter.com/chillfmfanpage"
+                                   target="_blank">
+                                    <img class="ui image"
+                                         src="http://embed.atimemedia.com/img/atimeonline/button/TW.png" alt="Twitter"/>
+                                </a>
+
+                                <a class="item sns" id="instagram" href="http://instagram.com/chillfmfanpage"
+                                   target="_blank">
+                                    <img class="ui image"
+                                         src="http://embed.atimemedia.com/img/atimeonline/button/IG.png"
+                                         alt="Instagram"/>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!----- Song Request ----->
+                <div class="my hidden transition" id="SongRequest">
+                    <div class="ui basic segment">
+                        <div class="ui two column custom grid">
+                            <div class="column" id="album-art">
+                                <div class="ui custom card">
+                                    <div class="image">
+                                        <img style="background-size:cover" src="http://embed.atimemedia.com/img/sp.gif" alt="Album Art" data-rel="song_art" />
+                                        <div id="live-icon"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="column" id="desc">
+                                <div id="chat-root">
+                                    <h3>SONG REQUEST</h3>
+                                    <form method="post" class="ui form">
+                                        <div class="field">
+                                            <label>ขอเพลงตามใจได้ที่นี่</label>
+                                            <input type="text" id="gnos" placeholder="พิมพ์ชื่อเพลง+ชื่อศิลปินได้เลย...">
+                                        </div>
+                                        <button class="ui orange icon button" id="sreq" type="button">
+                                            <i class="copy icon"></i>
+                                            Request
+                                        </button>
+                                    </form>
+                                    <div id="chat-result"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!----- Song History ----->
+                <div class="my hidden transition" id="SongHistory">
+                    <div class="ui basic segment">
+                        <div class="ui relaxed divided list"></div>
+                    </div>
+                </div>
+
+                <!----- Change Station ----->
+                <div class="my hidden transition" id="ChangeStation">
+                    <div class="ui basic segment" id>
+                        <h3>Choose your station</h3>
+                        <div class="ui ceinternally celled centered grid content" id="stationSelector">
+                            <div class="row">
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/9a009af2c526f887a971b5df6dc25340.jpg'); " style="padding: 0;" rel="chill 89 fm" alt="CHILL 89 FM">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/88f9e916d2caa024bebd4f1eaa36ac41.jpg'); " style="padding: 0;" rel="chill fm" alt="CHILL FM">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        </div><div class="row">
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/61aee5f3346c27d17c9d7979e88189b7.jpg'); " style="padding: 0;" rel="efm" alt="EFM">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/688474a252e3fca0fe0e19d3527b8db5.jpg'); " style="padding: 0;" rel="green" alt="Green">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        </div>
+                            <!--<div class="row">
+                                <a class="eight wide column" href="/live/chill">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/889e1beebcb8ab8f580e85f8fc9632fe.png"
+                                         alt="Chill89 FM">
+                                </a>
+                                <a class="eight wide column" href="/live/chillfm">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/4660957f1f34800568fda13c64f6ab07.png"
+                                         alt="Chill FM">
+                                </a>
+
+                            </div>
+                            <div class="row">
+                                <a class="eight wide column" href="/live/efm">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/865d40000e6fd41c9814d9578885a219.png"
+                                         alt="EFM">
+                                </a>
+                                <a class="eight wide column" href="/live/green">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/02031cb694434d76d99547a4c23d314e.png"
+                                         alt="Green Wave">
+                                </a>
+
+                            </div>-->
+                        </div>
+
+                                            </div>
+                </div>
+
+
+            </div>
+            <!----- Toolbar ----->
+            <ul id="player2_toolbar" class="ui menu" style="border-radius: 0">
+                <li class="fitted item pause" data-rel="play_state" onclick="stopme(this)"></li>
+                <li class="fitted item mute" data-rel="mute_state" onclick="muteMe(this)"></li>
+                <li class="fitted item volume" data-rel="volm_state"><input type="range" min="0" max="100" value="75"
+                                                                            step="1"/></li>
+                <li class="fitted item switch" onclick="toggleWebcam('player2')"></li>
+                <li class="fitted item request" onclick="toggleObject('SongRequest')"></li>
+                <li class="fitted item history" onclick="toggleObject('SongHistory')"></li>
+                <li class="fitted item station" onclick="toggleObject('ChangeStation')"></li>
+            </ul>
+        </div>
+
+        <div class="content-right">
+            <div class="square-ad">
+                <ins data-revive-zoneid="3" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+                <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+            </div>
+
+            <div class="contact">
+                <img src="http://atimemedia.com/images/2016/atimeonline_app.jpg ">
+            </div>
+        </div>
+    </div>
+</div>
+
+<link href="http://atimemedia.com/css/2016/slick-highlight.css" rel="stylesheet">
+<link href="http://atimemedia.com/css/2016/rangeslider.css" rel="stylesheet">
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.2.1/rangeslider.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.js"></script>
+
+<script id="songHistoryTmpl" type="x-tmpl-mustache">
+    {{#items}}
+        <div class="item hidden transition" rel="history">
+            <img class="ui mini image" src="{{ img }}">
+            <div class="content">
+                <div class="header">{{ title }}</div>
+                <div class="description">{{ artist }}</div>
+            </div>
+        </div>
+    {{/items}}
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.highlight-slider').slick({
+            arrows: true,
+            autoplay: true,
+            autoplaySpeed: 15000,
+            dots: true,
+            infinite: true,
+            lazyLoad: "progressive",
+            prevArrow: '<button type="button" class="slick-arrow slick-prev"><i class="caret left icon"></i></button>',
+            nextArrow: '<button type="button" class="slick-arrow slick-next"><i class="caret right icon"></i></button>',
+            speed: 150
+        });
+
+        $('input[type="range"]').rangeslider({
+
+            // Feature detection the default is `true`.
+            // Set this to `false` if you want to use
+            // the polyfill also in Browsers which support
+            // the native <input type="range"> element.
+            polyfill: false,
+
+            // Default CSS classes
+            rangeClass: 'rangeslider',
+            disabledClass: 'rangeslider--disabled',
+            horizontalClass: 'rangeslider--horizontal',
+            verticalClass: 'rangeslider--vertical',
+            fillClass: 'rangeslider__fill',
+            handleClass: 'rangeslider__handle',
+
+            // Callback function
+            onInit: function () {
+                console.log('onInit');
+            },
+
+            // Callback function
+            onSlide: function (position, value) {
+                // console.log('onSlide', position, value);
+                setVolume(value);
+            },
+
+            // Callback function
+            onSlideEnd: function (position, value) {
+                // console.log('onSlideEnd', position, value);
+                // setVolume(value);
+            }
+        });
+    });
+</script></div>
+
+<!--<div class="ui inverted footer vertical segment center">
+            <div class="ui stackable center aligned page grid">
+                <? /*= $footer; */ ?>
+            </div>
+        </div>-->
 </body>
+
+<!---------- BUZZ ATIME ---------->
+<script type="text/javascript" src="http://buzz.atimeonline.com/assets/js/2016/auth/aol_auth.js"></script>
+<script type="text/javascript">
+    var atimeauth = $('*[data-rel="aol_auth_placeholder"]').AtimeAuth({
+        my_domain:'.atimemedia.com',
+        onSuccess: function(arg1, arg2, arg3, arg4, arg5) {
+            //console.info('Callback of onSuccess', arg1, arg2, arg3, arg4, arg5);
+            //alert('พร้อมร่วมสนุกแล้ว...');
+        },
+        onFailed: function() {
+            //alert('ล๊อกอินก่อนไหมเธอ...');
+        }
+    });
+</script>
+
+<script type="text/javascript">
+    var startWithWebcam = {enabed: false, obj: $('#player2')},
+        isMax = {
+            'now': $('#NowPlaying'),
+            'next': '',
+            'prev': '',
+            'dj': ''
+        },
+        reloadInterval = 0,
+        recent_text = '', inAjax = false,
+        recent_id = 0;
+</script>
+
+<script type="text/javascript" src="http://atimemedia.com/js/2016/flowplayer_api.js"></script>
+<script type="text/javascript">
+    /*function scrlsts() {
+        scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
+        document.title = scrl;
+        setTimeout("scrlsts()", 800);
+    }*/
+
+    if (main_page == 1)  {
+        player(station);
+    }
+
+    var cookie_aclub = Cookies.get('aclub');
+    $('#sreq')
+        .bind('click', function(e) {
+            e.preventDefault();
+
+            if(cookie_aclub === undefined) {
+                atimeauth.login('#aol_auth', function(token, d, e, f, g) {
+                    // console.log('callback ', token, d, e, f, g);
+                    UIkit.offcanvas.hide(true);
+                    if(cookie_aclub != undefined) songRequest();
+                });
+            } else {
+                songRequest();
+            }
+        });
+</script>
+	<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-32615910-1', 'auto');
+		ga('send', 'pageview');
+	
+	</script>
 </html>
 
+http://adex.shinbroadband.com/ 127.0.0.1 20170101054749 text/html 20695
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:48 GMT
+Server: nginx/1.10.2
+Content-Type: text/html; charset=utf-8 Last-modified: null
+Content-length: 20540
+
+<html>
+<head><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYFUFVWGwcDUVBWDwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<script type="text/javascript">
+    !function(e,t){typeof module!="undefined"&&module.exports?module.exports=t():typeof define=="function"&&define.amd?define(t):this[e]=t()}("bowser",function(){function t(t){function n(e){var n=t.match(e);return n&&n.length>1&&n[1]||""}function r(e){var n=t.match(e);return n&&n.length>1&&n[2]||""}var i=n(/(ipod|iphone|ipad)/i).toLowerCase(),s=/like android/i.test(t),o=!s&&/android/i.test(t),u=/CrOS/.test(t),a=n(/edge\/(\d+(\.\d+)?)/i),f=n(/version\/(\d+(\.\d+)?)/i),l=/tablet/i.test(t),c=!l&&/[^-]mobi/i.test(t),h;/opera|opr/i.test(t)?h={name:"Opera",opera:e,version:f||n(/(?:opera|opr)[\s\/](\d+(\.\d+)?)/i)}:/yabrowser/i.test(t)?h={name:"Yandex Browser",yandexbrowser:e,version:f||n(/(?:yabrowser)[\s\/](\d+(\.\d+)?)/i)}:/windows phone/i.test(t)?(h={name:"Windows Phone",windowsphone:e},a?(h.msedge=e,h.version=a):(h.msie=e,h.version=n(/iemobile\/(\d+(\.\d+)?)/i))):/msie|trident/i.test(t)?h={name:"Internet Explorer",msie:e,version:n(/(?:msie |rv:)(\d+(\.\d+)?)/i)}:u?h={name:"Chrome",chromeBook:e,chrome:e,version:n(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}:/chrome.+? edge/i.test(t)?h={name:"Microsoft Edge",msedge:e,version:a}:/chrome|crios|crmo/i.test(t)?h={name:"Chrome",chrome:e,version:n(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}:i?(h={name:i=="iphone"?"iPhone":i=="ipad"?"iPad":"iPod"},f&&(h.version=f)):/sailfish/i.test(t)?h={name:"Sailfish",sailfish:e,version:n(/sailfish\s?browser\/(\d+(\.\d+)?)/i)}:/seamonkey\//i.test(t)?h={name:"SeaMonkey",seamonkey:e,version:n(/seamonkey\/(\d+(\.\d+)?)/i)}:/firefox|iceweasel/i.test(t)?(h={name:"Firefox",firefox:e,version:n(/(?:firefox|iceweasel)[ \/](\d+(\.\d+)?)/i)},/\((mobile|tablet);[^\)]*rv:[\d\.]+\)/i.test(t)&&(h.firefoxos=e)):/silk/i.test(t)?h={name:"Amazon Silk",silk:e,version:n(/silk\/(\d+(\.\d+)?)/i)}:o?h={name:"Android",version:f}:/phantom/i.test(t)?h={name:"PhantomJS",phantom:e,version:n(/phantomjs\/(\d+(\.\d+)?)/i)}:/blackberry|\bbb\d+/i.test(t)||/rim\stablet/i.test(t)?h={name:"BlackBerry",blackberry:e,version:f||n(/blackberry[\d]+\/(\d+(\.\d+)?)/i)}:/(web|hpw)os/i.test(t)?(h={name:"WebOS",webos:e,version:f||n(/w(?:eb)?osbrowser\/(\d+(\.\d+)?)/i)},/touchpad\//i.test(t)&&(h.touchpad=e)):/bada/i.test(t)?h={name:"Bada",bada:e,version:n(/dolfin\/(\d+(\.\d+)?)/i)}:/tizen/i.test(t)?h={name:"Tizen",tizen:e,version:n(/(?:tizen\s?)?browser\/(\d+(\.\d+)?)/i)||f}:/safari/i.test(t)?h={name:"Safari",safari:e,version:f}:h={name:n(/^(.*)\/(.*) /),version:r(/^(.*)\/(.*) /)},!h.msedge&&/(apple)?webkit/i.test(t)?(h.name=h.name||"Webkit",h.webkit=e,!h.version&&f&&(h.version=f)):!h.opera&&/gecko\//i.test(t)&&(h.name=h.name||"Gecko",h.gecko=e,h.version=h.version||n(/gecko\/(\d+(\.\d+)?)/i)),!h.msedge&&(o||h.silk)?h.android=e:i&&(h[i]=e,h.ios=e);var p="";h.windowsphone?p=n(/windows phone (?:os)?\s?(\d+(\.\d+)*)/i):i?(p=n(/os (\d+([_\s]\d+)*) like mac os x/i),p=p.replace(/[_\s]/g,".")):o?p=n(/android[ \/-](\d+(\.\d+)*)/i):h.webos?p=n(/(?:web|hpw)os\/(\d+(\.\d+)*)/i):h.blackberry?p=n(/rim\stablet\sos\s(\d+(\.\d+)*)/i):h.bada?p=n(/bada\/(\d+(\.\d+)*)/i):h.tizen&&(p=n(/tizen[\/\s](\d+(\.\d+)*)/i)),p&&(h.osversion=p);var d=p.split(".")[0];if(l||i=="ipad"||o&&(d==3||d==4&&!c)||h.silk)h.tablet=e;else if(c||i=="iphone"||i=="ipod"||o||h.blackberry||h.webos||h.bada)h.mobile=e;return h.msedge||h.msie&&h.version>=10||h.yandexbrowser&&h.version>=15||h.chrome&&h.version>=20||h.firefox&&h.version>=20||h.safari&&h.version>=6||h.opera&&h.version>=10||h.ios&&h.osversion&&h.osversion.split(".")[0]>=6||h.blackberry&&h.version>=10.1?h.a=e:h.msie&&h.version<10||h.chrome&&h.version<20||h.firefox&&h.version<20||h.safari&&h.version<6||h.opera&&h.version<10||h.ios&&h.osversion&&h.osversion.split(".")[0]<6?h.c=e:h.x=e,h}var e=!0,n=t(typeof navigator!="undefined"?navigator.userAgent:"");return n.test=function(e){for(var t=0;t<e.length;++t){var r=e[t];if(typeof r=="string"&&r in n)return!0}return!1},n._detect=t,n})
+
+    var bl = '0';
+    function load() {
+        var url = "http://shinbroadband.com/process/route/2916790941.html";
+        if (bowser.msie || bowser.msedge) {
+            try {
+                window.open(url + "?refresh=ie&bl=" + bl, "_top", "");
+            }catch(err) {
+                window.location.href=url + "?refresh=ie&bl=" + bl;
+            }
+        } else {
+            location = 'data:text/html,<html><meta http-equiv="refresh" content="0; url='+url+'?refresh=non-ie&bl='+bl+'"></html>';
+        }
+    }
+    function getStyle(el,styleProp) {
+        try {
+            var x = document.getElementById(el);
+            if (x == undefined || x == null) {
+                return 'none';
+            }
+            var y = false;
+            if (x.currentStyle) {
+                y = x.currentStyle[styleProp];
+            } else if (window.getComputedStyle) {
+                y = document.defaultView.getComputedStyle(x, null).getPropertyValue(styleProp);
+            }
+            return y;
+        } catch(err) {
+            return 'none';
+        }
+    }
+    function checkad() {
+        var s = getStyle('adBox', 'display');
+        if (s=='none' || s=="None") {
+            bl = '1';
+        }
+        load();
+    }
+    setTimeout(function () {
+        checkad();
+    }, 500);
+</script>
+<noscript><meta http-equiv="refresh" content="1; url=http://shinbroadband.com/process/route/2916790941.html?refresh=noscript"></noscript>
+<meta http-equiv="refresh" content="2; url=http://shinbroadband.com/process/route/2916790941.html?refresh=meta">
+</head><body><span id="adBox"></span><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"0d385ba8a0","agent":"","transactionName":"NlVXNhBWW0IEAEENXQ8fcxcMVEFYCg0aEEAAVlMLAVpaRQoRGwVCEUMbFAtEXEU6EVoRRgRCGxQLUkJCXwpbEFMKVQ==","applicationID":"4351484","errorBeacon":"bam.nr-data.net","applicationTime":8}</script></body></html>
+http://area-family.com/ 127.0.0.1 20170101054751 text/html 1691
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:49 GMT
+Server: DOSarrest
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script type="text/javascript">
+function getCookie(c_name) { // Local function for getting a cookie value
+    if (document.cookie.length > 0) {
+        c_start = document.cookie.indexOf(c_name + "=");
+        if (c_start!=-1) {
+        c_start=c_start + c_name.length + 1;
+        c_end=document.cookie.indexOf(";", c_start);
+
+        if (c_end==-1) 
+            c_end = document.cookie.length;
+
+        return unescape(document.cookie.substring(c_start,c_end));
+        }
+    }
+    return "";
+}
+function setCookie(c_name, value, expiredays) { // Local function for setting a value of a cookie
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate()+expiredays);
+    document.cookie = c_name + "=" + escape(value) + ((expiredays==null) ? "" : ";expires=" + exdate.toGMTString()) + ";path=/";
+}
+function getHostUri() {
+    var loc = document.location;
+    return loc.toString();
+}
+setCookie('YPF8827340282Jdskjhfiw_928937459182JAX666', '158.108.32.60', 10);
+try {  
+    location.reload(true);  
+} catch (err1) {  
+    try {  
+        location.reload();  
+    } catch (err2) {  
+    	location.href = getHostUri();  
+    }  
+}
+</script>
+</head>
+<body>
+<noscript>This site requires JavaScript and Cookies to be enabled. Please change your browser settings or upgrade your browser.</noscript>
+</body>
+</html>

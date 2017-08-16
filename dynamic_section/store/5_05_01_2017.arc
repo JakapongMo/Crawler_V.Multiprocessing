@@ -1,10 +1,18 @@
-filedesc://crawl-20170105060013-00000.arc 0.0.0.0 20170105060013 text/plain 77
+filedesc://crawl-20170101054747-00000.arc 0.0.0.0 20170101054747 text/plain 77
 1 0 InternetArchive
 URL IP-address Archive-date Content-type Archive-length
 
-http://agri.kps.ku.ac.th/ 127.0.0.1 20170105060013 text/html 434
+http://anatomy.md.kku.ac.th/ 127.0.0.1 20170101054747 text/html 179
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 19:52:18 GMT
+Date: Sun, 01 Jan 2017 05:44:23 GMT
+Server: Apache/2.2.14 (Ubuntu)
+Content-Type: text/html; charset=tis-620 Last-modified: null
+Content-length: 15
+
+Something Wrong
+http://agri.kps.ku.ac.th/ 127.0.0.1 20170101054747 text/html 434
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 19:39:40 GMT
 Server: Apache/2.2.8 (Win32) PHP/5.2.6
 Content-Type: text/html Last-modified: Last-Modified: Fri, 14 Oct 2016 15:42:05 GMT
 Content-length: 238
@@ -13,60 +21,53 @@ Content-length: 238
 
 <script language='JavaScript'>window.location = '2011/accagri.php';</script> -->
 <script language='JavaScript'>window.location = '2011/intro.php';</script>
-http://3d.co.th/ 127.0.0.1 20170105060013 text/html 283
+http://anchan.lib.ku.ac.th/ 127.0.0.1 20170101054747 text/html 365
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:18 GMT
-Server: Apache/2.2.22 (@RELEASE@)
-Content-Type: text/html; charset=TIS-620 Last-modified: null
-Content-length: 115
+Date: Sun, 01 Jan 2017 03:59:08 GMT
+Server: Apache/2.2.12 (Ubuntu)
+Content-Type: text/html Last-modified: Last-Modified: Thu, 11 Feb 2010 04:19:04 GMT
+Content-length: 177
+
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+
+http://9airmobile.thaigov.net/ 127.0.0.1 20170101054747 text/html 339
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:46:20 GMT
+null
+Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 30 Sep 2015 17:39:37 GMT
+Content-length: 162
 
 <html>
-<head>
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://3d.co.th/2012/king9/index.html">
-</head>
-</html>
-http://3d.co.th/2012/king9/index.html 127.0.0.1 20170105060013 text/html 875
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:18 GMT
-Server: Apache/2.2.22 (@RELEASE@)
-Content-Type: text/html; charset=TIS-620 Last-modified: Last-Modified: Fri, 14 Oct 2016 14:24:12 GMT
-Content-length: 667
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>king9</title>
-<style type="text/css">
-<!--
-body {
-	background-color: #000000;
-}
--->
-</style></head>
-
+<head><title>Systems under maintenance</title></head>
 <body>
-<div align="center"><a href="http://www.3d.co.th/2015/index.php"><img src="king9-3D.jpg" alt="king" width="1000" height="533" /></a></div>
-
-<center><a href="http://www.3d.co.th/2015/index.php"><img src="submit.png" alt="enterwebsite" width="222" height="99" /></a></center>
+<center><img src=/maintain.jpg></center>
+<!--::CLOUDFLARE_ERROR_500S_BOX::-->
 </body>
 </html>
 
-http://100watts.com/ 127.0.0.1 20170105060013 text/html 303
+http://anreg.cpe.ku.ac.th/ 127.0.0.1 20170101054747 text/html 446
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: Apache/2.2.22 (EL)
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 15 Oct 2014 16:09:31 GMT
-Content-length: 104
+Date: Sun, 01 Jan 2017 05:47:37 GMT
+Server: Apache/2.2.3 (CentOS)
+Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Thu, 17 Feb 2011 06:32:12 GMT
+Content-length: 244
 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www.100watts.com/wp">
-</head>
-</html>
-http://amed.go.th/ 127.0.0.1 20170105060013 text/html 935
+<title>ASAT: Anres Simple Authentication Tools</title>
+<meta http-equiv="REFRESH" content="0;url=http://anres.cpe.ku.ac.th/anres/old/"></HEAD>
+<BODY>
+</BODY>
+</HTML>
+
+
+http://amed.go.th/ 127.0.0.1 20170101054747 text/html 935
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
+Date: Sun, 01 Jan 2017 05:47:47 GMT
 Server: Apache/2
 Content-Type: text/html Last-modified: Last-Modified: Wed, 19 Oct 2016 05:29:39 GMT
 Content-length: 761
@@ -95,72 +96,48 @@ Content-length: 761
 </body>
 </html>
 
-http://admissions.payap.ac.th/ 127.0.0.1 20170105060013 text/html 400
+http://3d.co.th/ 127.0.0.1 20170101054747 text/html 283
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:11 GMT
-Server: Apache
-Content-Type: text/html Last-modified: Last-Modified: Fri, 24 Oct 2014 04:02:08 GMT
-Content-length: 228
-
-<html><body><!--- <center><h1>Merry Christmas and Happy New Years 2013</h1>  ---> 
-  <h1>Site Maintenance</h1> 
-  <p>We sincerely apologize for the inconvenience, Our website is currently down for maintenance.</p></body></html>
-
-http://anchan.lib.ku.ac.th/ 127.0.0.1 20170105060013 text/html 365
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 04:11:52 GMT
-Server: Apache/2.2.12 (Ubuntu)
-Content-Type: text/html Last-modified: Last-Modified: Thu, 11 Feb 2010 04:19:04 GMT
-Content-length: 177
-
-<html><body><h1>It works!</h1>
-<p>This is the default web page for this server.</p>
-<p>The web server software is running but no content has been added, yet.</p>
-</body></html>
-
-http://anatomy.md.kku.ac.th/ 127.0.0.1 20170105060013 text/html 179
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 05:56:00 GMT
-Server: Apache/2.2.14 (Ubuntu)
-Content-Type: text/html; charset=tis-620 Last-modified: null
-Content-length: 15
-
-Something Wrong
-http://9airmobile.thaigov.net/ 127.0.0.1 20170105060013 text/html 339
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 03:25:20 GMT
-null
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 30 Sep 2015 17:39:37 GMT
-Content-length: 162
+Date: Sun, 01 Jan 2017 05:47:51 GMT
+Server: Apache/2.2.22 (@RELEASE@)
+Content-Type: text/html; charset=TIS-620 Last-modified: null
+Content-length: 115
 
 <html>
-<head><title>Systems under maintenance</title></head>
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://3d.co.th/2012/king9/index.html">
+</head>
+</html>
+http://3d.co.th/2012/king9/index.html 127.0.0.1 20170101054747 text/html 875
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:51 GMT
+Server: Apache/2.2.22 (@RELEASE@)
+Content-Type: text/html; charset=TIS-620 Last-modified: Last-Modified: Fri, 14 Oct 2016 14:24:12 GMT
+Content-length: 667
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>king9</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+}
+-->
+</style></head>
+
 <body>
-<center><img src=/maintain.jpg></center>
-<!--::CLOUDFLARE_ERROR_500S_BOX::-->
+<div align="center"><a href="http://www.3d.co.th/2015/index.php"><img src="king9-3D.jpg" alt="king" width="1000" height="533" /></a></div>
+
+<center><a href="http://www.3d.co.th/2015/index.php"><img src="submit.png" alt="enterwebsite" width="222" height="99" /></a></center>
 </body>
 </html>
 
-http://anreg.cpe.ku.ac.th/ 127.0.0.1 20170105060013 text/html 446
+http://amarin.co.th/ 127.0.0.1 20170101054747 text/html 635
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:03 GMT
-Server: Apache/2.2.3 (CentOS)
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Thu, 17 Feb 2011 06:32:12 GMT
-Content-length: 244
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-<title>ASAT: Anres Simple Authentication Tools</title>
-<meta http-equiv="REFRESH" content="0;url=http://anres.cpe.ku.ac.th/anres/old/"></HEAD>
-<BODY>
-</BODY>
-</HTML>
-
-
-http://amarin.co.th/ 127.0.0.1 20170105060013 text/html 635
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:07:17 GMT
+Date: Sun, 01 Jan 2017 05:54:50 GMT
 Server: Microsoft-IIS/8.0
 Content-Type: text/html Last-modified: Last-Modified: Fri, 14 Oct 2016 03:23:11 GMT
 Content-length: 452
@@ -181,9 +158,32 @@ Content-length: 452
 </body>
 </html>
 
-http://agro.psu.ac.th/ 127.0.0.1 20170105060013 text/html 1761
+http://100watts.com/ 127.0.0.1 20170101054747 text/html 303
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:12 GMT
+Date: Sun, 01 Jan 2017 05:47:47 GMT
+Server: Apache/2.2.22 (EL)
+Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Wed, 15 Oct 2014 16:09:31 GMT
+Content-length: 104
+
+<html>
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www.100watts.com/wp">
+</head>
+</html>
+http://admissions.payap.ac.th/ 127.0.0.1 20170101054747 text/html 400
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:47 GMT
+Server: Apache
+Content-Type: text/html Last-modified: Last-Modified: Fri, 24 Oct 2014 04:02:08 GMT
+Content-length: 228
+
+<html><body><!--- <center><h1>Merry Christmas and Happy New Years 2013</h1>  ---> 
+  <h1>Site Maintenance</h1> 
+  <p>We sincerely apologize for the inconvenience, Our website is currently down for maintenance.</p></body></html>
+
+http://agro.psu.ac.th/ 127.0.0.1 20170101054748 text/html 1761
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:45 GMT
 Server: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.21
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 1572
@@ -219,9 +219,98 @@ body {
 </map></body></html>
 
 
-http://apl1.sci.kmitl.ac.th/ 127.0.0.1 20170105060013 text/html 1176
+http://adb.envi.psu.ac.th/ 127.0.0.1 20170101054748 text/html 294
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:46:07 GMT
+Date: Sun, 01 Jan 2017 05:46:38 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Content-Type: text/html Last-modified: Last-Modified: Thu, 07 Apr 2016 09:24:42 GMT
+Content-length: 107
+
+<html>
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www2.envi.psu.ac.th/host2">
+</head>
+</html>
+
+http://acc.msu.ac.th/ 127.0.0.1 20170101054748 text/html 1114
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:36:18 GMT
+Server: Apache
+Content-Type: text/html Last-modified: null
+Content-length: 982
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html;" />
+<title>คณะการบัญชีและการจัดการ มหาวิทยาลัยมหาสารคาม Mahasarakham Business School Mahasarakham University.</title>
+<style type="text/css">
+body {
+	background-color: #000;
+	color: #FFF;
+}
+body,td,th {
+	font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+<table width="200" border="0" align="center">
+  <tr>
+    <td colspan="3"><img src="slide_2016/131059.jpg" width="580" height="580" /></td>
+  </tr>
+  <tr>
+    <td width="174">&nbsp;</td>
+    <td width="218"><a href="index2016.php"><img src="slide_2016/Tohamepage.jpg" width="210" height="64" /></a></td>
+    <td width="180">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+http://acc.msu.ac.th/index2016.php 127.0.0.1 20170101054748 text/html 1114
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:36:19 GMT
+Server: Apache
+Content-Type: text/html Last-modified: null
+Content-length: 982
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html;" />
+<title>คณะการบัญชีและการจัดการ มหาวิทยาลัยมหาสารคาม Mahasarakham Business School Mahasarakham University.</title>
+<style type="text/css">
+body {
+	background-color: #000;
+	color: #FFF;
+}
+body,td,th {
+	font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+<table width="200" border="0" align="center">
+  <tr>
+    <td colspan="3"><img src="slide_2016/131059.jpg" width="580" height="580" /></td>
+  </tr>
+  <tr>
+    <td width="174">&nbsp;</td>
+    <td width="218"><a href="index2016.php"><img src="slide_2016/Tohamepage.jpg" width="210" height="64" /></a></td>
+    <td width="180">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+http://apl1.sci.kmitl.ac.th/ 127.0.0.1 20170101054748 text/html 1176
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 06:34:20 GMT
 Server: Apache/2.2.4 (Ubuntu) PHP/5.2.3-1ubuntu6
 Content-Type: text/html Last-modified: Last-Modified: Mon, 14 Dec 2015 09:32:58 GMT
 Content-length: 970
@@ -249,85 +338,9 @@ Content-length: 970
 </body>
 </html>
 
-http://acc.msu.ac.th/ 127.0.0.1 20170105060013 text/html 1114
+http://4x4.in.th/ 127.0.0.1 20170101054748 text/html 20198
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 05:49:29 GMT
-Server: Apache
-Content-Type: text/html Last-modified: null
-Content-length: 982
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html;" />
-<title>คณะการบัญชีและการจัดการ มหาวิทยาลัยมหาสารคาม Mahasarakham Business School Mahasarakham University.</title>
-<style type="text/css">
-body {
-	background-color: #000;
-	color: #FFF;
-}
-body,td,th {
-	font-weight: bold;
-}
-</style>
-</head>
-
-<body>
-<table width="200" border="0" align="center">
-  <tr>
-    <td colspan="3"><img src="slide_2016/131059.jpg" width="580" height="580" /></td>
-  </tr>
-  <tr>
-    <td width="174">&nbsp;</td>
-    <td width="218"><a href="index2016.php"><img src="slide_2016/Tohamepage.jpg" width="210" height="64" /></a></td>
-    <td width="180">&nbsp;</td>
-  </tr>
-</table>
-</body>
-</html>
-
-http://acc.msu.ac.th/index2016.php 127.0.0.1 20170105060013 text/html 1114
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 05:49:30 GMT
-Server: Apache
-Content-Type: text/html Last-modified: null
-Content-length: 982
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html;" />
-<title>คณะการบัญชีและการจัดการ มหาวิทยาลัยมหาสารคาม Mahasarakham Business School Mahasarakham University.</title>
-<style type="text/css">
-body {
-	background-color: #000;
-	color: #FFF;
-}
-body,td,th {
-	font-weight: bold;
-}
-</style>
-</head>
-
-<body>
-<table width="200" border="0" align="center">
-  <tr>
-    <td colspan="3"><img src="slide_2016/131059.jpg" width="580" height="580" /></td>
-  </tr>
-  <tr>
-    <td width="174">&nbsp;</td>
-    <td width="218"><a href="index2016.php"><img src="slide_2016/Tohamepage.jpg" width="210" height="64" /></a></td>
-    <td width="180">&nbsp;</td>
-  </tr>
-</table>
-</body>
-</html>
-
-http://4x4.in.th/ 127.0.0.1 20170105060013 text/html 20198
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
+Date: Sun, 01 Jan 2017 05:47:47 GMT
 Server: Apache/2
 Content-Type: text/html Last-modified: null
 Content-length: -1
@@ -419,7 +432,7 @@ Content-length: -1
  </tr></table></td></tr><tr height="1"><td bgcolor="#ffffff"></td></tr></table>
 <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="6">
  <tr><td bgcolor="#eeeeee" width="163" valign="top" nowrap>
-<IMG SRC='daypic/pic5.gif' border=0></td>
+<IMG SRC='daypic/pic1.gif' border=0></td>
 
 <td bgcolor="#eeeeee" valign="top"><TABLE cellpadding="0" cellspacing="2" border="0">
 <TR><TD colspan="2">มีข่าวฝากประชาสัมพันธ์ให้เพื่อนสมาชิกได้รับทราบกันดังต่อไปนี้ครับ...<br><br></TD>
@@ -596,9 +609,21 @@ www.suzuki4x4.com / www.suzuki4x4.org / www.suzuki4x4.net
 </script>
 <br>
 ﻿﻿﻿<center><br><font color=red size=+1>กรุณาระบุ category ให้ตรงกับที่ web เปิดใช้ด้วยครับ. </font><br></center>
-http://ads.thaiware.com/ 127.0.0.1 20170105060013 text/html 4201
+http://101servers.com/ 127.0.0.1 20170101054748 text/html 231
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
+Server: Microsoft-IIS/7.5
+Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Fri, 11 Mar 2016 17:57:31 GMT
+Content-length: 34
+
+<html>
+<body>
+</body>
+</html>
+
+http://ads.thaiware.com/ 127.0.0.1 20170101054748 text/html 4201
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:47 GMT
 Server: Apache/2.4.23 (Unix) PHP/5.6.29 OpenSSL/1.0.2j
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 4013
@@ -686,7 +711,7 @@ Content-length: 4013
 
 <br />
 <form class="login" name="login" method="post" action="">
-    <input type="hidden" name="oa_cookiecheck" value="b4462718472d15d2146c8c197f090bad" />
+    <input type="hidden" name="oa_cookiecheck" value="d7f576a2053bf8a984a7680d7663c942" />
     <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
             <td width="80"><img src="http://ads.thaiware.com/www/admin/assets/images/login-welcome.gif">&nbsp;&nbsp;</td>
@@ -738,9 +763,9 @@ Content-length: 4013
 </body>
 </html>
 
-http://ads.thaiware.com/www/admin/index.php 127.0.0.1 20170105060013 text/html 4201
+http://ads.thaiware.com/www/admin/index.php 127.0.0.1 20170101054748 text/html 4201
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
 Server: Apache/2.4.23 (Unix) PHP/5.6.29 OpenSSL/1.0.2j
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 4013
@@ -828,7 +853,7 @@ Content-length: 4013
 
 <br />
 <form class="login" name="login" method="post" action="">
-    <input type="hidden" name="oa_cookiecheck" value="afa303a8d391dfdeac49db31a13749f0" />
+    <input type="hidden" name="oa_cookiecheck" value="f3ca94c27801201e688d0b13312b6202" />
     <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
             <td width="80"><img src="http://ads.thaiware.com/www/admin/assets/images/login-welcome.gif">&nbsp;&nbsp;</td>
@@ -880,9 +905,9 @@ Content-length: 4013
 </body>
 </html>
 
-http://ads.thaiware.com/www/admin/password-recovery.php 127.0.0.1 20170105060013 text/html 2997
+http://ads.thaiware.com/www/admin/password-recovery.php 127.0.0.1 20170101054748 text/html 2997
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
 Server: Apache/2.4.23 (Unix) PHP/5.6.29 OpenSSL/1.0.2j
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: 2809
@@ -968,7 +993,7 @@ Content-length: 2809
 
 
 <br><br><form method='post' action='password-recovery.php'>
-<input type='hidden' name='token' value='30b999d97d37c22861af995c7642ade8'/>
+<input type='hidden' name='token' value='358d423a7d213cee2b05d88e230c6a6a'/>
 <div class='install'>Enter your email address below</div><table cellpadding='0' cellspacing='0' border='0'><tr><td colspan='2'><img src='http://ads.thaiware.com/www/admin/assets/images/break-el.gif' width='400' height='1' vspace='8'></td></tr><tr height='24'><td>Email:&nbsp;</td><td><input type='text' name='email' /></td></tr><tr height='24'><td>&nbsp;</td><td><input type='submit' value='Proceed >' /></td></tr><tr><td colspan='2'><img src='http://ads.thaiware.com/www/admin/assets/images/break-el.gif' width='400' height='1' vspace='8'></td></tr></table></form>
 
 
@@ -983,128 +1008,9 @@ Content-length: 2809
 </body>
 </html>
 
-http://101servers.com/ 127.0.0.1 20170105060013 text/html 231
+http://animal.in.th/ 127.0.0.1 20170101054748 text/html 40301
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: Microsoft-IIS/7.5
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Fri, 11 Mar 2016 17:57:25 GMT
-Content-length: 34
-
-<html>
-<body>
-</body>
-</html>
-
-http://application2.au.edu/ 127.0.0.1 20170105060013 text/html 1414
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:14 GMT
-Server: Microsoft-IIS/5.0
-Content-Type: text/html Last-modified: null
-Content-length: 1270
-
-
-<!--
-	  WARNING!
-	  Please do not alter this file. It may be replaced if you upgrade your web server 
-     If you want to use it as a template, we recommend renaming it, and modifying the new file.
-	  Thanks.
--->
-
-
-<HTML>
-
-<HEAD>
-<META HTTP-EQUIV="Content-Type" Content="text-html; charset=Windows-1252">
-
-	
-
-<title id=titletext>Under Construction</title>
-</HEAD>
-	<body bgcolor=white>
-	<TABLE>
-	<TR>
-	<td id="tableProps" width=70 valign=top align=center>
-	<IMG id="pagerrorImg" SRC="pagerror.gif" width=36 height=48>  
-	<TD id="tablePropsWidth" width=400>
-	
-	<h1 id=errortype style="font:14pt/16pt verdana; color:#4e4e4e">
-	<id id="Comment1"><!--Problem--></id><id id="errorText">Under Construction</id></h1>
-	<id id="Comment2"><!--Probable causes:<--></id><id id="errordesc"><font style="font:9pt/12pt verdana; color:black">
-	The site you were trying to reach does not currently have a default page. It may be in the process of being upgraded.
-	</id>
-	<br><br>
-	
-	<hr size=1 color="blue">
-	
-	<br>
-	<ID  id=term1>
-	Please try this site again later. If you still experience the problem, try contacting the Web site administrator.
-	</ID>
-	<P>
-	
-	</ul>
-	<BR>
-	</TD>
-	</TR>
-	</TABLE>
-	</BODY>
-
-
-</HTML>
-
-
-
-
-
-
-
-
-
-
-
-http://amarinsamuiresort.com/ 127.0.0.1 20170105060014 text/html 936
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: Microsoft-IIS/8.0
-Content-Type: text/html; charset=utf-8 Last-modified: null
-Content-length: 778
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" >
-<head><title>
-
-</title></head>
-<body style="background:#999;text-align:center;margin-top:0;">
-    <form name="form1" method="post" action="./?ErrCode=1&amp;ErrMsg=Don%27t+Exists+Domain" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc5NTg3NTg3NGRkCaKLIwy0El+un4++C93TM0nMrpOpqAvpPhN1dUJnY6s=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="58043A96" />
-    <div id="errmsg" style="display:none;">1 : Don&#39;t Exists Domain</div>
-    <div>
-<img src="/image/error.jpg" />
-    </div>
-    </form>
-</body>
-</html>
-
-http://2handshop.com/ 127.0.0.1 20170105060014 text/html 231
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: Microsoft-IIS/7.5
-Content-Type: text/html; charset=UTF-8 Last-modified: Last-Modified: Fri, 11 Mar 2016 17:57:20 GMT
-Content-length: 34
-
-<html>
-<body>
-</body>
-</html>
-
-http://animal.in.th/ 127.0.0.1 20170105060014 text/html 39276
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
 Server: nginx
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: -1
@@ -1185,78 +1091,155 @@ Content-length: -1
 		<div class="main-over2">
 								<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3183" rel="nofollow" title=" ที่ดิน 1,800 ไร่ ห่างจากกรุงเทพ 80 กม."><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1404530930.jpg,80,70" alt=" ที่ดิน 1,800 ไร่ ห่างจากกรุงเทพ 80 กม." /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7766" rel="nofollow" title="ขายโฮมออฟฟิตใหม่สวยหรู  3 ชั้น ขนาด 22.5 ตร.ว. เขตสายไหม กรุงเทพ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1481534273.jpg,80,70" alt="ขายโฮมออฟฟิตใหม่สวยหรู  3 ชั้น ขนาด 22.5 ตร.ว. เขตสายไหม กรุงเทพ" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3183" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 1,800</div>
-							<div class="mt2 fs11">บางแพ ราชบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">555,999</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7766" target="_blank"><strong>ทาวน์โฮม</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 22.5 ตร.ว.</div>
+							<div class="mt2 fs11">เขตสายไหม กรุงเทพมหานคร</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">3,290,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5709" rel="nofollow" title="ขายที่ดิน   เชียงราย-เวียงเชียงรุ้ง"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1454508473.jpg,80,70" alt="ขายที่ดิน   เชียงราย-เวียงเชียงรุ้ง" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6526" rel="nofollow" title="ขายที่สวนยาง 10ไร่ ที่สวยราคาถูก น้ำไฟพร้อม อ.ท่าใหม่ จ.จันทบุรี"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1467769235.jpg,80,70" alt="ขายที่สวนยาง 10ไร่ ที่สวยราคาถูก น้ำไฟพร้อม อ.ท่าใหม่ จ.จันทบุรี" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5709" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 3 ไร่ 2 งาน</div>
-							<div class="mt2 fs11"> ชัยนาท</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">450,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6526" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 10ไร่</div>
+							<div class="mt2 fs11">ท่าใหม่ จันทบุรี</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">4,800,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-4983" rel="nofollow" title="ที่ดินรางบัว ติดคลองสาธารณะ ติดถนนลาดยาง จำนวน 21 ไร่"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1440322195.jpg,80,70" alt="ที่ดินรางบัว ติดคลองสาธารณะ ติดถนนลาดยาง จำนวน 21 ไร่" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7300" rel="nofollow" title="ขายทาวน์โฮม 5ชั้น 46.7 ตร.ว. ตบแต่งสวยงาม ถ.นางลิ้นจี่ ยานนาวา กรุงเทพ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1476002982.jpg,80,70" alt="ขายทาวน์โฮม 5ชั้น 46.7 ตร.ว. ตบแต่งสวยงาม ถ.นางลิ้นจี่ ยานนาวา กรุงเทพ" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-4983" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 21 ไร่</div>
-							<div class="mt2 fs11">จอมบึง ราชบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">180,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7300" target="_blank"><strong>ทาวน์โฮม</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 46.7 ตร.ว.</div>
+							<div class="mt2 fs11">เขตยานนาวา กรุงเทพมหานคร</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">25,000,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3765" rel="nofollow" title="ขายที่ดินติดทะเล บ้านแหลม 375 ไร่"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1414036227.jpg,80,70" alt="ขายที่ดินติดทะเล บ้านแหลม 375 ไร่" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6935" rel="nofollow" title="ขายบ้านเดี่ยวชั้นเดียว 64 ตร.ว. ใหม่สวยราคาพิเศษ บ.ศิลาพรเฟส2 อ.เมือง จันทบุรี"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1471932222.jpg,80,70" alt="ขายบ้านเดี่ยวชั้นเดียว 64 ตร.ว. ใหม่สวยราคาพิเศษ บ.ศิลาพรเฟส2 อ.เมือง จันทบุรี" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3765" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 375 ไร่</div>
-							<div class="mt2 fs11">บ้านแหลม เพชรบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">500,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6935" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 64 ตร.ว.</div>
+							<div class="mt2 fs11">เมืองจันทบุรี จันทบุรี</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5156" rel="nofollow" title="ที่ดินเชียงของ 18 ไร่ จ.เชียงราย"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1443337556.jpg,80,70" alt="ที่ดินเชียงของ 18 ไร่ จ.เชียงราย" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6876" rel="nofollow" title="ขายที่ดินสีเหลี่ยมแปลงสวย 14ไร่ เหมาะสำหรับทำรีสอร์ท ต.บ้านดง อ.อุบลรัตน์ ขอนแก่น"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1471244432.jpg,80,70" alt="ขายที่ดินสีเหลี่ยมแปลงสวย 14ไร่ เหมาะสำหรับทำรีสอร์ท ต.บ้านดง อ.อุบลรัตน์ ขอนแก่น" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5156" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 18 ไร่</div>
-							<div class="mt2 fs11">เชียงของ เชียงราย</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">5,555,999</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6876" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 14ไร่ 20ตร.ว.</div>
+							<div class="mt2 fs11">อุบลรัตน์ ขอนแก่น</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">8,000,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7631" rel="nofollow" title="ขายที่ดินชุมพร อ.ท่าแซะ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1479622360.jpeg,80,70" alt="ขายที่ดินชุมพร อ.ท่าแซะ" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6106" rel="nofollow" title="ลัค พร็อพเพอร์ตี้ ขายอาคารพาณิชย์ใหม่ 2ชั้น 27 ตร.ว.ริมถนนใหญ่เหมาะค้าขาย อ.หาดใหญ่ จ.สงขลา"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1462804088.jpg,80,70" alt="ลัค พร็อพเพอร์ตี้ ขายอาคารพาณิชย์ใหม่ 2ชั้น 27 ตร.ว.ริมถนนใหญ่เหมาะค้าขาย อ.หาดใหญ่ จ.สงขลา" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7631" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 12 ไร่</div>
-							<div class="mt2 fs11">ท่าแซะ ชุมพร</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">500,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6106" target="_blank"><strong>อาคารพาณิชย์</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 27</div>
+							<div class="mt2 fs11">หาดใหญ่ สงขลา</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,600,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
 										<div class="box1">
 						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-1050" rel="nofollow" title="ขายที่ดินทำเลดีพัฒนาแล้ว ถนนคลองหลวง (ซ.คลองแอน1)"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1366445190.jpg,80,70" alt="ขายที่ดินทำเลดีพัฒนาแล้ว ถนนคลองหลวง (ซ.คลองแอน1)" /></a>						</div>
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6107" rel="nofollow" title="ลัค พร็อพเพอร์ตี้  เปิดขายทาวน์โฮมใหม่ ชั้นเดียว ราคาถูก  29ตร.ว. อ.นาหม่อม จ.สงขลา"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1462804377.jpg,80,70" alt="ลัค พร็อพเพอร์ตี้  เปิดขายทาวน์โฮมใหม่ ชั้นเดียว ราคาถูก  29ตร.ว. อ.นาหม่อม จ.สงขลา" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-1050" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 10 ไร่</div>
-							<div class="mt2 fs11">คลองหลวง ปทุมธานี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">20,000</span></div>
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6107" target="_blank"><strong>ทาวน์เฮ้าส์</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 29 ตร.ว.</div>
+							<div class="mt2 fs11">นาหม่อม สงขลา</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">1,390,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3806" rel="nofollow" title="ขายบ้านเดี่ยว  56 ตร.ว. ตบแต่งสวยหรูเฟอร์นิเจอร์พร้อมอยู่ อ.เมือง จ.ภูเก็ต"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1415151902.jpg,80,70" alt="ขายบ้านเดี่ยว  56 ตร.ว. ตบแต่งสวยหรูเฟอร์นิเจอร์พร้อมอยู่ อ.เมือง จ.ภูเก็ต" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3806" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 56 ตารางวา</div>
+							<div class="mt2 fs11">ถลาง ภูเก็ต</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">3,500,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3153" rel="nofollow" title="ขายบ้านหรู พร้อมต้นสัก และเฟอร์นิเจอร์ครบ ในเนื้อที่ 19ไร่ 3งาน จ.กาฬสินธุ์"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1404369765.jpg,80,70" alt="ขายบ้านหรู พร้อมต้นสัก และเฟอร์นิเจอร์ครบ ในเนื้อที่ 19ไร่ 3งาน จ.กาฬสินธุ์" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-3153" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 19ไร่ 3งาน</div>
+							<div class="mt2 fs11">คำม่วง กาฬสินธุ์</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">19,000,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5219" rel="nofollow" title="ขายบ้านพร้อมที่ดิน 106 ตร.ว. ราคาถูก ใกล้ ม.ขอนแก่น และแหล่งชุมชน"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1444526506.jpg,80,70" alt="ขายบ้านพร้อมที่ดิน 106 ตร.ว. ราคาถูก ใกล้ ม.ขอนแก่น และแหล่งชุมชน" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5219" target="_blank"><strong>บ้านเรือนไทย</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 106ตร.ว.</div>
+							<div class="mt2 fs11">เมืองขอนแก่น ขอนแก่น</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">6,500,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7325" rel="nofollow" title="ขายคอนโดมิเนียม โนวาน่า เรสซิเดนซ์  ถนนพัทยาสาย 3 "><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1476199722.jpg,80,70" alt="ขายคอนโดมิเนียม โนวาน่า เรสซิเดนซ์  ถนนพัทยาสาย 3 " /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7325" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 36 ตร.ม.</div>
+							<div class="mt2 fs11">บางละมุง ชลบุรี</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,450,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6957" rel="nofollow" title="ขายที่ดินสีเหลี่ยนผืนสวย 3ไร่ 2งาน 89 ตร.ว. ต.ศาลาด่าน อ.เกาะลันตา กระบี่"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1472276905.jpg,80,70" alt="ขายที่ดินสีเหลี่ยนผืนสวย 3ไร่ 2งาน 89 ตร.ว. ต.ศาลาด่าน อ.เกาะลันตา กระบี่" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6957" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 3ไร่ 2งาน 89 ตร.ว.</div>
+							<div class="mt2 fs11">เกาะลันตา กระบี่</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">8,500,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7862" rel="nofollow" title="ขายที่ดินเปล่าผืนสวย 18ไร่  เหมาะทำรีสอร์ท อ.เกาะลันตา จ.กระบี่"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1482722746.jpg,80,70" alt="ขายที่ดินเปล่าผืนสวย 18ไร่  เหมาะทำรีสอร์ท อ.เกาะลันตา จ.กระบี่" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7862" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 18ไร่</div>
+							<div class="mt2 fs11">เกาะลันตา กระบี่</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">3,000,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7068" rel="nofollow" title="ขายบ้านเดียวชั้นเดียว 56 ตร.ว.  3นอน 2น้ำ บ.The house residence  อ.เมือง โคราช"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1473734600.jpg,80,70" alt="ขายบ้านเดียวชั้นเดียว 56 ตร.ว.  3นอน 2น้ำ บ.The house residence  อ.เมือง โคราช" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7068" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 56 ตร.ว.</div>
+							<div class="mt2 fs11">เมืองนครราชสีมา นครราชสีมา</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,500,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
@@ -1284,100 +1267,23 @@ Content-length: -1
 					</div>
 										<div class="box1">
 						<div class="fl">
+							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-1050" rel="nofollow" title="ขายที่ดินทำเลดีพัฒนาแล้ว ถนนคลองหลวง (ซ.คลองแอน1)"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1366445190.jpg,80,70" alt="ขายที่ดินทำเลดีพัฒนาแล้ว ถนนคลองหลวง (ซ.คลองแอน1)" /></a>						</div>
+						<div class="fl ml10 sw130 sh80">
+							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-1050" target="_blank"><strong>ที่ดิน</strong></a></div>
+							<div class="mt2 fs11">เนื้อที่: 10 ไร่</div>
+							<div class="mt2 fs11">คลองหลวง ปทุมธานี</div>
+							<div class="mt4 fs13 b">ราคา <span class="fc-red">20,000</span></div>
+						</div>
+						<br class="cr" />
+					</div>
+										<div class="box1">
+						<div class="fl">
 							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-1020" rel="nofollow" title="ขายที่ดิน ถนนเลียบคลองรพีพัฒน์ (ซ.ไอยรา35)"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1365304952.jpg,80,70" alt="ขายที่ดิน ถนนเลียบคลองรพีพัฒน์ (ซ.ไอยรา35)" /></a>						</div>
 						<div class="fl ml10 sw130 sh80">
 							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-1020" target="_blank"><strong>ที่ดิน</strong></a></div>
 							<div class="mt2 fs11">เนื้อที่: 2 ไร่</div>
 							<div class="mt2 fs11">คลองหลวง ปทุมธานี</div>
 							<div class="mt4 fs13 b">ราคา <span class="fc-red">15,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6982" rel="nofollow" title="ขายบ้านเดี่ยว ถนนchaiyaphruek"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1472706040.jpg,80,70" alt="ขายบ้านเดี่ยว ถนนchaiyaphruek" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6982" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 58sqw</div>
-							<div class="mt2 fs11">ปากเกร็ด นนทบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">7,970,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5473" rel="nofollow" title="ขายบ้านเดี่ยว เศรษฐสิริ ชัยพฤกษ์-แจ้งวัฒนะ  ถนนชัยพฤกษ์-แจ้งวัฒนะ "><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1449204886.jpg,80,70" alt="ขายบ้านเดี่ยว เศรษฐสิริ ชัยพฤกษ์-แจ้งวัฒนะ  ถนนชัยพฤกษ์-แจ้งวัฒนะ " /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5473" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 58ตารางวา</div>
-							<div class="mt2 fs11">ปากเกร็ด นนทบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">7,970,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7571" rel="nofollow" title="ขายบ้านเดี่ยว 2 ชั้น หมู่บ้านกาญศิริ ซอยหล่อพระ บางแวก 120 ขนาด 4 นอน 4 น้ำ 250 ตรม. ใกล้ถนนกาญจนาภิ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1478765286.jpg,80,70" alt="ขายบ้านเดี่ยว 2 ชั้น หมู่บ้านกาญศิริ ซอยหล่อพระ บางแวก 120 ขนาด 4 นอน 4 น้ำ 250 ตรม. ใกล้ถนนกาญจนาภิ" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7571" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 70 ตรว.</div>
-							<div class="mt2 fs11">เขตบางแค กรุงเทพมหานคร</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">6,890,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6769" rel="nofollow" title="ขายบ้านเดี่ยว 2 ชั้น ย่านรังสิต หมู่บ้านสินธร รังสิต 42 ตรว. 3 นอน 2 น้ำ ตรงข้ามแฟลตปลาทองรังสิต"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1469975695.jpg,80,70" alt="ขายบ้านเดี่ยว 2 ชั้น ย่านรังสิต หมู่บ้านสินธร รังสิต 42 ตรว. 3 นอน 2 น้ำ ตรงข้ามแฟลตปลาทองรังสิต" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6769" target="_blank"><strong>บ้านเดี่ยว</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 42 ตรว.</div>
-							<div class="mt2 fs11">เมืองปทุมธานี ปทุมธานี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">2,800,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7725" rel="nofollow" title="ขายที่ดินพร้อมสิ่งปลูกสร้าง PakKret Village ขนาด 303 ตรว. ใกล้ ถ.ติวานนท์ 300 ม. ใกล้ รร.สวนกุหลาบ น"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1480922818.jpg,80,70" alt="ขายที่ดินพร้อมสิ่งปลูกสร้าง PakKret Village ขนาด 303 ตรว. ใกล้ ถ.ติวานนท์ 300 ม. ใกล้ รร.สวนกุหลาบ น" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7725" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 303 ตรว.</div>
-							<div class="mt2 fs11">ปากเกร็ด นนทบุรี</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">25,000,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7732" rel="nofollow" title="ขายที่ดินเพชรบูรณ์ 16.3 ไร่ พร้อมโฉนด ติดถนนทางหลวงแผ่นดินสาย2196 แยกไปเขาค้อ ห่างตัวเมืองเพียง 13 ก"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1481013809.jpg,80,70" alt="ขายที่ดินเพชรบูรณ์ 16.3 ไร่ พร้อมโฉนด ติดถนนทางหลวงแผ่นดินสาย2196 แยกไปเขาค้อ ห่างตัวเมืองเพียง 13 ก" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-7732" target="_blank"><strong>ที่ดิน</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 16.3 ไร่</div>
-							<div class="mt2 fs11">เมืองเพชรบูรณ์ เพชรบูรณ์</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">14,000,000</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5786" rel="nofollow" title="ให้เช่า Rhythm Ratchada Condo ตึก B ชั้น 15 ขนาด 47 ตรม. ติด MRT Ratchada ไม่มีตึกบังวิว 1 นอน 1 น้ำ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1456150716.jpg,80,70" alt="ให้เช่า Rhythm Ratchada Condo ตึก B ชั้น 15 ขนาด 47 ตรม. ติด MRT Ratchada ไม่มีตึกบังวิว 1 นอน 1 น้ำ" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-5786" target="_blank"><strong>คอนโดมิเนียม</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 47 ตรม.</div>
-							<div class="mt2 fs11">เขตห้วยขวาง กรุงเทพมหานคร</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">19,500</span></div>
-						</div>
-						<br class="cr" />
-					</div>
-										<div class="box1">
-						<div class="fl">
-							<a href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6713" rel="nofollow" title="ขาย The Natural Place Sukhumvit 31 ขนาด 35 ตรว พื้นที่ใช้สอย 300 ตรม 3 นอน 4 น้ำ ตกแต่งหรูมีระดับ"><img class="pic-box" src="http://www.xn--q3cb6e5d.xn--o3cw4h/web-gd.php&#63;file=2,1,home_1469427850.jpg,80,70" alt="ขาย The Natural Place Sukhumvit 31 ขนาด 35 ตรว พื้นที่ใช้สอย 300 ตรม 3 นอน 4 น้ำ ตกแต่งหรูมีระดับ" /></a>						</div>
-						<div class="fl ml10 sw130 sh80">
-							<div class="mb5"><a class="fc-sea u" href="http://www.xn--q3cb6e5d.xn--o3cw4h/property-6713" target="_blank"><strong>ทาวน์เฮ้าส์</strong></a></div>
-							<div class="mt2 fs11">เนื้อที่: 300 ตรม.</div>
-							<div class="mt2 fs11">เขตวัฒนา กรุงเทพมหานคร</div>
-							<div class="mt4 fs13 b">ราคา <span class="fc-red">25,000,000</span></div>
 						</div>
 						<br class="cr" />
 					</div>
@@ -1533,9 +1439,9 @@ Content-length: -1
 <a href="https://plus.google.com/108966050212122340244" rel="publisher">Google+</a>  <a href="http://www.xn--l3c1b4a.xn--o3cw4h/" title="วัด" target="_blank">วัด</a>	</div>
 </div></body>
 </html>
-http://animal.agri.cmu.ac.th/ 127.0.0.1 20170105060014 text/html 6112
+http://animal.agri.cmu.ac.th/ 127.0.0.1 20170101054748 text/html 6112
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 05:58:13 GMT
+Date: Sun, 01 Jan 2017 05:45:51 GMT
 Server: Microsoft-IIS/8.0
 Content-Type: text/html Last-modified: Last-Modified: Thu, 21 Jul 2011 09:56:23 GMT
 Content-length: 5928
@@ -1645,9 +1551,9 @@ Content-length: 5928
 
 </html>
 
-http://animal.agri.cmu.ac.th/greet.htm 127.0.0.1 20170105060014 text/html 19824
+http://animal.agri.cmu.ac.th/greet.htm 127.0.0.1 20170101054748 text/html 19824
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 05:58:13 GMT
+Date: Sun, 01 Jan 2017 05:45:51 GMT
 Server: Microsoft-IIS/8.0
 Content-Type: text/html Last-modified: Last-Modified: Wed, 20 May 2015 03:37:14 GMT
 Content-length: 19639
@@ -1834,22 +1740,29 @@ Content-length: 19639
 
 </html>
 
-http://adb.envi.psu.ac.th/ 127.0.0.1 20170105060014 text/html 294
+http://asiasoft.co.th/ 127.0.0.1 20170101054748 text/html 248
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 05:59:02 GMT
-Server: Apache/2.4.7 (Ubuntu)
-Content-Type: text/html Last-modified: Last-Modified: Thu, 07 Apr 2016 09:24:42 GMT
-Content-length: 107
+Date: Sun, 01 Jan 2017 05:49:42 GMT
+Server: Microsoft-IIS/7.5
+Content-Type: text/html; charset=utf-8 Last-modified: null
+Content-length: 91
 
-<html>
-<head>
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www2.envi.psu.ac.th/host2">
-</head>
-</html>
 
-http://9korn.reddiary.com/ 127.0.0.1 20170105060014 text/html 1691
+<meta http-equiv="refresh" content="0;URL=http://www.asiasoft.co.th/king/index.html" />
+
+http://atjapan.pantipmember.com/ 127.0.0.1 20170101054748 text/html 317
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
+Date: Sun, 01 Jan 2017 05:47:48 GMT
+Server: Apache/1.3.42 (Unix) PHP/4.4.9
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<link type="text/css" rel="stylesheet" href="/css/style.css">
+<META HTTP-EQUIV="REFRESH" CONTENT="0;URL=http://pantip.com/club/90">
+<body class="samgee"></body>
+http://9korn.reddiary.com/ 127.0.0.1 20170101054748 text/html 1691
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:48 GMT
 Server: DOSarrest
 Content-Type: text/html Last-modified: null
 Content-length: -1
@@ -1901,2869 +1814,1984 @@ try {
 </body>
 </html>
 
-http://aee.co.th/ 127.0.0.1 20170105060014 text/html 6209
+http://adslthailand.com/ 127.0.0.1 20170101054749 text/html 92548
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 6037
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-      <section>
-           <h2>Asia Energy Engineering - Special Steel Solutions</h2>
-            <p>Welcome to <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> company limited (<span class="text_redb">AEE</span>), your reliable supplier for special steel products and services. The product is delivered from either our in-house stock or from our international network stock, and also directly from both domestic and foreign mills.<br>
-        <p>It doesn’t matter how many pieces of product are required, big or small volume, long delivery or top urgent delivery requirement, short length, short piece, we always prepare to serve your demand.<br>
-        <p><strong>Materials :</strong><br>
-          <span class="text_redb">•	Carbon Steel<br>
-          •	Alloy Steel<br>
-          •	Stainless, Duplex and Super Duplex Steel<br>
-          •	Nickel Alloy<br>
-          •	Copper Alloy</span></p>
-            <p><strong>Standards :</strong><br>
-          <span class="text_redb">•	ASTM - ASME - DIN - JIS - EN</span></p>
-            <p><strong>Segments :</strong><br>
-          <span class="text_redb">•	Energy - Oil&Gas – Chemical</span></p>
-          </section>
-      <!-- end article --></article>
-        </div><!-- end--contentPage -->
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container -->
-  </div>
-<!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/home.html 127.0.0.1 20170105060014 text/html 6209
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 6037
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-      <section>
-           <h2>Asia Energy Engineering - Special Steel Solutions</h2>
-            <p>Welcome to <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> company limited (<span class="text_redb">AEE</span>), your reliable supplier for special steel products and services. The product is delivered from either our in-house stock or from our international network stock, and also directly from both domestic and foreign mills.<br>
-        <p>It doesn’t matter how many pieces of product are required, big or small volume, long delivery or top urgent delivery requirement, short length, short piece, we always prepare to serve your demand.<br>
-        <p><strong>Materials :</strong><br>
-          <span class="text_redb">•	Carbon Steel<br>
-          •	Alloy Steel<br>
-          •	Stainless, Duplex and Super Duplex Steel<br>
-          •	Nickel Alloy<br>
-          •	Copper Alloy</span></p>
-            <p><strong>Standards :</strong><br>
-          <span class="text_redb">•	ASTM - ASME - DIN - JIS - EN</span></p>
-            <p><strong>Segments :</strong><br>
-          <span class="text_redb">•	Energy - Oil&Gas – Chemical</span></p>
-          </section>
-      <!-- end article --></article>
-        </div><!-- end--contentPage -->
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container -->
-  </div>
-<!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/co-partner.html 127.0.0.1 20170105060014 text/html 5595
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:49 GMT
-Content-length: 5423
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="container"><!--CONTAINER-->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-  <div class="contentpage">
-        <div>
-      <aside>
-            <img src="images/co-partner/Aiden Group.jpg" alt="" width="380" height="114">
-            <img src="images/co-partner/NE.jpg" alt="" width="380" height="114">
-            <img src="images/co-partner/TAS.jpg" alt="" width="220" height="114">           
-            <!-- <h3>brief details here</h3> --> 
-          </aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column1"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-           <p>Since 2014 <span class="text_redb">AEE</span> has been working with AIDEN group who represents Nooter Eriksen, a HRSG for power stations and TAS Energy, Inc., a turbine air chilling system. More details of the product, see <a href="http://www.ne.com" target="_blank"><span class="text_redb">www.ne.com</span></a> and <a href="http://www.tas.com" target="_blank"><span class="text_redb">www.tas.com</span></a> respectively.</p>
-            <img class="centerimg" src="images/co-partner/pp0.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp1.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp2.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp3.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp4.jpg" alt="">
-            <p></p>
-            <img class="centerimg" src="images/co-partner/pp5.jpg" alt="">
-            <p></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container --></div>
-  <!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/contact.html 127.0.0.1 20170105060014 text/html 5738
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:49 GMT
-Content-length: 5566
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-     <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/contact1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/contact2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/contact3.JPG" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-      <section>
-        <h2>CONTACT</h2>
-        <p> <strong> <span class="text_blueb">Asia</span> <span class="text_blueb">Energy</span> <span class="text_blueb">Engineering Co., Ltd.</span> </strong> <br>
-          281/119 Vibhavadi-Rangsit Rd. <br>
-          Sanambin, Donmueang, <br>
-          Bangkok 10210 <br>
-          THAILAND <br>
-          Phone: +662 156 9701-3<br>
-          Fax: +662 156 9704<br>
-          <m> <strong>Email:</strong></m>
-          <a href="mailto:info@aee.co.th"> <span class="BoldRed">info@aee.co.th</span></a> </p>
-        <p> <a href="map/AEE-Map.pdf" target="_blank"> <span class="BoldRed">download map</span></a> </p>
-      </section>
-      <!-- end article --></article>
-    
-    <!-- Map from Googlemap
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.th/maps?q=13.925039,100.534633&amp;num=1&amp;hl=th&amp;ie=UTF8&amp;ll=13.925122,100.534478&amp;spn=0.014933,0.026157&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.th/maps?q=13.925039,100.534633&amp;num=1&amp;hl=th&amp;ie=UTF8&amp;ll=13.925122,100.534478&amp;spn=0.014933,0.026157&amp;t=m&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Enlarge the map</a></small>
---> 
-    
-    <!-- end .contentPage --></div>
-  <footer>
-    <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy</span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-  </footer>
-  <!-- end .container --> 
-</div>
-<!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/download.html 127.0.0.1 20170105060014 text/html 7460
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 7288
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-    <article class="content_column1"> 
-      <!--<h1>Group of article</h1>-->
-  <div class="contentpage">
-        <div class="sidebar3">
-      <aside>
-            <h4>Documents for download</h4>
-            <span class="text_red">Various useful industrial standards and specifications in special steel and alloy industries are ready for download</span> 
-            <!-- <h3>brief details here</h3> --> 
-          </aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column1"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-            <h2>Steel/Alloy Standard and Specifications</h2>
-            <p class="text_blueb">- <a href="ref/1) Tube & Pipe Comparison Table.pdf" target="_blank"><span class="text_redb">Tube & Pipe Comparison Table(1)</span></a></p>
-            <p class="text_blueb">- <a href="ref/TUBES AND PIPES(2).pdf" target="_blank"><span class="text_redb">Tube & Pipe Comparison Table(2)</span></a></p>
-            <p class="text_blueb">- <a href="ref/2) Material Comparison Table.pdf" target="_blank"><span class="text_redb">Material Comparison Table</span></a></p>
-            <p class="text_blueb">- <a href="ref/3) Material Specification Chart.pdf" target="_blank"><span class="text_redb">Material Specification Chart</span></a></p>
-            <p class="text_blueb">- <a href="ref/4) Metal & Alloy Density.pdf" target="_blank"><span class="text_redb">Metal & Alloy Density</span></a></p>
-            <p class="text_blueb">- <a href="ref/5) Pipe Table.pdf" target="_blank"><span class="text_redb">Pipe Table</span></a></p>
-            <p class="text_blueb">- <a href="ref/6) Table of Gauges.pdf" target="_blank"><span class="text_redb">Table of Gauges</span></a></p>
-            <p class="text_blueb">- <a href="ref/7) U Tube - SA688 Tolerance.pdf" target="_blank"><span class="text_redb">U Tube – ASME SA688 Tolerance</span></a></p>
-            <p class="text_blueb">- <a href="ref/8) Copper & Copper Alloy Specifications.pdf" target="_blank"><span class="text_redb">Copper & Copper Alloy Specifications</span></a></p>
-            <p class="text_blueb">- <a href="ref/9) comparison table.pdf" target="_blank"><span class="text_redb">Comparison Table - Service Temperatures for Boiler and Heatexchanger Tubes</span></a></p>
-            <p class="text_blueb">- <a href="ref/10) Ferrous&Non-ferrous.pdf" target="_blank"><span class="text_redb">Ferrous & Non - Ferrous Metals Service Temperature</span></a></p>
-            <p class="text_blueb">- <a href="ref/11) Recommended Maximum Temperature.pdf" target="_blank"><span class="text_redb">Recommended Maximum Temperature of Tube Materials</span></a></p>
-            <p></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container --></div>
-  <!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/products.html 127.0.0.1 20170105060014 text/html 17552
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:13 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 17379
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-<style>
-#customers {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	width: 90%;
-	margin: 0px auto;
-	border-collapse: collapse;
-}
-#customers td, #customers th {
-	font-size: 16px;
-	border: 1px solid #98bf21;
-	padding: 3px 7px 2px 7px;
-	color: #000000;
-}
-#customers th {
-	font-size: 16px;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 5px;
-	padding-bottom: 4px;
-	background-color: #b0b8fc;
-	color: #800000;
-}
-#customers tr.alt td {
-	color: #000000;
-	background-color: #AAF2D3;
-}
-</style>
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-     <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-        <div class="sidebar4">
-      <aside>
-            <h4>PRODUCTS & SERVICES</h4>
-            <a href="#tube"><span class="text_redb">Seamless & Welded Tube and Pipe</span></a><br>
-            <a href="#plate"><span class="text_redb">Plate and Sheet</span></a><br>
-            <a href="#fitting"><span class="text_redb">Flange and Fitting</span></a><br>
-            <a href="#bar"><span class="text_redb">Rolled and Forged Bar</span></a><br>
-            <a href="#HE"><span class="text_redb">Heat Exchanger Components</span></a><br>
-             <a href="#HE"><span class="text_redb">Rails and Accessories for Train & Crane</span></a><br>
-            <a href="#refp"><span class="text_redb">Represented Product</span></a><br>
-            <p></p>
-            <!-- <h3>brief details here</h3> --> 
-          </aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column2"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-            <h2>Various Items of Products</h2>
-            <h5 id="tube">Seamless & Welded Tube and Pipe</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Carbon Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A178, SA/A179, SA/A210 Gr. A1/C<br>
-              SA/A53 Gr. A/B, SA/A106 Gr. B</td>
-              </tr>
-          <tr>
-                <td>DIN 17175</td>
-                <td>St35.8, St45.8, 15Mo3</td>
-              </tr>
-          <tr>
-                <td>EN 10216-2</td>
-                <td>P235GH, P265GH, 16Mo3</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Alloy Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A209 T1, SA/A213 T5,T11,T12,T22,T23,T91<br>
-              SA/A335 P1, P11, P12, P22, P23, P91</td>
-              </tr>
-          <tr class="alt">
-                <td>DIN 17175</td>
-                <td>16Mo5, 13CrMo4 4, 10CrMo9-10</td>
-              </tr>
-          <tr class="alt">
-                <td>EN 10216-2</td>
-                <td>8MoB5-4, 10CrMo5-5, 13CrMo4-5, 10CrMo9-10</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Stainless Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A213, SA/A268, SA/A269<br>
-              SA/A312<br>
-              (TP304, TP304H, TP310, TP316, TP316L, TP316N, TP321, TP347, TP347H, TP904L)
-              1.4418 (X4CrNiMo 16-5-1)</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Duplex and Super Duplex Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A789 S31803, S32205, S32760<br>
-              SA/A790 S31803, S32205, S32760</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Material</span></th>
-                <th><span class="text_redb">Copper and Copper Alloy</span></th>
-              </tr>
-          <tr>
-                <td>Aluminum Brass</td>
-                <td>ASME/ASTM SB/B111 C68700<br>
-              JIS H3300 C6872T<br>
-              DIN 1785 CuZn20Al2</td>
-              </tr>
-          <tr>
-                <td>Admiralty Brass</td>
-                <td>ASME/ASTM SB/B111 C44300<br>
-              JIS H3300 C4430T<br>
-              DIN 1785 CuZn28Sn1</td>
-              </tr>
-          <tr>
-                <td> Copper-Nickel</td>
-                <td>ASME/ASTM SB/B111 C70600 (90/10), C71500(70/30)<br>
-              JIS H3300 C7060T, C7150T<br>
-              DIN 1785 CuNi10Fe1Mn, CuNi30Mn1Fe</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Nickel Alloy</span></th>
-              </tr>
-          <tr class="alt">
-                <td>UNS</td>
-                <td>N04400, N06600, N06625, N10276</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="plate">Plate and Sheet</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Carbon Structural Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM<br>
-              JIS </td>
-                <td>SA/A36, SA/A1008<br>
-              G3101 SS400, G3141 SPCC</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Decarburized Carbon Steel (Enamelling Steel)</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM<br>
-              JIS</td>
-                <td>SA/A424 Type II<br>
-              G3133 SPP</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Atmospheric Corrosion Resistant Steel</span></th>
-              </tr>
-          <tr>
-                <td>&nbsp;</td>
-                <td>CORTEN-A, CORTEN-B, CORTEN-O</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Sulfur Dew-Point Corrosion Resistant Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>S-TEN1, S-TEN2, SCR-TEN2</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Pressure Vessel Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM<br>
-              DIN 10028-2 </td>
-                <td>SA/A387 Grade 5, 11, 12, 22, SA/A516 Grade 60, 70<br>
-              16Mo3, 13CrMo4-5, 10CrMo9-10</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Wear Resistant Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>400HB, 500HB</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Stainless Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A240 Type 304, 310, 316, 321, 347, 405, 409, 410, 420, 422, 430, 431, 630, 660, 904L, 253MA</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Duplex and Super Duplex Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A240 Type S31803, S32205, S32750</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Nickel Alloy</span></th>
-              </tr>
-          <tr>
-                <td>&nbsp;</td>
-                <td>Alloy 20, Alloy 230, Hastelloy X, Hastelloy C-276, Monel 400, Inconel X-750, Inconel 600, Inconel 601, Inconel 625, Inconel 718, Incoloy 800, Nimonic 80, Nimonic 90</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="fitting">Flange and Fitting</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Carbon Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A 105, SA/A234 WPB</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Stainless Steel</span></th>
-              </tr>
-          <tr class="alt">
-                <td>ASME/ASTM</td>
-                <td>SA/A 182, SA/A403 all grades</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Alloy Steel</span></th>
-              </tr>
-          <tr>
-                <td>ASME/ASTM</td>
-                <td>SA/A 182, SA/A234 all grades</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Type of Fitting</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>Elbow, Tee, Reducer, etc.</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="bar">Rolled and Forged Bar</h5>
-            <table id="customers">
-          <tr>
-                <th width="30%"><span class="text_redb">Standard</span></th>
-                <th width="70%"><span class="text_redb">Alloy and Stainless Steel</span></th>
-              </tr>
-          <tr>
-                <td> ASTM</td>
-                <td>A182 all grades, A276 all grades</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Nickel Alloy</span></th>
-              </tr>
-          <tr class="alt">
-                <td>&nbsp;</td>
-                <td>Alloy 20, Alloy 230, Hastelloy X, Hastelloy C-276, Monel 400, Inconel X-750, Inconel 600, Inconel 601, Inconel 625, Inconel 718, Incoloy 800, Nimonic 80, Nimonic 90</td>
-              </tr>
-          <tr>
-                <th><span class="text_redb">Standard</span></th>
-                <th><span class="text_redb">Bolting Material for GT</span></th>
-              </tr>
-          <tr>
-                <td>ASTM<br>
-              JIS<br>
-              WESTINGHOUSE</td>
-                <td>ASTM A193 Grade B5 or JIS SNB5 or WESTINGHOUSE 10705AD<br>
-              ASTM A193 Grade B16 or JIS SNB16 or WESTINGHOUSE 10305DU<br>
-              ASTM A286 Grade 660<br>
-              ASTM A565 Grade 616 or AISI422 or WESTINGHOUSE 10705BU or GE B50A951A1</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="HE">Heat Exchanger Components</h5>
-            <table id="customers">
-          <tr>
-                <th width="40%"><span class="text_redb">Type of Material</span></th>
-                <th width="60%"><span class="text_redb">Application for</span></th>
-              </tr>
-          <tr>
-                <td>Bended and U Tube</td>
-                <td>boiler, cooler and heat exchanger</td>
-              </tr>
-          <tr>
-                <td>Tube Sheet and Baffle Plate</td>
-                <td>cooler and heat exchanger</td>
-              </tr>
-          <tr>
-                <td> Dished Head</td>
-                <td>column</td>
-              </tr>
-        </table>
-            </p>
-            <p></p>
-            <h5 id="refp">Represented Product</h5>
-            <p><span class="text_redb">A</span>sia <span class="text_redb">E</span>nergy <span class="text_redb">E</span>ngineering is the exclusive distributor of The Hilliard Corporate who is the US manufacturer of the oil filtration equipment and cartridge. The main end use of these filtering equipment and cartridges are lube oil systems of gas turbine, steam turbine, petrochemical and food industries. The filtration equipment and cartridge are supplied under the trade-name “HILCO”. The major products include the following :<br>
-          - Reclaimers / Reclamation Systems<br>
-          - Vent Mist Eliminators<br>
-          - Fluid Filtration / Conditioning Systems<br>
-          - Replacement Filter Elements<br>
-          - “Star” Filter Press</span><br>
-          More details of the product, see <a href="http://www.hilliardcorp.com/" target="_blank">www.hilliardcorp.com</a></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container --></div>
-  <!--END--WRAPPER-->
-</body>
-</html>
-
-http://aee.co.th/profile.html 127.0.0.1 20170105060014 text/html 7183
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:00:14 GMT
-Server: nginx
-Content-Type: text/html Last-modified: Last-Modified: Thu, 27 Oct 2016 11:01:50 GMT
-Content-length: 7011
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Asia Energy Engineering -Special Steel Solutions-</title>
-<link href="css/aee_style1.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-<div id='wrapper'><!--WRAPPER-->
-<header><!--HEADER-->
-  <div id='headerContainer'><!--HEADER--CONTAINER-->
-<script type="text/javascript" src="js/jquery_min.js"></script> 
-<script type="text/javascript" src="js/core.js"></script> 
-<script type="text/javascript" src="js/utils.js"></script> 
-<script type="text/javascript" src="js/slider.js"></script> 
-<script>
-        var _SlideshowTransitions = [
-        //Fade
-        {$Duration: 700, $Opacity: 2, $Brother: { $Duration: 1000, $Opacity: 2} }
-        ];
-    </script> 
-<script>
-        jQuery(document).ready(function ($) {
-            var options = {
-                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
-                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
-                $AutoPlayInterval: 3000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
-                $SlideshowOptions: {                                //[Optional] Options to specify and enable slideshow or not
-                    $Class: $JssorSlideshowRunner$,                 //[Required] Class to create instance of slideshow
-                    $Transitions: _SlideshowTransitions,            //[Required] An array of slideshow transitions to play slideshow
-                    $TransitionsOrder: 1,                           //[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
-                    $ShowLink: true                                    //[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
-                }
-            };
-
-            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
-
-        });
-    </script><img src="images/logoweb.jpg" alt="Asia Energy Engineering" width="316" height="57" class="centerimg"> <!-- #content to center the menu -->
-<div id="content"><!-- This is the actual menu -->
-  <ul id="darkmenu">
-        <li><a href="home.html">HOME</a></li>
-        <li><a href="profile.html">COMPANY</a></li>
-        <li><a href="products.html">PRODUCTS & SERVICES</a></li>
-        <li><a href="download.html">DOWNLOAD</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
-        <li><a href="co-partner.html">CO-PARTNERSHIP</a></li>
-      </ul>
-</div><!--END--HEADER--CONTAINER--> 
-</header><!--END--HEADER-->
-    </div><!-- content -->
-      <div class="container"><!--CONTAINER-->
-  <div id="slider1_container" style="position: relative; width: 1010px; height: 500px;"><!-- Slides Container -->
-  <div u="slides" style="cursor: move; position: relative; width: 1010px; height: 500px; overflow: hidden;">
-      <div><a u=image href="#"><img src="images/product1.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product2.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product3.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product7.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product8.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product6.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product9.jpg" /></a></div>
-      <div><a u=image href="#"><img src="images/product10.jpg" /></a></div>
-    </div><!--END--CONTAINER-->
-        <a style="display: none" href="home.html">Home</a> </div>
-  
-  <!--   <div class="photo"> <img class="centerimg" src="images/pic2.jpg" alt="" width="1010" height="280"> </div> --> 
-  <!--    <div class="textrounded1">Subject</div> -->
-  <div class="contentpage">
-        <div>
-      <aside></aside>
-      <!-- end .sidebar1--> </div>
-        <article class="content_column1"> 
-      <!--    <h1>Group of article</h1> -->
-      <section>
-            <h2>COMPANY PROFILE</h2>
-            <div id="list4">
-          <ul>
-                <li>1999</li>
-              </ul>
-        </div>
-            <p>The year of company establishment, originally served only power generation and pulp & paper industries. Various kinds of spare parts for these two industries for plant maintenance purpose were supplied during the first 3-4 years our operation.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2003</li>
-              </ul>
-        </div>
-            <p>Supplied products were mainly focused on steel in form of tube, pipe, plate, sheet and bar for power plants.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2005</li>
-              </ul>
-        </div>
-            <p>Finned tubes for HRSG were the major supplied product, including H-finned tube fabricated boiler panels for pulp & paper plant. Cold rolled sheet for enamelling plant processing as well as atmospheric and sulfur dew-point corrosion resistant steel plate and enamel powder were another major supplied products.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2010</li>
-              </ul>
-        </div>
-            <p>U tubes for feed water heaters were supplied to both industry and utility power plants.</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2013</li>
-              </ul>
-        </div>
-            <p>The business has been expanded to oil & gas industry, mainly through heat exchanger fabricators. Major supplied product were straight and u-tubes for heat exchanger including pipe, plate, bar and various forging parts for high temperature and corrosion resistance application. Special stainless steel, duplex steel, copper alloy and nickel alloy were the materials supplied to this industry</p>
-            <p></p>
-            <div id="list4">
-          <ul>
-                <li>2014</li>
-              </ul>
-        </div>
-            <p><span class="text_redb">AEE</span> has associated with AIDEN Group for sales and marketing of HRSG and Turbine Air Chilling system.</p>
-            <p></p>
-          </section>
-      <!-- end article --></article>
-        <!-- end .contentPage --></div>
-  <footer>
-        <p>&copy;2016 <span class="text_redb">A</span><span class="text_blueb">sia </span><span class="text_redb">E</span><span class="text_blueb">nergy </span><span class="text_redb">E</span><span class="text_blueb">ngineering</span> Email: info@aee.co.th</p>
-      </footer>
-  <!-- end .container -->
-  </div>
-  <!--END--WRAPPER-->
-</body>
-</html>
-
-http://all.in.th/ 127.0.0.1 20170105060014 text/html 31234
-HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:01:19 GMT
-Server: Apache/2.4.18 (FreeBSD) PHP/5.6.18
+Date: Sun, 01 Jan 2017 05:47:47 GMT
+Server: Apache/2.2.15 (CentOS)
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: -1
 
- 
-<!-- v2.1.10 -->
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html>
 <html>
-<head>
-<title>ALL Statistic Domain .TH</title>
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-<!--
-	CSS Style Sheet Link
-						-->
-<link rel="stylesheet" type="text/css" href="./stylesheet/main_style.css">
-<!-- style sheet main page -->
-<link rel="stylesheet" type="text/css" href="./stylesheet/stylesheet.css">
-<!-- style sheet tab script -->
-<link rel="stylesheet" type="text/css" href="./stylesheet/tabcontent.css">
-<!--
-	JavaScript Link
-					-->
-<!-- script tab -->
-<script type="text/javascript" src="domain_stat/script/tabcontent.js"></script>
-<!-- Rollorver Menu -->
-<script type="text/javascript" src="domain_stat/script/rollorver.js"></script>
-</head>
-<body>
-<div align="center">
-	<div id="wrapper_header">
-		<!-- Header -->
-		<div id="header"></div>
-	</div>
-	<!--<hr width="1024">-->
-	<div id="wrapper_menu"><style type="text/css">
-#menucontainer { 
-	position: relative;
-	height: 40px;
-	color: #E0E0E0;
-	background: #143D55;
-	width: 100%;
-	font-family: Verdana, Helvetica, Arial, sans-serif;
-}
-#menunav{
-	position: relative;
-	height: 33px;
-	font-size: 12px;
-	text-transform: uppercase;
-	font-weight: bold;
-	background:#fff url(./stylesheet/dolphin_bg.gif) repeat-x bottom left;
-	padding:0 0 0 20px;
-}
-#menunav ul{
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	width: auto;
-	float: left;
-}
-#menunav ul li{
-	display: block;
-	float: left;
-	margin:0 1px;
-}
-#menunav ul li a{
-	display: block;
-	float: left;
-	color: #EAF3F8;
-	text-decoration: none;
-	padding: 0 0 0 20px;
-	height: 33px;
-	font-weight: bold;
-}
-#menunav ul li a span{
-	padding: 12px 20px 0 0;
-	height: 21px;
-	float: left;
-}
-#menunav ul li a:hover{
-	color: #143D55;
-	background: transparent url(./stylesheet/dolphin_bg-OVER.gif) repeat-x bottom left;
-}
-#menunav ul li a:hover span{
-	display:block;
-	width:auto;
-	cursor:pointer;
-}
-#menunav ul li a.current, #menunav ul li a.current:hover{
-	color:#fff;
-	background:#1D6893 url(./stylesheet/dolphin_left-ON.gif) no-repeat bottom left;
-	line-height:275%;
-}
-#menunav ul li a.current span{
-	display: block;
-	padding:0 20px 0 0;
-	width:auto;
-	background:#1D6893 url(./stylesheet/dolphin_right-ON.gif) no-repeat bottom right;
-	height: 33px;
-}
-</style>
-<div id="menucontainer">
-	<div id="menunav">
-	<ul>
-		<li><a href="http://www.all.in.th/index.php" title="Home" class="current"><span>Home</span></a></li>
-		<li><a href="http://www.all.in.th/index.php?page=domain_stat&graph=pie" title="Domain Statistic" class=""><span>Domain Statistics</span></a></li>
-		<!-- change v2.2.0
-	 		remove string &type=0 -->
-		<li><a href="http://www.all.in.th/index.php?page=web_dir&module=list" title="Web Directory" class=""><span>Web directory</span></a></li>
-		<li><a href="http://www.all.in.th/index.php?page=activities" title="Activities" class=""><span>Activities</span></a></li>
-		<li><a href="http://www.all.in.th/index.php?page=about" title="About Us" class=""><span>About Us</span></a></li>
-	</ul>
-	</div>
-</div>
-</div>
-	<div id="wrapper">
-		<!-- Content -->
-		<table width="100%" border="0" style="margin: 0;" align="center" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-		<tr>
-			<td width="24%" valign="top">
-			 
-<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
-<tr><th align="center" colspan="2">.th ปรับปรุงข้อมูล : 12/2559</th></tr>
-<tr valign="top">
-	<td width="30%">.ac.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="18" /><br />6,570 (9.99%)</td>
-</tr>
-<tr valign="top">
-	<td>.co.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="103" /><br />37,751 (57.41%)</td>
-</tr>
-<tr valign="top">
-	<td>.go.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="22" /><br />7,896 (12.01%)</td>
-</tr>
-<tr valign="top">
-	<td>.in.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="34" /><br />12,309 (18.72%)</td>
-</tr>
-<tr valign="top">
-	<td>.mi.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />32 (0.05%)</td>
-</tr>
-<tr valign="top">
-	<td>.net.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />25 (0.04%)</td>
-</tr>
-<tr valign="top">
-	<td>.or.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />1,175 (1.79%)</td>
-</tr>
-<tr valign="top">
-	<td class="t">Total </td>
-	<td class="t l">&nbsp;65,758</td> 
-</tr>
-<tr>
-	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
-</tr>
-</table>
-<br> 
-<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
-<tr><th align="center" colspan="2">.ไทย ปรับปรุงข้อมูล : 12/2559</th></tr>
-<tr valign="top">
-	<td width="30%">.ศึกษา.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="31" /><div>3,199 (17.3%)</div></td>
-</tr>
-<tr valign="top">
-	<td>.ธุรกิจ.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="71" /><br />7,300 (39.48%)</td>
-</tr>
-<tr valign="top">
-	<td>.รัฐบาล.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="33" /><br />3,354 (18.14%)</td>
-</tr>
-<tr valign="top">
-	<td>.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="42" /><br />4,337 (23.46%)</td>
-</tr>
-<tr valign="top">
-	<td>.ทหาร.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />12 (0.06%)</td>
-</tr>
-<tr valign="top">
-	<td>.เน็ต.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />8 (0.04%)</td>
-</tr>
-<tr valign="top">
-	<td>.องค์กร.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />279 (1.51%)</td>
-</tr>
-<tr valign="top">
-	<td class="t">Total </td>
-	<td class="t l">&nbsp;18,489</td> 
-</tr>
-<tr>
-	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
-</tr>
-</table><br><table width="298" height="100%" style='border-collapse: separate; border-left: 0px; border-right: 0px;' border="1" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<td class="td_head" style='border: 0;'><b>มีชื่อโดเมนด้วยขั้นตอนง่ายๆ :-</b></td>
-</tr>
-<tr> 
-	<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'></td></tr>
-<tr height="10px" style='border: 0;'>
-	<td style="border: 0;">
-	<ol>
-		<li>ตรวจสอบชื่อโดเมนที่ต้องการ</li><br>
-		<li>เลือกผู้ให้บริการจดชื่อโดเมน</li><br>
-		<li>แจ้งชื่อโดเมนที่ต้องการกับผู้ให้บริการ</li><br>
-		<li>ส่งสำเนาบัตรประชาชน พร้อมเซ็นรับรองสำเนาถูกต้อง และหลักฐานการชำระเงิน หรือหลักฐานอื่นๆ ที่จำเป็น</li>
-	</ol>
-	</td>
-</tr>
-<tr>
-	<td style='border: 0;'>
-		&nbsp;&nbsp;&nbsp;&nbsp;เพียงเท่านี้ คุณก็สามารถแสดงตัวตนบนโลกออนไลน์ได้ <br><br>
-		<div style="font-size: 14px; font-weight: bold;">
-			<div style="color: #1E90FF;">"เปิดโลกใหม่ เปิดสังคมใหม่</div><div align="right" style="color: #DC143C;">กับ Cyber Identity"</div>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td style='border: 0;'><!-- v2.1.2 -->
-<br>
-<!--
-Example Form for input data and send post form for check aviable domain
--->
-<br>
-<form name="checkform" action="#" method="POST">
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
-	<tr>
-		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
-		www.<input name="domain" type="text" size="12" value="" />
-		<select name="domain_ext">
-			<option value=".ac.th">ac.th</option>
-			<option value=".co.th">co.th</option>
-			<option value=".go.th">go.th</option>
-			<option value=".or.th">or.th</option>
-			<option value=".in.th" selected>in.th</option>
-			<option value=".mi.th">mi.th</option>
-			<option value=".net.th">net.th</option>
-		</select>
-		</td>
-	</tr>
-	<tr>
-		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
-			<center><input type="submit" value="check" /></center>
-		</td>
-	</tr>
-</table>
-</form></td>
-</tr>
-<tr>
-	<td align="left" style='border: 0;'>
-		รายชื่อผู้ให้บริการจดโดเมน คลิ๊กที่นี่
-		<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
-		<tr><td	align="center" style='border: 0; padding-left: 3em;'>
-			<a href="http://reseller.thnic.co.th/checklists.html" target="_blank"><img src="activities/001/icon_banner.gif" alt="View" width="110" height="17" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</td></tr>
-		</table>
-</td></tr>
-<tr height="10px">
-	<td></td>
-</tr>
-</table><br><table width="95%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-	<!--<td class="td_head" colspan="2"><strong>ALL.IN.TH News</strong></td>-->
-</tr>
-<tr>
-	<td width="50%" valign="top"> 
-		<table width="95%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-		<tr>
-			<td class="td_head"><b>Abouts ALL.IN.TH</b></td>
-		</tr>
-		<tr>
-			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
-				<table width="95%" border="0" align="center">
-				<tr>
-					<td>THNIC พร้อมเปิดให้บริการเว็บไซต์ all.in.th แหล่งรวมทุกเรื่องราวของโดเมนภายใต้ .th ไม่ว่าจะเป็นการค้นหาชื่อโดเมน (web directory) การตรวจสอบสถิติการจดชื่อโดเมนในแต่ละประเภท (Statistic Domain) รวมถึงข้อมูลข่าวสาร ความเคลื่อนไหวต่างๆ ในแวดวงอินเทอร์เน็ต และเป็นสื่อกลางในการแลกเปลี่ยนความรู้ระหว่างคนไทยด้วยกัน 
-          
-          เพียงคลิกเข้าไปที่ <br><br><a href="http://www.all.in.th/index.php">http://www.all.in.th/index.php</a>
-          <img src="images/thnic_logo2.jpg" width="120" height="89" align="right" />
-					</td>
-				</tr>
-				</table>
-			</td>
-		</tr>
-		</table>
-		<br>
-	</td>
-</tr>
-<!--<tr>
-	<td width="50%" valign="top">
-		<table width="100%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-		<tr>
-			<td class="td_head"><p><b>โครงการ Blog ไทยโดเมน.in.th</b></p></td>
-		</tr>
-		<tr>
-			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
-				<table width="95%" border="0" align="center">
-				<tr>
-					<td>
-					<p>
-					โครงการนี้อยากนำเสนอ Blog ไทยโดเมน.in.th
-					</p>
-				<p>ทีเอชนิคขอขอบพระคุณทุกท่านที่ให้ความสนใจเข้าร่วมโครงการ “Blog ไทยโดเมน .in.th” 
-				และทีเอชนิคมุ่งหวังที่จะนำเสนอสิ่งที่ดีและมีประโยชน์มอบให้แก่ทุกท่านในอนาคตอันใกล้นี้
-				เตรียมพบกับโครงการดีดีได้เร็วนี้
-				<br>
-				<span class="style1">
-					<strong><a href="http://www.thnic.co.th" target="_blank">
-						<img src="images/thnic_logo.jpg" width="120" height="120" border="0" align="right">
-					</a></strong>
-				</span>
-				</p>
-				<p><a href="index.php?page=071120_blogdetail"> >> อ่านรายละเอียดโครงการ << </a></a></p>
-					</td>
-				</tr>
-				</table>
-			</td>
-		</tr>
-		</table>
-	</td>
-</tr>-->
-</table>			<!-- change v2.1.5 -->
-			<!-- add speedtest.or.th ads -->
-			<center><a href="http://www.speedtest.or.th" target="_blank">
-				<img alt="http://www.speedtest.or.th" src="images/ads/speedtest.or.th/250x250v5v6-e.gif" border="0" />
-			</a>
-			</center>
-			<!-- end add speedtest ads -->
-			</td>
-			<td width="1%"></td>
-			<td width="75%" valign="top">
-			<!-- v2.1.10 -->
-<link rel="stylesheet" type="text/css" href="../stylesheet/activities.css" />
-<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<td class="td_head">ร่วมกิจกรรมกับ ALL.IN.TH</td>
-</tr>
-<tr>
-	<td style='font-size: 13px'>
-	<!-- 	change v2.1.6 : add dns 
-			change v2.7.7 : add domain organization	
-	-->
-			<font size='3'><strong>&nbsp;&nbsp;&nbsp;&nbsp;กิจกรรมใหม่ !!</strong></font><br />
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=bd">Brand Domain</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dhj">Domain Hijack</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=do">Domain Organization</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dns">Domain Name System</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=cyberidentity">Cyber Identity</a></strong></font>
-	<div class='blur'><div class='shadow'><div class='content'><table border='0' bordercolordark='white' bordercolor='#AACCEE' cellpadding='0' cellspacing='0'><tr height='10'><td></td></tr><tr height='80' valign='top' class='clip_bg'><td align='center' width='500'><br><object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
-		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
-		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
-	</object></td></tr><tr><td><div><font size='4'><b>Brand Domain : การสร้างแบรนด์โดเมน</b></font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#000000'>การสร้างแบรนด์โดเมน</font><form id="myform" name="myform"><br><br>Embed Code: <br><input readonly='true' type='text' size='50'  onclick="javascript:document.myform.embed_code.focus();document.myform.embed_code.select();"value="<object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
-		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
-		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
-	</object>" /></form></td></tr></table><br /><br /></div></div></div><a href='index.php?page=activities' style='font-size:10pt; font-weight: bold; text-align: right;'>ดูทั้งหมด ...</a>	</td>
-</tr>
-</table><br /> 
-<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr><td class="td_head">กราฟสถิติโดเมน .th และ .ไทย</td></tr>
-<tr>
-	<td>
-		<!-- start tab script -->
-		<ul id="maintab" class="shadetabs">
-			<li><a href="index.php?page=domain_stat&graph=line">.th Line</a></li>
-			<li><a href="index.php?page=domain_stat&graph=pie">.th Pie</a></li>
-			<li><a href="index.php?page=domain_stat&graph=col">.th Column</a></li>
-			<li><a href="index.php?page=domain_stat&graph=bline">.ไทย Line</a></li>
-			<li><a href="index.php?page=domain_stat&graph=bpie">.ไทย Pie</a></li>
-			<li><a href="index.php?page=domain_stat&graph=bcol">.ไทย Column</a></li>
-			<!--<li><a href="index.php?page=domain_stat&graph=area">Area</a></li>-->
-		</ul>
-		<!-- load graph -->
-		<div class="tabcontentstyle">
-		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Graph Pie</title>
-<script language="JavaScript" src="./domain_stat/script/FusionCharts.js"></script>
-<script language="JavaScript"> 
-function openDir(form) {
-	var newIndex = form.fieldname.selectedIndex; 
-	if(newIndex == 0) { 
-		alert("Please select Year!");
-	} else {
-		cururl = form.fieldname.options[newIndex].value; 
-		window.location.assign(cururl);
-	}
-}
-</script>
-</head>
-<body>
-<table width="100%" border="0" style='border-collapse: separate;' bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<td>
-		<div id="SalesDiv" align="center">
-		Chart.
-	</div>
-	<script type="text/javascript">	
-		var chart_Sales = new FusionCharts("./domain_stat/Charts/Pie2D.swf", "Sales", "600", "400", "0", "0");
-		//Provide entire XML data using dataXML method
-		chart_Sales.setDataXML("<chart caption='December  2559' palette='4' showZeroPies='0'  showPercentValues='0' bgColor='FFFFFF'  defaultAnimation='1' showBorder='0' borderThickness='10' showShadow='1'  use3DLighting='1' enableSmartLabels='1' formatNumberScale='0' baseFont='Helvatiga, Arial' baseFontColor='000000' baseFontSize='12' showNames='1' showValues='1' decimalPrecision='0' pieYScale='75' pieBorderAlpha='40' pieFillAlpha='80' pieSliceDepth='20' pieRadius='160' animation='1'><set label='AC.TH :' value ='6570' /><set label='CO.TH :' value ='37751' isSliced='1'/><set label='GO.TH :' value ='7896'/><set label='IN.TH :' value ='12309'/><set label='MI.TH :' value ='32'/><set label='NET.TH :' value ='25'/><set label='OR.TH :' value ='1175'/></chart>")
-		chart_Sales.render("SalesDiv");
-	</script>		</td>
-</tr>
-</table>
-</body>
-</html>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-<title> :::::: Active Domain ::::: </title>
-<meta http-equiv="content-type" Content="text/html; charset=UTF-8">
-<script language="JavaScript"> 
-function openDir(form) { 
-	var newIndex = form.fieldname.selectedIndex; 
-	if(newIndex == 0) { 
-		alert("Please select a location!"); 
-	} else { 
-		cururl = form.fieldname.options[newIndex].value; 
-		window.location.assign(cururl); 
-	}
-}
-</script>
-</head>
-<body>
-<div align=left>	<a href="index.php?page=domain_stat&&p=2&#stat">แยกจำนวน</A> | 
-<a href="index.php?page=domain_stat&&#stat">รวมยอด</A></div><div align=left><form name=form> 
-	<select name="fieldname" size="1" onChange="openDir(this.form)"> 
-		<option>เลือกปี</option>
-		<option value="index.php?page=domain_stat&&year=all#stat">รวมทั้งหมด</option>
-				<option value="index.php?page=domain_stat&&year=2559#stat" >2559</option>
-				<option value="index.php?page=domain_stat&&year=2558#stat" >2558</option>
-				<option value="index.php?page=domain_stat&&year=2557#stat" >2557</option>
-				<option value="index.php?page=domain_stat&&year=2556#stat" >2556</option>
-				<option value="index.php?page=domain_stat&&year=2555#stat" >2555</option>
-				<option value="index.php?page=domain_stat&&year=2554#stat" >2554</option>
-				<option value="index.php?page=domain_stat&&year=2553#stat" >2553</option>
-				<option value="index.php?page=domain_stat&&year=2552#stat" >2552</option>
-				<option value="index.php?page=domain_stat&&year=2551#stat" >2551</option>
-				<option value="index.php?page=domain_stat&&year=2550#stat" >2550</option>
-				<option value="index.php?page=domain_stat&&year=2549#stat" >2549</option>
-				<option value="index.php?page=domain_stat&&year=2548#stat" >2548</option>
-				<option value="index.php?page=domain_stat&&year=2547#stat" >2547</option>
-				<option value="index.php?page=domain_stat&&year=2546#stat" >2546</option>
-				<option value="index.php?page=domain_stat&&year=2545#stat" >2545</option>
-				<option value="index.php?page=domain_stat&&year=2544#stat" >2544</option>
-				<option value="index.php?page=domain_stat&&year=2543#stat" >2543</option>
-				<option value="index.php?page=domain_stat&&year=2542#stat" >2542</option>
-				<option value="index.php?page=domain_stat&&year=2541#stat" >2541</option>
-				<option value="index.php?page=domain_stat&&year=2540#stat" >2540</option>
-			</select> 
-</form>
-</div><a href="#" id="stat"></a>
-<!-- Show Table and Edit -->
-<table class="dstat" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<th width="7%" rowspan="2">ปี</td>
-	<th width="12%" rowspan="2">เดือน</td>
-	<th width="10%">.ac.th</td>
-	<th width="10%">.co.th</td>
-	<th width="10%">.go.th</td>
-	<th width="10%">.in.th</td>
-	<th width="10%">.mi.th</td>
-	<th width="10%">.net.th</td>
-	<th width="10%">.or.th</td>
-	<th width="10%" style="border: 0;">total</td>
-</tr>
-<tr>
-	<th width="10%">.ศึกษา.ไทย</td>
-	<th width="10%">.ธุรกิจ.ไทย</td>
-	<th width="10%">.รัฐบาล.ไทย</td>
-	<th width="10%">.ไทย</td>
-	<th width="10%">.ทหาร.ไทย</td>
-	<th width="10%">.เน็ต.ไทย</td>
-	<th width="10%">.องค์กร.ไทย</td>
-	<th width="10%" style="border: 0;">รวม</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	ธันวาคม	</td>
-	<td>
-		6,570<br />
-		3,199	</td>
-	<td>
-		37,751<br />
-		7,300	</td>
-	<td>
-		7,896<br />
-		3,354	</td>
-	<td>
-		12,309<br />
-		4,337	</td>
-	<td>
-		32<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,175<br />
-		279	</td>
-	<td bgcolor="#FFFF66">
-		65,758<br />
-		18,489	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	พฤศจิกายน	</td>
-	<td>
-		6,592<br />
-		3,140	</td>
-	<td>
-		37,708<br />
-		7,057	</td>
-	<td>
-		7,875<br />
-		3,261	</td>
-	<td>
-		12,234<br />
-		3,972	</td>
-	<td>
-		33<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,173<br />
-		272	</td>
-	<td bgcolor="#FFFFFF">
-		65,640<br />
-		17,722	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	ตุลาคม	</td>
-	<td>
-		6,697<br />
-		3,169	</td>
-	<td>
-		37,591<br />
-		6,874	</td>
-	<td>
-		7,872<br />
-		3,245	</td>
-	<td>
-		12,284<br />
-		4,007	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,171<br />
-		271	</td>
-	<td bgcolor="#FFFF66">
-		65,674<br />
-		17,586	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	กันยายน	</td>
-	<td>
-		6,782<br />
-		3,050	</td>
-	<td>
-		37,499<br />
-		6,822	</td>
-	<td>
-		7,867<br />
-		3,219	</td>
-	<td>
-		12,360<br />
-		4,030	</td>
-	<td>
-		35<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,170<br />
-		273	</td>
-	<td bgcolor="#FFFFFF">
-		65,738<br />
-		17,414	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	สิงหาคม	</td>
-	<td>
-		6,836<br />
-		2,984	</td>
-	<td>
-		37,317<br />
-		6,757	</td>
-	<td>
-		7,805<br />
-		3,173	</td>
-	<td>
-		12,467<br />
-		4,055	</td>
-	<td>
-		35<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,170<br />
-		271	</td>
-	<td bgcolor="#FFFF66">
-		65,655<br />
-		17,260	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	กรกฎาคม	</td>
-	<td>
-		6,875<br />
-		2,829	</td>
-	<td>
-		37,161<br />
-		6,727	</td>
-	<td>
-		7,795<br />
-		3,150	</td>
-	<td>
-		12,483<br />
-		4,057	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,166<br />
-		269	</td>
-	<td bgcolor="#FFFFFF">
-		65,539<br />
-		17,052	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	มิถุนายน	</td>
-	<td>
-		6,857<br />
-		2,798	</td>
-	<td>
-		37,064<br />
-		6,729	</td>
-	<td>
-		7,780<br />
-		3,126	</td>
-	<td>
-		12,510<br />
-		4,065	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		9	</td>
-	<td>
-		1,163<br />
-		268	</td>
-	<td bgcolor="#FFFF66">
-		65,433<br />
-		17,007	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	พฤษภาคม	</td>
-	<td>
-		6,771<br />
-		2,749	</td>
-	<td>
-		36,810<br />
-		6,685	</td>
-	<td>
-		7,704<br />
-		3,082	</td>
-	<td>
-		12,514<br />
-		4,061	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		9	</td>
-	<td>
-		1,168<br />
-		268	</td>
-	<td bgcolor="#FFFFFF">
-		65,026<br />
-		16,866	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	เมษายน	</td>
-	<td>
-		6,773<br />
-		2,728	</td>
-	<td>
-		36,603<br />
-		6,656	</td>
-	<td>
-		7,613<br />
-		3,063	</td>
-	<td>
-		12,539<br />
-		4,054	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,165<br />
-		269	</td>
-	<td bgcolor="#FFFF66">
-		64,751<br />
-		16,790	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	มีนาคม	</td>
-	<td>
-		6,830<br />
-		2,750	</td>
-	<td>
-		36,545<br />
-		6,646	</td>
-	<td>
-		7,587<br />
-		3,045	</td>
-	<td>
-		12,528<br />
-		4,068	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,158<br />
-		268	</td>
-	<td bgcolor="#FFFFFF">
-		64,706<br />
-		16,797	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	กุมภาพันธ์	</td>
-	<td>
-		6,886<br />
-		2,762	</td>
-	<td>
-		36,306<br />
-		6,585	</td>
-	<td>
-		7,548<br />
-		3,022	</td>
-	<td>
-		12,759<br />
-		4,205	</td>
-	<td>
-		35<br />
-		12	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,160<br />
-		269	</td>
-	<td bgcolor="#FFFF66">
-		64,718<br />
-		16,863	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	มกราคม	</td>
-	<td>
-		6,913<br />
-		2,767	</td>
-	<td>
-		36,028<br />
-		6,551	</td>
-	<td>
-		7,494<br />
-		2,992	</td>
-	<td>
-		13,082<br />
-		4,430	</td>
-	<td>
-		34<br />
-		11	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,157<br />
-		268	</td>
-	<td bgcolor="#FFFFFF">
-		64,732<br />
-		17,027	</td>
-</tr>
-	
-</table>
-</body>
-</html>		</div>
-	</td>
-</tr>
-</table><br />			</td>
-		</tr>
-		</table>
-		<!-- End Content -->
-	</div>
-	<!-- End Wrapper -->
-	<hr width="1024">
-	<div id="wrapper_footer">
-		<table width="1024" border="0" align="center" style="margin: 0;" cellpadding="0" cellspacing="0">
-		<tr>
-			<td width="50%" align="right">
-				<img src="images/footer.gif" width="120" height="90">
-			</td>
-			<td width="50%" align="left" style="color: #2e2e2e;">
-				All Statistics of Domain .th<br>
-				Powered by ALL.IN.TH Team<br>
-				@2009 Update: 04/04/2555
-			</td>
-		</tr>
-		</table>
-	</div>
-</div>
-</body>
-<!-- change v2.1.5 -->
-<!-- google analytics -->
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-	var pageTracker = _gat._getTracker("UA-9610320-1");
-	pageTracker._trackPageview();
-} catch(err) {}
-</script>
-<!-- end change -->
-</html>
+    <head>
+        <title>adslthailand 2017 Edition</title>
+        <base href="http://www.adslthailand.com/"/>
+        <link rel="icon" type="image/png" href="http://www.adslthailand.com/assets/img/favicon.png" />
+        <meta charset="UTF-8">
+        <meta name="keywords" content="adslthailand, speedtest, ">
+        <meta name="description" content="Voice of broadband citizen">
+        <meta name="author" content="adslthailand.com">
+        <meta id="myViewport2" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="format-detection" content="telephone=no">
+		<meta name="detectify-verification" 
+    content="e0c7d7243fe86c234774da2e005fe520" />
 
-http://all.in.th/index.php 127.0.0.1 20170105060014 text/html 31234
+        <!-- for Facebook -->          
+        <meta property="og:title" content="adslthailand 2014 Edition" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="http://www.adslthailand.com/assets/img/fb_logo.png" />
+        <meta property="og:url" content="http://www.adslthailand.com/" />
+        <meta property="og:description" content="Voice of broadband citizen" />
+        <meta property="og:site_name" content="adslthailand" >
+        <meta property="fb:app_id" content="256028497858890" />
+        <meta property="fb:admins" content="587051210" />
+		<meta property="fb:pages" content="362512600486421" />
+        <link type="text/css" rel="stylesheet" href="http://www.adslthailand.com/assets/cache/14550128078d2a6820a26fb4cae65fc775295794dc.css" media="screen" />
+
+        <script type="text/javascript" src="http://www.adslthailand.com/assets/cache/1418361535e61b845c2f12ab81037571b1429b1aa4.js" charset="UTF-8"></script>
+		
+    </head>
+    <body class="body">
+
+        <div id="wrapper">
+            <div id="header">
+    <div class="header-container">
+        <div class="logo">
+            <a href="http://www.adslthailand.com/"></a>
+        </div>
+        <ul class="main-nav">
+            <li><a href="http://www.adslthailand.com/news">OFFICIAL NEWS</a></li>
+            <li><a href="http://www.adslthailand.com/reviews">OFFICIAL REVIEWS</a></li>
+            <li><a href="http://www.adslthailand.com/forum">USER FORUMS</a></li>
+            <li><a href="http://speedtest.adslthailand.com" target="_blank">SPEED TEST</a></li>
+            <li><a href="http://www.adslthailand.com/network-tools" target="_blank">NETWORK TOOLS</a></li>
+                    </ul>
+        <div class="menu-button">
+            <i class="glyphicons list"></i>
+            <div class="menu-caption">Menu</div>
+        </div>
+        <ul class="social-connects">
+            <li><a href="https://www.facebook.com/adslthailand" target="_blank" class="social white facebook"></a></li>
+            <li><a href="https://twitter.com/adslthailand" target="_blank" class="social white twitter"></a></li>
+            <!--<li><a href="#" target="_blank" class="social white youtube"></a></li>-->
+            <!--<li><a href="#" target="_blank" class="social white rss"></a></li>-->
+        </ul>
+    </div>
+</div>            <div id="main-container">
+                <div class="container">
+
+                    <div class="body-container">
+                                                <div class="body-content-container">
+                            <div class="category-list">
+    
+                <div class="category-list-block">
+                    <h4><a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a></h4>
+                    <ul><li><a href="http://www.adslthailand.com/post/category/news-articles/Broadband-Internet">Broadband Internet</a></li><li><a href="http://www.adslthailand.com/post/category/news-articles/Telecom">Telecom</a></li><li><a href="http://www.adslthailand.com/post/category/news-articles/broadcasting">Broadcasting</a></li><li><a href="http://www.adslthailand.com/post/category/news-articles/ict-news">ICT News</a></li><li><a href="http://www.adslthailand.com/post/category/news-articles/internet-of-things">Internet of Things</a></li><li><a href="http://www.adslthailand.com/post/category/news-articles/internet-promotion">Internet Promotion</a></li><li><a href="http://www.adslthailand.com/post/category/news-articles/products-promotions-update">PR News</a></li>
+                    </ul>
+                </div>
+                <div class="category-list-block">
+                    <h4><a href="http://www.adslthailand.com/post/category/reviews">OFFICIAL REVIEWS</a></h4>
+                    <ul><li><a href="http://www.adslthailand.com/post/category/reviews/gadgets">Gadgets</a></li><li><a href="http://www.adslthailand.com/post/category/reviews/home-networking">Home Networking</a></li><li><a href="http://www.adslthailand.com/post/category/reviews/enterprise-networking">Enterprise Networking</a></li>
+                    </ul>
+                </div>    <div class="category-list-block hide-tablet hide-phone">
+        <h4>
+            <a href="http://www.adslthailand.com/forum">FORUMS</a>        </h4>
+        <ul>
+            <li><a href="http://www.adslthailand.com/forum/technology">By Technology</a></li><li><a href="http://www.adslthailand.com/forum/user-reviews">User Reviews</a></li><li><a href="http://www.adslthailand.com/forum/network-tools">Network Tools</a></li>        </ul>
+    </div>
+</div>                            <div class="post-container">
+                                <!-- Entry -->
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/cat-%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%99-smart-network-2016-%E0%B8%8A%E0%B8%B9%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95"><i class="glyphicons certificate"></i>CAT โชว์วิสัยทัศน์งาน Smart Network 2016 ชูโครงข่ายอินเทอร์เน็ตเกตเวย์ รองรับเทรนด์เทคโนโลยีแห่งอนาคต</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 16 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  13,202 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                34 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/internet-of-things">Internet of Things</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/cat-%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%99-smart-network-2016-%E0%B8%8A%E0%B8%B9%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3312/thumb/14818638679985.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>ปัจจุบัน องค์กรต่างๆ ทั้งภาครัฐและเอกชน ได้เริ่มนำเทคโนโลยีต่างๆ มาประยุกต์ใช้เพื่ออำนวยความสะดวกและเพิ่มประสิทธิภาพการทำงานให้เกิดประโยชน์สูงสุด ซึ่งสำหรับเทคโนโลยีดิจิทัลนั้น การเรียนรู้และปรับตัวเพื่อให้เท่าทันความก้าวหน้าอย่างรวดเร็วของเทคโนโลยี รวมถึงการสร้างเครือข่ายเชื่อมโยง และการใช้เทคโนโลยีเหล่านั้นสร้างนวัตกรรมใหม่ๆ นับเป็นสิ่งที่สำคัญไม่ยิ่งหย่อนไปกว่ากัน</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/cat-%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%99-smart-network-2016-%E0%B8%8A%E0%B8%B9%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/tcct-%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B8%B3%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2"><i class="glyphicons certificate"></i>TCC Technology หนึ่งในผู้นำด้านธุรกิจดาต้าเซ็นเตอร์ ระบบโครงสร้างพื้นฐานไอทีของไทย</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 13 Oct 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  31,686 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                5 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/internet-of-things">Internet of Things</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/tcct-%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B8%B3%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3130/thumb/14763498301820.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>ทีซีซี เทคโนโลยี (TCC Technology) ผู้นำและผู้บุกเบิกการให้บริการโครงสร้างพื้นฐานทางไอที (IT Infrastructure) ของไทย ตระหนักถึงความสำคัญในเรื่องความน่าเชื่อถือของบริการศูนย์ข้อมูล (Data Center) ที่เปรียบได้กับแหล่งกำเนิดพลังงานสำคัญในโลกดิจิทอล ถือเป็นโครงสร้างพื้นฐานของเทคโนโลยีสารสนเทศและแพลตฟอร์มดิจิตอลต่างๆ คลาวด์ (Cloud) ระบบทรัพยากรทางธุกิจ (ERP) รวมถึงการทำธุรกรรมผ่านทางระบบอิเล็กทรอนิกส์ (E-Commerce)</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/tcct-%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B8%B3%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%81%E0%B8%AA%E0%B8%97-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87-7-%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1">บอร์ดกสท. อนุมัติแผนเยียวยาทรูวิชั่นส์ ออกไลเซ่นส์รับรอง 7 ช่องใหม่แทนของเดิม </a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 29 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  2,127 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                0 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/broadcasting">Broadcasting</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%81%E0%B8%AA%E0%B8%97-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87-7-%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3340/thumb/14830258891929.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>บอร์ดกสท. อนุมัติแผนเยียวยาทรูวิชั่นส์ ออกไลเซ่นส์รับรอง 7 ช่องใหม่แทนของเดิม พร้อมสั่งให้แจ้งลูกค้าภายใน 30 วัน&nbsp;</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%81%E0%B8%AA%E0%B8%97-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87-7-%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A2%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD-hbo">ทรูวิชั่นส์ เผยยื่นเอกสารมาตรการเยียวยากรณียุติช่องรายการในเครือ HBO</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 28 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  3,350 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                2 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                103 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/broadcasting">Broadcasting</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A2%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD-hbo"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3338/thumb/14829232395970.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>ทรูวิชั่นส์ เผยล่าสุดได้นำส่งเอกสารมาตรการเยียวยาสมาชิกเพิ่มเติมต่อกรณีที่จะยุติการออกอากาศ 6 ช่องรายการในเครือ HBO ตั้งแต่วันที่ 1 มกราคม 2560</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A2%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD-hbo">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%97%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%97%E0%B8%B5-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%A2%E0%B8%B9-%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B8%B8%E0%B8%A1-24-700-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%97%E0%B8%A2">กระทรวงดีอี จับมือ ทีโอที เอ็มโอยู "เน็ตประชารัฐ" ครอบคลุม 24,700 หมู่บ้านทั่วไทย</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 26 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,737 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                35 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Broadband-Internet">Broadband Internet</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%97%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%97%E0%B8%B5-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%A2%E0%B8%B9-%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B8%B8%E0%B8%A1-24-700-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%97%E0%B8%A2"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3334/thumb/14827467029147.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>กระทรวงดีอี จับมือ ทีโอที เอ็มโอยูคลอด "เน็ตประชารัฐ" 24,700 หมู่บ้าน ครอบคลุมทั่วไทย คาด 6 เดือนแรกปี 2560 ติดตั้ง 4,000 แห่ง</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%97%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%97%E0%B8%B5-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%A2%E0%B8%B9-%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B8%B8%E0%B8%A1-24-700-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%97%E0%B8%A2">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-10-%E0%B9%81%E0%B8%9E%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%88%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5-2-%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2-truemove-h-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99">แนะนำ 10 แพ็กเกจเสริม สุดแรงแห่งปี พร้อมรับเครดิตเงินคืนทันที 2 เท่า! สำหรับลูกค้า TrueMove H แบบเติมเงิน</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/11">Yokekung</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 24 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  3,188 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                0 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/internet-promotion">Internet Promotion</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-10-%E0%B9%81%E0%B8%9E%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%88%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5-2-%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2-truemove-h-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3328/thumb/14825608389538.jpg"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>ทรูมูฟ เอช จัดแคมเปญคืนกำไรลูกค้าส่งท้ายปี ด้วย <strong>10 แพ็กเกจเสริมสุดแรงแห่งปี</strong> ราคาพิเศษ พิเศษอีกขั้น ทุกครั้งที่สมัครแพ็กเกจเสริมสุดแรงแห่งปี รับเครดิตเงินคืนทันที 2 เท่า สำหรับใช้เป็นค่าโทร อินเทอร์เน็ต SMS และ MMS ได้นาน 30 วัน สำหรับลูกค้าแบบเติมเงิน 26 &ndash; 31 ธันวาคมนี้เท่านั้น</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-10-%E0%B9%81%E0%B8%9E%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%88%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5-2-%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2-truemove-h-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/google-announces-android-things-as-iot-os">เมื่อ Google เปิดตัว ‘Android Things’ ระบบปฏิบัติการณ์แอนดรอยด์สำหรับอุปกรณ์ IoT </a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/3036">iyo</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 23 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  5,854 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                21 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/internet-of-things">Internet of Things</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/google-announces-android-things-as-iot-os"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3327/thumb/14824595012747.jpg"/></a>
+                </div>     
+                            <div class="teaser-header" ><p><span lang="TH"><a rel="nofollow" target="_blank" href="https://developer.android.com/things/index.html">Android Things</a>&nbsp;เป็นระบบปฏิบัติการณ์ที่ถูกออกแบบสำหรับอุปกรณ์</span>&nbsp;IoT<span lang="TH">&nbsp;โดยทำให้นักพัฒนาสามารถพัฒนาแอปพลิเคชันโดยใช้</span>&nbsp;Android Things SDK<span lang="TH">&nbsp;ซึ่งคล้ายคลึงกับ</span>&nbsp;Android SDK<span lang="TH">&nbsp;รวมถึงใช้</span><span lang="TH">&nbsp;&nbsp;</span>Tools<span lang="TH">&nbsp;ต่างๆ เช่น</span>&nbsp;Android Studio,<span lang="TH">&nbsp;ภาษา</span>&nbsp;Java, Firebase API<span lang="TH">&nbsp;หรือ</span>&nbsp;Google Play Service<span lang="TH">&nbsp;เป็นต้น</span></p></div>
+            <div class="entry-body">
+            <p><span lang="TH">การมาของ&nbsp;</span>Android Things OS&nbsp;<span lang="TH">จะทำให้การพัฒนาอุปกรณ์</span>&nbsp;IoT<span lang="TH">&nbsp;เหล่านี้มีความคล้ายคลึงกับการพัฒนาแอปพลิเคชันบ สมาร์ทโฟนที่ติดตั้งระบบปฏิบัติการณ์&nbsp;</span>Android&nbsp;<span lang="TH">แต่อาจมีข้อจำกัดในการใช้&nbsp;</span>API<span lang="TH">&nbsp;หรือ&nbsp;</span>Service<span lang="TH">&nbsp;บางตัว เช่นการ</span>&nbsp;Sign-in<span lang="TH">&nbsp;หรือการ</span>&nbsp;Search&nbsp;<span lang="TH">เป็นต้น ที่กล่าวมานี้อาจเป็นตัวกระตุ้นให้เกิด&nbsp;</span>Killer App<span lang="TH">&nbsp;ในวงการอุตสาหกรรม</span>&nbsp;IoT<span lang="TH">&nbsp;ขึ้นมาในอนาคตอันใกล้นี้ก็เป็นไปได้ค่ะ</span></p>        </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/google-announces-android-things-as-iot-os">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%A3%E0%B8%A1%E0%B8%A7-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-%E0%B8%9E-%E0%B8%A3-%E0%B8%9A-%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AF-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99">รมว.กระทรวงดีอี วอนทำความเข้าใจ พ.ร.บ.คอมพ์ฯ พร้อมสานต่องานดิจิทัลเกตเวย์อาเซียน</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 21 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  5,367 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                3 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/ict-news">ICT News</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%A3%E0%B8%A1%E0%B8%A7-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-%E0%B8%9E-%E0%B8%A3-%E0%B8%9A-%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AF-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3325/thumb/14823171734552.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>รมว.กระทรวงดีอี ชี้ความเสียหายที่เกิดจากแฮกเกอร์ วอนทำความเข้าใจ พ.ร.บ.คอมพ์ฯ ให้ละเอียดก่อน พร้อมสานต่องานค้าง-เดินหน้าไทยเป็นดิจิทัลเกตเวย์อาเซียน</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%A3%E0%B8%A1%E0%B8%A7-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-%E0%B8%9E-%E0%B8%A3-%E0%B8%9A-%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AF-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B9-%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2-wifi">สำนักงานตำรวจแห่งชาติ จับมือ กลุ่มทรู ยกระดับงานด้านบริการประชาชน ติดตั้ง WiFi ทั่วประเทศ 1,482 แห่ง</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 21 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  5,558 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                52 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Telecom">Telecom</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B9-%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2-wifi"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3324/thumb/14823143225079.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>สำนักงานตำรวจแห่งชาติ จับมือ กลุ่มทรู ยกระดับงานด้านบริการประชาชน เสริมแกร่งโครงข่ายอินเทอร์เน็ตไร้สายความเร็วสูง(WiFi) เชื่อมโยงทุกสถานีตำรวจทั่วประเทศ พร้อมขับเคลื่อนประเทศไทยก้าวสู่ Thailand 4.0</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B9-%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2-wifi">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/cat-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3-apg-%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81">CAT เปิดใช้เคเบิลใต้น้ำ  APG รองรับทราฟฟิกพุ่งสูงในภูมิภาคเอเชียแปซิฟิก</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 16 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,720 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                0 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Broadband-Internet">Broadband Internet</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/cat-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3-apg-%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3311/thumb/14818620448123.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>CAT เปิดใช้งานเคเบิลใต้น้ำระบบใหม่ APG พร้อมแบนด์วิดท์รองรับคอนเทนต์ระดับโลก เดินหน้าสร้างฐานธุรกิจในภูมิภาคเอเชีย คาดแนวโน้มความต้องการแบนด์วิดท์อีก 3 ปีข้างหน้าโตอีก 6 เท่า &nbsp;พร้อมเผยปีหน้า CAT Internet Gateway เล็งขยายวงจรขนาด 100 Gbps รายแรกของประเทศไทย</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/cat-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3-apg-%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B9%8C-ais-fibre-%E0%B8%9B%E0%B8%B5-2559">สรุปภาพรวมการทำตลาดบรอดแบนด์ AIS Fibre ปี 2559</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/11">Yokekung</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 14 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,966 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                268 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/internet-promotion">Internet Promotion</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B9%8C-ais-fibre-%E0%B8%9B%E0%B8%B5-2559"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3308/thumb/14817332999885.jpg"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>เป็นน้องใหม่ในวงการบรอดแบนด์ที่เปิดตัวมาปีครึ่ง แต่กวาดลูกค้าเป็นหลักแสนอย่างรวดเร็วสำหรับ AIS Fibre ที่ชูความเป็น Fiber Internet ตั้งแต่กำเนิด แม้มาทีหลัง แต่ก็น่าจับตาไม่น้อย</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B9%8C-ais-fibre-%E0%B8%9B%E0%B8%B5-2559">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8-21-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%A1-%E0%B8%A2-2560">กสทช. ลงมติเรียกคืนคลื่นวิทยุ 21 หน่วยงานรัฐ เม.ย. 2560</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 14 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,574 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                0 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Telecom">Telecom</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8-21-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%A1-%E0%B8%A2-2560"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3307/thumb/14817194128268.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>กสทช. ลงมติเรียกคืนคลื่นวิทยุ 21 หน่วยงานรัฐ เม.ย.2560 พร้อมออกกฎเพิ่มติดตั้งอุปกรณ์โทรคมนาคม ขณะที่อนุมัติงบ 72 ล้าน หนุน 12 โครงการกองทุน กทปส.</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8-21-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%A1-%E0%B8%A2-2560">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%AA%E0%B9%88%E0%B8%87-sms-%E0%B8%82%E0%B8%AD%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5">กสทช.เผยหลังปีใหม่ ส่ง sms ขอย้ายค่าย-รับผลอนุมัติทันที</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 13 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  5,173 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                108 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Telecom">Telecom</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%AA%E0%B9%88%E0%B8%87-sms-%E0%B8%82%E0%B8%AD%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3302/thumb/14816158798271.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>กสทช.เผยหลังปีใหม่ ส่ง เอสเอ็มเอส (sms) ขอย้ายค่าย-รับผลอนุมัติทันที แก้ปัญหาร้องเรียนกว่า 1000 ราย&nbsp;</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%AA%E0%B9%88%E0%B8%87-sms-%E0%B8%82%E0%B8%AD%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%84%E0%B8%97-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%AE%E0%B8%B1%E0%B8%9A">CAT เปิดใช้เคเบิลใต้น้ำ APG เร่งสร้างฐานธุรกิจเอเชียแปซิฟิก อินเทอร์เน็ตฮับ</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 07 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,839 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                140 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/Telecom">Telecom</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%84%E0%B8%97-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%AE%E0%B8%B1%E0%B8%9A"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3291/thumb/14811090213112.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>CAT เปิดใช้เคเบิลใต้น้ำ APG (เอพีจี) เร่งสร้างฐานธุรกิจเอเชียแปซิฟิก อินเทอร์เน็ตฮับ หนุนนโยบายไทยแลนด์ 4.0&nbsp;</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B9%81%E0%B8%84%E0%B8%97-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%84%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B8%AE%E0%B8%B1%E0%B8%9A">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+    <div class="entry">
+        <h1 ><a href="http://www.adslthailand.com/post/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%95%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-mobile-application-%3A-1212-occ-%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5">เอ็ตด้า กระทรวงดีอี เปิดตัวบริการใหม่ Mobile Application : 1212 OCC  ตอบโจทย์ไลฟ์สไตล์ยุคดิจิทัล</a></h1>
+        <div class="entry-info">
+            <!--
+            <div class="entry-info-box">
+                <i class="glyphicons user"></i> 
+                                <a href="http://www.adslthailand.com/profile/7">jardeerana</a>            </div>
+            -->
+            <div class="entry-info-box">
+                <i class="glyphicons clock"></i> 07 Dec 2016 
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons eye_open"></i>  4,218 Views
+            </div>
+            <div class="entry-info-box">
+                <i class="glyphicons chat"></i> 
+                0 Comments
+            </div>
+			<div class="entry-info-box">
+                <i class="glyphicons globe"></i> 
+                20 Shares
+            </div>
+            <hr>
+            <div class="entry-info-box small category-info">
+                <i class="glyphicons inbox"></i> 
+                                <a href="http://www.adslthailand.com/post/category/news-articles">OFFICIAL NEWS</a> / <a href="http://www.adslthailand.com/post/category/news-articles/ict-news">ICT News</a>            </div>
+			<!--
+                                        <div class="entry-info-box small">
+                    <i class="glyphicons tag"></i> 
+                                            <a href="" class="pills"></a> 
+                                    </div>
+            			-->
+        </div>
+
+        
+        <div class="entry-teaser" >
+                            <div class="entry-img">
+                    <a href="http://www.adslthailand.com/post/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%95%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-mobile-application-%3A-1212-occ-%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5"><img src="/thumb.php?zc=3&w=350&h=350&src=uploads/moxie/posts/posts_3290/thumb/14811064292677.JPG"/></a>
+                </div>     
+                            <div class="teaser-header" ><p>เอ็ตด้า กระทรวงดีอี เปิดตัวบริการใหม่ Mobile Application : 1212 OCC &nbsp;รับเรื่องร้องเรียนปัญหาออนไลน์ ง่าย &ndash; สะดวก &ndash; รวดเร็ว ตอบโจทย์ไลฟ์สไตล์ยุคดิจิทัล</p></div>
+            <div class="entry-body">
+                    </div>
+        </div>
+        
+        <div class="entry-controls rFloat">
+            <a class="read-more" href="http://www.adslthailand.com/post/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%95%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-mobile-application-%3A-1212-occ-%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5">READ MORE</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+    
+<!-- Pagination -->
+<div class="pagination">
+    <ul><li class="active hide-phone"><a>1</a></li><li class="hide-phone"><a href="http://www.adslthailand.com/post?page=2">2</a></li><li class="hide-phone"><a href="http://www.adslthailand.com/post?page=3">3</a></li><li class="hide-phone"><a href="http://www.adslthailand.com/post?page=4">4</a></li><li class="active next"><a href="http://www.adslthailand.com/post?page=2">Next <i class="glyphicons chevron-right "></i></a></li><li class="active last"><a href="http://www.adslthailand.com/post?page=99">Last</a></li></ul>
+</div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    
+<div class="sidebar">
+    <div class="widget-container">
+        <div class="widget-block search-box">
+            <form action="http://www.adslthailand.com/search" method="get" data-parsley-validate>
+                <div class="group-input">
+                    <input name="s" 
+                           value="" 
+                           placeholder="Search for news, articles and reviews" 
+                           type="text" 
+                           required/>
+                    <button><i class="glyphicons search"></i></button>
+                </div>
+            </form>
+        </div>
+
+        
+        
+        <div class="widget-block">
+            <form action="http://www.adslthailand.com/ajax/subscribeNewsletter" id="newsletterSubscribtion" data-parsley-validate method="post" accept-charset="utf-8">            <div class="group-input">
+                <h3>NEWSLETTER SUBSCRIPTION</h3>
+                <p class="small-caption">หากท่านต้องการรับข้อมูลข่าวสารจากทางเราท่านสามารถลงทะเบียนเพื่อรับข่าวสารโดยพิมพ์อีเมล์ของท่านได้เลย!</p>
+                <div class="newsletter-subscribe-thank">ทางเราได้รับอีเมล์ของคุณแล้ว!</div>
+                <input name="email" type="email" spellcheck="false" placeholder="Your Email Address" required/>
+                <button type="submit">Subscribe</button>
+            </div>
+            </form>        </div>
+
+        <div class="widget-block subscribe">
+            <h3>OUR SPEED TEST</h3>
+            <a href="http://speedtest.adslthailand.com" target="_blank"><img src="./assets/img/speedtest.jpg" title="ทดสอบความเร็วอินเตอร์เนทของท่านได้ที่นี่" alt="ADSLTHAILAND Speedtest" style="max-width:300px;"></a>
+        </div>
+
+        
+        <div class="widget-block">
+            <h3>FIND US ON FACEBOOK</h3>
+            <div class="fb-like-box" style="height: 271px;background: #fff;border: 1px solid;border-color: #e5e6e9 #dfe0e4 #d0d1d5;-webkit-border-radius: 3px;" data-href="https://www.facebook.com/adslthailand" data-width="300" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+        </div>
+        <div class="widget-block">
+            <h3>LASTEST TWEETS</h3>
+            <a class="twitter-timeline" href="https://twitter.com/adslthailand" data-widget-id="468310524065611777">Tweets by @adslthailand</a>
+            <script>
+                !function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + "://platform.twitter.com/widgets.js";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, "script", "twitter-wjs");
+            </script>
+        </div>
+
+            </div>
+</div>
+
+<script type="text/javascript">
+    var sidebarInterval = setInterval(function(){
+        if ($('.sidebar').height()>$('.body-container').height())
+       {
+           //clearInterval(sidebarInterval);
+           $('.body-container').height($('.sidebar').height());
+       }
+    },1000);
+
+    $('form#newsletterSubscribtion').ajaxForm({
+        clearForm: true,
+        resetForm: true,
+        beforeSerialize: function(e) {
+            return e.parsley().subscribe('parsley:form:validate', function(formInstance) {
+            }).isValid();
+        },
+        success: function(success) {
+            if (!success) {
+                //
+            } else {
+                var form = $('form#newsletterSubscribtion');
+                form.find('.newsletter-subscribe-thank').animate({
+                    'z-index': 1,
+                    opacity: 1,
+                    bottom: "40px"
+                }, 'fast', function() {
+                    var self = $(this);
+                    setTimeout(function() {
+                        self.animate({
+                            'z-index': -1,
+                            opacity: 0,
+                            bottom: ""
+                        }, 'fast');
+                    }, 2000);
+                });
+            }
+        }
+    });
+</script>                </div>
+            </div>
+            
+<div id="footer">
+    <div class="footer-container">
+        
+    <div class="w50 lFloat"> <b>About adslthailand</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://healthydrsant.blogspot.com/"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">น้ำมันหมู</font></a> 
+      <a href="http://www.anatomyatlases.info"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">anatomyatlases.info</font></a> 
+      <a href="http://www.flipnicklin.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">flipnicklin.com</font></a> 
+      <a href="http://www.flashmapbuilder.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">flashmapbuilder.com</font></a> 
+      <a href="http://www.sfcny.info"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">sfcny.info</font></a> 
+      <a href="http://www.4hhr.net"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">4hhr.net</font></a><br>
+            <a href="http://www.adslthailand.com/about-us">About Us</a> 
+            <a href="http://www.adslthailand.com/page/privacy-policy"> 
+      Privacy Policy      </a> 
+                  <a href="http://sheeplink.com" class="link1"><font size="1"><br>
+      <font color="324A5E" face="Verdana, Arial, Helvetica, sans-serif">dedicated 
+      server</font></font></a> <a href="http://www.intervaristy.info"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">intervaristy.info</font></a> 
+      <a href="http://coconutoilnotgood.blogspot.com/"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">น้ำมันมะพร้าว</font></a>
+      <a href="http://www.krugmanonline.org"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">krugmanonline.org</font></a> 
+      <a href="http://www.blogdowntowashington.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">blogdowntowashington.com</font></a> 
+      <a href="http://www.ip-ma.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">ip-ma.com</font></a>
+      <a href="http://tonywrap.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">wrap car</font></a>
+      <a href="http://tonywrap.com/?page_id=910"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">car wrap</font></a>
+      <a href="http://www.cidrapbusiness.biz"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">cidrapbusiness.biz</font></a>
+      <a href="http://www.take-back-the-power.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">take-back-the-power.com</font></a>
+      <a href="http://www.aiesecghana.org"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">aiesecghana.org</font></a>
+      <a href="http://www.derrickroseonline.org"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">derrickroseonline.org</font></a>
+      <a href="http://www.scrdiraq.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">scrdiraq.com</font></a>
+      <a href="http://www.50yearssavingbabies.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">50yearssavingbabies.com</font></a>
+      <a href="http://www.hotelonbroadway.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">hotelonbroadway.com</font></a>
+      <a href="http://www.mngaragefloorcoatingstore.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">mngaragefloorcoatingstore.com</font></a>
+      <a href="http://www.ubg229.com"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">ubg229.com</font></a>
+      <a href="http://www.analspurs.org"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">analspurs.org</font></a>
+      <a href="http://tonywrap.com/?page_id=378"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">เคลือบแก้ว</font></a> 
+      <a href="http://dd888online.com/?p=73"><font color="#324A5E" size="1" face="Verdana, Arial, Helvetica, sans-serif">138.com</font></a>
+
+</div>
+        <div class="w50 rFloat text-right">
+            <b>Copyrights</b><br>
+      Copyright Notice ©2000-
+      2017      adslthailand.com<br>
+             </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(window).load(function() {
+        //$('body .body-container').css('min-height', $('.sidebar').height() + 850);
+    });
+    $(function() {
+
+        $(document).on('click', 'img[id^="upload"]', function(e) {
+            $('input[type="file"]#' + e.currentTarget.id).click();
+        });
+        $(document).on('change', 'input[type="file"][id^="upload"]', function(e) {
+            previewUpload(this);
+        });
+//        $('#bannerPopup').bPopup({
+//            opacity: 0.5,
+//            positionStyle: 'fixed'
+//        }, 
+//        function() {
+//            createCookie('show_modal', true, 5);
+//        });
+    });
+    function previewUpload(inputFile) {
+        if (inputFile.files && inputFile.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function(e) {
+                $('img#' + inputFile.id).attr('src', e.target.result);
+            };
+            reader.readAsDataURL(inputFile.files[0]);
+        }
+    }
+
+    function moxieBrows(type, field) {
+        if (typeof type !== 'undefined') {
+            moxie.conf[type].fields = field;
+            $.extend(moxie.conf.standard, moxie.conf[type]);
+        }
+
+        moxman.browse(
+                $.extend(moxie.conf.standard, {
+                    oninsert: function(args) {
+                        var targetedIMG = $('img#' + field);
+                        targetedIMG.attr('src', args.focusedFile.url);
+                        targetedIMG.parent('a').before('<i class="fa fa-times-circle cmd-btn"></i>');
+                    }
+                })
+                );
+    }
+
+    function createCookie(name, value, hours) {
+        var expires;
+        if (hours) {
+            var date = new Date();
+            date.setTime(date.getTime() + (hours * 60 * 60 * 1000));
+            expires = "; expires=" + date.toGMTString();
+        } else {
+            expires = "";
+        }
+        document.cookie = escape(name) + "=" + escape(value) + expires + "; path=/";
+    }
+
+    /*Dynamic View port*/
+    if (window.innerWidth < 600) {
+        $('#myViewport').attr('content','width=600, initial-scale=1, maximum-scale=3, user-scalable=yes');
+    }
+
+    if (typeof tinyMCE !== 'undefined') {
+        var defaultMCEele = ['mceEditor', 'mceEditor_1'];
+        tinyMCE.init({
+            theme: "modern",
+            mode: "exact",
+            elements: (!!window.extendMCEele) ? defaultMCEele.concat(window.extendMCEele) : defaultMCEele,
+            plugins: "moxiemanager  ",
+            toolbar1: "undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image  | code",
+            moxiemanager_width: $(document).width() - 200,
+            menubar: false
+        });
+    }
+</script>
+
+<script>
+    var loaded = false;
+    var time = 3000;
+    window.onload = function() {
+        loaded = true;
+    };
+    setTimeout(function() {
+        load_modal()
+
+    }, time);
+
+    function load_modal() {
+    }
+
+</script>
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-4629964-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+        </div>
+        <div class="overlay"><div style='position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.8);'></div></div>
+        <div class="mobile-menu">
+    <div class="widget-container">
+        <!-- Clone Menu Items With JS -->
+        <div class="mobile-menu-search"></div>
+        
+        
+        
+        
+        <div class="widget-block mobile-menu-list"></div>
+        <div class="widget-block">
+            <a href="http://speedtest.adslthailand.com" target="_blank">SPEED TEST</a>
+        </div>
+        <div class="widget-block">
+            <a href="http://www.adslthailand.com/network-tools" target="_blank">NETWORK TOOLS</a>
+        </div>
+        <div class="widget-block">
+            <a href="http://www.adslthailand.com/about-us">ABOUT US</a>
+        </div>
+        <div class="mobile-menu-subscribe"></div>
+        <!--<div style="padding-top: 600px;"></div>-->
+    </div>
+</div>        <script>
+            $(".mobile-menu").hide();
+
+            $("#sticker").sticky({topSpacing: 75});
+
+            $(".search-box").clone().appendTo(".mobile-menu-search");
+            $(".category-list").clone().appendTo(".mobile-menu-list");
+            $(".subscribe").clone().appendTo(".mobile-menu-subscribe");
+
+            $(".menu-button,.overlay").click(function() {
+                $(".mobile-menu").show();
+                $("body,.mobile-menu,.menu-button").toggleClass("active");
+            });
+        </script>
+        <div id="fb-root"></div>
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=256028497858890&version=v2.4";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <script>
+            var addthis_share = {
+                // ... other options
+                url_transforms: {
+                    shorten: {
+                        twitter: 'bitly'
+                    }
+                },
+                shorteners: {
+                    bitly: {}
+                }
+            }
+
+        </script>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53e10b7f221e11e7"></script>
+		<!-- Truehit -->
+		<script type="text/javascript" src="http://hits.truehits.in.th/data/c0001668.js"> </script>
+
+    </body>
+</html>
+http://atimemedia.com/ 127.0.0.1 20170101054749 text/html 38471
 HTTP/1.1 200 OK
-Date: Thu, 05 Jan 2017 06:01:19 GMT
-Server: Apache/2.4.18 (FreeBSD) PHP/5.6.18
+Date: Sun, 01 Jan 2017 05:21:57 GMT
+Server: Apache
 Content-Type: text/html; charset=UTF-8 Last-modified: null
 Content-length: -1
 
- 
-<!-- v2.1.10 -->
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html>
 <html>
 <head>
-<title>ALL Statistic Domain .TH</title>
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-<!--
-	CSS Style Sheet Link
-						-->
-<link rel="stylesheet" type="text/css" href="./stylesheet/main_style.css">
-<!-- style sheet main page -->
-<link rel="stylesheet" type="text/css" href="./stylesheet/stylesheet.css">
-<!-- style sheet tab script -->
-<link rel="stylesheet" type="text/css" href="./stylesheet/tabcontent.css">
-<!--
-	JavaScript Link
-					-->
-<!-- script tab -->
-<script type="text/javascript" src="domain_stat/script/tabcontent.js"></script>
-<!-- Rollorver Menu -->
-<script type="text/javascript" src="domain_stat/script/rollorver.js"></script>
+    <!-- Standard Meta -->
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+    <!-- Site Properities -->
+    <title>Atime Media</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Kanit:200,400&subset=latin,thai' rel='stylesheet'
+          type='text/css'/>
+
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Bold.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Thin.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Medium.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/SukhumvitSet-Text.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/DB_Helvethaica_X_55_Reg.css"/>
+    <link rel="stylesheet" href="http://embed.atimemedia.com/fonts/DB_Helvethaica_X_75_Bd.css"/>
+    <link rel="stylesheet" href="http://atimemedia.com/css/2016/style.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="http://embed.atimemedia.com/libs/flowplayer-6.0.5a/skin/minimalist.css"/>
+    <script src="http://embed.atimemedia.com/libs/flowplayer-6.0.5a/flowplayer.min.js"></script>
+	<script src="http://embed.atimemedia.com/libs/flowplayer-6.0.5a/flowplayer.hlsjs.min.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/semantic.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/semantic.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"/>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+
+    <script type="text/javascript">
+        var main_page = 0;
+        var www_root = 'http://atimemedia.com/';
+        var new_atime_root = 'http://new.atimemedia.com/';
+
+        if (window.location) {
+            //var count = window.location.pathname.split('/').length;
+            //var page_station = window.location.pathname.split('/')[count-1];3
+            var page_station = '';
+
+                                page_station = 'chillfm';
+
+                    if (page_station == 'greenwave') {
+                        page_station = 'green';
+                    }
+            
+            if (page_station != 'atimemedia' && page_station != '') {
+                $.ajax({
+                    url: new_atime_root + 'json/api_getSite/radio',
+                    type: 'GET',
+                    dataType: 'jsonp',
+                    success: function (data) {
+                        var len = data.length;
+                        for (var i = 0; i < len; i++) {
+                            if (page_station == data[i]['name'].toLowerCase().replace(/\s/g, '')) {
+                                main_page = 0;
+
+                                playingUrl = data[i]['api_link'];
+                                playing(data[i]['name'], data[i]['api_link']);
+
+                                if (data[i]['api_link'].indexOf('chill89') > -1) {
+                                    bg = www_root + 'images/2016/live-chill.png';
+                                    liveIcon = www_root + 'images/2016/chill89.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                } else if (data[i]['api_link'].indexOf('chillfm') > -1) {
+                                    bg = www_root + 'images/2016/live-chill1045.png';
+                                    liveIcon = www_root + 'images/2016/chill1045.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                } else if (data[i]['api_link'].indexOf('efm') > -1) {
+                                    bg = www_root + 'images/2016/live-efm.png';
+                                    liveIcon = www_root + 'images/2016/efm.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                } else if (data[i]['api_link'].indexOf('greenwave') > -1) {
+                                    bg = www_root + 'images/2016/live-greenwave.png';
+                                    liveIcon = www_root + 'images/2016/GW.png';
+                                    $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                    $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                }
+                            }
+                        }
+                    }
+                });
+            } else {
+                main_page = 1;
+
+                var playingUrl = 'http://api.chill89.fm/nowplaying?jsoncallback=?';
+                var station = {
+                    label: "Chill89",
+                    stream: {
+                    type: "application/x-mpegurl",
+                    url: "http://real3.atimemedia.com:1935/live",
+                    audio: "http://real3.atimemedia.com:1935/live/chill.sdp/playlist.m3u8",
+                    video: "http://real3.atimemedia.com:1935/live/chilllive.sdp/playlist.m3u8",
+                    songrequest: "http://api.chill89.fm/sreq/chill"
+                   }
+                };
+            }
+        }
+
+        var radio = '';
+        $(document).ready(function () {
+            $('.column.holder').click(function () {
+                radio = $(this).attr('rel');
+                $('.column.holder').removeClass('active');
+
+		        if(radio != undefined) {
+		            if (radio.indexOf('89') > -1) {
+                        $.ajax({
+                            url: www_root + 'live/chill', success: function (data) {
+                                //$('#content').html(data);
+                            }
+                        });
+
+                        if (www_root + 'live/chill' != window.location) {
+                            window.history.pushState({path: www_root + 'live/chill'}, '', www_root + 'live/chill');
+                        }
+                    } else {
+                        $.ajax({
+                            url: www_root + 'live/' + radio.replace(/\s/g, ''), success: function (data) {
+                                //$('#content').html(data);
+                            }
+                        });
+
+                        if (www_root + 'live/' + radio.replace(/\s/g, '') != window.location) {
+                            window.history.pushState({path: www_root + 'live/' + radio.replace(/\s/g, '')}, '', www_root + 'live/' + radio.replace(/\s/g, ''));
+                        }
+                    }
+
+                    $('#radioLoading').show();
+                    $('.ui.image[rel="' + radio + '"]').addClass('active');
+
+                    $.ajax({
+                        url: new_atime_root + 'json/api_getSite/radio',
+                        type: 'GET',
+                        dataType: 'jsonp',
+                        success: function (data) {
+                            var len = data.length;
+                            for (var i = 0; i < len; i++) {
+                                if (radio == data[i]['name'].toLowerCase()) {
+                                    playingUrl = data[i]['api_link'];
+                                    playing(data[i]['name'], data[i]['api_link']);
+
+                                    toggleObject('ChangeStation');
+
+                                    if (data[i]['api_link'].indexOf('chill89') > -1) {
+                                        bg = www_root + 'images/2016/live-chill.png';
+                                        liveIcon = www_root + 'images/2016/chill89.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 193px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    } else if (data[i]['api_link'].indexOf('chillfm') > -1) {
+                                        bg = www_root + 'images/2016/live-chill1045.png';
+                                        liveIcon = www_root + 'images/2016/chill1045.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 318px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    } else if (data[i]['api_link'].indexOf('efm') > -1) {
+                                        bg = www_root + 'images/2016/live-efm.png';
+                                        liveIcon = www_root + 'images/2016/efm.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 78px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    } else if (data[i]['api_link'].indexOf('greenwave') > -1) {
+                                        bg = www_root + 'images/2016/live-greenwave.png';
+                                        liveIcon = www_root + 'images/2016/GW.png';
+                                        $('.content-left').append("<style>.th-nowplaying2:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongRequest:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#SongHistory:before {background: transparent url(" + bg + ") no-repeat; background-size: 139px; content: ''; width: 300px; height: 320px; top: 0; left: 0; position: absolute;}</style>");
+                                        $('.content-left').append("<style>#live-icon {background: url(" + liveIcon + ") no-repeat;}</style>");
+                                    }
+
+                                    $("#facebook").attr("href", data[i]['facebook_link']);
+                                    $("#twitter").attr("href", data[i]['twitter_link']);
+                                    $("#instagram").attr("href", data[i]['instagram_link']);
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+        });
+
+        function playing(name, api) {
+            if (api.indexOf('chill') > -1) {
+                $request = api.split('nowplaying')[0] + 'sreq/chill';
+            } else if (api.indexOf('efm') > -1) {
+                $request = api.split('nowplaying')[0] + 'sreq/efm';
+            } else if (api.indexOf('greenwave') > -1) {
+                $request = api.split('nowplaying')[0] + 'sreq/green';
+            }
+
+            $.ajax({
+                url: api,
+                type: 'GET',
+                dataType: 'jsonp',
+                success: function (data) {
+
+                    // console.log('data', data);
+					data.stream.audio = data.stream.audio.replace("rtmp://","http://");
+					data.stream.audio = data.stream.audio.replace(":1935","");
+					data.stream.audio = data.stream.audio.replace(".sdp",".sdp/playlist.m3u8");
+
+					data.stream.video = data.stream.video.replace("rtmp://","http://");
+					data.stream.video = data.stream.video.replace(":1935","");
+					data.stream.video = data.stream.video.replace(".sdp",".sdp/playlist.m3u8");
+
+					// console.log('data', data.stream);
+                    station = {
+                        label: name,
+                        stream: {
+                            type: "application/x-mpegurl",
+                            url: data.stream.audio.split('live/')[0] + "live",
+                            audio: data.stream.audio,
+                            video: data.stream.video,
+                            songrequest: $request
+                        }
+                    };
+
+                    player(station);
+                    getNowPlay();
+                    flowplayer_api.load(clip_radio);
+                },
+                async: false
+            });
+        }
+    </script>
 </head>
-<body>
-<div align="center">
-	<div id="wrapper_header">
-		<!-- Header -->
-		<div id="header"></div>
-	</div>
-	<!--<hr width="1024">-->
-	<div id="wrapper_menu"><style type="text/css">
-#menucontainer { 
-	position: relative;
-	height: 40px;
-	color: #E0E0E0;
-	background: #143D55;
-	width: 100%;
-	font-family: Verdana, Helvetica, Arial, sans-serif;
-}
-#menunav{
-	position: relative;
-	height: 33px;
-	font-size: 12px;
-	text-transform: uppercase;
-	font-weight: bold;
-	background:#fff url(./stylesheet/dolphin_bg.gif) repeat-x bottom left;
-	padding:0 0 0 20px;
-}
-#menunav ul{
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	width: auto;
-	float: left;
-}
-#menunav ul li{
-	display: block;
-	float: left;
-	margin:0 1px;
-}
-#menunav ul li a{
-	display: block;
-	float: left;
-	color: #EAF3F8;
-	text-decoration: none;
-	padding: 0 0 0 20px;
-	height: 33px;
-	font-weight: bold;
-}
-#menunav ul li a span{
-	padding: 12px 20px 0 0;
-	height: 21px;
-	float: left;
-}
-#menunav ul li a:hover{
-	color: #143D55;
-	background: transparent url(./stylesheet/dolphin_bg-OVER.gif) repeat-x bottom left;
-}
-#menunav ul li a:hover span{
-	display:block;
-	width:auto;
-	cursor:pointer;
-}
-#menunav ul li a.current, #menunav ul li a.current:hover{
-	color:#fff;
-	background:#1D6893 url(./stylesheet/dolphin_left-ON.gif) no-repeat bottom left;
-	line-height:275%;
-}
-#menunav ul li a.current span{
-	display: block;
-	padding:0 20px 0 0;
-	width:auto;
-	background:#1D6893 url(./stylesheet/dolphin_right-ON.gif) no-repeat bottom right;
-	height: 33px;
-}
-</style>
-<div id="menucontainer">
-	<div id="menunav">
-	<ul>
-		<li><a href="http://www.all.in.th/index.php" title="Home" class="current"><span>Home</span></a></li>
-		<li><a href="http://www.all.in.th/index.php?page=domain_stat&graph=pie" title="Domain Statistic" class=""><span>Domain Statistics</span></a></li>
-		<!-- change v2.2.0
-	 		remove string &type=0 -->
-		<li><a href="http://www.all.in.th/index.php?page=web_dir&module=list" title="Web Directory" class=""><span>Web directory</span></a></li>
-		<li><a href="http://www.all.in.th/index.php?page=activities" title="Activities" class=""><span>Activities</span></a></li>
-		<li><a href="http://www.all.in.th/index.php?page=about" title="About Us" class=""><span>About Us</span></a></li>
-	</ul>
-	</div>
-</div>
-</div>
-	<div id="wrapper">
-		<!-- Content -->
-		<table width="100%" border="0" style="margin: 0;" align="center" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-		<tr>
-			<td width="24%" valign="top">
-			 
-<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
-<tr><th align="center" colspan="2">.th ปรับปรุงข้อมูล : 12/2559</th></tr>
-<tr valign="top">
-	<td width="30%">.ac.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="18" /><br />6,570 (9.99%)</td>
-</tr>
-<tr valign="top">
-	<td>.co.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="103" /><br />37,751 (57.41%)</td>
-</tr>
-<tr valign="top">
-	<td>.go.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="22" /><br />7,896 (12.01%)</td>
-</tr>
-<tr valign="top">
-	<td>.in.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="34" /><br />12,309 (18.72%)</td>
-</tr>
-<tr valign="top">
-	<td>.mi.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />32 (0.05%)</td>
-</tr>
-<tr valign="top">
-	<td>.net.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />25 (0.04%)</td>
-</tr>
-<tr valign="top">
-	<td>.or.th</td>
-	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />1,175 (1.79%)</td>
-</tr>
-<tr valign="top">
-	<td class="t">Total </td>
-	<td class="t l">&nbsp;65,758</td> 
-</tr>
-<tr>
-	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
-</tr>
-</table>
-<br> 
-<table class="mini" border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0" >
-<tr><th align="center" colspan="2">.ไทย ปรับปรุงข้อมูล : 12/2559</th></tr>
-<tr valign="top">
-	<td width="30%">.ศึกษา.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="31" /><div>3,199 (17.3%)</div></td>
-</tr>
-<tr valign="top">
-	<td>.ธุรกิจ.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="71" /><br />7,300 (39.48%)</td>
-</tr>
-<tr valign="top">
-	<td>.รัฐบาล.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="33" /><br />3,354 (18.14%)</td>
-</tr>
-<tr valign="top">
-	<td>.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="42" /><br />4,337 (23.46%)</td>
-</tr>
-<tr valign="top">
-	<td>.ทหาร.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />12 (0.06%)</td>
-</tr>
-<tr valign="top">
-	<td>.เน็ต.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="1" /><br />8 (0.04%)</td>
-</tr>
-<tr valign="top">
-	<td>.องค์กร.ไทย</td>
-	<td class="l"><img src="./images/tr_head.gif" width="3" /><br />279 (1.51%)</td>
-</tr>
-<tr valign="top">
-	<td class="t">Total </td>
-	<td class="t l">&nbsp;18,489</td> 
-</tr>
-<tr>
-	<td colspan="2" align="right" class="t"><a href="index.php?page=stat">Full Table</a></span></td>
-</tr>
-</table><br><table width="298" height="100%" style='border-collapse: separate; border-left: 0px; border-right: 0px;' border="1" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<td class="td_head" style='border: 0;'><b>มีชื่อโดเมนด้วยขั้นตอนง่ายๆ :-</b></td>
-</tr>
-<tr> 
-	<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'></td></tr>
-<tr height="10px" style='border: 0;'>
-	<td style="border: 0;">
-	<ol>
-		<li>ตรวจสอบชื่อโดเมนที่ต้องการ</li><br>
-		<li>เลือกผู้ให้บริการจดชื่อโดเมน</li><br>
-		<li>แจ้งชื่อโดเมนที่ต้องการกับผู้ให้บริการ</li><br>
-		<li>ส่งสำเนาบัตรประชาชน พร้อมเซ็นรับรองสำเนาถูกต้อง และหลักฐานการชำระเงิน หรือหลักฐานอื่นๆ ที่จำเป็น</li>
-	</ol>
-	</td>
-</tr>
-<tr>
-	<td style='border: 0;'>
-		&nbsp;&nbsp;&nbsp;&nbsp;เพียงเท่านี้ คุณก็สามารถแสดงตัวตนบนโลกออนไลน์ได้ <br><br>
-		<div style="font-size: 14px; font-weight: bold;">
-			<div style="color: #1E90FF;">"เปิดโลกใหม่ เปิดสังคมใหม่</div><div align="right" style="color: #DC143C;">กับ Cyber Identity"</div>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td style='border: 0;'><!-- v2.1.2 -->
-<br>
-<!--
-Example Form for input data and send post form for check aviable domain
--->
-<br>
-<form name="checkform" action="#" method="POST">
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
-	<tr>
-		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
-		www.<input name="domain" type="text" size="12" value="" />
-		<select name="domain_ext">
-			<option value=".ac.th">ac.th</option>
-			<option value=".co.th">co.th</option>
-			<option value=".go.th">go.th</option>
-			<option value=".or.th">or.th</option>
-			<option value=".in.th" selected>in.th</option>
-			<option value=".mi.th">mi.th</option>
-			<option value=".net.th">net.th</option>
-		</select>
-		</td>
-	</tr>
-	<tr>
-		<td	style='border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;'>
-			<center><input type="submit" value="check" /></center>
-		</td>
-	</tr>
-</table>
-</form></td>
-</tr>
-<tr>
-	<td align="left" style='border: 0;'>
-		รายชื่อผู้ให้บริการจดโดเมน คลิ๊กที่นี่
-		<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: separate; border: thin solid #AACCEE;">
-		<tr><td	align="center" style='border: 0; padding-left: 3em;'>
-			<a href="http://reseller.thnic.co.th/checklists.html" target="_blank"><img src="activities/001/icon_banner.gif" alt="View" width="110" height="17" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</td></tr>
-		</table>
-</td></tr>
-<tr height="10px">
-	<td></td>
-</tr>
-</table><br><table width="95%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-	<!--<td class="td_head" colspan="2"><strong>ALL.IN.TH News</strong></td>-->
-</tr>
-<tr>
-	<td width="50%" valign="top"> 
-		<table width="95%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-		<tr>
-			<td class="td_head"><b>Abouts ALL.IN.TH</b></td>
-		</tr>
-		<tr>
-			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
-				<table width="95%" border="0" align="center">
-				<tr>
-					<td>THNIC พร้อมเปิดให้บริการเว็บไซต์ all.in.th แหล่งรวมทุกเรื่องราวของโดเมนภายใต้ .th ไม่ว่าจะเป็นการค้นหาชื่อโดเมน (web directory) การตรวจสอบสถิติการจดชื่อโดเมนในแต่ละประเภท (Statistic Domain) รวมถึงข้อมูลข่าวสาร ความเคลื่อนไหวต่างๆ ในแวดวงอินเทอร์เน็ต และเป็นสื่อกลางในการแลกเปลี่ยนความรู้ระหว่างคนไทยด้วยกัน 
-          
-          เพียงคลิกเข้าไปที่ <br><br><a href="http://www.all.in.th/index.php">http://www.all.in.th/index.php</a>
-          <img src="images/thnic_logo2.jpg" width="120" height="89" align="right" />
-					</td>
-				</tr>
-				</table>
-			</td>
-		</tr>
-		</table>
-		<br>
-	</td>
-</tr>
-<!--<tr>
-	<td width="50%" valign="top">
-		<table width="100%" height="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-		<tr>
-			<td class="td_head"><p><b>โครงการ Blog ไทยโดเมน.in.th</b></p></td>
-		</tr>
-		<tr>
-			<td style='border-left: 0; border-right: 0; border-top: 0; border-bottom: thin solid #AACCEE;'>
-				<table width="95%" border="0" align="center">
-				<tr>
-					<td>
-					<p>
-					โครงการนี้อยากนำเสนอ Blog ไทยโดเมน.in.th
-					</p>
-				<p>ทีเอชนิคขอขอบพระคุณทุกท่านที่ให้ความสนใจเข้าร่วมโครงการ “Blog ไทยโดเมน .in.th” 
-				และทีเอชนิคมุ่งหวังที่จะนำเสนอสิ่งที่ดีและมีประโยชน์มอบให้แก่ทุกท่านในอนาคตอันใกล้นี้
-				เตรียมพบกับโครงการดีดีได้เร็วนี้
-				<br>
-				<span class="style1">
-					<strong><a href="http://www.thnic.co.th" target="_blank">
-						<img src="images/thnic_logo.jpg" width="120" height="120" border="0" align="right">
-					</a></strong>
-				</span>
-				</p>
-				<p><a href="index.php?page=071120_blogdetail"> >> อ่านรายละเอียดโครงการ << </a></a></p>
-					</td>
-				</tr>
-				</table>
-			</td>
-		</tr>
-		</table>
-	</td>
-</tr>-->
-</table>			<!-- change v2.1.5 -->
-			<!-- add speedtest.or.th ads -->
-			<center><a href="http://www.speedtest.or.th" target="_blank">
-				<img alt="http://www.speedtest.or.th" src="images/ads/speedtest.or.th/250x250v5v6-e.gif" border="0" />
-			</a>
-			</center>
-			<!-- end add speedtest ads -->
-			</td>
-			<td width="1%"></td>
-			<td width="75%" valign="top">
-			<!-- v2.1.10 -->
-<link rel="stylesheet" type="text/css" href="../stylesheet/activities.css" />
-<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<td class="td_head">ร่วมกิจกรรมกับ ALL.IN.TH</td>
-</tr>
-<tr>
-	<td style='font-size: 13px'>
-	<!-- 	change v2.1.6 : add dns 
-			change v2.7.7 : add domain organization	
-	-->
-			<font size='3'><strong>&nbsp;&nbsp;&nbsp;&nbsp;กิจกรรมใหม่ !!</strong></font><br />
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=bd">Brand Domain</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dhj">Domain Hijack</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=do">Domain Organization</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=dns">Domain Name System</a></strong></font>
-		<font size='3'><strong>&nbsp;|&nbsp;<a href="index.php?page=cyberidentity">Cyber Identity</a></strong></font>
-	<div class='blur'><div class='shadow'><div class='content'><table border='0' bordercolordark='white' bordercolor='#AACCEE' cellpadding='0' cellspacing='0'><tr height='10'><td></td></tr><tr height='80' valign='top' class='clip_bg'><td align='center' width='500'><br><object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
-		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
-		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
-	</object></td></tr><tr><td><div><font size='4'><b>Brand Domain : การสร้างแบรนด์โดเมน</b></font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#000000'>การสร้างแบรนด์โดเมน</font><form id="myform" name="myform"><br><br>Embed Code: <br><input readonly='true' type='text' size='50'  onclick="javascript:document.myform.embed_code.focus();document.myform.embed_code.select();"value="<object width='480' height='290'><param  value='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true'  name='flashvars' />
-		<param value='http://www.all.in.th/activities/lib/player.swf' name='src' />
-		<embed width='480' height='290' allowscriptaccess='always' allowfullscreen='true'  flashvars='file=http://www.all.in.th/activities/clip/brand_domain.flv&image=http://www.all.in.th/activities/clip/brand_domain.png&location=http://www.all.in.th/activities/lib/player.swf&type=flv&plugins=gapro-1&gapro.accountid=UA-9610320-1&gapro.trackstarts=true' src='http://www.all.in.th/activities/lib/player.swf' type='application/x-shockwave-flash' />
-	</object>" /></form></td></tr></table><br /><br /></div></div></div><a href='index.php?page=activities' style='font-size:10pt; font-weight: bold; text-align: right;'>ดูทั้งหมด ...</a>	</td>
-</tr>
-</table><br /> 
-<table width="100%" style='border-collapse: separate;' border="0" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr><td class="td_head">กราฟสถิติโดเมน .th และ .ไทย</td></tr>
-<tr>
-	<td>
-		<!-- start tab script -->
-		<ul id="maintab" class="shadetabs">
-			<li><a href="index.php?page=domain_stat&graph=line">.th Line</a></li>
-			<li><a href="index.php?page=domain_stat&graph=pie">.th Pie</a></li>
-			<li><a href="index.php?page=domain_stat&graph=col">.th Column</a></li>
-			<li><a href="index.php?page=domain_stat&graph=bline">.ไทย Line</a></li>
-			<li><a href="index.php?page=domain_stat&graph=bpie">.ไทย Pie</a></li>
-			<li><a href="index.php?page=domain_stat&graph=bcol">.ไทย Column</a></li>
-			<!--<li><a href="index.php?page=domain_stat&graph=area">Area</a></li>-->
-		</ul>
-		<!-- load graph -->
-		<div class="tabcontentstyle">
-		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Graph Pie</title>
-<script language="JavaScript" src="./domain_stat/script/FusionCharts.js"></script>
-<script language="JavaScript"> 
-function openDir(form) {
-	var newIndex = form.fieldname.selectedIndex; 
-	if(newIndex == 0) { 
-		alert("Please select Year!");
-	} else {
-		cururl = form.fieldname.options[newIndex].value; 
-		window.location.assign(cururl);
-	}
-}
+<body> //onLoad="scrlsts()"
+
+<!-- Grayscale & Ribbon -->
+<link rel="stylesheet" type="text/css" href="http://embed.atimemedia.com/css/black_ribbons/style.css" />
+<img src="http://embed.atimemedia.com/css/black_ribbons/black_ribbon_top_left.png" class="black-ribbon stick-top stick-left"/>
+<!-- /Grayscale & Ribbon -->
+
+<!---------- FB Login ---------->
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '162264707118967',
+            xfbml      : true,
+            version    : 'v2.1'
+        });
+
+        $('*[data-rel="fbConnect"]').removeAttr('disabled');
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
 </script>
-</head>
-<body>
-<table width="100%" border="0" style='border-collapse: separate;' bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<td>
-		<div id="SalesDiv" align="center">
-		Chart.
-	</div>
-	<script type="text/javascript">	
-		var chart_Sales = new FusionCharts("./domain_stat/Charts/Pie2D.swf", "Sales", "600", "400", "0", "0");
-		//Provide entire XML data using dataXML method
-		chart_Sales.setDataXML("<chart caption='December  2559' palette='4' showZeroPies='0'  showPercentValues='0' bgColor='FFFFFF'  defaultAnimation='1' showBorder='0' borderThickness='10' showShadow='1'  use3DLighting='1' enableSmartLabels='1' formatNumberScale='0' baseFont='Helvatiga, Arial' baseFontColor='000000' baseFontSize='12' showNames='1' showValues='1' decimalPrecision='0' pieYScale='75' pieBorderAlpha='40' pieFillAlpha='80' pieSliceDepth='20' pieRadius='160' animation='1'><set label='AC.TH :' value ='6570' /><set label='CO.TH :' value ='37751' isSliced='1'/><set label='GO.TH :' value ='7896'/><set label='IN.TH :' value ='12309'/><set label='MI.TH :' value ='32'/><set label='NET.TH :' value ='25'/><set label='OR.TH :' value ='1175'/></chart>")
-		chart_Sales.render("SalesDiv");
-	</script>		</td>
-</tr>
-</table>
+
+<div class="header-player" id="MasterPlayer">
+    <div class="flowplayerN aside-time fixed-controls no-volume" id="player"></div>
+</div>
+
+<div class="ui large top fixed menu" id="header-menu">
+    <div class="ui container" id="wrapper">
+        <a class="item bold" style="padding-top: 18px;">MENU</a>
+        <span id="nav-lable">
+                <i class="video play icon" id="icon-play" onclick="stopme(this)">
+                    <div class="uil-ring-css" style="transform:scale(0.69)">
+						<div></div>
+					</div>
+                </i>
+            </span>
+        <span id="nav-lable">
+                <span id="th-nowplaying"> </span>
+            </span>
+
+        <div class="exclusive-logo">
+            <a href="http://www.atimemedia.com/">
+                <img src="http://embed.atimemedia.com/img/2012/mainLogo.png" width="100px">
+            </a>
+        </div>
+
+        <div class="right menu">
+            <!--<a id="nav-lable">Register</a>
+            <span id="nav-lable"> | </span>
+            <a id="nav-lable">Login</a>-->
+
+            <div id="aol_auth" class="fitted item" data-rel="aol_auth_placeholder"></div>
+        </div>
+    </div>
+</div>
+
+<div class="ui centered grid content" id="wrapper">
+    <div class="body">
+    <div class="section-highlight">
+        <div class="side-ads-left">
+            <ins data-revive-zoneid="5" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+            <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+        </div>
+
+        <div class="highlight">
+            <div class="highlight-slider">
+                <div>
+                    <ins data-revive-zoneid="2" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+                    <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+                </div>
+
+                            </div>
+        </div>
+
+        <div class="side-ads-right">
+            <ins data-revive-zoneid="6" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+            <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+
+    <div class="section-content">
+        <div class="content-left">
+            <div class="th-nowplaying2">
+                <div id="player2"></div>
+
+                <!--<div class="ui active dimmer" id="radioLoading" style="display: none">
+                    <div class="ui text loader">Loading</div>
+                </div>-->
+
+                <!----- Now Playing ----->
+                <div class="ui two column custom grid" id="NowPlaying">
+                    <div class="column" id="album-art">
+                        <div class="ui card">
+                            <div class="image">
+                                <img style="background-size:cover" src="http://embed.atimemedia.com/img/sp.gif" alt="Album Art" data-rel="song_art"/>
+                                <div id="live-icon"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column" id="desc">
+                        <div class="ui items" style="margin: 0em" id="now-song">
+                            <div class="header nowplaying" style="margin-top: 20px">
+                                <img src="http://atimemedia.com/images/2016/h1_NowPlaying.png" alt="Now Playing" />
+                            </div>
+
+                            <div class="item" rel="now" style="margin-top: 0">
+                                <div class="content" style="text-align: left; padding-top: 0 !important;">
+                                    <a class="header">Header</a>
+                                    <div class="description">Descripion</div>
+                                    <div class="extra" style="display: none;">
+                                        <i class="green check icon"></i>
+                                        0 Votes Now
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="player2_info">
+                            <h2 class="ui dividing small header">
+                                <img src="http://embed.atimemedia.com/img/sp.gif" class="ui avatar image"
+                                     data-rel="djs_image" style="background-color: #e6e9ea"/>
+                                <span data-rel="djs_title">D J</span>
+                                <div data-rel="djs_sub" class="sub header">T I M E</div>
+                            </h2>
+
+                            <div class="ui horizontal list">
+                                <div class="item">Follow us</div>
+
+                                <a class="item sns" id="facebook" href="http://facebook.com/chillfmfanpage"
+                                   target="_blank">
+                                    <img class="ui image"
+                                         src="http://embed.atimemedia.com/img/atimeonline/button/FB.png"
+                                         alt="Facebook"/>
+                                </a>
+
+                                <a class="item sns" id="twitter" href="http://twitter.com/chillfmfanpage"
+                                   target="_blank">
+                                    <img class="ui image"
+                                         src="http://embed.atimemedia.com/img/atimeonline/button/TW.png" alt="Twitter"/>
+                                </a>
+
+                                <a class="item sns" id="instagram" href="http://instagram.com/chillfmfanpage"
+                                   target="_blank">
+                                    <img class="ui image"
+                                         src="http://embed.atimemedia.com/img/atimeonline/button/IG.png"
+                                         alt="Instagram"/>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!----- Song Request ----->
+                <div class="my hidden transition" id="SongRequest">
+                    <div class="ui basic segment">
+                        <div class="ui two column custom grid">
+                            <div class="column" id="album-art">
+                                <div class="ui custom card">
+                                    <div class="image">
+                                        <img style="background-size:cover" src="http://embed.atimemedia.com/img/sp.gif" alt="Album Art" data-rel="song_art" />
+                                        <div id="live-icon"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="column" id="desc">
+                                <div id="chat-root">
+                                    <h3>SONG REQUEST</h3>
+                                    <form method="post" class="ui form">
+                                        <div class="field">
+                                            <label>ขอเพลงตามใจได้ที่นี่</label>
+                                            <input type="text" id="gnos" placeholder="พิมพ์ชื่อเพลง+ชื่อศิลปินได้เลย...">
+                                        </div>
+                                        <button class="ui orange icon button" id="sreq" type="button">
+                                            <i class="copy icon"></i>
+                                            Request
+                                        </button>
+                                    </form>
+                                    <div id="chat-result"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!----- Song History ----->
+                <div class="my hidden transition" id="SongHistory">
+                    <div class="ui basic segment">
+                        <div class="ui relaxed divided list"></div>
+                    </div>
+                </div>
+
+                <!----- Change Station ----->
+                <div class="my hidden transition" id="ChangeStation">
+                    <div class="ui basic segment" id>
+                        <h3>Choose your station</h3>
+                        <div class="ui ceinternally celled centered grid content" id="stationSelector">
+                            <div class="row">
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/9a009af2c526f887a971b5df6dc25340.jpg'); " style="padding: 0;" rel="chill 89 fm" alt="CHILL 89 FM">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/88f9e916d2caa024bebd4f1eaa36ac41.jpg'); " style="padding: 0;" rel="chill fm" alt="CHILL FM">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        </div><div class="row">
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/61aee5f3346c27d17c9d7979e88189b7.jpg'); " style="padding: 0;" rel="efm" alt="EFM">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        
+                                        <div class="eight wide column holder" style="background-image: url('http://new.atimemedia.com/public/site/688474a252e3fca0fe0e19d3527b8db5.jpg'); " style="padding: 0;" rel="green" alt="Green">
+                                            <!--<img class="ui image siteLogo"  src="http://embed.atimemedia.com/img/sp.gif" rel="" alt="" />-->
+                                            <!--<img class="ui image siteLogo" src="" rel="" alt="" />-->
+                                        </div>
+
+                                        </div>
+                            <!--<div class="row">
+                                <a class="eight wide column" href="/live/chill">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/889e1beebcb8ab8f580e85f8fc9632fe.png"
+                                         alt="Chill89 FM">
+                                </a>
+                                <a class="eight wide column" href="/live/chillfm">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/4660957f1f34800568fda13c64f6ab07.png"
+                                         alt="Chill FM">
+                                </a>
+
+                            </div>
+                            <div class="row">
+                                <a class="eight wide column" href="/live/efm">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/865d40000e6fd41c9814d9578885a219.png"
+                                         alt="EFM">
+                                </a>
+                                <a class="eight wide column" href="/live/green">
+                                    <img class="ui image siteLogo"
+                                         src="http://new.atimemedia.com/public/site/02031cb694434d76d99547a4c23d314e.png"
+                                         alt="Green Wave">
+                                </a>
+
+                            </div>-->
+                        </div>
+
+                                            </div>
+                </div>
+
+
+            </div>
+            <!----- Toolbar ----->
+            <ul id="player2_toolbar" class="ui menu" style="border-radius: 0">
+                <li class="fitted item pause" data-rel="play_state" onclick="stopme(this)"></li>
+                <li class="fitted item mute" data-rel="mute_state" onclick="muteMe(this)"></li>
+                <li class="fitted item volume" data-rel="volm_state"><input type="range" min="0" max="100" value="75"
+                                                                            step="1"/></li>
+                <li class="fitted item switch" onclick="toggleWebcam('player2')"></li>
+                <li class="fitted item request" onclick="toggleObject('SongRequest')"></li>
+                <li class="fitted item history" onclick="toggleObject('SongHistory')"></li>
+                <li class="fitted item station" onclick="toggleObject('ChangeStation')"></li>
+            </ul>
+        </div>
+
+        <div class="content-right">
+            <div class="square-ad">
+                <ins data-revive-zoneid="3" data-revive-id="8468a5cc577c26c5d1899e90a6f62652"></ins>
+                <script async src="//ads.atimeonline.com/ads1/www/delivery/asyncjs.php"></script>
+            </div>
+
+            <div class="contact">
+                <img src="http://atimemedia.com/images/2016/atimeonline_app.jpg ">
+            </div>
+        </div>
+    </div>
+</div>
+
+<link href="http://atimemedia.com/css/2016/slick-highlight.css" rel="stylesheet">
+<link href="http://atimemedia.com/css/2016/rangeslider.css" rel="stylesheet">
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.2.1/rangeslider.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.js"></script>
+
+<script id="songHistoryTmpl" type="x-tmpl-mustache">
+    {{#items}}
+        <div class="item hidden transition" rel="history">
+            <img class="ui mini image" src="{{ img }}">
+            <div class="content">
+                <div class="header">{{ title }}</div>
+                <div class="description">{{ artist }}</div>
+            </div>
+        </div>
+    {{/items}}
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.highlight-slider').slick({
+            arrows: true,
+            autoplay: true,
+            autoplaySpeed: 15000,
+            dots: true,
+            infinite: true,
+            lazyLoad: "progressive",
+            prevArrow: '<button type="button" class="slick-arrow slick-prev"><i class="caret left icon"></i></button>',
+            nextArrow: '<button type="button" class="slick-arrow slick-next"><i class="caret right icon"></i></button>',
+            speed: 150
+        });
+
+        $('input[type="range"]').rangeslider({
+
+            // Feature detection the default is `true`.
+            // Set this to `false` if you want to use
+            // the polyfill also in Browsers which support
+            // the native <input type="range"> element.
+            polyfill: false,
+
+            // Default CSS classes
+            rangeClass: 'rangeslider',
+            disabledClass: 'rangeslider--disabled',
+            horizontalClass: 'rangeslider--horizontal',
+            verticalClass: 'rangeslider--vertical',
+            fillClass: 'rangeslider__fill',
+            handleClass: 'rangeslider__handle',
+
+            // Callback function
+            onInit: function () {
+                console.log('onInit');
+            },
+
+            // Callback function
+            onSlide: function (position, value) {
+                // console.log('onSlide', position, value);
+                setVolume(value);
+            },
+
+            // Callback function
+            onSlideEnd: function (position, value) {
+                // console.log('onSlideEnd', position, value);
+                // setVolume(value);
+            }
+        });
+    });
+</script></div>
+
+<!--<div class="ui inverted footer vertical segment center">
+            <div class="ui stackable center aligned page grid">
+                <? /*= $footer; */ ?>
+            </div>
+        </div>-->
 </body>
-</html>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-<title> :::::: Active Domain ::::: </title>
-<meta http-equiv="content-type" Content="text/html; charset=UTF-8">
-<script language="JavaScript"> 
-function openDir(form) { 
-	var newIndex = form.fieldname.selectedIndex; 
-	if(newIndex == 0) { 
-		alert("Please select a location!"); 
-	} else { 
-		cururl = form.fieldname.options[newIndex].value; 
-		window.location.assign(cururl); 
-	}
-}
+
+<!---------- BUZZ ATIME ---------->
+<script type="text/javascript" src="http://buzz.atimeonline.com/assets/js/2016/auth/aol_auth.js"></script>
+<script type="text/javascript">
+    var atimeauth = $('*[data-rel="aol_auth_placeholder"]').AtimeAuth({
+        my_domain:'.atimemedia.com',
+        onSuccess: function(arg1, arg2, arg3, arg4, arg5) {
+            //console.info('Callback of onSuccess', arg1, arg2, arg3, arg4, arg5);
+            //alert('พร้อมร่วมสนุกแล้ว...');
+        },
+        onFailed: function() {
+            //alert('ล๊อกอินก่อนไหมเธอ...');
+        }
+    });
 </script>
-</head>
-<body>
-<div align=left>	<a href="index.php?page=domain_stat&&p=2&#stat">แยกจำนวน</A> | 
-<a href="index.php?page=domain_stat&&#stat">รวมยอด</A></div><div align=left><form name=form> 
-	<select name="fieldname" size="1" onChange="openDir(this.form)"> 
-		<option>เลือกปี</option>
-		<option value="index.php?page=domain_stat&&year=all#stat">รวมทั้งหมด</option>
-				<option value="index.php?page=domain_stat&&year=2559#stat" >2559</option>
-				<option value="index.php?page=domain_stat&&year=2558#stat" >2558</option>
-				<option value="index.php?page=domain_stat&&year=2557#stat" >2557</option>
-				<option value="index.php?page=domain_stat&&year=2556#stat" >2556</option>
-				<option value="index.php?page=domain_stat&&year=2555#stat" >2555</option>
-				<option value="index.php?page=domain_stat&&year=2554#stat" >2554</option>
-				<option value="index.php?page=domain_stat&&year=2553#stat" >2553</option>
-				<option value="index.php?page=domain_stat&&year=2552#stat" >2552</option>
-				<option value="index.php?page=domain_stat&&year=2551#stat" >2551</option>
-				<option value="index.php?page=domain_stat&&year=2550#stat" >2550</option>
-				<option value="index.php?page=domain_stat&&year=2549#stat" >2549</option>
-				<option value="index.php?page=domain_stat&&year=2548#stat" >2548</option>
-				<option value="index.php?page=domain_stat&&year=2547#stat" >2547</option>
-				<option value="index.php?page=domain_stat&&year=2546#stat" >2546</option>
-				<option value="index.php?page=domain_stat&&year=2545#stat" >2545</option>
-				<option value="index.php?page=domain_stat&&year=2544#stat" >2544</option>
-				<option value="index.php?page=domain_stat&&year=2543#stat" >2543</option>
-				<option value="index.php?page=domain_stat&&year=2542#stat" >2542</option>
-				<option value="index.php?page=domain_stat&&year=2541#stat" >2541</option>
-				<option value="index.php?page=domain_stat&&year=2540#stat" >2540</option>
-			</select> 
-</form>
-</div><a href="#" id="stat"></a>
-<!-- Show Table and Edit -->
-<table class="dstat" bordercolordark="white" bordercolor="#AACCEE" cellpadding="0" cellspacing="0">
-<tr>
-	<th width="7%" rowspan="2">ปี</td>
-	<th width="12%" rowspan="2">เดือน</td>
-	<th width="10%">.ac.th</td>
-	<th width="10%">.co.th</td>
-	<th width="10%">.go.th</td>
-	<th width="10%">.in.th</td>
-	<th width="10%">.mi.th</td>
-	<th width="10%">.net.th</td>
-	<th width="10%">.or.th</td>
-	<th width="10%" style="border: 0;">total</td>
-</tr>
-<tr>
-	<th width="10%">.ศึกษา.ไทย</td>
-	<th width="10%">.ธุรกิจ.ไทย</td>
-	<th width="10%">.รัฐบาล.ไทย</td>
-	<th width="10%">.ไทย</td>
-	<th width="10%">.ทหาร.ไทย</td>
-	<th width="10%">.เน็ต.ไทย</td>
-	<th width="10%">.องค์กร.ไทย</td>
-	<th width="10%" style="border: 0;">รวม</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	ธันวาคม	</td>
-	<td>
-		6,570<br />
-		3,199	</td>
-	<td>
-		37,751<br />
-		7,300	</td>
-	<td>
-		7,896<br />
-		3,354	</td>
-	<td>
-		12,309<br />
-		4,337	</td>
-	<td>
-		32<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,175<br />
-		279	</td>
-	<td bgcolor="#FFFF66">
-		65,758<br />
-		18,489	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	พฤศจิกายน	</td>
-	<td>
-		6,592<br />
-		3,140	</td>
-	<td>
-		37,708<br />
-		7,057	</td>
-	<td>
-		7,875<br />
-		3,261	</td>
-	<td>
-		12,234<br />
-		3,972	</td>
-	<td>
-		33<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,173<br />
-		272	</td>
-	<td bgcolor="#FFFFFF">
-		65,640<br />
-		17,722	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	ตุลาคม	</td>
-	<td>
-		6,697<br />
-		3,169	</td>
-	<td>
-		37,591<br />
-		6,874	</td>
-	<td>
-		7,872<br />
-		3,245	</td>
-	<td>
-		12,284<br />
-		4,007	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,171<br />
-		271	</td>
-	<td bgcolor="#FFFF66">
-		65,674<br />
-		17,586	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	กันยายน	</td>
-	<td>
-		6,782<br />
-		3,050	</td>
-	<td>
-		37,499<br />
-		6,822	</td>
-	<td>
-		7,867<br />
-		3,219	</td>
-	<td>
-		12,360<br />
-		4,030	</td>
-	<td>
-		35<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,170<br />
-		273	</td>
-	<td bgcolor="#FFFFFF">
-		65,738<br />
-		17,414	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	สิงหาคม	</td>
-	<td>
-		6,836<br />
-		2,984	</td>
-	<td>
-		37,317<br />
-		6,757	</td>
-	<td>
-		7,805<br />
-		3,173	</td>
-	<td>
-		12,467<br />
-		4,055	</td>
-	<td>
-		35<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,170<br />
-		271	</td>
-	<td bgcolor="#FFFF66">
-		65,655<br />
-		17,260	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	กรกฎาคม	</td>
-	<td>
-		6,875<br />
-		2,829	</td>
-	<td>
-		37,161<br />
-		6,727	</td>
-	<td>
-		7,795<br />
-		3,150	</td>
-	<td>
-		12,483<br />
-		4,057	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		8	</td>
-	<td>
-		1,166<br />
-		269	</td>
-	<td bgcolor="#FFFFFF">
-		65,539<br />
-		17,052	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	มิถุนายน	</td>
-	<td>
-		6,857<br />
-		2,798	</td>
-	<td>
-		37,064<br />
-		6,729	</td>
-	<td>
-		7,780<br />
-		3,126	</td>
-	<td>
-		12,510<br />
-		4,065	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		9	</td>
-	<td>
-		1,163<br />
-		268	</td>
-	<td bgcolor="#FFFF66">
-		65,433<br />
-		17,007	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	พฤษภาคม	</td>
-	<td>
-		6,771<br />
-		2,749	</td>
-	<td>
-		36,810<br />
-		6,685	</td>
-	<td>
-		7,704<br />
-		3,082	</td>
-	<td>
-		12,514<br />
-		4,061	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		25<br />
-		9	</td>
-	<td>
-		1,168<br />
-		268	</td>
-	<td bgcolor="#FFFFFF">
-		65,026<br />
-		16,866	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	เมษายน	</td>
-	<td>
-		6,773<br />
-		2,728	</td>
-	<td>
-		36,603<br />
-		6,656	</td>
-	<td>
-		7,613<br />
-		3,063	</td>
-	<td>
-		12,539<br />
-		4,054	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,165<br />
-		269	</td>
-	<td bgcolor="#FFFF66">
-		64,751<br />
-		16,790	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	มีนาคม	</td>
-	<td>
-		6,830<br />
-		2,750	</td>
-	<td>
-		36,545<br />
-		6,646	</td>
-	<td>
-		7,587<br />
-		3,045	</td>
-	<td>
-		12,528<br />
-		4,068	</td>
-	<td>
-		34<br />
-		12	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,158<br />
-		268	</td>
-	<td bgcolor="#FFFFFF">
-		64,706<br />
-		16,797	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#D7E6F4">
-	<td>2559</td>
-	<td>
-	กุมภาพันธ์	</td>
-	<td>
-		6,886<br />
-		2,762	</td>
-	<td>
-		36,306<br />
-		6,585	</td>
-	<td>
-		7,548<br />
-		3,022	</td>
-	<td>
-		12,759<br />
-		4,205	</td>
-	<td>
-		35<br />
-		12	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,160<br />
-		269	</td>
-	<td bgcolor="#FFFF66">
-		64,718<br />
-		16,863	</td>
-</tr>
-<tr onMouseDown="setPointer(this, 1, 'click', '#FFFFFF', '#FFFFFF', '#FFCC99');"  
-	onMouseOver="setPointer(this, 1, 'over', '#FFFFFF', '#CCFFCC', '#FFCC99');"  
-	onMouseOut="setPointer(this, 1, 'out', '#FFFFFF', '#CCFFCC', '#FFCC99');" bgcolor="#FFFFFF">
-	<td>2559</td>
-	<td>
-	มกราคม	</td>
-	<td>
-		6,913<br />
-		2,767	</td>
-	<td>
-		36,028<br />
-		6,551	</td>
-	<td>
-		7,494<br />
-		2,992	</td>
-	<td>
-		13,082<br />
-		4,430	</td>
-	<td>
-		34<br />
-		11	</td>
-	<td>
-		24<br />
-		8	</td>
-	<td>
-		1,157<br />
-		268	</td>
-	<td bgcolor="#FFFFFF">
-		64,732<br />
-		17,027	</td>
-</tr>
+
+<script type="text/javascript">
+    var startWithWebcam = {enabed: false, obj: $('#player2')},
+        isMax = {
+            'now': $('#NowPlaying'),
+            'next': '',
+            'prev': '',
+            'dj': ''
+        },
+        reloadInterval = 0,
+        recent_text = '', inAjax = false,
+        recent_id = 0;
+</script>
+
+<script type="text/javascript" src="http://atimemedia.com/js/2016/flowplayer_api.js"></script>
+<script type="text/javascript">
+    /*function scrlsts() {
+        scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
+        document.title = scrl;
+        setTimeout("scrlsts()", 800);
+    }*/
+
+    if (main_page == 1)  {
+        player(station);
+    }
+
+    var cookie_aclub = Cookies.get('aclub');
+    $('#sreq')
+        .bind('click', function(e) {
+            e.preventDefault();
+
+            if(cookie_aclub === undefined) {
+                atimeauth.login('#aol_auth', function(token, d, e, f, g) {
+                    // console.log('callback ', token, d, e, f, g);
+                    UIkit.offcanvas.hide(true);
+                    if(cookie_aclub != undefined) songRequest();
+                });
+            } else {
+                songRequest();
+            }
+        });
+</script>
+	<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-32615910-1', 'auto');
+		ga('send', 'pageview');
 	
-</table>
-</body>
-</html>		</div>
-	</td>
-</tr>
-</table><br />			</td>
-		</tr>
-		</table>
-		<!-- End Content -->
-	</div>
-	<!-- End Wrapper -->
-	<hr width="1024">
-	<div id="wrapper_footer">
-		<table width="1024" border="0" align="center" style="margin: 0;" cellpadding="0" cellspacing="0">
-		<tr>
-			<td width="50%" align="right">
-				<img src="images/footer.gif" width="120" height="90">
-			</td>
-			<td width="50%" align="left" style="color: #2e2e2e;">
-				All Statistics of Domain .th<br>
-				Powered by ALL.IN.TH Team<br>
-				@2009 Update: 04/04/2555
-			</td>
-		</tr>
-		</table>
-	</div>
-</div>
-</body>
-<!-- change v2.1.5 -->
-<!-- google analytics -->
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-	var pageTracker = _gat._getTracker("UA-9610320-1");
-	pageTracker._trackPageview();
-} catch(err) {}
-</script>
-<!-- end change -->
+	</script>
 </html>
 
+http://adex.shinbroadband.com/ 127.0.0.1 20170101054749 text/html 20695
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:48 GMT
+Server: nginx/1.10.2
+Content-Type: text/html; charset=utf-8 Last-modified: null
+Content-length: 20540
+
+<html>
+<head><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYFUFVWGwcDUVBWDwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<script type="text/javascript">
+    !function(e,t){typeof module!="undefined"&&module.exports?module.exports=t():typeof define=="function"&&define.amd?define(t):this[e]=t()}("bowser",function(){function t(t){function n(e){var n=t.match(e);return n&&n.length>1&&n[1]||""}function r(e){var n=t.match(e);return n&&n.length>1&&n[2]||""}var i=n(/(ipod|iphone|ipad)/i).toLowerCase(),s=/like android/i.test(t),o=!s&&/android/i.test(t),u=/CrOS/.test(t),a=n(/edge\/(\d+(\.\d+)?)/i),f=n(/version\/(\d+(\.\d+)?)/i),l=/tablet/i.test(t),c=!l&&/[^-]mobi/i.test(t),h;/opera|opr/i.test(t)?h={name:"Opera",opera:e,version:f||n(/(?:opera|opr)[\s\/](\d+(\.\d+)?)/i)}:/yabrowser/i.test(t)?h={name:"Yandex Browser",yandexbrowser:e,version:f||n(/(?:yabrowser)[\s\/](\d+(\.\d+)?)/i)}:/windows phone/i.test(t)?(h={name:"Windows Phone",windowsphone:e},a?(h.msedge=e,h.version=a):(h.msie=e,h.version=n(/iemobile\/(\d+(\.\d+)?)/i))):/msie|trident/i.test(t)?h={name:"Internet Explorer",msie:e,version:n(/(?:msie |rv:)(\d+(\.\d+)?)/i)}:u?h={name:"Chrome",chromeBook:e,chrome:e,version:n(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}:/chrome.+? edge/i.test(t)?h={name:"Microsoft Edge",msedge:e,version:a}:/chrome|crios|crmo/i.test(t)?h={name:"Chrome",chrome:e,version:n(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}:i?(h={name:i=="iphone"?"iPhone":i=="ipad"?"iPad":"iPod"},f&&(h.version=f)):/sailfish/i.test(t)?h={name:"Sailfish",sailfish:e,version:n(/sailfish\s?browser\/(\d+(\.\d+)?)/i)}:/seamonkey\//i.test(t)?h={name:"SeaMonkey",seamonkey:e,version:n(/seamonkey\/(\d+(\.\d+)?)/i)}:/firefox|iceweasel/i.test(t)?(h={name:"Firefox",firefox:e,version:n(/(?:firefox|iceweasel)[ \/](\d+(\.\d+)?)/i)},/\((mobile|tablet);[^\)]*rv:[\d\.]+\)/i.test(t)&&(h.firefoxos=e)):/silk/i.test(t)?h={name:"Amazon Silk",silk:e,version:n(/silk\/(\d+(\.\d+)?)/i)}:o?h={name:"Android",version:f}:/phantom/i.test(t)?h={name:"PhantomJS",phantom:e,version:n(/phantomjs\/(\d+(\.\d+)?)/i)}:/blackberry|\bbb\d+/i.test(t)||/rim\stablet/i.test(t)?h={name:"BlackBerry",blackberry:e,version:f||n(/blackberry[\d]+\/(\d+(\.\d+)?)/i)}:/(web|hpw)os/i.test(t)?(h={name:"WebOS",webos:e,version:f||n(/w(?:eb)?osbrowser\/(\d+(\.\d+)?)/i)},/touchpad\//i.test(t)&&(h.touchpad=e)):/bada/i.test(t)?h={name:"Bada",bada:e,version:n(/dolfin\/(\d+(\.\d+)?)/i)}:/tizen/i.test(t)?h={name:"Tizen",tizen:e,version:n(/(?:tizen\s?)?browser\/(\d+(\.\d+)?)/i)||f}:/safari/i.test(t)?h={name:"Safari",safari:e,version:f}:h={name:n(/^(.*)\/(.*) /),version:r(/^(.*)\/(.*) /)},!h.msedge&&/(apple)?webkit/i.test(t)?(h.name=h.name||"Webkit",h.webkit=e,!h.version&&f&&(h.version=f)):!h.opera&&/gecko\//i.test(t)&&(h.name=h.name||"Gecko",h.gecko=e,h.version=h.version||n(/gecko\/(\d+(\.\d+)?)/i)),!h.msedge&&(o||h.silk)?h.android=e:i&&(h[i]=e,h.ios=e);var p="";h.windowsphone?p=n(/windows phone (?:os)?\s?(\d+(\.\d+)*)/i):i?(p=n(/os (\d+([_\s]\d+)*) like mac os x/i),p=p.replace(/[_\s]/g,".")):o?p=n(/android[ \/-](\d+(\.\d+)*)/i):h.webos?p=n(/(?:web|hpw)os\/(\d+(\.\d+)*)/i):h.blackberry?p=n(/rim\stablet\sos\s(\d+(\.\d+)*)/i):h.bada?p=n(/bada\/(\d+(\.\d+)*)/i):h.tizen&&(p=n(/tizen[\/\s](\d+(\.\d+)*)/i)),p&&(h.osversion=p);var d=p.split(".")[0];if(l||i=="ipad"||o&&(d==3||d==4&&!c)||h.silk)h.tablet=e;else if(c||i=="iphone"||i=="ipod"||o||h.blackberry||h.webos||h.bada)h.mobile=e;return h.msedge||h.msie&&h.version>=10||h.yandexbrowser&&h.version>=15||h.chrome&&h.version>=20||h.firefox&&h.version>=20||h.safari&&h.version>=6||h.opera&&h.version>=10||h.ios&&h.osversion&&h.osversion.split(".")[0]>=6||h.blackberry&&h.version>=10.1?h.a=e:h.msie&&h.version<10||h.chrome&&h.version<20||h.firefox&&h.version<20||h.safari&&h.version<6||h.opera&&h.version<10||h.ios&&h.osversion&&h.osversion.split(".")[0]<6?h.c=e:h.x=e,h}var e=!0,n=t(typeof navigator!="undefined"?navigator.userAgent:"");return n.test=function(e){for(var t=0;t<e.length;++t){var r=e[t];if(typeof r=="string"&&r in n)return!0}return!1},n._detect=t,n})
+
+    var bl = '0';
+    function load() {
+        var url = "http://shinbroadband.com/process/route/2916790941.html";
+        if (bowser.msie || bowser.msedge) {
+            try {
+                window.open(url + "?refresh=ie&bl=" + bl, "_top", "");
+            }catch(err) {
+                window.location.href=url + "?refresh=ie&bl=" + bl;
+            }
+        } else {
+            location = 'data:text/html,<html><meta http-equiv="refresh" content="0; url='+url+'?refresh=non-ie&bl='+bl+'"></html>';
+        }
+    }
+    function getStyle(el,styleProp) {
+        try {
+            var x = document.getElementById(el);
+            if (x == undefined || x == null) {
+                return 'none';
+            }
+            var y = false;
+            if (x.currentStyle) {
+                y = x.currentStyle[styleProp];
+            } else if (window.getComputedStyle) {
+                y = document.defaultView.getComputedStyle(x, null).getPropertyValue(styleProp);
+            }
+            return y;
+        } catch(err) {
+            return 'none';
+        }
+    }
+    function checkad() {
+        var s = getStyle('adBox', 'display');
+        if (s=='none' || s=="None") {
+            bl = '1';
+        }
+        load();
+    }
+    setTimeout(function () {
+        checkad();
+    }, 500);
+</script>
+<noscript><meta http-equiv="refresh" content="1; url=http://shinbroadband.com/process/route/2916790941.html?refresh=noscript"></noscript>
+<meta http-equiv="refresh" content="2; url=http://shinbroadband.com/process/route/2916790941.html?refresh=meta">
+</head><body><span id="adBox"></span><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"0d385ba8a0","agent":"","transactionName":"NlVXNhBWW0IEAEENXQ8fcxcMVEFYCg0aEEAAVlMLAVpaRQoRGwVCEUMbFAtEXEU6EVoRRgRCGxQLUkJCXwpbEFMKVQ==","applicationID":"4351484","errorBeacon":"bam.nr-data.net","applicationTime":8}</script></body></html>
+http://area-family.com/ 127.0.0.1 20170101054751 text/html 1691
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 05:47:49 GMT
+Server: DOSarrest
+Content-Type: text/html Last-modified: null
+Content-length: -1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script type="text/javascript">
+function getCookie(c_name) { // Local function for getting a cookie value
+    if (document.cookie.length > 0) {
+        c_start = document.cookie.indexOf(c_name + "=");
+        if (c_start!=-1) {
+        c_start=c_start + c_name.length + 1;
+        c_end=document.cookie.indexOf(";", c_start);
+
+        if (c_end==-1) 
+            c_end = document.cookie.length;
+
+        return unescape(document.cookie.substring(c_start,c_end));
+        }
+    }
+    return "";
+}
+function setCookie(c_name, value, expiredays) { // Local function for setting a value of a cookie
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate()+expiredays);
+    document.cookie = c_name + "=" + escape(value) + ((expiredays==null) ? "" : ";expires=" + exdate.toGMTString()) + ";path=/";
+}
+function getHostUri() {
+    var loc = document.location;
+    return loc.toString();
+}
+setCookie('YPF8827340282Jdskjhfiw_928937459182JAX666', '158.108.32.60', 10);
+try {  
+    location.reload(true);  
+} catch (err1) {  
+    try {  
+        location.reload();  
+    } catch (err2) {  
+    	location.href = getHostUri();  
+    }  
+}
+</script>
+</head>
+<body>
+<noscript>This site requires JavaScript and Cookies to be enabled. Please change your browser settings or upgrade your browser.</noscript>
+</body>
+</html>
