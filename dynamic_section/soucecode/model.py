@@ -20,13 +20,55 @@ def read_static(id_date):
     for key, value in dict_static.iteritems():
         print value
 
-def cal_two_id_date(before_id_date, id_date):
-    path_static_before =  '{0}/{1}/class/id_vector_with_URL_{2}.txt'.format(path_dir, before_id_date, before_id_date)
-    path_static =  '{0}/{1}/class/id_vector_with_URL_{2}.txt'.format(path_dir, id_date, id_date)
-    dict_static_before = eval(open(path_static_before).read())
-    dict_static = eval(open(path_static).read())
-    for key, value in dict_static.iteritems():
-        print value
+def cal_two_id_date(id_date, next_id_date):
+    id_date = id_date[0:-4]
+    next_id_date = next_id_date[0:-4]
+    split_id_1 = id_date.split("_")
+    split_id_2 = next_id_date.split("_")
+    path_static_next =  '{0}/{1}/class/id_vector_with_URL_{2}.txt'.format(path_dir, next_id_date, next_id_date)
+    dict_static_next = eval(open(path_static_next).read())
+    if (split_id_1[0] != 0):
+        path_static =  '{0}/{1}/class/id_vector_with_URL_{2}.txt'.format(path_dir, id_date, id_date)
+        dict_static = eval(open(path_static).read())
+
+    #for key, value in dict_static_next.iteritems():
+    #    print value
+    print split_id_1[0]
+
+    if (split_id_1 != 0):
+        pathe_interval_vector_before = "{0}/vector_interval/id_vector_with_URL_{1}_{2}.txt".format(path_dir, int(split_id_1[0])-1, int(split_id_2[0])-1)
+        interval_vector_before = eval(open(pathe_interval_vector_before).read())
+    with open("{0}/vector_interval/id_vector_with_URL_{1}_{2}.txt".format(path_dir, split_id_1[0], split_id_2[0]) , 'w') as out:
+        out.write("{")
+        for k,v in dict_static_next.items():
+            out.write("\"")
+            out.write(str(k))
+            out.write("\"")
+            out.write(":")
+            #a = [int(dict_static_next[k][12]) - int(dict_static[k][12])]
+
+            if (int(split_id_1[0]) == 0):
+                a = 0
+                b = 1
+
+            if (int(split_id_1[0]) != 0):
+                a = interval_vector_before[k][19]
+                b = interval_vector_before[k][20]
+                if (v == dict_static[k]):
+                    a = a+1
+                else:
+                    b = b+1
+
+            if (int(split_id_2[0]) == 1):
+                list_a = [dict_static_next[k][0],dict_static_next[k][1],dict_static_next[k][2],dict_static_next[k][3],dict_static_next[k][4],dict_static_next[k][5],dict_static_next[k][6],dict_static_next[k][7],dict_static_next[k][8],dict_static_next[k][9],dict_static_next[k][10],dict_static_next[k][11],dict_static_next[k][12],dict_static_next[k][12],dict_static_next[k][3] ,dict_static_next[k][4],dict_static_next[k][5] ,int(b)/(int(a)+int(b)), dict_static_next[k][10], a, b]
+            else:
+                list_a = [dict_static_next[k][0],dict_static_next[k][1],dict_static_next[k][2],dict_static_next[k][3],dict_static_next[k][4],dict_static_next[k][5],dict_static_next[k][6],dict_static_next[k][7],dict_static_next[k][8],dict_static_next[k][9],dict_static_next[k][10],dict_static_next[k][11],dict_static_next[k][12],int(dict_static_next[k][12]) - int(dict_static[k][12]),int(dict_static_next[k][3]) - int(dict_static[k][3]),int(dict_static_next[k][4]) - int(dict_static[k][4]),int(dict_static_next[k][5]) - int(dict_static[k][5]), int(b)/(int(a)+int(b)) ,int(dict_static_next[k][10]) - int(dict_static[k][10]), a, b ]
+            out.write(str(list_a))
+            out.write(",")
+            out.write('\n')
+        out.write("}")
+
+
 
 #########################################################################################
 for x in range(0, number_of_round):
@@ -34,12 +76,13 @@ for x in range(0, number_of_round):
     #read_static(id_date)
 
     process = os.popen("python find_next_id.py %s"%id_date)
-    next_id_date = id_date
+    before_id_date = id_date
     id_date = process.read().strip()
     process.close()
 
-    print next_id_date
+    print before_id_date
     print id_date
+    cal_two_id_date(before_id_date, id_date)
 
     if (id_date == str(0)):
         break

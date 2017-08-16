@@ -11,7 +11,7 @@
 
 
 #addition#
-[b_nb_of_change_per_cycle] [a_nb_of_not_change_per_cycle] [Dp,i]
+[b_nb_of_change_per_cycle] [a_nb_of_not_change_per_cycle] [Dp,i]                                                           19 20 21
 
 #calculate#
 
