@@ -122,6 +122,7 @@ for line in lineList:
 ############################################################################################
 
 print (str(my_dict))
+"""
 with open(output_path , 'w') as out:
     out.write("{")
     for k,v in my_dict.items():
@@ -133,3 +134,4 @@ with open(output_path , 'w') as out:
         out.write(",")
         out.write('\n')
     out.write("}")
+"""

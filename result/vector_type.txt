@@ -1,0 +1,6 @@
+['word_in_title']  ['content_type']  ['content_length'] ['Number_of_word'] ['Number_of_picture'] ['Number_of_table'] ['Number_of_slash_in_URL_path'] ['binary_vector'] ['URL_Length']['Number_of_word_in_URL'] ['Number_of_outgoing'] ['Numer_of_webpage_in_the_same_site'] [number_of_line]
+
+
+
+
+static, dynamic, lamda pi, a, b, r pi ,count, k

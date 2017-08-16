@@ -46,7 +46,7 @@ for k, v in total_dict.iteritems():
     print total_dict[k]['Number_of_outgoing']
     print total_dict[k]['Numer_of_webpage_in_the_same_site']
     '''
-    print  count,':',[ total_dict[k]['word_in_title'],total_dict[k]['content_type'], total_dict[k]['content_length'] ,total_dict[k]['Number_of_word'],total_dict[k]['Number_of_picture'],total_dict[k]['Number_of_table'],total_dict[k]['Number_of_slash_in_URL_path'],total_dict[k]['binary_vector'],total_dict[k]['URL_Length'],total_dict[k]['Number_of_word_in_URL'],total_dict[k]['Number_of_outgoing'],total_dict[k]['Numer_of_webpage_in_the_same_site'],count,k],","
+    print  count,':',[ total_dict[k]['word_in_title'],total_dict[k]['content_type'], total_dict[k]['content_length'] ,total_dict[k]['Number_of_word'],total_dict[k]['Number_of_picture'],total_dict[k]['Number_of_table'],total_dict[k]['Number_of_slash_in_URL_path'],total_dict[k]['binary_vector'],total_dict[k]['URL_Length'],total_dict[k]['Number_of_word_in_URL'],total_dict[k]['Number_of_outgoing'],total_dict[k]['Numer_of_webpage_in_the_same_site'],total_dict[k]['Number_of_line_in_content'],count,k],","
 
 
     count += 1
@@ -58,7 +58,7 @@ with open("{0}/class/id_vector_with_URL_{1}.txt".format(path_dir, arg) , 'w') as
     for k,v in total_dict.items():
         out.write(str(k))
         out.write(":")
-        a = [ total_dict[k]['word_in_title'],total_dict[k]['content_type'], total_dict[k]['content_length'] ,total_dict[k]['Number_of_word'],total_dict[k]['Number_of_picture'],total_dict[k]['Number_of_table'],total_dict[k]['Number_of_slash_in_URL_path'],total_dict[k]['binary_vector'],total_dict[k]['URL_Length'],total_dict[k]['Number_of_word_in_URL'],total_dict[k]['Number_of_outgoing'],total_dict[k]['Numer_of_webpage_in_the_same_site']]
+        a = [ total_dict[k]['word_in_title'],total_dict[k]['content_type'], total_dict[k]['content_length'] ,total_dict[k]['Number_of_word'],total_dict[k]['Number_of_picture'],total_dict[k]['Number_of_table'],total_dict[k]['Number_of_slash_in_URL_path'],total_dict[k]['binary_vector'],total_dict[k]['URL_Length'],total_dict[k]['Number_of_word_in_URL'],total_dict[k]['Number_of_outgoing'],total_dict[k]['Numer_of_webpage_in_the_same_site'],total_dict[k]['Number_of_line_in_content']]
         out.write(str(a))
         out.write(",")
         out.write('\n')
