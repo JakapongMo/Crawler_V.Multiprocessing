@@ -31,8 +31,8 @@ def Find_Dpi(dict_static, dict_static_next ,interval_vector_before, k, a, b):
             same = same + 1
     if (interval_vector_before[k][17] == (float(b)/(a+b))):
         same = same + 1
+    #return (float(1) - ((2*same)/12))
     return (float(1) - (float(2*same)/12))
-
 def cal_two_id_date(id_date, next_id_date):
     id_date = id_date[0:-4]
     next_id_date = next_id_date[0:-4]
@@ -51,42 +51,44 @@ def cal_two_id_date(id_date, next_id_date):
     if (split_id_1 != 0):
         pathe_interval_vector_before = "{0}/vector_interval/id_vector_with_URL_{1}_{2}.txt".format(path_dir, int(split_id_1[0])-1, int(split_id_2[0])-1)
         interval_vector_before = eval(open(pathe_interval_vector_before).read())
-    with open("{0}/vector_interval/id_vector_with_URL_{1}_{2}.txt".format(path_dir, split_id_1[0], split_id_2[0]) , 'w') as out:
-        out.write("{")
+    #with open("{0}/vector_interval/id_vector_with_URL_{1}_{2}.txt".format(path_dir, split_id_1[0], split_id_2[0]) , 'w') as out:
+    #    out.write("{")
         for k,v in dict_static_next.items():
-            out.write("\"")
-            out.write(str(k))
-            out.write("\"")
-            out.write(":")
+    #        out.write("\"")
+    #        out.write(str(k))
+    #        out.write("\"")
+    #        out.write(":")
             #a = [int(dict_static_next[k][12]) - int(dict_static[k][12])]
 
             #### if id befor == id 0
             if (int(split_id_1[0]) == 0):
                 a = 0
                 b = 1
-                Dpi = 1.0
+                Dpi = 1
 
             #### id id before != 0
             if (int(split_id_1[0]) != 0):
                 a = interval_vector_before[k][19]
                 b = interval_vector_before[k][20]
                 Dpi = Find_Dpi(dict_static, dict_static_next ,interval_vector_before, k, a, b)
-
                 if (v == dict_static[k]):
                     a = a+1
                 else:
                     b = b+1
 
+
+            print Dpi
+            '''
             ####if id ==1 (id before == 0)
             if (int(split_id_2[0]) == 1):
-                list_a = [dict_static_next[k][0],dict_static_next[k][1],dict_static_next[k][2],dict_static_next[k][3],dict_static_next[k][4],dict_static_next[k][5],dict_static_next[k][6],dict_static_next[k][7],dict_static_next[k][8],dict_static_next[k][9],dict_static_next[k][10],dict_static_next[k][11],dict_static_next[k][12],dict_static_next[k][12],dict_static_next[k][3] ,dict_static_next[k][4],dict_static_next[k][5] ,float(b)/(float(a)+float(b)), dict_static_next[k][10], a, b, Dpi]
+                list_a = [dict_static_next[k][0],dict_static_next[k][1],dict_static_next[k][2],dict_static_next[k][3],dict_static_next[k][4],dict_static_next[k][5],dict_static_next[k][6],dict_static_next[k][7],dict_static_next[k][8],dict_static_next[k][9],dict_static_next[k][10],dict_static_next[k][11],dict_static_next[k][12],dict_static_next[k][12],dict_static_next[k][3] ,dict_static_next[k][4],dict_static_next[k][5] ,int(b)/(int(a)+int(b)), dict_static_next[k][10], a, b]
             else:
-                list_a = [dict_static_next[k][0],dict_static_next[k][1],dict_static_next[k][2],dict_static_next[k][3],dict_static_next[k][4],dict_static_next[k][5],dict_static_next[k][6],dict_static_next[k][7],dict_static_next[k][8],dict_static_next[k][9],dict_static_next[k][10],dict_static_next[k][11],dict_static_next[k][12],int(dict_static_next[k][12]) - int(dict_static[k][12]),int(dict_static_next[k][3]) - int(dict_static[k][3]),int(dict_static_next[k][4]) - int(dict_static[k][4]),int(dict_static_next[k][5]) - int(dict_static[k][5]), float(b)/(float(a)+float(b)) ,int(dict_static_next[k][10]) - int(dict_static[k][10]), a, b ,Dpi]
+                list_a = [dict_static_next[k][0],dict_static_next[k][1],dict_static_next[k][2],dict_static_next[k][3],dict_static_next[k][4],dict_static_next[k][5],dict_static_next[k][6],dict_static_next[k][7],dict_static_next[k][8],dict_static_next[k][9],dict_static_next[k][10],dict_static_next[k][11],dict_static_next[k][12],int(dict_static_next[k][12]) - int(dict_static[k][12]),int(dict_static_next[k][3]) - int(dict_static[k][3]),int(dict_static_next[k][4]) - int(dict_static[k][4]),int(dict_static_next[k][5]) - int(dict_static[k][5]), int(b)/(int(a)+int(b)) ,int(dict_static_next[k][10]) - int(dict_static[k][10]), a, b ]
             out.write(str(list_a))
             out.write(",")
             out.write('\n')
         out.write("}")
-
+            '''
 
 
 ######################################################################################### MAIN ###############################################################

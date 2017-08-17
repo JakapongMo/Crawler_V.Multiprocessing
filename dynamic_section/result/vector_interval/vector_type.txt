@@ -1,0 +1,19 @@
+#static#
+
+['word_in_title']  ['content_type']  ['content_length'] ['Number_of_word'] ['Number_of_picture']                         0 1 2 3 4
+['Number_of_table'] ['Number_of_slash_in_URL_path'] ['binary_vector'] ['URL_Length']['Number_of_word_in_URL']            5 6 7 8 9
+['Number_of_outgoing'] ['Numer_of_webpage_in_the_same_site'] [number_of_line]                                            10 11 12 
+
+
+#dynamic#
+[dif_line] [dif_word] [dif picture] [dif table] [chage_rate(a/(a+b))] [dif_outgoing]                                      13 14 15 16 17 18
+12-12       3-3          4-4          5-5             b/a+b             10-10
+
+
+#addition#
+[b_nb_of_change_per_cycle] [a_nb_of_not_change_per_cycle] [Dp,i]                                                           19 20 21
+
+#calculate#
+
+
+static, dynamic, lamda pi, a, b, r pi ,count, k
